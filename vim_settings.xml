@@ -6,18 +6,44 @@
       <file name="/Dummy.txt" timestamp="1499677655542">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.database/src/main/java/com/foresee/ftcsp/common/database/redis/RedisClientImpl.java" timestamp="1499740921453">
+        <mark key="[" line="129" column="33" />
+        <mark key="]" line="129" column="33" />
+        <mark key="." line="129" column="33" />
+        <mark key="^" line="129" column="21" />
+      </file>
       <file name="/a.dummy" timestamp="1499160544295">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/rest/inner/ProcessControllerTest.java" timestamp="1499242850034">
         <mark key="[" line="49" column="74" />
       </file>
-      <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/java/com/foresee/ftcsp/gateway/service/impl/AuthServiceImpl.java" timestamp="1499739136585" />
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/java/com/foresee/ftcsp/gateway/service/impl/AuthServiceImpl.java" timestamp="1499741075385">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+      </file>
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/java/com/foresee/ftcsp/gateway/controller/GatewayController.java" timestamp="1499740271749" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/url/InnerURL.java" timestamp="1499058126353">
+        <mark key="[" line="110" column="54" />
+      </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/api/ProcessApi.java" timestamp="1498728847054">
         <mark key="[" line="87" column="4" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/url/InnerURL.java" timestamp="1499058126353">
-        <mark key="[" line="110" column="54" />
+      <file name="D:/foresee/base/gateway/com.foresee.ftcsp.gateway.service/src/main/java/com/foresee/ftcsp/gateway/service/impl/Notifier.java" timestamp="1499741207297">
+        <mark key="[" line="20" column="15" />
+      </file>
+      <file name="D:/foresee/base/gateway/com.foresee.ftcsp.gateway.service/src/main/java/com/foresee/ftcsp/gateway/service/impl/TokenNotifier.java" timestamp="1499741300992">
+        <mark key="[" line="24" column="45" />
+        <mark key="]" line="24" column="52" />
+        <mark key="^" line="24" column="52" />
+        <mark key="." line="24" column="52" />
+      </file>
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/redis/IRedisClient.java" timestamp="1499740879302">
+        <mark key="[" line="51" column="26" />
+        <mark key="]" line="51" column="26" />
+        <mark key="." line="51" column="26" />
+        <mark key="^" line="51" column="14" />
       </file>
     </filemarks>
     <jumps>
@@ -39,40 +65,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFRhc2tDb21tZW50PiBjb2xsZWN0ID0gY29tbWVudHMuc3RyZWFtKCkuc29ydGVkKENvbXBhcmF0b3IuY29tcGFyaW5nKFRhc2tDb21tZW50OjpnZXRDcmVhdGVEYXRlKSkKICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZWRpc0NsaWVudC5wdXQoa2V5LCAidXNlcklkIiwgdXNlcklkKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gd2ZjX3Rhc2sK</text>
+        <text encoding="base64">ICAgICAgICBwYXlsb2FkLmdldCgiIikK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gd2ZjX3Rhc2sK</text>
+      <register name="&quot;" type="4">
+        <text>String</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QERiVGFibGUK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">QGVjaG8gb2ZmCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEhhbmRsZXJNZXRob2RBcmd1bWVudFJlc29sdmVyPiBjdXN0b21SZXNvbHZlcnMgPQogICAgICAgICAgICAgICAgYWRhcHRlci5nZXRDdXN0b21Bcmd1bWVudFJlc29sdmVycygpOwoKICAgICAgICBjdXN0b21SZXNvbHZlcnMuYWRkKG5ldyBKc29uQXJndW1lbnRSZXNvbHZlcigpKTsKCiAgICAgICAgYXJndW1lbnRSZXNvbHZlcnMucmVtb3ZlQWxsKGN1c3RvbVJlc29sdmVycyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWRpc0NsaWVudC5nZXQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGFyZ3VtZW50UmVzb2x2ZXJzLnJlbW92ZUFsbChjdXN0b21SZXNvbHZlcnMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb3B5TWFwLnB1dEFsbCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBMaXN0PEhhbmRsZXJNZXRob2RBcmd1bWVudFJlc29sdmVyPiBjdXN0b21SZXNvbHZlcnMgPQogICAgICAgICAgICAgICAgYWRhcHRlci5nZXRDdXN0b21Bcmd1bWVudFJlc29sdmVycygpOwo=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByZWRpc0NsaWVudC5wdXQoa2V5LCAidXBkYXRlVGltZSIsIFN0cmluZy52YWx1ZU9mKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhcmd1bWVudFJlc29sdmVycwo=</text>
+        <text encoding="base64">ICAgICAgICByZWRpc0NsaWVudC5wdXQoa2V5LCAidXNlcklkIiwgdXNlcklkKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>ustomResolvers</text>
+        <text>String</text>
       </register>
     </registers>
     <search>
