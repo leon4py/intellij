@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/util/Jsons.java" timestamp="1499844579118">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.6.6/jackson-databind-2.6.6-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" timestamp="1499843630846" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/java/com/foresee/ftcsp/gateway/service/impl/TokenNotifier.java" timestamp="1499767901363">
         <mark key="[" line="121" column="102" />
         <mark key="]" line="121" column="110" />
@@ -27,6 +33,13 @@
         <mark key="." line="98" column="32" />
         <mark key="^" line="98" column="32" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.31/fastjson-1.2.31.jar!/META-INF/MANIFEST.MF" timestamp="1499842393905" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.common/src/main/java/com/foresee/ftcsp/workflow/config/JsonArgumentResolver.java" timestamp="1499844978286">
+        <mark key="[" line="102" column="63" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
+        <mark key="^" line="104" column="27" />
+      </file>
       <file name="D:/foresee/base/gateway/com.foresee.ftcsp.gateway.service/src/main/java/com/foresee/ftcsp/gateway/service/impl/TokenNotifier.java" timestamp="1499742210613">
         <mark key="[" line="24" column="3" />
         <mark key="]" line="34" column="7" />
@@ -34,10 +47,14 @@
         <mark key="." line="34" column="7" />
       </file>
       <file name="D:/foresee/jcdz/product/pom.xml" timestamp="1499841219180" />
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.15/fastjson-1.2.15-sources.jar!/com/alibaba/fastjson/TypeReference.java" timestamp="1499842091006" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/pom.xml" timestamp="1499831637883">
         <mark key="[" line="50" column="21" />
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1499843049487">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/java/com/foresee/ftcsp/gateway/constants/SymbolConstant.java" timestamp="1499831711176" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/java/com/foresee/ftcsp/gateway/util/Engines.java" timestamp="1499767693663">
@@ -52,11 +69,17 @@
         <mark key="." line="105" column="0" />
         <mark key="^" line="102" column="11" />
       </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/test/java/com/foresee/ftcsp/workflow/util/JsonsTest.java" timestamp="1499844899819">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+      </file>
       <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/java/com/foresee/ftcsp/gateway/controller/UserLogoutController.java" timestamp="1499835938275">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.6.6/jackson-databind-2.6.6-sources.jar!/com/fasterxml/jackson/databind/type/TypeFactory.java" timestamp="1499844581659" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/resources/sql/gateway_sql_ddl" timestamp="1499841093838" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.database/src/main/java/com/foresee/ftcsp/common/database/redis/RedisClientImpl.java" timestamp="1499755967136">
         <mark key="[" line="261" column="11" />
@@ -65,6 +88,7 @@
         <mark key="^" line="261" column="14" />
       </file>
       <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/java/com/foresee/ftcsp/gateway/controller/GatewayController.java" timestamp="1499821728790" />
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.31/fastjson-1.2.31-sources.jar!/com/alibaba/fastjson/JSON.java" timestamp="1499845022946" />
       <file name="/fragment.java" timestamp="1499761426810">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -93,34 +117,34 @@
         <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgcmVtb3ZlVG9rZW4oU3RyaW5nIHRva2VuKSB7CiAgICAgICAgU3RyaW5nIGtleSA9IFRPS0VOX1BSRUZJWCArIHRva2VuOwogICAgICAgIE1hcDxPYmplY3QsIE9iamVjdD4gcGF5bG9hZCA9IHJlZGlzQ2xpZW50LmdldE1hcChrZXkpOwogICAgICAgIFN0cmluZyB1aWQgPSBNYXBVdGlscy5nZXRTdHJpbmcocGF5bG9hZCwgInVzZXJJZCIsICIiKTsKICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNOb3RCbGFuayh1aWQpKSB7CiAgICAgICAgICAgIC8vILzmyN3WrsewtcS0+sLrCiAgICAgICAgICAgIHBheWxvYWQucHV0KCJ0b2tlbiIsIHRva2VuKTsKICAgICAgICAgICAgcmVkaXNDbGllbnQucnB1c2goVE9fUFVTSF9MSVNULCBKc29uVXRpbHMudG9Kc29uKHBheWxvYWQpKTsKICAgICAgICB9CiAgICAgICAgcmVkaXNDbGllbnQuZGVsZXRlKGtleSk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAganNvbk9iamVjdC5wYXJzZQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAganNvbk9iamVjdC5wYXJzZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvYmplY3RNYXBwZXIucmVhZFZhbHVlKGpzb25Ob2RlLCBuZXcgUmVmZXJlbmNlVHlwZSgpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb2JqZWN0TWFwcGVyLnJlYWRUcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSmF2YVR5cGUgamF2YVR5cGUgPSBnZXRDb2xsZWN0aW9uVHlwZShrbGFzcywgb3RoZXJDbGFzc2VzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZW1vdmVUb2tlbih0b2tlbik7CiAgICAgICAgcmVkaXNDbGllbnQuZGVsZXRlKGtleSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcga2V5ID0gVE9LRU5fUFJFRklYICsgdG9rZW47CiAgICAgICAgTWFwPE9iamVjdCwgT2JqZWN0PiBwYXlsb2FkID0gcmVkaXNDbGllbnQuZ2V0TWFwKGtleSk7CiAgICAgICAgU3RyaW5nIHVpZCA9IE1hcFV0aWxzLmdldFN0cmluZyhwYXlsb2FkLCAidXNlcklkIiwgIiIpOwogICAgICAgIGlmIChTdHJpbmdVdGlscy5pc05vdEJsYW5rKHVpZCkpIHsKICAgICAgICAgICAgLy8gvObI3daux7C1xLT6wusKICAgICAgICAgICAgcGF5bG9hZC5wdXQoInRva2VuIiwgdG9rZW4pOwogICAgICAgICAgICByZWRpc0NsaWVudC5ycHVzaChUT19QVVNIX0xJU1QsIEpzb25VdGlscy50b0pzb24ocGF5bG9hZCkpOwogICAgICAgIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICBhdXRoU2VydmljZS5yZW1vdmVUb2tlbigpOyAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0SGVhZC5nZXRVc2VySWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVHlwZVV0aWxzLmNhc3RUbwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
