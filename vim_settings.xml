@@ -3,17 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/pom.xml" timestamp="1499831637883">
-        <mark key="[" line="50" column="21" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1500274752569">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.rest/src/test/java/com/foresee/ftcsp/security/rest/UserResourceTest.java" timestamp="1500263852741" />
-      <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.service/src/main/java/com/foresee/ftcsp/security/service/impl/FtcspSecUserServiceImpl.java" timestamp="1500274316928" />
-      <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.rest/src/main/java/com/foresee/ftcsp/security/rest/outter/UserController.java" timestamp="1500274258633" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/RestRequestHead.java" timestamp="1499920878988">
         <mark key="[" line="56" column="30" />
       </file>
@@ -23,17 +12,11 @@
         <mark key="." line="137" column="49" />
         <mark key="^" line="137" column="49" />
       </file>
-      <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.rest/src/main/java/com/foresee/ftcsp/security/rest/ui/back/UserResource.java" timestamp="1500274790181">
+      <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.rest/src/main/java/com/foresee/ftcsp/security/rest/ui/back/UserResource.java" timestamp="1500277621937">
         <mark key="[" line="1157" column="4" />
         <mark key="]" line="1157" column="3" />
         <mark key="^" line="1157" column="3" />
         <mark key="." line="1157" column="3" />
-      </file>
-      <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/java/com/foresee/ftcsp/gateway/service/impl/AuthServiceImpl.java" timestamp="1499917047667">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
-        <mark key="^" line="102" column="11" />
       </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/TaskController.java" timestamp="1499910039430">
         <mark key="[" line="86" column="42" />
@@ -52,11 +35,6 @@
         <mark key="." line="50" column="69" />
         <mark key="^" line="50" column="69" />
       </file>
-      <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/java/com/foresee/ftcsp/gateway/controller/UserLogoutController.java" timestamp="1499835938275">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-      </file>
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/client/FtcspRestUtils.java" timestamp="1499928597246">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
@@ -70,6 +48,30 @@
         <mark key="^" line="109" column="32" />
       </file>
       <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.model/src/main/resources/com/foresee/ftcsp/security/manual/mapper/SecOutterAccountExtMapper.xml" timestamp="1500274750413" />
+      <file name="/UserResource.java" timestamp="1500262017838" />
+      <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.rest/src/main/java/com/foresee/ftcsp/security/rest/inner/UserResource.java" timestamp="1500261280273" />
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/pom.xml" timestamp="1499831637883">
+        <mark key="[" line="50" column="21" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1500274752569">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.rest/src/test/java/com/foresee/ftcsp/security/rest/UserResourceTest.java" timestamp="1500263852741" />
+      <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.service/src/main/java/com/foresee/ftcsp/security/service/impl/FtcspSecUserServiceImpl.java" timestamp="1500277643784" />
+      <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.rest/src/main/java/com/foresee/ftcsp/security/rest/outter/UserController.java" timestamp="1500274258633" />
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/java/com/foresee/ftcsp/gateway/service/impl/AuthServiceImpl.java" timestamp="1499917047667">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
+        <mark key="^" line="102" column="11" />
+      </file>
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/java/com/foresee/ftcsp/gateway/controller/UserLogoutController.java" timestamp="1499835938275">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+      </file>
       <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/java/com/foresee/ftcsp/gateway/controller/GatewayController.java" timestamp="1499932269408">
         <mark key="[" line="107" column="35" />
         <mark key="]" line="106" column="72" />
@@ -77,13 +79,12 @@
         <mark key="." line="106" column="72" />
       </file>
       <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.rest/src/test/java/com/foresee/ftcsp/security/test/base/BaseSecurityRestTest.java" timestamp="1500263810381" />
+      <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.model/src/main/resources/com/foresee/ftcsp/security/manual/mapper/SecInnerAccountExtMapper.xml" timestamp="1500277688168" />
       <file name="/fragment.java" timestamp="1499929044824">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/UserResource.java" timestamp="1500262017838" />
-      <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.rest/src/main/java/com/foresee/ftcsp/security/rest/inner/UserResource.java" timestamp="1500261280273" />
     </filemarks>
     <jumps>
       <jump line="15" column="0" filename="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/url/InnerURL.java" />
