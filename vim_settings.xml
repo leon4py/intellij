@@ -3,24 +3,35 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.service/src/main/java/com/foresee/ftcsp/security/druidfilter/PasswordDruidFilter.java" timestamp="1500287883052">
+        <mark key="[" line="104" column="76" />
+        <mark key="]" line="106" column="53" />
+        <mark key="^" line="106" column="53" />
+        <mark key="." line="106" column="53" />
+      </file>
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/RestRequestHead.java" timestamp="1499920878988">
         <mark key="[" line="56" column="30" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.25/druid-1.0.25-sources.jar!/com/alibaba/druid/filter/FilterManager.java" timestamp="1500285993367" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/client/FtcspInnerRestClient.java" timestamp="1499929907504">
         <mark key="[" line="138" column="51" />
         <mark key="]" line="137" column="49" />
         <mark key="." line="137" column="49" />
         <mark key="^" line="137" column="49" />
       </file>
-      <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.rest/src/main/java/com/foresee/ftcsp/security/rest/ui/back/UserResource.java" timestamp="1500277621937">
+      <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.rest/src/main/java/com/foresee/ftcsp/security/rest/ui/back/UserResource.java" timestamp="1500282302177">
         <mark key="[" line="1157" column="4" />
         <mark key="]" line="1157" column="3" />
         <mark key="^" line="1157" column="3" />
         <mark key="." line="1157" column="3" />
       </file>
+      <file name="/a.dummy" timestamp="1500284449671">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/TaskController.java" timestamp="1499910039430">
         <mark key="[" line="86" column="42" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.25/druid-1.0.25-sources.jar!/com/alibaba/druid/pool/DruidDataSource.java" timestamp="1500284789883" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/test/java/com/foresee/ftcsp/gateway/test/GetTokenTest.java" timestamp="1499925951103">
         <mark key="[" line="48" column="75" />
         <mark key="]" line="49" column="40" />
@@ -41,25 +52,28 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="48" column="24" />
       </file>
+      <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.rest/src/test/java/com/foresee/ftcsp/security/druidfilter/PasswordFilterTest.java" timestamp="1500285817956">
+        <mark key="[" line="32" column="52" />
+        <mark key="]" line="32" column="52" />
+        <mark key="^" line="32" column="51" />
+        <mark key="." line="32" column="52" />
+      </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.common/src/main/java/com/foresee/ftcsp/workflow/config/JsonArgumentResolver.java" timestamp="1499913034395">
         <mark key="[" line="108" column="44" />
         <mark key="]" line="109" column="32" />
         <mark key="." line="109" column="32" />
         <mark key="^" line="109" column="32" />
       </file>
-      <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.model/src/main/resources/com/foresee/ftcsp/security/manual/mapper/SecOutterAccountExtMapper.xml" timestamp="1500274750413" />
+      <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.model/src/main/resources/com/foresee/ftcsp/security/manual/mapper/SecOutterAccountExtMapper.xml" timestamp="1500285751465" />
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.25/druid-1.0.25-sources.jar!/com/alibaba/druid/wall/WallFilter.java" timestamp="1500284470615" />
       <file name="/UserResource.java" timestamp="1500262017838" />
       <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.rest/src/main/java/com/foresee/ftcsp/security/rest/inner/UserResource.java" timestamp="1500261280273" />
-      <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/pom.xml" timestamp="1499831637883">
-        <mark key="[" line="50" column="21" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1500274752569">
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.25/druid-1.0.25-sources.jar!/com/alibaba/druid/filter/FilterEventAdapter.java" timestamp="1500283365527" />
+      <file name="/Dummy.txt" timestamp="1500282699940">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.rest/src/test/java/com/foresee/ftcsp/security/rest/UserResourceTest.java" timestamp="1500263852741" />
-      <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.service/src/main/java/com/foresee/ftcsp/security/service/impl/FtcspSecUserServiceImpl.java" timestamp="1500277643784" />
+      <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.service/src/main/java/com/foresee/ftcsp/security/service/impl/FtcspSecUserServiceImpl.java" timestamp="1500282633194" />
       <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.rest/src/main/java/com/foresee/ftcsp/security/rest/outter/UserController.java" timestamp="1500274258633" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/java/com/foresee/ftcsp/gateway/service/impl/AuthServiceImpl.java" timestamp="1499917047667">
         <mark key="[" line="105" column="0" />
@@ -67,11 +81,13 @@
         <mark key="." line="105" column="0" />
         <mark key="^" line="102" column="11" />
       </file>
-      <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/java/com/foresee/ftcsp/gateway/controller/UserLogoutController.java" timestamp="1499835938275">
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/java/com/foresee/ftcsp/gateway/controller/UserLogoutController.java" timestamp="1500287415922">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1-sources.jar!/org/apache/commons/lang3/StringUtils.java" timestamp="1500284058027" />
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.25/druid-1.0.25-sources.jar!/com/alibaba/druid/pool/DruidAbstractDataSource.java" timestamp="1500285939295" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/java/com/foresee/ftcsp/gateway/controller/GatewayController.java" timestamp="1499932269408">
         <mark key="[" line="107" column="35" />
         <mark key="]" line="106" column="72" />
@@ -79,11 +95,17 @@
         <mark key="." line="106" column="72" />
       </file>
       <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.rest/src/test/java/com/foresee/ftcsp/security/test/base/BaseSecurityRestTest.java" timestamp="1500263810381" />
-      <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.model/src/main/resources/com/foresee/ftcsp/security/manual/mapper/SecInnerAccountExtMapper.xml" timestamp="1500277688168" />
-      <file name="/fragment.java" timestamp="1499929044824">
+      <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.model/src/main/resources/com/foresee/ftcsp/security/manual/mapper/SecInnerAccountExtMapper.xml" timestamp="1500282768539" />
+      <file name="/fragment.java" timestamp="1500287527243">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.service/src/main/java/com/foresee/ftcsp/security/druidfilter/PasswordFilter.java" timestamp="1500284448745">
+        <mark key="[" line="32" column="24" />
+        <mark key="]" line="33" column="3" />
+        <mark key="." line="33" column="3" />
+        <mark key="^" line="33" column="3" />
       </file>
     </filemarks>
     <jumps>
@@ -105,7 +127,7 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENvbGxlY3Rpb25zLnNpbmdsZXRvbk1hcCgidW5pZmllZFRva2VuIiwgIiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzaW5nbGVUaHJlYWQuZXhlY3V0ZSgoKSAtPiB7CiAgICAgICAgICAgIGhhbmRsVXBkYXRlKChTUUxVcGRhdGVTdGF0ZW1lbnQpc3RhdGVtZW50KTsKICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -114,31 +136,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBTdHJpbmc+IGRhdGEgPSBNYXBzLm5ld0hhc2hNYXBXaXRoRXhwZWN0ZWRTaXplKDEpOwo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGludCBzdGF0ZW1lbnRfZXhlY3V0ZVVwZGF0ZShGaWx0ZXJDaGFpbiBjaGFpbiwgU3RhdGVtZW50UHJveHkgc3RhdGVtZW50LCBTdHJpbmcgc3FsLCBTdHJpbmdbXSBjb2x1bW5OYW1lcykgdGhyb3dzIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgc2luZ2xlVGhyZWFkLmV4ZWN1dGUoKCkgLT4gewogICAgICAgICAgICBoYW5kbFVwZGF0ZSgoU1FMVXBkYXRlU3RhdGVtZW50KSBzdGF0ZW1lbnQpOwogICAgICAgIH0pOwogICAgICAgIHJldHVybiBzdXBlci5zdGF0ZW1lbnRfZXhlY3V0ZVVwZGF0ZShjaGFpbiwgc3RhdGVtZW50LCBzcWwsIGNvbHVtbk5hbWVzKTsKICAgIH0K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YS5wdQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBpbnQgcHJlcGFyZWRTdGF0ZW1lbnRfZXhlY3V0ZVVwZGF0ZShGaWx0ZXJDaGFpbiBjaGFpbiwgUHJlcGFyZWRTdGF0ZW1lbnRQcm94eSBzdGF0ZW1lbnQpCiAgICAgICAgICAgIHRocm93cyBTUUxFeGNlcHRpb24gewogICAgICAgIGlmICghKHN0YXRlbWVudCBpbnN0YW5jZW9mIFNRTFVwZGF0ZVN0YXRlbWVudCkpIHsKICAgICAgICAgICAgcmV0dXJuIHN1cGVyLnByZXBhcmVkU3RhdGVtZW50X2V4ZWN1dGVVcGRhdGUoY2hhaW4sIHN0YXRlbWVudCk7CiAgICAgICAgfQogICAgICAgIHNpbmdsZVRocmVhZC5leGVjdXRlKCgpIC0+IHsKICAgICAgICAgICAgaGFuZGxVcGRhdGUoKFNRTFVwZGF0ZVN0YXRlbWVudCkgc3RhdGVtZW50KTsKICAgICAgICB9KTsKICAgICAgICByZXR1cm4gc3VwZXIucHJlcGFyZWRTdGF0ZW1lbnRfZXhlY3V0ZVVwZGF0ZShjaGFpbiwgc3RhdGVtZW50KTsKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBGdGNzcFJlc3RVdGlscy5nZXRSZXF1ZXN0KCkuc2V0QXR0cmlidXRlKCJwYXNzQ29va2llIiwgdHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBqc29uOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyZWFtLm9mKGNvb2tpZXMpLm1hcChjb29raWUgLT4gY29va2llLmdldE5hbWUoKT1jb29raWUuZ2V0VmFsdWUoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29va2llc1swXS5nZXROYQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text />
       </register>
     </registers>
     <search>
