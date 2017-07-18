@@ -3,7 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.service/src/main/java/com/foresee/ftcsp/security/druidfilter/PasswordDruidFilter.java" timestamp="1500346460458" />
+      <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.service/src/main/java/com/foresee/ftcsp/security/druidfilter/PasswordDruidFilter.java" timestamp="1500348069279">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1-sources.jar!/org/apache/commons/lang3/BooleanUtils.java" timestamp="1500345949946" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/RestRequestHead.java" timestamp="1499920878988">
         <mark key="[" line="56" column="30" />
@@ -58,10 +62,11 @@
       <file name="$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.25/druid-1.0.25-sources.jar!/com/alibaba/druid/pool/DruidAbstractDataSource.java" timestamp="1500285939295" />
       <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.rest/src/test/java/com/foresee/ftcsp/security/test/base/BaseSecurityRestTest.java" timestamp="1500263810381" />
       <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.model/src/main/resources/com/foresee/ftcsp/security/manual/mapper/SecInnerAccountExtMapper.xml" timestamp="1500282768539" />
-      <file name="/fragment.java" timestamp="1500346155832">
+      <file name="/fragment.java" timestamp="1500348073960">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="58" />
+        <mark key="." line="0" column="58" />
+        <mark key="^" line="0" column="58" />
       </file>
       <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.service/src/main/java/com/foresee/ftcsp/security/druidfilter/PasswordFilter.java" timestamp="1500284448745">
         <mark key="[" line="32" column="24" />
@@ -92,34 +97,34 @@
         <text encoding="base64">ICAgICAgICBzaW5nbGVUaHJlYWQuZXhlY3V0ZSgoKSAtPiB7CiAgICAgICAgICAgIGhhbmRsVXBkYXRlKChTUUxVcGRhdGVTdGF0ZW1lbnQpc3RhdGVtZW50KTsKICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB2aXNpdG9yLmdldEMK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB2aXNpdG9yLmdldEMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY29sdW1uICE9IG51bGwpIHsK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzd29yZE9wdC5nZXQoKS4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFNRTFVwZGF0ZVNldEl0ZW0+IGl0ZW1zID0gc3RhdGVtZW50LmdldEl0ZW1zKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2aXNpdG9yLmdldENvbmRpdGlvbnMoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29sdW1uLmdldE5hbWUoKS5lCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBUYWJsZVN0YXQuQ29sdW1uIGNvbHVtbiA9IHZpc2l0b3IuZ2V0Q29sdW1uKCJ0X3NlY19pbm5lcl9hY2NvdW50IiwgInBhc3N3b3JkIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoInBhc3N3b3JkIi5lcXVhbHMoY29sdW1uTmFtZSkpIHsK</text>
+        <text encoding="base64">ICAgICAgICBUYWJsZVN0YXQuQ29sdW1uIHBhc3N3b3JkQ29sdW1uID0gcGFzc3dvcmRPcHQuZ2V0KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>ServiceTest</text>
