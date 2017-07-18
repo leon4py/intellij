@@ -42,7 +42,13 @@
       <file name="D:/lab/foresee/cloud-in-actin/eureka-client/src/main/java/com/didispace/web/EurakaServer.java" timestamp="1494346691193">
         <mark key="[" line="17" column="18" />
       </file>
-      <file name="$USER_HOME$/.m2/repository/org/springframework/cloud/spring-cloud-config-client/1.1.0.RELEASE/spring-cloud-config-client-1.1.0.RELEASE-sources.jar!/org/springframework/cloud/config/client/ConfigServicePropertySourceLocator.java" timestamp="1500393900030" />
+      <file name="$USER_HOME$/.m2/repository/org/springframework/cloud/spring-cloud-config-client/1.1.0.RELEASE/spring-cloud-config-client-1.1.0.RELEASE-sources.jar!/org/springframework/cloud/config/client/ConfigServicePropertySourceLocator.java" timestamp="1500394887409" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/resources/config/bootstrap.properties" timestamp="1500394567751">
+        <mark key="[" line="16" column="59" />
+        <mark key="]" line="16" column="59" />
+        <mark key="^" line="16" column="58" />
+        <mark key="." line="16" column="59" />
+      </file>
       <file name="D:/lab/cc.k1966/src/main/resources/antlr4/Hello.g4" timestamp="1492953160935">
         <mark key="[" line="0" column="0" />
       </file>
@@ -81,6 +87,7 @@
       <file name="D:/lab/DWF-SERVER/dwf-app-server/src/main/resources/stage/component.properties" timestamp="1478353960668">
         <mark key="[" line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/.m2/repository/org/springframework/cloud/spring-cloud-config-client/1.1.0.RELEASE/spring-cloud-config-client-1.1.0.RELEASE-sources.jar!/org/springframework/cloud/config/client/ConfigServiceBootstrapConfiguration.java" timestamp="1500394393115" />
       <file name="D:/lab/mpush/pom.xml" timestamp="1489219185916">
         <mark key="[" line="75" column="28" />
       </file>
@@ -117,6 +124,11 @@
       <file name="D:/foresee/jcdzsvn/engineering/src/java/jcdz/REPOSITORY/public/com.foresee.ftcsp.config/trunk/workflow-config-dev.properties" timestamp="1500369122254">
         <mark key="[" line="103" column="27" />
       </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/CustomConfigServiceBootstrapConfiguration.java" timestamp="1500394873346">
+        <mark key="[" line="30" column="55" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="/a.regexp" timestamp="1500389945863">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -152,10 +164,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXN0VGVtcGxhdGUuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>application</text>
+        <text>com.my.config.client.CustomConfigServiceBootstrapConfiguration</text>
       </register>
       <register name="/" type="4">
         <text>servet</text>
@@ -164,31 +176,31 @@
         <text encoding="base64">ICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNOb3RCbGFuayh1c2VySWQpKSByZXR1cm4gdXNlcklkOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXN0VGVtcGxhdGUuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSgiJHtvYS5tYW5hZ2VyLm5hbWVzfSIpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">KChBbm5vdGF0ZWRHZW5lcmljQmVhbkRlZmluaXRpb24pIGJkKS5nZXRCZWFuQ2xhc3MoKS5lcXVhbHMoVGFza0NvbnRyb2xsZXIuY2xhc3MpCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTmFtZWRQYXJhbWV0ZXJKZGJjVGVtcGxhdGUgamRiY1RlbXBsYXRlOwo=</text>
+        <text encoding="base64">ICAgIEBWYWx1ZSgiJHtvYS5tYW5hZ2VyLm5hbWVzfSIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">KChBbm5vdGF0ZWRHZW5lcmljQmVhbkRlZmluaXRpb24pIGJkKS5nZXRCZWFuQ2xhc3MoKS5lcXVhbHMoVGFza0NvbnRyb2xsZXIuY2xhc3MpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgTmFtZWRQYXJhbWV0ZXJKZGJjVGVtcGxhdGUgamRiY1RlbXBsYXRlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodXNlckxpc3QgPiAxIHx8IHVzZXJMaXN0ICkK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTmFtZWRQYXJhbWV0ZXJKZGJjVGVtcGxhdGUgamRiY1RlbXBsYXRlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBPYmplY3QgdmFsdWUgPSBwYXJhbWV0ZXJNYXAuZ2V0KGNvbHVtbik7Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
     </registers>
     <search>
