@@ -16,7 +16,7 @@
         <mark key="." line="587" column="32" />
         <mark key="^" line="587" column="32" />
       </file>
-      <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/resources/bootstrap.properties" timestamp="1500341385507" />
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/resources/bootstrap.properties" timestamp="1500457197904" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/common/AwsConfig.java" timestamp="1500430222673">
         <mark key="[" line="25" column="14" />
         <mark key="]" line="61" column="0" />
@@ -186,10 +186,10 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-config-client/1.1.0.RELEASE/spring-cloud-config-client-1.1.0.RELEASE-sources.jar!/META-INF/spring.factories" timestamp="1500372919718" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/1.1.0.RELEASE/spring-cloud-commons-1.1.0.RELEASE-sources.jar!/org/springframework/cloud/commons/util/SpringFactoryImportSelector.java" timestamp="1500431744755" />
       <file name="$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.25/druid-1.0.25-sources.jar!/com/alibaba/druid/sql/ast/SQLObject.java" timestamp="1500341548033" />
-      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/eureka/client/ServiceDiscoveryClient.java" timestamp="1500456733905">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/eureka/client/ServiceDiscoveryClient.java" timestamp="1500457551928">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/WorkflowPropertySourceLocator.java" timestamp="1500374084208">
         <mark key="[" line="23" column="3" />
@@ -226,38 +226,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNOb3RCbGFuayh1c2VySWQpKSByZXR1cm4gdXNlcklkOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICBzeW5jaHJvbml6ZWQgKHRoaXMpIHsKICAgICAgICAgICAgCiAgICAgICAgfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBIdHRwQ2xpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICBzeW5jaHJvbml6ZWQgKHRoaXMpIHsKICAgICAgICAgICAgCiAgICAgICAgfQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBIdHRwQ2xpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmZXRjaAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICBzeW5jaHJvbml6ZWQgKHRoaXMpIHsKICAgICAgICAgICAgCiAgICAgICAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmZXRjaAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">U3RyaW5nIHN0ciA9ICKxuyhtYWdnaWUpyKHP+6Os1K3S8qO6PGZvbnQgY29sb3I9cmVkPnJvbGxiYWNrIHJlYXNvbjwvZm9udD4iOwogICAgICAgIFN0cmluZ1tdIHNwbGl0ID0gc3RyLnNwbGl0KCIoPzw9XFw+KSguKikoPz1cXDwpIik7CiAgICAgICAgUGF0dGVybiBjb21waWxlID0gUGF0dGVybi5jb21waWxlKCIoPzw9XFw+KSguKikoPz1cXDwpIik7CiAgICAgICAgTWF0Y2hlciBtYXRjaGVyID0gY29tcGlsZS5tYXRjaGVyKHN0cik7CgogICAgICAgIFBhdHRlcm4gcCA9IFBhdHRlcm4uY29tcGlsZSgiLio+KC4qKTwvLisiKTsKICAgICAgICBNYXRjaGVyIG0gPSBwLm1hdGNoZXIoc3RyKTsKICAgICAgICBpZiAobS5tYXRjaGVzKCkpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG0uZ3JvdXAoMSkpOwogICAgICAgIH0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTs=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ci5nZXREYXRhKCkuZ2V0SWQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBPcGVuQXBpQ2xpZW50IGNsaWVudCA9IG5ldyBPcGVuQXBpQ2xpZW50KGFwaVNlcnZlciwgYWNjZXNzS2V5LCBzZWNyZXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>property</text>
       </register>
     </registers>
     <search>
