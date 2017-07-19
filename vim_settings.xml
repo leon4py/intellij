@@ -4,14 +4,38 @@
     <globalmarks />
     <filemarks>
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/1.1.0.RELEASE/spring-cloud-netflix-eureka-client-1.1.0.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/config/EurekaClientConfigServerAutoConfiguration.java" timestamp="1500431562220" />
+      <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.rest/src/main/java/com/foresee/ftcsp/security/rest/ui/back/UserResource.java" timestamp="1500282302177">
+        <mark key="[" line="1157" column="4" />
+        <mark key="]" line="1157" column="3" />
+        <mark key="^" line="1157" column="3" />
+        <mark key="." line="1157" column="3" />
+      </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/TaskController.java" timestamp="1500428909867" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/resources/bootstrap.properties" timestamp="1500341385507" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/common/AwsConfig.java" timestamp="1500430222673">
+        <mark key="[" line="25" column="14" />
+        <mark key="]" line="61" column="0" />
+        <mark key="^" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+      </file>
       <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.rest/src/main/java/com/foresee/ftcsp/security/rest/outter/DepartmentOutterResource.java" timestamp="1500261205357" />
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.core/0.0.1/com.foresee.ftcsp.public.core-0.0.1-sources.jar!/com/foresee/ftcsp/common/core/test/BaseRestTest.java" timestamp="1500263816103" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-config-client/1.1.0.RELEASE/spring-cloud-config-client-1.1.0.RELEASE-sources.jar!/org/springframework/cloud/config/client/ConfigServiceBootstrapConfiguration.java" timestamp="1500373749949" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/resources/META-INF/spring.factories" timestamp="1500373166842" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.4.RELEASE/spring-context-4.3.4.RELEASE-sources.jar!/org/springframework/cache/annotation/EnableCaching.java" timestamp="1500432108860" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/resources/META-INF/spring.factories" timestamp="1500427668346">
+        <mark key="[" line="0" column="50" />
+        <mark key="]" line="0" column="49" />
+        <mark key="." line="0" column="49" />
+        <mark key="^" line="0" column="49" />
+      </file>
       <file name="D:/foresee/base/system/com.foresee.ftcsp.system.service/src/main/java/com/foresee/ftcsp/system/service/impl/SysPicCaptchaServiceImp.java" timestamp="1500433211315" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/PropertySourceModifier.java" timestamp="1500374235337">
+        <mark key="[" line="38" column="14" />
+        <mark key="]" line="38" column="13" />
+        <mark key="^" line="38" column="13" />
+        <mark key="." line="38" column="13" />
+      </file>
       <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.model/src/main/resources/com/foresee/ftcsp/security/manual/mapper/SecOutterAccountExtMapper.xml" timestamp="1500364587424" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/1.1.0.RELEASE/spring-cloud-netflix-eureka-client-1.1.0.RELEASE-sources.jar!/META-INF/spring.factories" timestamp="1500431520121" />
       <file name="$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.25/druid-1.0.25-sources.jar!/com/alibaba/druid/wall/WallFilter.java" timestamp="1500284470615" />
@@ -28,20 +52,47 @@
       <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.rest/src/main/java/com/foresee/ftcsp/security/rest/inner/UserResource.java" timestamp="1500261280273" />
       <file name="$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.25/druid-1.0.25-sources.jar!/com/alibaba/druid/filter/FilterEventAdapter.java" timestamp="1500365386173" />
       <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.rest/src/test/java/com/foresee/ftcsp/security/rest/UserResourceTest.java" timestamp="1500263852741" />
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/awsrepo/BPMNService.java" timestamp="1500431218589">
-        <mark key="[" line="40" column="8" />
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/java/com/foresee/ftcsp/gateway/service/impl/AuthServiceImpl.java" timestamp="1500365144131">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
+        <mark key="^" line="102" column="11" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.4.2.RELEASE/spring-boot-1.4.2.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java" timestamp="1500372454066" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.4.RELEASE/spring-beans-4.3.4.RELEASE-sources.jar!/org/springframework/beans/factory/config/PropertyResourceConfigurer.java" timestamp="1500370379253" />
+      <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.service/src/main/java/com/foresee/ftcsp/security/druidfilter/DataSourceConfig.java" timestamp="1500367196756">
+        <mark key="[" line="15" column="7" />
+        <mark key="]" line="15" column="16" />
+        <mark key="^" line="15" column="16" />
+        <mark key="." line="15" column="16" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.25/druid-1.0.25-sources.jar!/com/alibaba/druid/sql/ast/SQLExpr.java" timestamp="1500362920302" />
       <file name="$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.25/druid-1.0.25-sources.jar!/com/alibaba/druid/sql/ast/expr/SQLIntegerExpr.java" timestamp="1500363619462" />
       <file name="$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.25/druid-1.0.25-sources.jar!/com/alibaba/druid/sql/ast/SQLExprImpl.java" timestamp="1500363502498" />
       <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.model/src/main/java/com/foresee/ftcsp/security/manual/dao/SecInnerAccountExtMapper.java" timestamp="1500367017145" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-config-client/1.1.0.RELEASE/spring-cloud-config-client-1.1.0.RELEASE-sources.jar!/org/springframework/cloud/config/client/ConfigClientAutoConfiguration.java" timestamp="1500372828518" />
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/java/com/foresee/ftcsp/gateway/controller/GatewayController.java" timestamp="1500445075616">
+        <mark key="[" line="107" column="35" />
+        <mark key="]" line="106" column="72" />
+        <mark key="^" line="106" column="72" />
+        <mark key="." line="106" column="72" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/1.1.0.RELEASE/spring-cloud-commons-1.1.0.RELEASE-sources.jar!/org/springframework/cloud/client/discovery/EnableDiscoveryClientImportSelector.java" timestamp="1500431679303" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.4.RELEASE/spring-context-4.3.4.RELEASE-sources.jar!/org/springframework/context/annotation/AspectJAutoProxyRegistrar.java" timestamp="1500432414706" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-config-client/1.1.0.RELEASE/spring-cloud-config-client-1.1.0.RELEASE-sources.jar!/org/springframework/cloud/config/environment/PropertySource.java" timestamp="1500434801228" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-config-client/1.1.0.RELEASE/spring-cloud-config-client-1.1.0.RELEASE-sources.jar!/org/springframework/cloud/config/environment/PropertySource.java" timestamp="1500444908755" />
+      <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.service/src/main/java/com/foresee/ftcsp/security/druidfilter/PasswordFilter.java" timestamp="1500284448745">
+        <mark key="[" line="32" column="24" />
+        <mark key="]" line="33" column="3" />
+        <mark key="." line="33" column="3" />
+        <mark key="^" line="33" column="3" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.core/0.0.1/com.foresee.ftcsp.public.core-0.0.1-sources.jar!/com/foresee/ftcsp/common/core/rest/client/FtcspInnerRestClient.java" timestamp="1500430403681" />
+      <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.service/src/main/java/com/foresee/ftcsp/security/druidfilter/PasswordDruidFilter.java" timestamp="1500370176912">
+        <mark key="[" line="160" column="32" />
+        <mark key="]" line="164" column="56" />
+        <mark key="." line="164" column="56" />
+        <mark key="^" line="164" column="56" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1-sources.jar!/org/apache/commons/lang3/BooleanUtils.java" timestamp="1500345949946" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/1.1.0.RELEASE/spring-cloud-commons-1.1.0.RELEASE-sources.jar!/org/springframework/cloud/client/discovery/EnableDiscoveryClient.java" timestamp="1500431936012" />
       <file name="$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.25/druid-1.0.25-sources.jar!/com/alibaba/druid/filter/FilterManager.java" timestamp="1500285993367" />
@@ -58,9 +109,6 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.4.RELEASE/spring-beans-4.3.4.RELEASE-sources.jar!/org/springframework/beans/factory/config/PropertiesFactoryBean.java" timestamp="1500369838033" />
       <file name="$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.25/druid-1.0.25-sources.jar!/com/alibaba/druid/sql/ast/SQLObject.java" timestamp="1500341548033" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.4.RELEASE/spring-beans-4.3.4.RELEASE-sources.jar!/org/springframework/beans/factory/config/PropertyPlaceholderConfigurer.java" timestamp="1500370359811" />
-      <file name="D:/foresee/jcdzsvn/engineering/src/java/jcdz/REPOSITORY/public/com.foresee.ftcsp.config/trunk/workflow-config-dev.properties" timestamp="1500369122254">
-        <mark key="[" line="103" column="27" />
-      </file>
       <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/java/com/foresee/ftcsp/gateway/controller/UserLogoutController.java" timestamp="1500344262868">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
@@ -70,10 +118,22 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.4.RELEASE/spring-context-4.3.4.RELEASE-sources.jar!/org/springframework/scheduling/annotation/AsyncConfigurationSelector.java" timestamp="1500432312193" />
       <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1-sources.jar!/org/apache/commons/lang3/StringUtils.java" timestamp="1500284058027" />
       <file name="$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.25/druid-1.0.25-sources.jar!/com/alibaba/druid/pool/DruidAbstractDataSource.java" timestamp="1500285939295" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/WorkflowPropertySourceLocator.java" timestamp="1500374084208">
+        <mark key="[" line="23" column="3" />
+        <mark key="]" line="25" column="119" />
+        <mark key="^" line="25" column="119" />
+        <mark key="." line="25" column="119" />
+      </file>
       <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.rest/src/test/java/com/foresee/ftcsp/security/test/base/BaseSecurityRestTest.java" timestamp="1500263810381" />
       <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.model/src/main/resources/com/foresee/ftcsp/security/manual/mapper/SecInnerAccountExtMapper.xml" timestamp="1500367043965" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.4.2.RELEASE/spring-boot-1.4.2.RELEASE-sources.jar!/org/springframework/boot/context/properties/EnableConfigurationProperties.java" timestamp="1500431583746" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/api/CustomerApi.java" timestamp="1500431013023" />
+      <file name="/fragment.java" timestamp="1500445095470">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="58" />
+        <mark key="." line="0" column="58" />
+        <mark key="^" line="0" column="58" />
+      </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/beans/ClassPathWFApiScanner.java" timestamp="1500431253177" />
     </filemarks>
     <jumps>
