@@ -162,8 +162,8 @@
       <file name="$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.25/druid-1.0.25-sources.jar!/com/alibaba/druid/filter/FilterEventAdapter.java" timestamp="1500365386173" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/pom.xml" timestamp="1500457628083">
         <mark key="[" line="50" column="21" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/java/com/foresee/ftcsp/gateway/service/impl/AuthServiceImpl.java" timestamp="1500365144131">
         <mark key="[" line="105" column="0" />
@@ -211,11 +211,11 @@
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/mq/listener/MQTaskCompleteListener.java" timestamp="1500428941909">
         <mark key="[" line="28" column="10" />
       </file>
-      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/eureka/client/ServiceDiscoveryClient.java" timestamp="1500459139145">
-        <mark key="[" line="80" column="28" />
-        <mark key="]" line="80" column="30" />
-        <mark key="." line="80" column="30" />
-        <mark key="^" line="80" column="30" />
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/eureka/client/ServiceDiscoveryClient.java" timestamp="1500460303601">
+        <mark key="[" line="113" column="103" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
+        <mark key="^" line="113" column="10" />
       </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/config/WorkflowPropertySourceLocator.java" timestamp="1500374084208">
         <mark key="[" line="23" column="3" />
@@ -223,11 +223,10 @@
         <mark key="^" line="25" column="119" />
         <mark key="." line="25" column="119" />
       </file>
-      <file name="/fragment.java" timestamp="1500459165173">
+      <file name="/fragment.java" timestamp="1500460434557">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-        <mark key="^" line="0" column="11" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -253,37 +252,37 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>eurekaUrl</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3RNYXBwZXIgb2JqZWN0TWFwcGVyID0gbmV3IE9iamVjdE1hcHBlcigpOwo=</text>
+        <text encoding="base64">IikpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3RNYXBwZXIgb2JqZWN0TWFwcGVyID0gbmV3IE9iamVjdE1hcHBlcigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgYm9keSA9IHJlc3BvbnNlLmdldFJlc3BvbnNlQm9keShDaGFyc2V0cy5VVEZfOCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgT2JqZWN0TWFwcGVyIG9iamVjdE1hcHBlciA9IG5ldyBPYmplY3RNYXBwZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIGJvZHkgPSByZXNwb25zZS5nZXRSZXNwb25zZUJvZHkoQ2hhcnNldHMuVVRGXzgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgYm9keSA9IHJlc3BvbnNlLmdldFJlc3BvbnNlQm9keShDaGFyc2V0cy5VVEZfOCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb2JqZWN0TWFwcGVyLnJlYWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgT2JqZWN0TWFwcGVyIG9iamVjdE1hcHBlciA9IG5ldyBPYmplY3RNYXBwZXIoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>eurekaUrl</text>
+        <text>String</text>
       </register>
     </registers>
     <search>
