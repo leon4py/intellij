@@ -31,7 +31,13 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.core/0.0.1/com.foresee.ftcsp.public.core-0.0.1-sources.jar!/com/foresee/ftcsp/common/core/rest/RestError.java" timestamp="1500959519073" />
       <file name="$MAVEN_REPOSITORY$/org/asynchttpclient/async-http-client/2.0.33/async-http-client-2.0.33.jar!/org/asynchttpclient/BoundRequestBuilder.class" timestamp="1500953686071" />
-      <file name="D:/foresee/bpmpx/src/Main.java" timestamp="1500955305672">
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/test/AwsTest.java" timestamp="1500966714161">
+        <mark key="[" line="66" column="32" />
+        <mark key="]" line="66" column="33" />
+        <mark key="." line="66" column="33" />
+        <mark key="^" line="66" column="33" />
+      </file>
+      <file name="D:/foresee/bpmpx/src/Main.java" timestamp="1500966168411">
         <mark key="[" line="2" column="44" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -50,15 +56,10 @@
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/eureka/appinfo/ServiceInstance.java" timestamp="1500459347790">
         <mark key="[" line="2" column="19" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.awsapi/src/main/java/com/foresee/ftcsp/workflow/controller/ForeseePortalAPI.java" timestamp="1500953154003">
-        <mark key="[" line="48" column="104" />
-        <mark key="]" line="49" column="0" />
-        <mark key="^" line="49" column="13" />
-        <mark key="." line="49" column="0" />
-      </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.awsapi/src/main/java/com/foresee/ftcsp/workflow/controller/ForeseePortalAPI.java" timestamp="1500966741155" />
       <file name="$MAVEN_REPOSITORY$/com/ning/async-http-client/1.9.21/async-http-client-1.9.21-sources.jar!/com/ning/http/client/filter/RequestFilter.java" timestamp="1500953330034" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.4.RELEASE/spring-web-4.3.4.RELEASE-sources.jar!/org/springframework/http/converter/AbstractHttpMessageConverter.java" timestamp="1500955514912" />
-      <file name="/Dummy.txt" timestamp="1500952850359">
+      <file name="/Dummy.txt" timestamp="1500966499672">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/java/com/foresee/ftcsp/gateway/controller/UserLogoutController.java" timestamp="1500344262868">
@@ -108,40 +109,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIGkxID0gMTsK</text>
+        <text encoding="base64">ICAgICAgICBhcmdzLnB1dCgidWlkIiwgImFkbWluIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMK</text>
+        <text encoding="base64">ICAgICAgICBhcmdzLnB1dCgidHFtIiwgdGFza1F1ZXJ5TW9kZWwpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>restResponse</text>
+        <text>admin</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgQXN5bmNSZXF1ZXN0QnVpCg==</text>
+        <text encoding="base64">ICAgICAgICB0YXNrUXVlcnlNb2RlbC5zZXRQcm9jZXNzSW5zdElkKCI0Y2I5NTAyNy02OGM4LTQ1NjItOTIxYy03MmU4ZDIzNzM1OTMiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIHBhcmFtLmdldAo=</text>
+        <text encoding="base64">ICAgICAgICBUYXNrUXVlcnlNb2RlbCB0YXNrUXVlcnlNb2RlbCA9IG5ldyBUYXNrUXVlcnlNb2RlbCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBuZXcgQXN5bmNSZXF1ZXN0QnVpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkhlbGxvIFdvcmxkISIpOwo=</text>
+        <text encoding="base64">ICAgICAgIHBhcmFtLmdldAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3RzLmlzCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nVXRpbHMK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkhlbGxvIFdvcmxkISIpOwo=</text>
+      </register>
       <register name="-" type="4">
-        <text>restResponse</text>
+        <text>admin</text>
       </register>
     </registers>
     <search>
