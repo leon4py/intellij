@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.rest/src/main/java/com/foresee/ftcsp/security/rest/ui/back/UserResource.java" timestamp="1501054878517" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/TaskController.java" timestamp="1501051148995">
         <mark key="[" line="545" column="0" />
         <mark key="]" line="545" column="0" />
@@ -62,7 +63,12 @@
         <mark key="." line="67" column="30" />
       </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/common/core/CustomDateFormmater.java" timestamp="1501038199961" />
-      <file name="D:/lab/awsbpm/webserver/webapps/portal/index_local.jsp" timestamp="1501054492061" />
+      <file name="D:/lab/awsbpm/webserver/webapps/portal/index_local.jsp" timestamp="1501055660339">
+        <mark key="[" line="32" column="21" />
+        <mark key="]" line="32" column="21" />
+        <mark key="^" line="32" column="39" />
+        <mark key="." line="32" column="21" />
+      </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/sdk/model/TaskQuery.java" timestamp="1501052088729">
         <mark key="[" line="73" column="16" />
         <mark key="]" line="73" column="18" />
@@ -131,7 +137,7 @@
         <text encoding="base64">ICAgICAgICAgICAgbWFwcy5wdXQoIm5vIiwgY3VycmVudFVzZXJUYXNrLmdldE5vZGVTZXF1ZW5jZSgpKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>body</text>
+        <text>/</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbWFwcy5wdXQoIm5hbWUiLCBjdXJyZW50VXNlclRhc2suZ2V0Tm9kZU5hbWUoKSk7Cg==</text>
@@ -158,7 +164,7 @@
         <text encoding="base64">ICAgICAgICAgICAgbWFwcy5wdXQoIm93bmVyIiwgdGFza0luc3RhbmNlLmdldE93bmVyKCkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>body</text>
+        <text>/</text>
       </register>
     </registers>
     <search>
