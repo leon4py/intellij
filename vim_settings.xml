@@ -17,8 +17,11 @@
         <mark key="^" line="30" column="13" />
       </file>
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.core/0.0.1/com.foresee.ftcsp.public.core-0.0.1.jar!/com/foresee/ftcsp/common/core/config/AppUtils.class" timestamp="1501031321049" />
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.awsrest/src/main/java/com/foresee/ftcsp/workflow/url/InnerURL.java" timestamp="1501063022522">
-        <mark key="[" line="20" column="56" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.awsrest/src/main/java/com/foresee/ftcsp/workflow/url/InnerURL.java" timestamp="1501118802748">
+        <mark key="[" line="23" column="50" />
+        <mark key="]" line="23" column="50" />
+        <mark key="^" line="23" column="45" />
+        <mark key="." line="23" column="50" />
       </file>
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.core/0.0.1/com.foresee.ftcsp.public.core-0.0.1-sources.jar!/com/foresee/ftcsp/common/core/rest/FtcspRequestAttributes.java" timestamp="1501039457347" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/beans/ApiBeanScannerConfigure.java" timestamp="1501031116012">
@@ -38,7 +41,6 @@
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/sdk/model/TaskQueryResponse.java" timestamp="1501041172007" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/common/core/CustomDateSerializer.java" timestamp="1501038250988">
         <mark key="[" line="33" column="58" />
         <mark key="]" line="33" column="77" />
@@ -50,17 +52,14 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.awsrest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/UserController.java" timestamp="1501063184345">
-        <mark key="[" line="29" column="52" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="31" column="7" />
-        <mark key="." line="31" column="0" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.awsrest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/UserController.java" timestamp="1501118886912">
+        <mark key="[" line="29" column="47" />
+        <mark key="]" line="30" column="17" />
+        <mark key="^" line="30" column="17" />
+        <mark key="." line="30" column="17" />
       </file>
       <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/java/com/foresee/ftcsp/gateway/controller/GatewayController.java" timestamp="1501038551161" />
       <file name="D:/lab/awsbpm/webserver/webapps/portal/apps/_bpm.portal/js/client.login.js" timestamp="1501054788462" />
-      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/config/AppContext.java" timestamp="1501034233034">
-        <mark key="[" line="16" column="14" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.core/0.0.1/com.foresee.ftcsp.public.core-0.0.1-sources.jar!/com/foresee/ftcsp/common/core/rest/client/FtcspInnerRestClient.java" timestamp="1501038790661" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/beans/ApiProxy.java" timestamp="1501040742868">
         <mark key="[" line="67" column="42" />
@@ -81,7 +80,7 @@
         <mark key="^" line="73" column="18" />
         <mark key="." line="73" column="18" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.awsrest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/RepositoryController.java" timestamp="1501062928284">
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.awsrest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/RepositoryController.java" timestamp="1501118717176">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
@@ -136,40 +135,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQocmVzdFJlc3BvbnNlLmJvZHkudW5pZmllZFRva2VuKTsK</text>
+        <text encoding="base64">ICAgIC8qKiC78cihYnBtbiAqLwogICAgU3RyaW5nIGdldEJwbW4gPSAiL2lubmVyL3JlcG9zaXRvcnlTZXJ2aWNlL2dldEJwbW4iOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmZpbGUuRmlsZXM7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmJpbmQuYW5ub3RhdGlvbi5Db29raWVWYWx1ZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFwcy5wdXQoIm5vIiwgY3VycmVudFVzZXJUYXNrLmdldE5vZGVTZXF1ZW5jZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFwcy5wdXQoIm5hbWUiLCBjdXJyZW50VXNlclRhc2suZ2V0Tm9kZU5hbWUoKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmZpbGUuRmlsZXM7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFwcy5wdXQoImN1c3RvbVVuaXF1ZUlkIiwgY3VzdG9tSWRzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFwcy5wdXQoIm5vIiwgY3VycmVudFVzZXJUYXNrLmdldE5vZGVTZXF1ZW5jZSgpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFwTGlzdC5hZGQobWFwcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFwcy5wdXQoIm5hbWUiLCBjdXJyZW50VXNlclRhc2suZ2V0Tm9kZU5hbWUoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFwcy5wdXQoInZhcnMiLCBwdWJsaWNWYXJzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFwcy5wdXQoImN1c3RvbVVuaXF1ZUlkIiwgY3VzdG9tSWRzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFwTGlzdC5hZGQobWFwcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFwcy5wdXQoInRhc2tJbnN0SWQiLCB0YXNrSW5zdGFuY2UuZ2V0SWQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFwcy5wdXQoInZhcnMiLCBwdWJsaWNWYXJzKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>Bpmn</text>
       </register>
     </registers>
     <search>
