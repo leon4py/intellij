@@ -32,17 +32,17 @@
         <mark key="." line="49" column="43" />
         <mark key="^" line="49" column="41" />
       </file>
-      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/auth/filter/RepeatableRequestFilter.java" timestamp="1501150342522">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="^" line="3" column="29" />
-        <mark key="." line="78" column="0" />
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/auth/filter/RepeatableRequestFilter.java" timestamp="1501225553561">
+        <mark key="[" line="47" column="17" />
+        <mark key="]" line="47" column="17" />
+        <mark key="^" line="47" column="30" />
+        <mark key="." line="47" column="17" />
       </file>
-      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/resources/logback-spring.xml" timestamp="1501225153026">
-        <mark key="[" line="17" column="58" />
-        <mark key="]" line="17" column="53" />
-        <mark key="." line="17" column="53" />
-        <mark key="^" line="17" column="53" />
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/resources/logback-spring.xml" timestamp="1501225498058">
+        <mark key="[" line="21" column="72" />
+        <mark key="]" line="21" column="72" />
+        <mark key="." line="21" column="72" />
+        <mark key="^" line="21" column="72" />
       </file>
       <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.rest/src/main/java/com/foresee/ftcsp/security/rest/inner/UserResource.java" timestamp="1501223520700">
         <mark key="[" line="115" column="0" />
@@ -145,6 +145,7 @@
       <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/test/java/com/foresee/ftcsp/gateway/test/RequestGatewayTest.java" timestamp="1501137347966" />
       <file name="$USER_HOME$/.m2/repository/foresee/com.foresee.ftcsp.public.core/0.0.1/com.foresee.ftcsp.public.core-0.0.1-sources.jar!/com/foresee/ftcsp/common/core/rest/FtcspRequestContextHolder.java" timestamp="1501039520307" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.common/src/main/java/com/foresee/ftcsp/workflow/common/ExceptionUtil.java" timestamp="1501219031226" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/resources/logback-spring.xml" timestamp="1501225479927" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.common/src/main/java/com/foresee/ftcsp/workflow/misc/RequestUtils.java" timestamp="1501218414183" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/java/com/foresee/ftcsp/gateway/controller/UserLogoutController.java" timestamp="1501146054112">
         <mark key="[" line="61" column="54" />
@@ -333,7 +334,7 @@
         <text encoding="base64">ICAgICAgICBTdHJpbmcgdG9rZW4gPSBoZWFkLmdldFRva2VuKCk7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>, @RequestBody RestRequestParam param, RestRequestHead head</text>
+        <text>{</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyYW1ldGVyLmdldE1ldGhvZEFubm90YXRpb24oVmFyLmNsYXNzKSAhPSBudWxsOwo=</text>
@@ -360,7 +361,7 @@
         <text encoding="base64">aW1wb3J0IGNvbS5mb3Jlc2VlLmZ0Y3NwLndvcmtmbG93LmFubm90YXRpb25zLlZhcjsK</text>
       </register>
       <register name="-" type="4">
-        <text>, @RequestBody RestRequestParam param, RestRequestHead head</text>
+        <text>{</text>
       </register>
     </registers>
     <search>
