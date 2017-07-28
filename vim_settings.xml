@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1500366202389">
+      <file name="/a.dummy" timestamp="1501203979968">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/TaskController.java" timestamp="1501126724090" />
@@ -39,21 +39,6 @@
         <mark key="^" line="3" column="29" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/resources/logback-spring.xml" timestamp="1501148311158">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-      </file>
-      <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.rest/src/main/java/com/foresee/ftcsp/security/rest/inner/UserResource.java" timestamp="1500883207701">
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
-      </file>
-      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/workflow/rest/front/HealthController.java" timestamp="1501147511699">
-        <mark key="[" line="32" column="13" />
-        <mark key="]" line="32" column="13" />
-        <mark key="." line="32" column="13" />
-      </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/resources/config/bootstrap.properties" timestamp="1500978413673">
         <mark key="[" line="16" column="33" />
       </file>
@@ -75,11 +60,11 @@
         <mark key="[" line="34" column="52" />
       </file>
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/auth/url/BackURL.java" timestamp="1501151375091" />
-      <file name="D:/lab/awsbpm/webserver/webapps/portal/index_local.jsp" timestamp="1501203793617">
-        <mark key="[" line="36" column="12" />
-        <mark key="]" line="37" column="43" />
-        <mark key="^" line="37" column="43" />
-        <mark key="." line="37" column="43" />
+      <file name="D:/lab/awsbpm/webserver/webapps/portal/index_local.jsp" timestamp="1501204321359">
+        <mark key="[" line="36" column="62" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="38" column="11" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/RestRequestHead.java" timestamp="1499920878988">
         <mark key="[" line="56" column="30" />
@@ -190,11 +175,6 @@
         <mark key="." line="23" column="50" />
       </file>
       <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/java/com/foresee/ftcsp/gateway/manual/dto/ApiApp.java" timestamp="1501138490884" />
-      <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/pom.xml" timestamp="1500457628083">
-        <mark key="[" line="50" column="21" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-      </file>
       <file name="$USER_HOME$/.m2/repository/foresee/com.foresee.ftcsp.public.core/0.0.1/com.foresee.ftcsp.public.core-0.0.1.jar!/com/foresee/ftcsp/common/core/util/NetworkUtil.class" timestamp="1501151126539" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/java/com/foresee/ftcsp/gateway/service/impl/AuthServiceImpl.java" timestamp="1501144449702" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/config/AppUtils.java" timestamp="1501137487166">
@@ -240,6 +220,9 @@
         <mark key="]" line="106" column="54" />
         <mark key="." line="106" column="54" />
         <mark key="^" line="106" column="54" />
+      </file>
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/auth/rest/back/TokenController.java" timestamp="1501203963080">
+        <mark key="[" line="34" column="16" />
       </file>
       <file name="D:/foresee/workflow/pom.xml" timestamp="1501148553733" />
       <file name="D:/foresee/unifiedAuth/pom.xml" timestamp="1501148515872">
@@ -299,34 +282,34 @@
         <text encoding="base64">ICAgIC8qKiC78cihYnBtbiAqLwogICAgU3RyaW5nIGdldEJwbW4gPSAiL2lubmVyL3JlcG9zaXRvcnlTZXJ2aWNlL2dldEJwbW4iOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDb29raWUgdG9rZW4gPSBXZWJVdGlscy5nZXRDb29raWUocmVxdWVzdCwgInVuaWZpZWRUb2tlbiIpOwogICAgICAgIGlmICh0b2tlbiA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBDb2xsZWN0aW9ucy5zaW5nbGV0b25NYXAoInVuaWZpZWRUb2tlbiIsICIiKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBDb29raWUgdG9rZW4gPSBXZWJVdGlscy5nZXRDb29raWUocmVxdWVzdCwgInVuaWZpZWRUb2tlbiIpOwogICAgICAgIGlmICh0b2tlbiA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBDb2xsZWN0aW9ucy5zaW5nbGV0b25NYXAoInVuaWZpZWRUb2tlbiIsICIiKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQk8YXBwZW5kZXItcmVmIHJlZj0id2VjaGF0TXNnIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQocmVzdFJlc3BvbnNlLmJvZHkudW5pZmllZFRva2VuKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb29raWUgdG9rZW4gPSBXZWJVdGlscy5nZXRDb29raWUocmVxdWVzdCwgInVuaWZpZWRUb2tlbiIpOwogICAgICAgIGlmICh0b2tlbiA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBDb2xsZWN0aW9ucy5zaW5nbGV0b25NYXAoInVuaWZpZWRUb2tlbiIsICIiKTsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CTxhcHBlbmRlciBuYW1lPSJ3ZWNoYXRNc2ciCgkJY2xhc3M9ImNvbS5mb3Jlc2VlLmZ0Y3NwLndvcmtmbG93LmFwcGVuZC5XZWNoYXRNc2dBcHBlbmRlciI+CgkJPGVuY29kZXIgY2hhcnNldD0iVVRGLTgiPgoJCQk8cGF0dGVybj4lZCBbJXRdJVh7cmVxdWVzdElkfSAlLTVwICVjezE2fS4lbGluZSAtJW0lbjwvcGF0dGVybj4KCQk8L2VuY29kZXI+Cgk8L2FwcGVuZGVyPg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQk8YXBwZW5kZXItcmVmIHJlZj0id2VjaGF0TXNnIiAvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly9ASW1wb3J0UmVzb3VyY2UobG9jYXRpb25zID0gImNsYXNzcGF0aDpzcHJpbmctYWN0aXZpdGkueG1sIikK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CTxhcHBlbmRlciBuYW1lPSJ3ZWNoYXRNc2ciCgkJY2xhc3M9ImNvbS5mb3Jlc2VlLmZ0Y3NwLndvcmtmbG93LmFwcGVuZC5XZWNoYXRNc2dBcHBlbmRlciI+CgkJPGVuY29kZXIgY2hhcnNldD0iVVRGLTgiPgoJCQk8cGF0dGVybj4lZCBbJXRdJVh7cmVxdWVzdElkfSAlLTVwICVjezE2fS4lbGluZSAtJW0lbjwvcGF0dGVybj4KCQk8L2VuY29kZXI+Cgk8L2FwcGVuZGVyPg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIFN0cmluZyBnZXRSZXF1ZXN0VVJJKCkgewogICAgICAgICAgICBTdHJpbmcgcmVxdWVzdFVSSSA9IHN1cGVyLmdldFJlcXVlc3RVUkkoKTsKICAgICAgICAgICAgaWYgKHRoaXMuaXNPdXR0ZXIocmVxdWVzdFVSSSkpIHsKICAgICAgICAgICAgICAgIHJldHVybiByZXF1ZXN0VVJJOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiByZXF1ZXN0VVJJLnJlcGxhY2VGaXJzdCgiL291dHRlci8iLCAiL2lubmVyLyIpOwogICAgICAgIH0KCiAgICAgIAo=</text>
+        <text encoding="base64">Ly9ASW1wb3J0UmVzb3VyY2UobG9jYXRpb25zID0gImNsYXNzcGF0aDpzcHJpbmctYWN0aXZpdGkueG1sIikK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgU3RyaW5nQnVmZmVyIGdldFJlcXVlc3RVUkwoKSB7CiAgICAgICAgICAgIFN0cmluZyByZXF1ZXN0VXJsID0gc3VwZXIuZ2V0UmVxdWVzdFVSTCgpLnRvU3RyaW5nKCk7CiAgICAgICAgICAgIGlmICh0aGlzLmlzT3V0dGVyKHN1cGVyLmdldFJlcXVlc3RVUkkoKSkpIHsKICAgICAgICAgICAgICAgIHJldHVybiBzdXBlci5nZXRSZXF1ZXN0VVJMKCk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgU3RyaW5nIG5ld1VSTCA9IHJlcXVlc3RVcmwucmVwbGFjZUZpcnN0KCIvb3V0dGVyLyIsICIvaW5uZXIvIik7CiAgICAgICAgICAgIHJldHVybiBuZXcgU3RyaW5nQnVmZmVyKG5ld1VSTCk7CiAgICAgICAgfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIFN0cmluZyBnZXRSZXF1ZXN0VVJJKCkgewogICAgICAgICAgICBTdHJpbmcgcmVxdWVzdFVSSSA9IHN1cGVyLmdldFJlcXVlc3RVUkkoKTsKICAgICAgICAgICAgaWYgKHRoaXMuaXNPdXR0ZXIocmVxdWVzdFVSSSkpIHsKICAgICAgICAgICAgICAgIHJldHVybiByZXF1ZXN0VVJJOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiByZXF1ZXN0VVJJLnJlcGxhY2VGaXJzdCgiL291dHRlci8iLCAiL2lubmVyLyIpOwogICAgICAgIH0KCiAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>uni</text>
