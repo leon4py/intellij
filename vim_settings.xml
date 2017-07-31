@@ -6,13 +6,6 @@
       <file name="/a.dummy" timestamp="1501230309226">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.awsrest/src/test/java/com/foresee/ftcsp/workflow/ApiTest.java" timestamp="1501509601315">
-        <mark key="'" line="50" column="13" />
-        <mark key="[" line="95" column="106" />
-        <mark key="]" line="96" column="25" />
-        <mark key="^" line="96" column="25" />
-        <mark key="." line="96" column="25" />
-      </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.awsrest/src/main/java/com/foresee/ftcsp/workflow/service/WFService.java" timestamp="1501513818393" />
       <file name="$USER_HOME$/.m2/repository/foresee/com.foresee.ftcsp.public.core/0.0.1/com.foresee.ftcsp.public.core-0.0.1-sources.jar!/com/foresee/ftcsp/common/core/rest/RestControllerInterceptor.java" timestamp="1501509092869" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.model/src/main/java/com/actionsoft/bpms/api/OpenApiClient.java" timestamp="1501508942166" />
@@ -21,10 +14,8 @@
       </file>
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/util/IDUtil.java" timestamp="1501510878411" />
       <file name="D:/foresee/base/system/com.foresee.ftcsp.system.model/src/main/java/com/foresee/ftcsp/system/auto/dao/SysSequenceMapper.java" timestamp="1501513289014" />
+      <file name="D:/foresee/jcdz/order/com.foresee.ftcsp.order.rest/src/main/java/com/foresee/ftcsp/order/rest/inner/OrderResource.java" timestamp="1501514146332" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/api/TaskApi.java" timestamp="1501513829600" />
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/common/core/rest/ServiceDiscoverer.java" timestamp="1501508972617">
-        <mark key="[" line="34" column="52" />
-      </file>
       <file name="D:/foresee/base/system/com.foresee.ftcsp.system.model/src/main/resources/com/foresee/ftcsp/system/auto/mapper/SysSequenceMapper.xml" timestamp="1501513301321" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/RestRequestHead.java" timestamp="1499920878988">
         <mark key="[" line="56" column="30" />
@@ -39,6 +30,7 @@
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/eureka/appinfo/ServiceInstance.java" timestamp="1500459347790">
         <mark key="[" line="2" column="19" />
       </file>
+      <file name="D:/foresee/jcdz/product/com.foresee.ftcsp.product.rest/src/main/java/com/foresee/ftcsp/product/rest/inner/PdtGoodsResource.java" timestamp="1501513953741" />
       <file name="D:/foresee/base/system/com.foresee.ftcsp.system.service/src/main/java/com/foresee/ftcsp/system/service/impl/SysSequenceServiceImpl.java" timestamp="1501513443502">
         <mark key="[" line="125" column="0" />
         <mark key="]" line="125" column="0" />
@@ -64,11 +56,6 @@
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/awsrepo/BPMNService.java" timestamp="1501395588193" />
       <file name="D:/foresee/base/system/com.foresee.ftcsp.system.rest/src/main/java/com/foresee/ftcsp/system/rest/inner/SysSequenceController.java" timestamp="1501513214234" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/java/com/foresee/ftcsp/gateway/service/impl/AuthServiceImpl.java" timestamp="1501510820083" />
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/api/ProcessApi.java" timestamp="1501509443495">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
-      </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/sdk/model/TaskQueryResponse.java" timestamp="1501232570756">
         <mark key="[" line="12" column="3" />
       </file>
@@ -84,6 +71,9 @@
         <mark key="." line="42" column="5" />
         <mark key="^" line="45" column="37" />
       </file>
+      <file name="D:/foresee/jcdz/order/com.foresee.ftcsp.order.rest/src/main/java/com/foresee/ftcsp/order/rest/ui/front/MallOrderResource.java" timestamp="1501515597950" />
+      <file name="D:/foresee/jcdz/order/com.foresee.ftcsp.order.rest/src/main/java/com/foresee/ftcsp/order/rest/ui/back/InvoiceManageResource.java" timestamp="1501515359902" />
+      <file name="D:/foresee/jcdz/order/com.foresee.ftcsp.order.rest/src/main/java/com/foresee/ftcsp/order/rest/ui/back/DebitOrderResource.java" timestamp="1501515208738" />
       <file name="/Dummy.txt" timestamp="1501513272350">
         <mark key="[" line="0" column="0" />
       </file>
@@ -94,6 +84,7 @@
         <mark key="[" line="28" column="10" />
       </file>
       <file name="D:/foresee/base/system/com.foresee.ftcsp.system.service/src/main/java/com/foresee/ftcsp/system/service/impl/SysSMSCaptchaServiceImp.java" timestamp="1501513480160" />
+      <file name="$USER_HOME$/.m2/repository/foresee/com.foresee.ftcsp.public.core/0.0.1/com.foresee.ftcsp.public.core-0.0.1-sources.jar!/com/foresee/ftcsp/common/core/rest/annotation/CodeDictTranslate.java" timestamp="1501514904890" />
       <file name="/fragment.java" timestamp="1501395400693">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -124,11 +115,11 @@
       <jump line="49" column="13" filename="D:/foresee/workflow/com.foresee.ftcsp.workflow.awsrest/src/test/java/com/foresee/ftcsp/workflow/ApiTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3RzLm51bGwK</text>
+      <register name="&quot;" type="4">
+        <text>Empty</text>
       </register>
       <register name="-" type="4">
-        <text>GetMapping</text>
+        <text>Empty</text>
       </register>
       <register name="/" type="4">
         <text>servet</text>
