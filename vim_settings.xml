@@ -15,7 +15,7 @@
         <mark key="." line="28" column="22" />
         <mark key="^" line="28" column="22" />
       </file>
-      <file name="/a.dummy" timestamp="1501929402328">
+      <file name="/a.dummy" timestamp="1502001612049">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/auth/config/WebConfig.java" timestamp="1501563039702">
@@ -78,6 +78,11 @@
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
+      </file>
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.dynamicdb/src/main/java/com/foresee/ftcsp/common/dynamicdb/DBRouter.java" timestamp="1502001845485">
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
       </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/beans/ApiBeanScannerConfigure.java" timestamp="1501516825742">
         <mark key="[" line="49" column="43" />
@@ -811,13 +816,14 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="57" column="41" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.25/druid-1.0.25-sources.jar!/com/alibaba/druid/sql/SQLUtils.java" timestamp="1502001680424" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.mvcparams/src/main/java/com/foresee/ftcsp/auth/config/AuthControllerAspect.java" timestamp="1501729303488">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
         <mark key="^" line="48" column="25" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.25/druid-1.0.25-sources.jar!/com/alibaba/druid/sql/parser/Lexer.java" timestamp="1501998758184" />
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.25/druid-1.0.25-sources.jar!/com/alibaba/druid/sql/parser/Lexer.java" timestamp="1502001502673" />
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/db/DynamicDataSource.java" timestamp="1501910399599">
         <mark key="[" line="52" column="30" />
         <mark key="]" line="52" column="30" />
@@ -829,6 +835,12 @@
         <mark key="]" line="16" column="50" />
         <mark key="^" line="16" column="50" />
         <mark key="." line="16" column="50" />
+      </file>
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.dynamicdb/src/main/java/com/foresee/ftcsp/common/dynamicdb/DynamicDataSource.java" timestamp="1502001737875">
+        <mark key="[" line="34" column="23" />
+        <mark key="]" line="34" column="28" />
+        <mark key="^" line="34" column="28" />
+        <mark key="." line="34" column="28" />
       </file>
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.dynamicdb/pom.xml" timestamp="1501927244395">
         <mark key="[" line="3" column="34" />
@@ -877,10 +889,11 @@
         <mark key="." line="39" column="33" />
         <mark key="^" line="39" column="33" />
       </file>
-      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.dynamicdb/src/main/java/com/foresee/ftcsp/common/dynamicdb/DBMetaService.java" timestamp="1501937212149">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="65" />
-        <mark key="." line="54" column="0" />
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.dynamicdb/src/main/java/com/foresee/ftcsp/common/dynamicdb/DBMetaService.java" timestamp="1502001609969">
+        <mark key="[" line="39" column="18" />
+        <mark key="]" line="26" column="6" />
+        <mark key="." line="26" column="6" />
+        <mark key="^" line="26" column="6" />
       </file>
       <file name="D:/foresee/product/pom.xml" timestamp="1501928439155">
         <mark key="[" line="33" column="21" />
@@ -1015,7 +1028,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QENvbmRpdGlvbmFsT25NaXNzaW5nQmVhbihEZWZhdWx0RGF0YVNvdXJjZVByb3ZpZGVyLmNsYXNzKQo=</text>
+        <text encoding="base64">ICAgICAgICBuZXcgTXlTcWxTdGF0ZW1lbnRQYXJzZXIoc3EpLgo=</text>
       </register>
       <register name="-" type="4">
         <text>shadowTableNameMap</text>
@@ -1027,31 +1040,31 @@
         <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTXVsdGltYXA8U3RyaW5nLCBTdHJpbmc+IHRhYmxlTmFtZU1hcCA9IExpbmtlZEhhc2hNdWx0aW1hcC5jcmVhdGUoMiwgNjQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QENvbmRpdGlvbmFsT25NaXNzaW5nQmVhbihEZWZhdWx0RGF0YVNvdXJjZVByb3ZpZGVyLmNsYXNzKQo=</text>
+        <text encoding="base64">ICAgICAgICBuZXcgTXlTcWxTdGF0ZW1lbnRQYXJzZXIoc3EpLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBERUZBVUxUX0RBVEFTT1VSQ0UgPSBkZWZhdWx0RGF0YVNvdXJjZVByb3ZpZGVyLmdldE5hbWUoKTsK</text>
+        <text encoding="base64">QENvbmRpdGlvbmFsT25NaXNzaW5nQmVhbihEZWZhdWx0RGF0YVNvdXJjZVByb3ZpZGVyLmNsYXNzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0YWJsZU5hbWVNYXAuCg==</text>
+        <text encoding="base64">ICAgICAgICBERUZBVUxUX0RBVEFTT1VSQ0UgPSBkZWZhdWx0RGF0YVNvdXJjZVByb3ZpZGVyLmdldE5hbWUoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0YWJsZU5hbWVNYXAuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMaW5rZWRIYXNoTXVsdGltYXA8U3RyaW5nLCBTdHJpbmc+IGNvcHlNdWx0aU1hcCA9IExpbmtlZEhhc2hNdWx0aW1hcC5jcmVhdGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaW5rZWRIYXNoTXVsdGltYXA8U3RyaW5nLCBTdHJpbmc+IGNvcHlNdWx0aU1hcCA9IExpbmtlZEhhc2hNdWx0aW1hcC5jcmVhdGUoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzeW5jaHJvbml6ZWQgKHRhYmxlTmFtZU1hcCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9uPFN0cmluZz4gZGVmYXVsdFRhYmxlcyA9IHRhYmxlTmFtZU1hcC5yZW1vdmVBbGwoREVGQVVMVF9EQVRBU09VUkNFKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzeW5jaHJvbml6ZWQgKHRhYmxlTmFtZU1hcCkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb3B5TXVsdGlNYXAucHV0Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9uPFN0cmluZz4gZGVmYXVsdFRhYmxlcyA9IHRhYmxlTmFtZU1hcC5yZW1vdmVBbGwoREVGQVVMVF9EQVRBU09VUkNFKTsK</text>
       </register>
     </registers>
     <search>
