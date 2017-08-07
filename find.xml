@@ -1,14 +1,13 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
       <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
@@ -29,13 +28,16 @@
       <mask>pom.xm</mask>
       <mask>*</mask>
       <mask>*.jav</mask>
-      <mask>*.xml</mask>
       <mask>*.xm</mask>
-      <mask>*.x</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
+      <mask>*p.xml</mask>
+      <mask>*po.xml</mask>
+      <mask>*pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
