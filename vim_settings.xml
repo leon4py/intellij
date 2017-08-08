@@ -131,6 +131,11 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/impl/UnifiedAuthServiceImpl.java" timestamp="1502177385777">
+        <mark key="[" line="504" column="0" />
+        <mark key="]" line="504" column="0" />
+        <mark key="." line="504" column="0" />
+      </file>
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.dynamicdb/src/main/java/com/foresee/ftcsp/common/dynamicdb/provider/impl/DefaultDataSourceProviderImpl.java" timestamp="1502076168025" />
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/auth/rest/back/UnifiedAuthResource.java" timestamp="1502166380102">
         <mark key="[" line="61" column="0" />
@@ -354,8 +359,8 @@
       <jump line="70" column="46" filename="D:/foresee/workflow/com.foresee.ftcsp.workflow.plugin/src/main/java/com/foresee/ftcsp/workflow/listener/CMS_AFTER_COMPLETE.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>keyword2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTWVzc2FnZUZvcm1hdC4K</text>
       </register>
       <register name="-" type="4">
         <text>keyword2</text>
@@ -367,31 +372,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmcga2V5d29yZDIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWVzc2FnZUZvcm1hdC4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVG9rZW5CYWNrU2VydmljZSB0b2tlbkJhY2tTZXJ2aWNlOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgVG9rZW5CYWNrU2VydmljZSB0b2tlbkJhY2tTZXJ2aWNlOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjdHguZ2V0Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
     </registers>
     <search>
