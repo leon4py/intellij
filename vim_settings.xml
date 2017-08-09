@@ -65,7 +65,12 @@
         <mark key="[" line="175" column="0" />
         <mark key="]" line="178" column="80" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.hr/src/main/java/com/foresee/ftcsp/workflow/hr/HrDataScheduler.java" timestamp="1502246643723" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.hr/src/main/java/com/foresee/ftcsp/workflow/hr/HrDataScheduler.java" timestamp="1502270306574">
+        <mark key="[" line="213" column="44" />
+        <mark key="]" line="215" column="27" />
+        <mark key="." line="215" column="27" />
+        <mark key="^" line="215" column="27" />
+      </file>
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.rest/src/main/java/com/foresee/ftcsp/goods/rest/ui/back/ProductResource.java" timestamp="1502073516479" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.mvcparams/src/main/java/com/foresee/ftcsp/mvcparams/config/AuthInterceptor.java" timestamp="1501732132206">
         <mark key="[" line="12" column="20" />
@@ -178,7 +183,7 @@
         <mark key="." line="53" column="56" />
       </file>
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.dynamicdb/pom.xml" timestamp="1502076201324" />
-      <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/java/com/foresee/ftcsp/gateway/service/impl/AuthServiceImpl.java" timestamp="1502269500888" />
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/java/com/foresee/ftcsp/gateway/service/impl/AuthServiceImpl.java" timestamp="1502271388253" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/sdk/model/TaskQueryResponse.java" timestamp="1501232570756">
         <mark key="[" line="12" column="3" />
       </file>
@@ -225,7 +230,7 @@
         <mark key="^" line="63" column="36" />
       </file>
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/validator/DateFormatValidator.java" timestamp="1502074003524" />
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.awsapi/src/main/java/com/foresee/ftcsp/workflow/controller/ForeseePortalAPI.java" timestamp="1502088351647" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.awsapi/src/main/java/com/foresee/ftcsp/workflow/controller/ForeseePortalAPI.java" timestamp="1502270837933" />
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.rest/src/main/java/com/foresee/ftcsp/goods/rest/GoodsApplication.java" timestamp="1502267831203">
         <mark key="[" line="26" column="19" />
         <mark key="]" line="34" column="4" />
@@ -233,7 +238,7 @@
         <mark key="^" line="34" column="4" />
       </file>
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/TokenBackService.java" timestamp="1502178206496" />
-      <file name="/Dummy.txt" timestamp="1502074992371">
+      <file name="/Dummy.txt" timestamp="1502270668866">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.dynamicdb/src/main/java/com/foresee/ftcsp/common/dynamicdb/plugin/DynamicDataSourceInterceptor.java" timestamp="1502076409202" />
@@ -247,12 +252,6 @@
         <mark key="^" line="99" column="45" />
       </file>
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.rest/src/main/resources/config/bootstrap.properties" timestamp="1502073218129" />
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.plugin/src/main/java/com/foresee/ftcsp/workflow/listener/CMS_AFTER_COMPLETE.java" timestamp="1502167207424">
-        <mark key="'" line="70" column="46" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-      </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.common/src/main/java/com/foresee/ftcsp/workflow/service/PushService.java" timestamp="1502168104136" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/mq/listener/MQTaskCompleteListener.java" timestamp="1500428941909">
         <mark key="[" line="28" column="10" />
@@ -301,7 +300,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgcG9ydCA9IHVybC5nZXRQb3J0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>keyword2</text>
@@ -313,31 +312,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmcga2V5d29yZDIsCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBpbnQgcG9ydCA9IHVybC5nZXRQb3J0KCk7Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">IFN0cmluZyBob3N0ID0gdXJsLmdldEhvc3QoKTsKICAgICAgICBpbnQgcG9ydCA9IHVybC5nZXRQb3J0KCk7</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3QgeHh4eCA9IGEuZ2V0KCJ4eHh4Iik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWVzc2FnZUZvcm1hdC4K</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3QgeHh4eCA9IGEuZ2V0KCJ4eHh4Iik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWVzc2FnZUZvcm1hdC4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
     </registers>
     <search>
