@@ -287,7 +287,6 @@
         <mark key="^" line="22" column="12" />
         <mark key="." line="22" column="12" />
       </file>
-      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/TokenService.java" timestamp="1502334093424" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/config/AppUtils.java" timestamp="1501137487166">
         <mark key="[" line="40" column="31" />
         <mark key="]" line="36" column="48" />
@@ -765,6 +764,12 @@
         <mark key="^" line="96" column="34" />
         <mark key="." line="95" column="28" />
       </file>
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/auth/rest/outter/TokenOutterController.java" timestamp="1502343110334">
+        <mark key="[" line="59" column="15" />
+        <mark key="]" line="59" column="15" />
+        <mark key="^" line="59" column="6" />
+        <mark key="." line="59" column="15" />
+      </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.common/src/main/java/com/foresee/ftcsp/workflow/common/AppContext.java" timestamp="1500993627787">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -860,6 +865,7 @@
         <mark key="^" line="28" column="21" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/TokenBackService.java" timestamp="1502342781539" />
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/auth/rest/inner/TokenInnerController.java" timestamp="1502331014204" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/mq/listener/MQTaskCompleteListener.java" timestamp="1500428941909">
         <mark key="[" line="28" column="10" />
@@ -934,10 +940,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Resource</text>
+        <text>token</text>
       </register>
       <register name="-" type="4">
-        <text>Resource</text>
+        <text>token</text>
       </register>
       <register name="/" type="4">
         <text>servet</text>
