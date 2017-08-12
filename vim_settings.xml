@@ -98,7 +98,7 @@
         <mark key="^" line="18" column="20" />
       </file>
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.ftcspmvc/0.0.1/com.foresee.ftcsp.public.ftcspmvc-0.0.1-sources.jar!/com/foresee/ftcsp/ftcspmvc/config/FtcspRestInterceptor.java" timestamp="1502509123481" />
-      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/annotation/context/UserContext.java" timestamp="1502518154579">
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/annotation/context/UserContext.java" timestamp="1502520279873">
         <mark key="[" line="25" column="25" />
         <mark key="]" line="28" column="0" />
         <mark key="^" line="28" column="3" />
@@ -403,6 +403,12 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="39" column="112" />
       </file>
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/test/java/com/foresee/ftcsp/common/core/util/JacksonTest.java" timestamp="1502520310618">
+        <mark key="[" line="46" column="67" />
+        <mark key="]" line="46" column="66" />
+        <mark key="." line="46" column="66" />
+        <mark key="^" line="46" column="66" />
+      </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/front/HealthController.java" timestamp="1501513773188">
         <mark key="[" line="42" column="5" />
         <mark key="]" line="42" column="5" />
@@ -615,7 +621,7 @@
         <mark key="^" line="30" column="30" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.4/jackson-databind-2.8.4-sources.jar!/com/fasterxml/jackson/databind/JavaType.java" timestamp="1502518435049" />
-      <file name="/fragment.java" timestamp="1502517837843">
+      <file name="/fragment.java" timestamp="1502519362091">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -800,6 +806,7 @@
         <mark key="." line="63" column="57" />
         <mark key="^" line="63" column="55" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.4/jackson-databind-2.8.4-sources.jar!/com/fasterxml/jackson/databind/DeserializationFeature.java" timestamp="1502519326472" />
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.service/src/main/java/com/foresee/ftcsp/goods/service/impl/ProductServiceImpl.java" timestamp="1502514255212" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.database/src/main/java/com/foresee/ftcsp/common/database/conf/SqlSessionFactoryDIYer.java" timestamp="1501929242322">
         <mark key="[" line="18" column="18" />
@@ -899,11 +906,11 @@
         <mark key="^" line="33" column="24" />
       </file>
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.ftcspmvc/0.0.1/com.foresee.ftcsp.public.ftcspmvc-0.0.1-sources.jar!/com/foresee/ftcsp/ftcspmvc/filter/RemoteIPFilter.java" timestamp="1502508561700" />
-      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/util/Jackson.java" timestamp="1502518914613">
-        <mark key="[" line="58" column="72" />
-        <mark key="]" line="58" column="71" />
-        <mark key="." line="58" column="71" />
-        <mark key="^" line="58" column="71" />
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/util/Jackson.java" timestamp="1502520150993">
+        <mark key="[" line="45" column="75" />
+        <mark key="]" line="45" column="76" />
+        <mark key="." line="45" column="76" />
+        <mark key="^" line="45" column="76" />
       </file>
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/db/DynamicDataSource.java" timestamp="1501910399599">
         <mark key="[" line="52" column="30" />
@@ -1144,43 +1151,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Data</text>
+        <text>aMap</text>
       </register>
       <register name="/" type="4">
         <text>servet</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxTdGF0ZUV4Y2VwdGlvbigit7TQ8sHQu6/Kp7DcIiwgZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IGFNYXAgPSBDb2xsZWN0aW9ucy5zaW5nbGV0b25NYXAoImEiLCBhKTsKICAgICAgICBTdHJpbmcgYUpzb24gPSBKYWNrc29uLnRvSnNvbihhTWFwKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IGFNYXAgPSBDb2xsZWN0aW9ucy5zaW5nbGV0b25NYXAoIik7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICBsaXN0LmFkZChhKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICBsaXN0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZnJvbQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHJlcXVlc3RJZDsKCg==</text>
+        <text encoding="base64">ICAgICAgICBKYXZhVHlwZSBqYXZhVHlwZSA9IG9iamVjdE1hcHBlci5nZXRUeXBlRmFjdG9yeSgpLmNvbnN0cnVjdFR5cGUodHlwZSk7IHJldHVybiBmcm9tSnNvblZpYUphdmFUeXBlKGpzb24sIGphdmFUeXBlKTsK</text>
       </register>
     </registers>
     <search>
