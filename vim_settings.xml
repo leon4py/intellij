@@ -98,6 +98,12 @@
         <mark key="^" line="18" column="20" />
       </file>
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.ftcspmvc/0.0.1/com.foresee.ftcsp.public.ftcspmvc-0.0.1-sources.jar!/com/foresee/ftcsp/ftcspmvc/config/FtcspRestInterceptor.java" timestamp="1502509123481" />
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/annotation/context/UserContext.java" timestamp="1502518154579">
+        <mark key="[" line="25" column="25" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="28" column="3" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.dynamicdb/src/main/java/com/foresee/ftcsp/common/dynamicdb/DBRouter.java" timestamp="1502039041073">
         <mark key="[" line="117" column="35" />
         <mark key="]" line="117" column="47" />
@@ -608,6 +614,7 @@
         <mark key="." line="30" column="30" />
         <mark key="^" line="30" column="30" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.4/jackson-databind-2.8.4-sources.jar!/com/fasterxml/jackson/databind/JavaType.java" timestamp="1502518435049" />
       <file name="/fragment.java" timestamp="1502517837843">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -786,6 +793,7 @@
         <mark key="." line="19" column="1" />
         <mark key="^" line="19" column="1" />
       </file>
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/util/JsonUtils.java" timestamp="1502518885492" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.common/src/main/java/com/foresee/ftcsp/workflow/append/WechatMsgAppender.java" timestamp="1501227324247">
         <mark key="[" line="63" column="57" />
         <mark key="]" line="63" column="57" />
@@ -891,6 +899,12 @@
         <mark key="^" line="33" column="24" />
       </file>
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.ftcspmvc/0.0.1/com.foresee.ftcsp.public.ftcspmvc-0.0.1-sources.jar!/com/foresee/ftcsp/ftcspmvc/filter/RemoteIPFilter.java" timestamp="1502508561700" />
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/util/Jackson.java" timestamp="1502518914613">
+        <mark key="[" line="58" column="72" />
+        <mark key="]" line="58" column="71" />
+        <mark key="." line="58" column="71" />
+        <mark key="^" line="58" column="71" />
+      </file>
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/db/DynamicDataSource.java" timestamp="1501910399599">
         <mark key="[" line="52" column="30" />
         <mark key="]" line="52" column="30" />
@@ -940,11 +954,11 @@
         <mark key="." line="19" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.ftcspmvc/0.0.1/com.foresee.ftcsp.public.ftcspmvc-0.0.1-sources.jar!/com/foresee/ftcsp/ftcspmvc/filter/RepeatableRequestFilter.java" timestamp="1502508263877" />
-      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/config/FtcspSimpleTypeArgumentResolver.java" timestamp="1502517651144">
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/config/FtcspSimpleTypeArgumentResolver.java" timestamp="1502518295939">
         <mark key="[" line="59" column="87" />
-        <mark key="]" line="59" column="19" />
-        <mark key="." line="59" column="19" />
-        <mark key="^" line="59" column="19" />
+        <mark key="]" line="54" column="36" />
+        <mark key="." line="54" column="36" />
+        <mark key="^" line="54" column="36" />
       </file>
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/dynamicdb/DataSourceConstant.java" timestamp="1501917354810">
         <mark key="[" line="20" column="35" />
@@ -1130,43 +1144,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICByZXR1cm4gVHlwZVV0aWxzLmNhc3QoanNvbk9iamVjdC5nZXQocGFyYW1ldGVyTmFtZSksIHR5cGUsIFBhcnNlckNvbmZpZy5nZXRHbG9iYWxJbnN0YW5jZSgpKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>fieldNode</text>
+        <text>Data</text>
       </register>
       <register name="/" type="4">
         <text>servet</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQFZhciBMaXN0PEE+IGFzLCAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxTdGF0ZUV4Y2VwdGlvbigit7TQ8sHQu6/Kp7DcIiwgZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICByZXR1cm4gVHlwZVV0aWxzLmNhc3QoanNvbk9iamVjdC5nZXQocGFyYW1ldGVyTmFtZSksIHR5cGUsIFBhcnNlckNvbmZpZy5nZXRHbG9iYWxJbnN0YW5jZSgpKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBUeXBlVXRpbHMuY2FzdFRvSmF2YUJlYW4oanNvbk9iamVjdCwgcGFyYW1ldGVyVHlwZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSmF2YVR5cGUgamF2YVR5cGUgPSBvYmplY3RNYXBwZXIuZ2V0VHlwZUZhY3RvcnkoKS5jb25zdHJ1Y3RUeXBlKHR5cGUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSnNvbk5vZGUgZmllbGROb2RlID0gYm9keU5vZGUuZ2V0KHBhcmFtZXRlck5hbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQFZhciBMaXN0PEE+IGFzLCAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2JqZWN0LmdldChwYXJhbWV0ZXJOYW1lKS5pc0FycmF5KCkK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHJlcXVlc3RJZDsKCg==</text>
       </register>
     </registers>
     <search>
