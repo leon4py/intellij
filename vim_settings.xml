@@ -305,11 +305,11 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="D:/foresee/product/com.foresee.ftcsp.goods.service/src/main/java/com/foresee/ftcsp/goods/service/impl/ProductSaleRegionService.java" timestamp="1502771096216">
-        <mark key="[" line="133" column="29" />
-        <mark key="]" line="133" column="28" />
-        <mark key="^" line="133" column="28" />
-        <mark key="." line="133" column="28" />
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.service/src/main/java/com/foresee/ftcsp/goods/service/impl/ProductSaleRegionService.java" timestamp="1502777629291">
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="63" />
+        <mark key="^" line="137" column="47" />
+        <mark key="." line="132" column="0" />
       </file>
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/validation/ValidationException.java" timestamp="1502347788181">
         <mark key="[" line="115" column="35" />
@@ -384,6 +384,12 @@
         <mark key="]" line="50" column="3" />
         <mark key="^" line="50" column="3" />
         <mark key="." line="50" column="3" />
+      </file>
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/manual/dao/SaleRegionExtMapper.java" timestamp="1502777646221">
+        <mark key="[" line="24" column="38" />
+        <mark key="]" line="23" column="10" />
+        <mark key="^" line="23" column="10" />
+        <mark key="." line="23" column="10" />
       </file>
       <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/test/java/com/foresee/ftcsp/gateway/test/GetTokenTest.java" timestamp="1502328398480">
         <mark key="[" line="42" column="32" />
@@ -561,7 +567,7 @@
         <mark key="." line="30" column="30" />
         <mark key="^" line="30" column="30" />
       </file>
-      <file name="/fragment.java" timestamp="1502770545024">
+      <file name="/fragment.java" timestamp="1502777614006">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -798,7 +804,7 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="48" column="25" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.dynamicdb/0.0.1/com.foresee.ftcsp.public.dynamicdb-0.0.1-sources.jar!/com/foresee/ftcsp/common/dynamicdb/DynamicDataSource.java" timestamp="1502771223866" />
+      <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.dynamicdb/0.0.1/com.foresee.ftcsp.public.dynamicdb-0.0.1-sources.jar!/com/foresee/ftcsp/common/dynamicdb/DynamicDataSource.java" timestamp="1502777355182" />
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/db/DynamicDataSource.java" timestamp="1501910399599">
         <mark key="[" line="52" column="30" />
         <mark key="]" line="52" column="30" />
@@ -996,43 +1002,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2FsZVJlZ2lvbkV4dE1hcHBlci5zZWxlY3RCeUFyZWFDb2RlKGFyZWFDb2Rlcyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>PROPAGATION_NOT_SUPPORTED</text>
       </register>
       <register name="/" type="4">
         <text>servet</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIExpc3Q8TWFwPFN0cmluZywgT2JqZWN0Pj4gcXVlcnlBbm90aGVyKEBQYXJhbSgidXNlcklkIikgIFN0cmluZyB1c2VySWQsIEBQYXJhbSgiY29kZSIpIFN0cmluZyBjb2RlKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2FsZVJlZ2lvbkV4dE1hcHBlci5zZWxlY3RCeUFyZWFDb2RlKGFyZWFDb2Rlcyk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IHRyeSB7CiAgICAgICAgICAgIHNhbGVSZWdpb25FeHRNYXBwZXIuc2VsZWN0QnlBcmVhQ29kZShhcmVhQ29kZXMpOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CgogICAgICAgIH0=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzYWxlUmVnaW9uRXh0TWFwcGVyLnNlbGVjdEJ5QXJlYUNvZGUoYXJlYUNvZGVzKTsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzYWxlUmVnaW9uRXh0TWFwcGVyLnNlbGVjdEJ5QXJlYUNvZGUoYXJlYUNvZGVzKTsK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3FsQ29udGV4dC5nZXQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBARGlnaXRzKGludGVnZXIgPSAxNywgZnJhY3Rpb24gPSAwKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3FsQ29udGV4dC5nZXQoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBARGlnaXRzKGludGVnZXIgPSAxNywgZnJhY3Rpb24gPSAwKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">XQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEFyZ3VtZW50UmVzb2x2ZXI+IGFyZ3VtZW50UmVzb2x2ZXJzID0gZ2V0QXJndW1lbnRSZXNvbHZlcnMoKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
     </registers>
     <search>
