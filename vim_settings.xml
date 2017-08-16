@@ -10,11 +10,11 @@
         <mark key="." line="25" column="44" />
       </file>
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.service/src/main/java/com/foresee/ftcsp/goods/service/impl/ProductService.java" timestamp="1502854711181" />
-      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/test/java/com/foresee/ftcsp/auth/rest/outter/TokenOutterControllerTest.java" timestamp="1502782768153">
-        <mark key="[" line="61" column="38" />
-        <mark key="]" line="61" column="38" />
-        <mark key="^" line="60" column="7" />
-        <mark key="." line="61" column="38" />
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/test/java/com/foresee/ftcsp/auth/rest/outter/TokenOutterControllerTest.java" timestamp="1502860992715">
+        <mark key="[" line="52" column="28" />
+        <mark key="]" line="43" column="6" />
+        <mark key="^" line="43" column="6" />
+        <mark key="." line="43" column="6" />
       </file>
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.rest/src/main/java/com/foresee/ftcsp/goods/rest/url/ProductUrl.java" timestamp="1502854761877" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/annotation/context/UserContext.java" timestamp="1502784625249">
@@ -23,6 +23,7 @@
         <mark key="^" line="36" column="90" />
         <mark key="." line="36" column="90" />
       </file>
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/TokenService.java" timestamp="1502860945374" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.dynamicdb/src/main/java/com/foresee/ftcsp/common/dynamicdb/DBRouter.java" timestamp="1502859364691">
         <mark key="[" line="128" column="69" />
       </file>
@@ -36,6 +37,7 @@
       <file name="D:/foresee/notify/com.foresee.ftcsp.notify.model/src/main/resources/com/foresee/ftcsp/notify/manual/mapper/NotifyQueryUserOrCusExtMapper.xml" timestamp="1502858252439" />
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final-sources.jar!/org/hibernate/validator/constraints/NotEmpty.java" timestamp="1502849389599" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.dynamicdb/pom.xml" timestamp="1502860314296" />
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/auth/rest/outter/TokenOutterController.java" timestamp="1502861070622" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/pom.xml" timestamp="1502860212664">
         <mark key="[" line="82" column="21" />
         <mark key="]" line="77" column="23" />
@@ -86,6 +88,7 @@
         <mark key="^" line="21" column="12" />
         <mark key="." line="20" column="91" />
       </file>
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.model/src/main/java/com/foresee/ftcsp/auth/manual/dao/ApiAppMapper.java" timestamp="1502860582683" />
       <file name="D:/foresee/notify/com.foresee.ftcsp.notify.rest/src/main/resources/config/bootstrap.properties" timestamp="1502858474740" />
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final-sources.jar!/org/hibernate/validator/constraints/NotBlank.java" timestamp="1502849361488" />
       <file name="/fragment.java" timestamp="1502858919845">
@@ -124,10 +127,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>yangchengjun</text>
+        <text>appToken</text>
       </register>
       <register name="-" type="4">
-        <text>yangchengjun</text>
+        <text>appToken</text>
       </register>
       <register name="/" type="4">
         <text>servet</text>
