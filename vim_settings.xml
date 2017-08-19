@@ -69,11 +69,16 @@
         <mark key="^" line="85" column="49" />
         <mark key="." line="85" column="49" />
       </file>
-      <file name="D:/foresee/product/com.foresee.ftcsp.goods.rest/src/main/java/com/foresee/ftcsp/goods/rest/ui/back/GoodsBackResource.java" timestamp="1503049621185">
-        <mark key="[" line="154" column="52" />
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.rest/src/main/java/com/foresee/ftcsp/goods/rest/ui/back/GoodsBackResource.java" timestamp="1503115054277">
+        <mark key="[" line="152" column="26" />
         <mark key="]" line="154" column="52" />
         <mark key="." line="154" column="52" />
         <mark key="^" line="154" column="58" />
+      </file>
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/java/com/foresee/ftcsp/gateway/controller/GatewayController.java" timestamp="1503114840532">
+        <mark key="[" line="520" column="27" />
+        <mark key="]" line="520" column="27" />
+        <mark key="." line="520" column="27" />
       </file>
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.rest/src/test/java/com/foresee/ftcsp/goods/rest/ui/back/CategoryResourceTest.java" timestamp="1502675159557">
         <mark key="[" line="36" column="51" />
@@ -81,7 +86,7 @@
         <mark key="." line="36" column="27" />
         <mark key="^" line="36" column="27" />
       </file>
-      <file name="D:/foresee/product/com.foresee.ftcsp.goods.service/src/main/java/com/foresee/ftcsp/goods/service/impl/GoodsServiceImpl.java" timestamp="1503112696931">
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.service/src/main/java/com/foresee/ftcsp/goods/service/impl/GoodsServiceImpl.java" timestamp="1503114967745">
         <mark key="[" line="55" column="45" />
         <mark key="]" line="56" column="3" />
         <mark key="." line="56" column="3" />
@@ -138,12 +143,12 @@
         <mark key="^" line="25" column="31" />
         <mark key="." line="25" column="31" />
       </file>
-      <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/manual/dto/PdtGoodsDetailDTO.java" timestamp="1503111725141">
-        <mark key="'" line="47" column="6" />
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="16" />
-        <mark key="^" line="141" column="15" />
-        <mark key="." line="152" column="0" />
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/manual/dto/PdtGoodsDetailDTO.java" timestamp="1503114927318">
+        <mark key="'" line="48" column="6" />
+        <mark key="[" line="123" column="12" />
+        <mark key="]" line="153" column="16" />
+        <mark key="^" line="142" column="15" />
+        <mark key="." line="153" column="0" />
       </file>
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/manual/dto/PdtBillingDTO.java" timestamp="1503108999218" />
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/manual/dao/DynamicDataSourceDemoMapper.java" timestamp="1502780921229">
@@ -190,11 +195,11 @@
       <jump line="36" column="13" filename="D:/foresee/product/com.foresee.ftcsp.goods.rest/src/main/java/com/foresee/ftcsp/goods/rest/ui/back/GoodsResource.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBATm90TnVsbAo=</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>paymentMethodId</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>servet</text>
