@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*pom.xml" />
     <recentFileMasks>
       <mask>*.js</mask>
       <mask>*.as</mask>
@@ -25,7 +26,6 @@
       <mask>pom.xml</mask>
       <mask>pom.xm</mask>
       <mask>*</mask>
-      <mask>*pom.xml</mask>
       <mask>*po.xml</mask>
       <mask>*p.xml</mask>
       <mask>*.jav</mask>
@@ -36,6 +36,7 @@
       <mask>*.xm</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
+      <mask>*pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
