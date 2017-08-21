@@ -16,6 +16,9 @@
         <mark key="^" line="43" column="6" />
         <mark key="." line="43" column="6" />
       </file>
+      <file name="/a.dummy" timestamp="1503300893563">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/TaskController.java" timestamp="1503282973235" />
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.rest/src/main/java/com/foresee/ftcsp/goods/rest/outter/GoodsResource.java" timestamp="1502956207050">
         <mark key="[" line="35" column="25" />
@@ -24,7 +27,7 @@
         <mark key="." line="33" column="35" />
       </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/sdk/model/BaseResponse.java" timestamp="1503283079851" />
-      <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.core/0.0.1/com.foresee.ftcsp.public.core-0.0.1-sources.jar!/com/foresee/ftcsp/common/core/exception/FtcspRuntimeException.java" timestamp="1503297051878" />
+      <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.core/0.0.1/com.foresee.ftcsp.public.core-0.0.1-sources.jar!/com/foresee/ftcsp/common/core/exception/FtcspRuntimeException.java" timestamp="1503301905358" />
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/test/java/com/foresee/ftcsp/auth/service/TokenNotifierTest.java" timestamp="1502872188506">
         <mark key="[" line="34" column="50" />
         <mark key="]" line="34" column="46" />
@@ -32,13 +35,24 @@
         <mark key="." line="34" column="46" />
       </file>
       <file name="D:/foresee/base/public/com.foresee.ftcsp.monitor.server/src/main/java/com/foresee/ftcsp/monitor/server/MonitorServer.java" timestamp="1503287209679" />
-      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/RestResponse.java" timestamp="1503298479429">
-        <mark key="[" line="170" column="4" />
-        <mark key="]" line="170" column="15" />
-        <mark key="^" line="165" column="14" />
-        <mark key="." line="170" column="0" />
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/RestResponse.java" timestamp="1503302310437">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="^" line="100" column="90" />
+        <mark key="." line="96" column="0" />
       </file>
-      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/RestControllerInterceptor.java" timestamp="1503299034146" />
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/exception/BizErrorHandler.java" timestamp="1503301342894">
+        <mark key="[" line="76" column="38" />
+        <mark key="]" line="76" column="25" />
+        <mark key="^" line="76" column="25" />
+        <mark key="." line="76" column="25" />
+      </file>
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/RestControllerInterceptor.java" timestamp="1503302097480">
+        <mark key="[" line="206" column="49" />
+        <mark key="]" line="207" column="62" />
+        <mark key="^" line="207" column="62" />
+        <mark key="." line="207" column="62" />
+      </file>
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/util/Jackson.java" timestamp="1503296799228" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/annotation/context/UserContext.java" timestamp="1502784625249">
         <mark key="[" line="36" column="90" />
@@ -65,7 +79,7 @@
         <mark key="^" line="24" column="34" />
       </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/api/ProcessApi.java" timestamp="1503287138611" />
-      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/exception/DefaultExceptionHandler.java" timestamp="1503298204457" />
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/exception/DefaultExceptionHandler.java" timestamp="1503301109369" />
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/manual/dao/PdtGoodsSaleRegionExtMapper.java" timestamp="1503127561663">
         <mark key="[" line="15" column="46" />
         <mark key="]" line="22" column="64" />
@@ -86,6 +100,8 @@
         <mark key="." line="80" column="27" />
         <mark key="^" line="80" column="27" />
       </file>
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/exception/IGlobalExceptionHandler.java" timestamp="1503299764872" />
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/constant/AttributeExceptionCodeConstant.java" timestamp="1503301730921" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/pom.xml" timestamp="1502865347753">
         <mark key="[" line="82" column="21" />
         <mark key="]" line="85" column="49" />
@@ -131,6 +147,7 @@
         <mark key="." line="31" column="40" />
         <mark key="^" line="31" column="40" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.core/0.0.1/com.foresee.ftcsp.public.core-0.0.1.jar!/com/foresee/ftcsp/common/core/rest/RestControllerInterceptor.class" timestamp="1503301671736" />
       <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.service/src/main/java/com/foresee/ftcsp/security/service/IFtcspSecUserService.java" timestamp="1502968999699">
         <mark key="[" line="463" column="50" />
         <mark key="]" line="463" column="50" />
@@ -144,11 +161,17 @@
         <mark key="." line="42" column="53" />
         <mark key="^" line="42" column="53" />
       </file>
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.rest/src/main/java/com/foresee/ftcsp/goods/rest/inner/DemoController.java" timestamp="1503302230177">
+        <mark key="[" line="43" column="103" />
+        <mark key="]" line="43" column="104" />
+        <mark key="^" line="43" column="104" />
+        <mark key="." line="43" column="104" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.core/0.0.1/com.foresee.ftcsp.public.core-0.0.1.jar!/com/foresee/ftcsp/common/core/util/Jackson.class" timestamp="1503284165428" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/util/JsonUtils.java" timestamp="1503287797232">
         <mark key="[" line="33" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503285552704">
+      <file name="/Dummy.txt" timestamp="1503301702872">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="7" />
@@ -180,6 +203,7 @@
         <mark key="." line="20" column="91" />
       </file>
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.rest/src/test/java/com/foresee/ftcsp/goods/rest/ui/back/AttributeResourceTest.java" timestamp="1503284964141" />
+      <file name="D:/MyProgram/developer/Java/jdk1.8.0_121/src.zip!/java/lang/Long.java" timestamp="1503300328344" />
       <file name="/fragment.java" timestamp="1503127430273">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -226,43 +250,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBlcnJvck1zZyC07c7z0MXPogo=</text>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text>errorMsg</text>
       </register>
       <register name="/" type="4">
         <text>servet</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obnVtICsgIiwiICsgbnVtLmxlbmd0aCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhcmVhcy5hZGQoKQo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBlcnJvck1zZyC07c7z0MXPogo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBnb29kc1NhbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">LyoqCiAqIENvcHlyaWdodChjKSBGb3Jlc2VlIFNjaWVuY2UgJiBUZWNobm9sb2d5IEx0ZC4KICovCnBhY2thZ2UgY29tLmZvcmVzZWUuZnRjc3AuZ29vZHMuc2VydmljZS5pbXBsOwoKaW1wb3J0IGNvbS5mb3Jlc2VlLmZ0Y3NwLmNvbW1vbi5jb3JlLmV4Y2VwdGlvbi5GdGNzcFJ1bnRpbWVFeGNlcHRpb247CmltcG9ydCBjb20uZm9yZXNlZS5mdGNzcC5jb21tb24uY29yZS5pZC5JZEdlbmVyYXRvcjsKaW1wb3J0IGNvbS5mb3Jlc2VlLmZ0Y3NwLmNvbW1vbi5jb3JlLnBhZ2UuUGFnZVF1ZXJ5UGFyYW07CmltcG9ydCBjb20uZm9yZXNlZS5mdGNzcC5jb21tb24uY29yZS5wYWdlLlBhZ2VRdWVyeVJlc3VsdDsKaW1wb3J0IGNvbS5mb3Jlc2VlLmZ0Y3NwLmNvbW1vbi5jb3JlLnJlc3QuUmVzdFJlc3BvbnNlOwppbXBvcnQgY29tLmZvcmVzZWUuZnRjc3AuY29tbW9uLmNvcmUudXRpbC5KYWNrc29uOwppbXBvcnQgY29tLmZvcmVzZWUuZnRjc3AuY29tbW9uLmNvcmUudXRpbC5Mb2dnZXJzOwppbXBvcnQgY29tLmZvcmVzZWUuZnRjc3AuZ29vZHMuYXV0by5kYW8uKjsKaW1wb3J0IGNvbS5mb3Jlc2VlLmZ0Y3NwLmdvb2RzLmF1dG8ubW9kZWwuKjsKaW1wb3J0IGNvbS5mb3Jlc2VlLmZ0Y3NwLmdvb2RzLmNvbW1vbi5Db21tb25EaWN0OwppbXBvcnQgY29tLmZvcmVzZWUuZnRjc3AuZ29vZHMubWFudWFsLmRhby5QZHRHb29kc0V4dE1hcHBlcjsKaW1wb3J0IGNvbS5mb3Jlc2VlLmZ0Y3NwLmdvb2RzLm1hbnVhbC5kYW8uUGR0R29vZHNTYWxlUmVnaW9uRXh0TWFwcGVyOwppbXBvcnQgY29tLmZvcmVzZWUuZnRjc3AuZ29vZHMubWFudWFsLmRhby5QZHRQYWNrYWdlR29vZHNFeHRNYXBwZXI7CmltcG9ydCBjb20uZm9yZXNlZS5mdGNzcC5nb29kcy5tYW51YWwuZHRvLio7CmltcG9ydCBjb20uZm9yZXNlZS5mdGNzcC5nb29kcy5tYW51YWwucmVzdGR0by5Qcm9kdWN0QXR0cmlidXRlRFRPOwppbXBvcnQgY29tLmZvcmVzZWUuZnRjc3AuZ29vZHMubWFudWFsLnJlc3RkdG8uUXVlcnlHb29kSW5mb0RUTzsKaW1wb3J0IGNvbS5mb3Jlc2VlLmZ0Y3NwLmdvb2RzLm1hbnVhbC5yZXN0ZHRvLlF1ZXJ5R29vZHNCeUNhdGVnb3J5RFRPOwppbXBvcnQgY29tLmZvcmVzZWUuZnRjc3AuZ29vZHMuc2VydmljZS4qOwppbXBvcnQgY29tLmdvb2dsZS5jb21tb24uY29sbGVjdC5IYXNoTXVsdGlzZXQ7CmltcG9ydCBjb20uZ29vZ2xlLmNvbW1vbi5jb2xsZWN0Lk11bHRpc2V0OwppbXBvcnQgb3JnLmFwYWNoZS5jb21tb25zLmNvbGxlY3Rpb25zLkNvbGxlY3Rpb25VdGlsczsKaW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXI7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmJlYW5zLkJlYW5VdGlsczsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5hbm5vdGF0aW9uLkF1dG93aXJlZDsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5TZXJ2aWNlOwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay50cmFuc2FjdGlvbi5hbm5vdGF0aW9uLlRyYW5zYWN0aW9uYWw7CgppbXBvcnQgamF2YXguYW5ub3RhdGlvbi5SZXNvdXJjZTsKaW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7CmltcG9ydCBqYXZhLnV0aWwuSGFzaE1hcDsKaW1wb3J0IGphdmEudXRpbC5MaXN0OwppbXBvcnQgamF2YS51dGlsLk1hcDsKCi8qKgogKiA8cHJlPgogKiDJzMa30rXO8bLjyrXP1sDgoaMKICogPC9wcmU+CiAqCiAqIEBhdXRob3Iga2VzaGlqdW5AZm9yZXNlZS5jb20uY24KICogQGRhdGUgMjAxN8TqONTCN8jVCiAqIEB2ZXJzaW9uIDEuMDAuMDAKICoKICogICAgICAgICAgPHByZT4KICog0N64xLzHwrwgCiAqICAgINDeuMS687Dmsb46ICAgICDQ3rjEyMujuiAg0N64xMjVxto6ICAgICDQ3rjExNrI3ToKICogICAgICAgICAgPC9wcmU+CiAqLwpAU2VydmljZQpAVHJhbnNhY3Rpb25hbApwdWJsaWMgY2xhc3MgR29vZHNTZXJ2aWNlSW1wbCBpbXBsZW1lbnRzIElHb29kc1NlcnZpY2UgewoKICAgIHByaXZhdGUgTG9nZ2VyIGxvZ2dlciA9IExvZ2dlcnMubWFrZSgpOwoKICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBQZHRHb29kc0V4dE1hcHBlciBnb29kc0V4dE1hcHBlcjsKCiAgICBAQXV0b3dpcmVkCiAgICBwcml2YXRlIFBkdEdvb2RzTWFwcGVyIGdvb2RzTWFwcGVyOwoKICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgUGR0UGFja2FnZUdvb2RzRXh0TWFwcGVyIHBhY2thZ2VHb29kc0V4dE1hcHBlcjsKCiAgICBAQXV0b3dpcmVkCiAgICBwcml2YXRlIElDYXRlZ29yeVNlcnZpY2UgaUNhdGVnb3J5U2VydmljZTsKCiAgICBAQXV0b3dpcmVkCiAgICBwcml2YXRlIElQcm9kdWN0Q2F0ZWdvcnlGcm9udFNlcnZpY2UgaVByb2R1Y3RDYXRlZ29yeUZyb250U2VydmljZTsKCiAgICBAQXV0b3dpcmVkCiAgICBwcml2YXRlIElUeXBlQXR0cmlidXRlU2VydmljZSBpVHlwZUF0dHJpYnV0ZVNlcnZpY2U7CiAgICBAQXV0b3dpcmVkCiAgICBwcml2YXRlIFBkdFBhY2thZ2VHb29kc01hcHBlciBwYWNrYWdlR29vZHNNYXBwZXI7CgogICAgQEF1dG93aXJlZAogICAgcHJpdmF0ZSBQZHRQaG90b0FsYnVtTWFwcGVyIHBob3RvQWxidW1NYXBwZXI7CgogICAgQEF1dG93aXJlZAogICAgcHJpdmF0ZSBQZHRHb29kc1NhbGVSZWdpb25NYXBwZXIgZ29vZHNTYWxlUmVnaW9uTWFwcGVyOwoKICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgSWRHZW5lcmF0b3IgaWRHZW5lcmF0b3I7CiAgICBAQXV0b3dpcmVkCiAgICBwcml2YXRlIFBkdEdvb2RzQmlsbGluZ01hcHBlciBnb29kc0JpbGxpbmdNYXBwZXI7CgoKICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgSVByb2R1Y3RBdHRyaWJ1dGVUeXBlU2VydmljZSBwcm9kdWN0QXR0cmlidXRlVHlwZVNlcnZpY2U7CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgTGlzdDxQZHRHb29kc0RUTz4gcXVlcnlHb29kSW5mbyhRdWVyeUdvb2RJbmZvRFRPIHF1ZXJ5R29vZEluZm9EVE8pIHsKICAgICAgICBQZHRHb29kc0RUTyBwZHRHb29kc0RUTyA9IG5ldyBQZHRHb29kc0RUTygpOwogICAgICAgIHBkdEdvb2RzRFRPLnNldEFyZWFDb2RlKHF1ZXJ5R29vZEluZm9EVE8uZ2V0QXJlYUNvZGUoKSk7CiAgICAgICAgcGR0R29vZHNEVE8uc2V0UHJvZHVjdENvZGUocXVlcnlHb29kSW5mb0RUTy5nZXRQcm9kdWN0Q29kZSgpKTsKICAgICAgICBMaXN0PFBkdEdvb2RzRFRPPiBnb29kc0xpc3QgPSB0aGlzLmdvb2RzRXh0TWFwcGVyLnF1ZXJ5R29vZEluZm8ocGR0R29vZHNEVE8pOwogICAgICAgIGlmIChnb29kc0xpc3QgIT0gbnVsbCAmJiAhZ29vZHNMaXN0LmlzRW1wdHkoKSkgewogICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGdvb2RzTGlzdC5zaXplKCk7IGkrKykgewogICAgICAgICAgICAgICAgcGR0R29vZHNEVE8uc2V0R29vZHNJZChnb29kc0xpc3QuZ2V0KGkpLmdldEdvb2RzSWQoKSk7CiAgICAgICAgICAgICAgICBQZHRHb29kc0RUTyBHb29kc0luZm8gPSBxdWVyeUdvb2RUYWdQaG90b0Rlc2NyaXB0aW9uKHBkdEdvb2RzRFRPKTsKICAgICAgICAgICAgICAgIGlmIChHb29kc0luZm8gIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIGdvb2RzTGlzdC5nZXQoaSkuc2V0VGFncyhHb29kc0luZm8uZ2V0VGFncygpKTsKICAgICAgICAgICAgICAgICAgICBnb29kc0xpc3QuZ2V0KGkpLnNldERlc2NyaXB0aW9ucyhHb29kc0luZm8uZ2V0RGVzY3JpcHRpb25zKCkpOwogICAgICAgICAgICAgICAgICAgIGdvb2RzTGlzdC5nZXQoaSkuc2V0UGhvdG9zKEdvb2RzSW5mby5nZXRQaG90b3MoKSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KCiAgICAgICAgfQogICAgICAgIHJldHVybiBnb29kc0xpc3Q7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgUGR0R29vZHNEVE8gcXVlcnlHb29kVGFnUGhvdG9EZXNjcmlwdGlvbihQZHRHb29kc0RUTyBwZHRHb29kc0RUTykgewogICAgICAgIHJldHVybiBnb29kc0V4dE1hcHBlci5xdWVyeUdvb2RUYWdQaG90b0Rlc2NyaXB0aW9uKHBkdEdvb2RzRFRPKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYWdlUXVlcnlSZXN1bHQ8UGR0R29vZHNJbmZvRXh0ZW5kRFRPPiBxdWVyeUdvb2RzV2l0aFBhZ2UoUGFnZVF1ZXJ5UGFyYW0gcGFyYW0pIHsKICAgICAgICBQYWdlUXVlcnlSZXN1bHQ8UGR0R29vZHNJbmZvRXh0ZW5kRFRPPiBnb29kc0V4dGVuZCA9IGdvb2RzRXh0TWFwcGVyLnF1ZXJ5R29vZHNXaXRoUGFnZShwYXJhbSk7CiAgICAgICAgcmV0dXJuIGdvb2RzRXh0ZW5kOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIGludCBjaGFuZ2VHb29kc1N0YXR1cyhMb25nIGdvb2RzSWQsIGludCBnb29kc1N0YXR1cykgewogICAgICAgIC8vIMXQts/Kx7fxzqrNo9PDCiAgICAgICAgaWYgKGdvb2RzU3RhdHVzID09IENvbW1vbkRpY3QuR09PRFNfU1RBVFVTX0RPV05fU0hFTFZFUykgewogICAgICAgICAgICBMaXN0PFBkdFBhY2thZ2VHb29kcz4gcGR0UGFja2FnZUdvb2RzID0gcGFja2FnZUdvb2RzRXh0TWFwcGVyLnNlbGVjdEJ5R29vZHNJZChnb29kc0lkKTsKICAgICAgICAgICAgaWYgKENvbGxlY3Rpb25VdGlscy5pc05vdEVtcHR5KHBkdFBhY2thZ2VHb29kcykpIHsKICAgICAgICAgICAgICAgIHJldHVybiBDb21tb25EaWN0LkNIQU5HRV9TVEFUVVNfRkFJTEVEX1VTRURfSU5fQkFHOwogICAgICAgICAgICB9CiAgICAgICAgICAgIC8vIHRvZG8gxdC2z8rHt/HU2snMxrcvzNeyzSwgzNeyzdbQyrnTwwogICAgICAgIH0KICAgICAgICBQZHRHb29kcyBwZHRHb29kcyA9IG5ldyBQZHRHb29kcygpOwogICAgICAgIHBkdEdvb2RzLnNldEdvb2RzSWQoZ29vZHNJZCk7CiAgICAgICAgcGR0R29vZHMuc2V0R29vZHNTdGF0dXMoZ29vZHNTdGF0dXMpOwogICAgICAgIHJldHVybiBnb29kc01hcHBlci51cGRhdGVCeVByaW1hcnlLZXlTZWxlY3RpdmUocGR0R29vZHMpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIFBkdEdvb2RzIHF1ZXJ5R29vZHMoTG9uZyBnb29kc0lkKSB7CiAgICAgICAgcmV0dXJuIGdvb2RzTWFwcGVyLnNlbGVjdEJ5UHJpbWFyeUtleShnb29kc0lkKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBMaXN0PFBkdEdvb2RzRFRPPiBxdWVyeUdvb2RzQnlDYXRlZ29yeUFuZERlcElkKFF1ZXJ5R29vZHNCeUNhdGVnb3J5RFRPIHF1ZXJ5R29vZHNCeUNhdGVnb3J5RFRPKSB7CiAgICAgICAgLy/F0LbPx7C2y8DgsfDKx7fxtObU2gogICAgICAgIExvbmcgY2F0ZWdvcnlGcm9udElkID0gcXVlcnlHb29kc0J5Q2F0ZWdvcnlEVE8uZ2V0Q2F0ZWdvcnlGcm9udElkKCk7CiAgICAgICAgaWYgKCFpQ2F0ZWdvcnlTZXJ2aWNlLnNlbGVjdENhdGVnb3J5RnJvbnRCeUlkKGNhdGVnb3J5RnJvbnRJZCkpIHsKICAgICAgICAgICAgLy+yu7Tm1NqjrLe1u9i07c7z0MXPogogICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICB9CiAgICAgICAgLy+78cihuMPHsLbLwOCx8M/Cw+a1xLL6xrcvsvrGt7D8wdBpZAogICAgICAgIExpc3Q8TG9uZz4gcHJvZHVjdElkTGlzdCA9IGlQcm9kdWN0Q2F0ZWdvcnlGcm9udFNlcnZpY2Uuc2VsZWN0Q2F0ZWdvcnlGcm9udFByb2R1Y3RJZEJ5SWQoY2F0ZWdvcnlGcm9udElkKTsKICAgICAgICBpZiAobnVsbCA9PSBwcm9kdWN0SWRMaXN0IHx8IHByb2R1Y3RJZExpc3Quc2l6ZSgpIDw9IDApIHsKICAgICAgICAgICAgLy+yu7Tm1Nqy+sa3o6y3tbvY0MXPogogICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICB9CgogICAgICAgIC8vu/HIobK/w8VpZLXEz8K8trK/w8VpZLrNsb6yv8PFaWS1xExpc3S8r7rPCiAgICAgICAgLy9UT0RPCiAgICAgICAgTGlzdDxTdHJpbmc+IGRlcElkcyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIGRlcElkcy5hZGQocXVlcnlHb29kc0J5Q2F0ZWdvcnlEVE8uZ2V0RGVwSWQoKSk7CgogICAgICAgIC8vuPm+3bL6xrcvsvrGt7D8TGlzdLvxyKHJzMa3L8zXss1MaXN0CiAgICAgICAgTGlzdDxQZHRHb29kc0RUTz4gR29vZHNMaXN0ID0gc2VsZWN0UGR0QnlQcm9JZEFuZERlcElkKHByb2R1Y3RJZExpc3QsIGRlcElkcyk7CiAgICAgICAgaWYgKG51bGwgPT0gR29vZHNMaXN0IHx8IEdvb2RzTGlzdC5zaXplKCkgPD0gMCkgewogICAgICAgICAgICAvL7K7tObU2snMxrejrLe1u9jQxc+iCiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICAvL72ryczGty/M17LNTGlzdL340NDX6dewzqpMaXN0PExvbmc+Z29vZHNJZExpc3Qgus1NYXA8Z29vZHNJRCxQZHRHb29kc0RUTz4gtcRtYXAKICAgICAgICBMaXN0PExvbmc+IGdvb2RzSWRMaXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgTWFwPExvbmcsIFBkdEdvb2RzRFRPPiBwZHRHb29kc0RUT01hcCA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgICBmb3IgKFBkdEdvb2RzRFRPIHBkdEdvb2RzRFRPIDogR29vZHNMaXN0KSB7CiAgICAgICAgICAgIGdvb2RzSWRMaXN0LmFkZChwZHRHb29kc0RUTy5nZXRHb29kc0lkKCkpOwogICAgICAgICAgICBwZHRHb29kc0RUT01hcC5wdXQocGR0R29vZHNEVE8uZ2V0R29vZHNJZCgpLCBwZHRHb29kc0RUTyk7CiAgICAgICAgfQogICAgICAgIC8vuPm+3cnMxrcvzNeyzUlkvK+6z7vxyKG3x7aovNvK9NDU1rUKICAgICAgICBMaXN0PFBkdFR5cGVBdHRyaWJ1dGVEVE8+IHR5cGVBdHRyaWJ1dGVMaXN0ID0gaVR5cGVBdHRyaWJ1dGVTZXJ2aWNlLnNlbGVjdEJ5R29vZHNJZHMoZ29vZHNJZExpc3QpOwogICAgICAgIC8vvau3x7aovNvK9NDU1rXX6dewtb1QZHRHb29kc0RUT7bUz/PIpaGjCiAgICAgICAgaWYgKG51bGwgIT0gdHlwZUF0dHJpYnV0ZUxpc3QgJiYgdHlwZUF0dHJpYnV0ZUxpc3Quc2l6ZSgpID4gMCkgewogICAgICAgICAgICBmb3IgKFBkdFR5cGVBdHRyaWJ1dGVEVE8gcGR0VHlwZUF0dHJpYnV0ZURUTyA6IHR5cGVBdHRyaWJ1dGVMaXN0KSB7CiAgICAgICAgICAgICAgICBwZHRHb29kc0RUT01hcC5nZXQocGR0VHlwZUF0dHJpYnV0ZURUTy5nZXRQcm9kdWN0VHlwZUlkKCkpLnNldEF0dHJpYnV0ZXMocGR0VHlwZUF0dHJpYnV0ZURUTy5nZXRQZHRBdHRyaWJ1dGVEVE9MaXN0KCkpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJldHVybiBHb29kc0xpc3Q7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgUGFnZVF1ZXJ5UmVzdWx0PFBkdEdvb2RzRFRPPiBxdWVyeUhpc3RvcnlWZXJzaW9ucyhQYWdlUXVlcnlQYXJhbSBwYWdlUXVlcnlQYXJhbSkgewogICAgICAgIHJldHVybiBnb29kc0V4dE1hcHBlci5xdWVyeUhpc3RvcnlWZXJzaW9ucyhwYWdlUXVlcnlQYXJhbSk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgUmVzdFJlc3BvbnNlIGRlbGV0ZUdvb2RzKExvbmcgZ29vZHNJZCkgewogICAgICAgIC8vIMXQts/JzMa3L8zXss3Kx7fx0tG+rc/CvNwKICAgICAgICBQZHRHb29kcyBwZHRHb29kcyA9IHRoaXMucXVlcnlHb29kcyhnb29kc0lkKTsKCiAgICAgICAgaWYgKHBkdEdvb2RzID09IG51bGwpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IEZ0Y3NwUnVudGltZUV4Y2VwdGlvbigiMSIsICK4w8nMxrcvzNeyzUlEzrSy6dGvtb3JzMa3L8zXss3Qxc+iIik7CiAgICAgICAgfQogICAgICAgIGlmIChwZHRHb29kcy5nZXRHb29kc1R5cGUoKSA9PSBDb21tb25EaWN0LkdPT0RTX1RZUEVfR09PRFMpIHsvLyDJzMa3CiAgICAgICAgICAgIHRocm93IG5ldyBGdGNzcFJ1bnRpbWVFeGNlcHRpb24oIjEiLCAiuMPJzMa3zrTPwrzcIik7CiAgICAgICAgfQogICAgICAgIGlmIChwZHRHb29kcy5nZXRHb29kc1R5cGUoKSA9PSBDb21tb25EaWN0LkdPT0RTX1RZUEVfUEFDSykgey8vIMzXss0KICAgICAgICAgICAgdGhyb3cgbmV3IEZ0Y3NwUnVudGltZUV4Y2VwdGlvbigiMSIsICK4w8zXss3OtM/CvNwiKTsKICAgICAgICB9CgogICAgICAgIGlmIChwZHRHb29kcy5nZXRHb29kc1N0YXR1cygpID09IENvbW1vbkRpY3QuR09PRFNfU1RBVFVTX0RPV05fU0hFTFZFUykgeyAvLyDS0c/CvNwKICAgICAgICAgICAgUGR0R29vZHMgdXBkYXRlUGR0R29vZHMgPSBuZXcgUGR0R29vZHMoKTsKICAgICAgICAgICAgdXBkYXRlUGR0R29vZHMuc2V0R29vZHNJZChnb29kc0lkKTsKICAgICAgICAgICAgdXBkYXRlUGR0R29vZHMuc2V0SXNEZWxldGUoQ29tbW9uRGljdC5JU19ERUZBVUxUX1RSVUUpOwogICAgICAgICAgICAvLyC4/NDCyse38cm+s/3XtMysCiAgICAgICAgICAgIGdvb2RzTWFwcGVyLnVwZGF0ZUJ5UHJpbWFyeUtleVNlbGVjdGl2ZSh1cGRhdGVQZHRHb29kcyk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gbmV3IFJlc3RSZXNwb25zZSgiMCIsICKy2df3s8m5piIsIGdvb2RzSWQpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIGludCB1cGRhdGVHb29kc1dpdGhTdGF0dWVKdWRnZShQZHRHb29kc0RUTyBwZHRHb29kc0RUTywgTGlzdDxJbnRlZ2VyPiBvcmlnaW5hbEdvb2RzU3RhdHVzKSB7CiAgICAgICAgcmV0dXJuIGdvb2RzRXh0TWFwcGVyCiAgICAgICAgICAgICAgICAuVXBkYXRlR29vZHNTZWxlY3RpdmVCeUdvb2RzSWRXaXRoRGVsZXRlU3RhdHVzKHBkdEdvb2RzRFRPLCBvcmlnaW5hbEdvb2RzU3RhdHVzKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBMaXN0PFBkdEdvb2RzRFRPPiBxdWVyeVBhY2thZ2VDb250YWludEdvb2RzKExvbmcgZ29vZHNJZCkgewogICAgICAgIExpc3Q8UGR0R29vZHNEVE8+IHBhY2thZ2VzID0gZ29vZHNFeHRNYXBwZXIuc2VsZWN0UGFja2FnZUNvbnRhaW50R29vZHNJZChnb29kc0lkKTsKCgogICAgICAgIHJldHVybiBudWxsOwogICAgfQoKICAgIHB1YmxpYyBMaXN0PFBkdEdvb2RzRFRPPiBzZWxlY3RQZHRCeVByb0lkQW5kRGVwSWQoTGlzdDxMb25nPiBwcm9kdWN0TGlzdCwgTGlzdDxTdHJpbmc+IGRlcElkcykgewogICAgICAgIHJldHVybiBnb29kc0V4dE1hcHBlci5zZWxlY3RQZHRCeVByb0lkQW5kRGVwSWQocHJvZHVjdExpc3QsIGRlcElkcyk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCB1cGRhdGUoUGR0R29vZHNEZXRhaWxEVE8gcGR0R29vZHNEVE8pIHsKICAgICAgICBQZHRHb29kcyBvbGRHb29kcyA9IGdvb2RzTWFwcGVyLnNlbGVjdEJ5UHJpbWFyeUtleShwZHRHb29kc0RUTy5nZXRHb29kc0lkKCkpOwogICAgICAgIGlmIChvbGRHb29kcyA9PSBudWxsKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBGdGNzcFJ1bnRpbWVFeGNlcHRpb24oIjEiLCAiw7vT0NXi0fm1xMnMxrcvsvrGtyIpOwogICAgICAgIH0KICAgICAgICAvLyDJzMa317TMrKOoMaGiwrzI66O7MqGi0tHJz7zco7szoaLS0c/CvNyjuzShotf3t8+jqQogICAgICAgIC8vIMK8yOvXtMysCiAgICAgICAgc3dpdGNoIChwZHRHb29kc0RUTy5nZXRHb29kc1N0YXR1cygpKSB7CiAgICAgICAgICAgIGNhc2UgMTogLy8gwrzI69e0zKwKICAgICAgICAgICAgICAgIC8vIM/Iyb6z/cS/x7C52MGqtcTJzMa3LCDP+srbx/jT8iwgwKnVudDFz6IsIMnMvNLQxc+iLCCxo7TmzbzGrAogICAgICAgICAgICAgICAgZGlzYWJsZUdvb2RzSW5mbyhwZHRHb29kc0RUTyk7CiAgICAgICAgICAgICAgICAvLyDW2NDCsaO05sv509DQxc+iCiAgICAgICAgICAgICAgICBQZHRHb29kcyBuZXdHb29kcyA9IGNvcHlQZHRHb29kcyhwZHRHb29kc0RUTyk7CiAgICAgICAgICAgICAgICBuZXdHb29kcy5zZXRHb29kc0lkKHBkdEdvb2RzRFRPLmdldEdvb2RzSWQoKSk7CiAgICAgICAgICAgICAgICBzYXZlR29vZHMocGR0R29vZHNEVE8sIG5ld0dvb2RzKTsKICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgY2FzZSAyOiAvLyDJz7zc17TMrAogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICBjYXNlIDM6IC8vIM/CvNzXtMysCiAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgIGNhc2UgNDogLy8g1/e3zwogICAgICAgICAgICAgICAgdGhyb3cgbmV3IEZ0Y3NwUnVudGltZUV4Y2VwdGlvbigiMSIsICLJzMa30tG+rbK7tObU2iIpOwogICAgICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICAgICAgdGhyb3cgbmV3IEZ0Y3NwUnVudGltZUV4Y2VwdGlvbigiMSIsICKyu7Tm1NrV4tH5tcTXtMysIik7CiAgICAgICAgfQogICAgfQoKICAgIHByaXZhdGUgdm9pZCBkaXNhYmxlR29vZHNJbmZvKFBkdEdvb2RzRGV0YWlsRFRPIHBkdEdvb2RzRFRPKSB7CiAgICAgICAgLy8gyb6z/bncwO3JzMa3CiAgICAgICAgZGVsZXRlQXNzb2NpYXRlR29vZHMocGR0R29vZHNEVE8pOwogICAgICAgIC8vIMm+s/3P+srbx/jT8gogICAgICAgIGRlbGV0ZVNhbGVSZWdpb24ocGR0R29vZHNEVE8uZ2V0QXJlYXMoKSk7CiAgICAgICAgLy8gyb6z/cCp1bnQxc+iCiAgICAgICAgLy8gyb6z/cnMvNLQxc+iCiAgICAgICAgLy8gyb6z/c28xqwKICAgIH0KCiAgICBAQXV0b3dpcmVkCiAgICBwcml2YXRlIFBkdEdvb2RzU2FsZVJlZ2lvbkV4dE1hcHBlciBnb29kc1NhbGVSZWdpb25FeHRNYXBwZXI7CiAgICAKICAgIHByaXZhdGUgdm9pZCBkZWxldGVTYWxlUmVnaW9uKExpc3Q8U3RyaW5nPiBhcmVhcykgewogICA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiaXpFcnJvckhhbmRsZXIuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGdvb2RzU2FsZVJlZ2lvbk1hcHBlci5kZWxldGUK</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3RbXSBlcnJvclBhcmFtcyA9IHJlc3RSZXNwb25zZS5nZXRFcnJvclBhcmFtcygpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUGR0R29vZHNTYWxlCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTG9nZ2VyCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgU3RyaW5nIG51bSA9IExvbmcudG9TdHJpbmcoTG9uZy5NQVhfVkFMVUUsIDM2KTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obnVtICsgIiwiICsgbnVtLmxlbmd0aCgpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oTG9uZy5NQVhfVkFMVUUgKyAiLCIgKyAoTG9uZy5NQVhfVkFMVUUrIiIpLmxlbmd0aCgpKTsKICAgIH0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIiI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYWNrYWdlR29vZHNFeHRNYXBwZXIuc2VsZWN0QnlHb29kc0lkKCkK</text>
+        <text encoding="base64">ICAgICAgICBWYWxpZGF0ZS5ub3ROdWxsKHJlc3RSZXNwb25zZSwgIlJlc3RSZXNwb25zZbK7xNzOqm51bGwiKTsK</text>
       </register>
     </registers>
     <search>
