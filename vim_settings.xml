@@ -90,13 +90,6 @@
         <mark key="." line="31" column="33" />
         <mark key="^" line="31" column="33" />
       </file>
-      <file name="D:/foresee/product/com.foresee.ftcsp.goods.rest/src/test/java/com/foresee/ftcsp/goods/rest/ui/back/GoodsBackResourceTest.java" timestamp="1503473854597">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="87" column="69" />
-        <mark key="]" line="87" column="69" />
-        <mark key="." line="87" column="69" />
-        <mark key="^" line="67" column="42" />
-      </file>
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/manual/dao/PdtGoodsSaleRegionExtMapper.java" timestamp="1503482278115">
         <mark key="[" line="20" column="71" />
         <mark key="]" line="20" column="62" />
@@ -177,13 +170,6 @@
         <mark key="^" line="25" column="31" />
         <mark key="." line="25" column="31" />
       </file>
-      <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/manual/dto/BaseGoodsDetailDTO.java" timestamp="1503469568895">
-        <mark key="'" line="26" column="22" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="^" line="104" column="14" />
-        <mark key="." line="106" column="0" />
-      </file>
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/response/BooleanResposne.java" timestamp="1503306246385">
         <mark key="[" line="15" column="26" />
         <mark key="]" line="15" column="27" />
@@ -224,6 +210,12 @@
       </file>
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/resources/com/foresee/ftcsp/goods/auto/mapper/PdtSupplierMapper.xml" timestamp="1503456296060" />
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.rest/pom.xml" timestamp="1503462561082" />
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/test/java/com/foresee/ftcsp/auth/service/TokenBackServiceTest.java" timestamp="1503485861288">
+        <mark key="[" line="26" column="14" />
+        <mark key="]" line="26" column="14" />
+        <mark key="^" line="25" column="70" />
+        <mark key="." line="26" column="14" />
+      </file>
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.service/src/main/java/com/foresee/ftcsp/goods/service/IGoodsService.java" timestamp="1503473683676">
         <mark key="[" line="157" column="30" />
         <mark key="]" line="157" column="37" />
@@ -289,11 +281,11 @@
         <mark key="^" line="39" column="21" />
         <mark key="." line="39" column="21" />
       </file>
-      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/TokenBackService.java" timestamp="1503484406769">
-        <mark key="[" line="45" column="46" />
-        <mark key="]" line="46" column="24" />
-        <mark key="^" line="46" column="24" />
-        <mark key="." line="46" column="24" />
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/TokenBackService.java" timestamp="1503485673891">
+        <mark key="[" line="37" column="55" />
+        <mark key="]" line="37" column="63" />
+        <mark key="^" line="37" column="63" />
+        <mark key="." line="37" column="63" />
       </file>
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/resources/com/foresee/ftcsp/goods/manual/mapper/PdtGoodsExtMapper.xml" timestamp="1503456435677">
         <mark key="[" line="401" column="24" />
@@ -357,7 +349,7 @@
         <mark key="^" line="20" column="33" />
         <mark key="." line="20" column="33" />
       </file>
-      <file name="/fragment.java" timestamp="1503473328431">
+      <file name="/fragment.java" timestamp="1503485711301">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -407,16 +399,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{</text>
+        <text>True</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text>servet</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEZ0Y3NwUnVudGltZUV4Y2VwdGlvbigiMTAwMDAwMDAiLCAitMvJzMa3sru05tTaIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKGV4aXN0cyk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
