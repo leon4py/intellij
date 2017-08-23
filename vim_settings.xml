@@ -21,12 +21,6 @@
         <mark key="^" line="25" column="7" />
         <mark key="." line="25" column="44" />
       </file>
-      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/response/BooleanResposne.java" timestamp="1503306246385">
-        <mark key="[" line="15" column="26" />
-        <mark key="]" line="15" column="27" />
-        <mark key="^" line="15" column="27" />
-        <mark key="." line="15" column="27" />
-      </file>
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/manual/dao/PdtGoodsBillingExtMapper.java" timestamp="1503473270467">
         <mark key="[" line="25" column="12" />
         <mark key="]" line="25" column="21" />
@@ -59,11 +53,10 @@
         <mark key="^" line="56" column="14" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/manual/dao/PdtPhotoAlbumExtMapper.java" timestamp="1503475745511">
-        <mark key="[" line="25" column="27" />
-        <mark key="]" line="25" column="72" />
-        <mark key="^" line="25" column="72" />
-        <mark key="." line="25" column="72" />
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/constant/GoodsConstant.java" timestamp="1503480304039">
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="36" column="7" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/resources/com/foresee/ftcsp/goods/manual/mapper/PdtGoodsBillingExtMapper.xml" timestamp="1503473254095" />
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/test/java/com/foresee/ftcsp/auth/service/TokenNotifierTest.java" timestamp="1502872188506">
@@ -78,17 +71,136 @@
         <mark key="^" line="91" column="48" />
         <mark key="." line="91" column="43" />
       </file>
-      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/exception/BizErrorHandler.java" timestamp="1503301342894">
-        <mark key="[" line="76" column="38" />
-        <mark key="]" line="76" column="25" />
-        <mark key="^" line="76" column="25" />
-        <mark key="." line="76" column="25" />
-      </file>
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/annotation/context/UserContext.java" timestamp="1503308437449">
         <mark key="[" line="36" column="90" />
         <mark key="]" line="36" column="90" />
         <mark key="^" line="36" column="90" />
         <mark key="." line="36" column="90" />
+      </file>
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.service/src/main/java/com/foresee/ftcsp/goods/service/impl/ProductSaleRegionServiceImpl.java" timestamp="1503461161404" />
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.service/src/main/java/com/foresee/ftcsp/goods/service/IProductAttributeTypeService.java" timestamp="1503024462947">
+        <mark key="[" line="22" column="40" />
+        <mark key="]" line="22" column="40" />
+        <mark key="." line="22" column="40" />
+        <mark key="^" line="24" column="34" />
+      </file>
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/annotation/serial/jackson/SessionUserIdSerializer.java" timestamp="1503406164430">
+        <mark key="[" line="34" column="45" />
+        <mark key="]" line="31" column="33" />
+        <mark key="." line="31" column="33" />
+        <mark key="^" line="31" column="33" />
+      </file>
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.rest/src/test/java/com/foresee/ftcsp/goods/rest/ui/back/GoodsBackResourceTest.java" timestamp="1503473854597">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="87" column="69" />
+        <mark key="]" line="87" column="69" />
+        <mark key="." line="87" column="69" />
+        <mark key="^" line="67" column="42" />
+      </file>
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/manual/dao/PdtGoodsSaleRegionExtMapper.java" timestamp="1503482278115">
+        <mark key="[" line="20" column="71" />
+        <mark key="]" line="20" column="62" />
+        <mark key="^" line="20" column="62" />
+        <mark key="." line="20" column="62" />
+      </file>
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/manual/dto/PdtGoodsDTO.java" timestamp="1503480618414" />
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/config/FtcspRestControllerAspect.java" timestamp="1503048570499">
+        <mark key="[" line="80" column="27" />
+        <mark key="]" line="80" column="27" />
+        <mark key="." line="80" column="27" />
+        <mark key="^" line="80" column="27" />
+      </file>
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/constant/AttributeExceptionCodeConstant.java" timestamp="1503470508901" />
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.rest/src/main/java/com/foresee/ftcsp/goods/rest/ui/back/GoodsBackResource.java" timestamp="1503480369701">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/java/com/foresee/ftcsp/gateway/controller/GatewayController.java" timestamp="1503451789911" />
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.rest/src/test/java/com/foresee/ftcsp/goods/rest/ui/back/CategoryResourceTest.java" timestamp="1502675159557">
+        <mark key="[" line="36" column="51" />
+        <mark key="]" line="36" column="27" />
+        <mark key="." line="36" column="27" />
+        <mark key="^" line="36" column="27" />
+      </file>
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.service/src/main/java/com/foresee/ftcsp/goods/service/impl/GoodsServiceImpl.java" timestamp="1503482791257">
+        <mark key="[" line="650" column="46" />
+        <mark key="]" line="650" column="68" />
+        <mark key="^" line="650" column="68" />
+        <mark key="." line="650" column="68" />
+      </file>
+      <file name="/GoodsServiceImpl.java" timestamp="1503481562960" />
+      <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.core/0.0.1/com.foresee.ftcsp.public.core-0.0.1-sources.jar!/com/foresee/ftcsp/common/core/exception/DefaultExceptionHandler.java" timestamp="1503472545254" />
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.rest/src/main/java/com/foresee/ftcsp/goods/rest/ui/back/ProductResource.java" timestamp="1503482553583">
+        <mark key="[" line="204" column="129" />
+      </file>
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/manual/dto/PdtPhotoAlbumDTO.java" timestamp="1503469764779">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="15" />
+        <mark key="^" line="55" column="14" />
+        <mark key="." line="87" column="0" />
+      </file>
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/auto/model/PdtGoodsBilling.java" timestamp="1503473000073">
+        <mark key="[" line="47" column="35" />
+        <mark key="]" line="47" column="40" />
+        <mark key="." line="47" column="40" />
+        <mark key="^" line="47" column="40" />
+      </file>
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/annotation/SessionUserId.java" timestamp="1503378033057">
+        <mark key="[" line="29" column="23" />
+        <mark key="]" line="29" column="33" />
+        <mark key="^" line="29" column="33" />
+        <mark key="." line="29" column="33" />
+      </file>
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.rest/src/main/java/com/foresee/ftcsp/goods/rest/ui/front/GoodsResource.java" timestamp="1502956220184">
+        <mark key="[" line="45" column="17" />
+        <mark key="]" line="45" column="17" />
+        <mark key="^" line="45" column="17" />
+        <mark key="." line="45" column="17" />
+      </file>
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/response/StringResponse.java" timestamp="1503308133227">
+        <mark key="[" line="15" column="35" />
+        <mark key="]" line="15" column="56" />
+        <mark key="." line="15" column="56" />
+        <mark key="^" line="15" column="56" />
+      </file>
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.service/src/main/java/com/foresee/ftcsp/goods/service/impl/ProductServiceImpl.java" timestamp="1503482620963" />
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/resources/com/foresee/ftcsp/goods/manual/mapper/PdtPackageGoodsExtMapper.xml" timestamp="1503459108664">
+        <mark key="[" line="26" column="62" />
+        <mark key="]" line="26" column="73" />
+        <mark key="^" line="26" column="73" />
+        <mark key="." line="26" column="73" />
+      </file>
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/dynamicdb/PdtCustomSqlSessionFactory.java" timestamp="1502961956959">
+        <mark key="[" line="25" column="32" />
+        <mark key="]" line="25" column="31" />
+        <mark key="^" line="25" column="31" />
+        <mark key="." line="25" column="31" />
+      </file>
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/manual/dto/BaseGoodsDetailDTO.java" timestamp="1503469568895">
+        <mark key="'" line="26" column="22" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="^" line="104" column="14" />
+        <mark key="." line="106" column="0" />
+      </file>
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/response/BooleanResposne.java" timestamp="1503306246385">
+        <mark key="[" line="15" column="26" />
+        <mark key="]" line="15" column="27" />
+        <mark key="^" line="15" column="27" />
+        <mark key="." line="15" column="27" />
+      </file>
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/manual/dao/PdtPhotoAlbumExtMapper.java" timestamp="1503482817889">
+        <mark key="[" line="30" column="6" />
+        <mark key="]" line="30" column="11" />
+        <mark key="." line="30" column="11" />
+        <mark key="^" line="30" column="11" />
+      </file>
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/exception/BizErrorHandler.java" timestamp="1503301342894">
+        <mark key="[" line="76" column="38" />
+        <mark key="]" line="76" column="25" />
+        <mark key="^" line="76" column="25" />
+        <mark key="." line="76" column="25" />
       </file>
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/RestError.java" timestamp="1503304063664">
         <mark key="[" line="35" column="27" />
@@ -110,34 +222,8 @@
         <mark key="^" line="137" column="47" />
         <mark key="." line="132" column="0" />
       </file>
-      <file name="D:/foresee/product/com.foresee.ftcsp.goods.service/src/main/java/com/foresee/ftcsp/goods/service/impl/ProductSaleRegionServiceImpl.java" timestamp="1503461161404" />
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/resources/com/foresee/ftcsp/goods/auto/mapper/PdtSupplierMapper.xml" timestamp="1503456296060" />
-      <file name="D:/foresee/product/com.foresee.ftcsp.goods.service/src/main/java/com/foresee/ftcsp/goods/service/IProductAttributeTypeService.java" timestamp="1503024462947">
-        <mark key="[" line="22" column="40" />
-        <mark key="]" line="22" column="40" />
-        <mark key="." line="22" column="40" />
-        <mark key="^" line="24" column="34" />
-      </file>
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.rest/pom.xml" timestamp="1503462561082" />
-      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/annotation/serial/jackson/SessionUserIdSerializer.java" timestamp="1503406164430">
-        <mark key="[" line="34" column="45" />
-        <mark key="]" line="31" column="33" />
-        <mark key="." line="31" column="33" />
-        <mark key="^" line="31" column="33" />
-      </file>
-      <file name="D:/foresee/product/com.foresee.ftcsp.goods.rest/src/test/java/com/foresee/ftcsp/goods/rest/ui/back/GoodsBackResourceTest.java" timestamp="1503473854597">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="87" column="69" />
-        <mark key="]" line="87" column="69" />
-        <mark key="." line="87" column="69" />
-        <mark key="^" line="67" column="42" />
-      </file>
-      <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/manual/dao/PdtGoodsSaleRegionExtMapper.java" timestamp="1503127561663">
-        <mark key="[" line="15" column="46" />
-        <mark key="]" line="22" column="64" />
-        <mark key="^" line="22" column="64" />
-        <mark key="." line="22" column="64" />
-      </file>
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.service/src/main/java/com/foresee/ftcsp/goods/service/IGoodsService.java" timestamp="1503473683676">
         <mark key="[" line="157" column="30" />
         <mark key="]" line="157" column="37" />
@@ -156,18 +242,6 @@
         <mark key="^" line="74" column="23" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/config/FtcspRestControllerAspect.java" timestamp="1503048570499">
-        <mark key="[" line="80" column="27" />
-        <mark key="]" line="80" column="27" />
-        <mark key="." line="80" column="27" />
-        <mark key="^" line="80" column="27" />
-      </file>
-      <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/constant/AttributeExceptionCodeConstant.java" timestamp="1503470508901" />
-      <file name="D:/foresee/product/com.foresee.ftcsp.goods.rest/src/main/java/com/foresee/ftcsp/goods/rest/ui/back/GoodsBackResource.java" timestamp="1503475541220">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-      </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/pom.xml" timestamp="1502865347753">
         <mark key="[" line="82" column="21" />
         <mark key="]" line="85" column="49" />
@@ -177,58 +251,29 @@
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.awsrest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/UserController.java" timestamp="1503477950646">
         <mark key="[" line="54" column="46" />
       </file>
-      <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/java/com/foresee/ftcsp/gateway/controller/GatewayController.java" timestamp="1503451789911" />
-      <file name="D:/foresee/product/com.foresee.ftcsp.goods.rest/src/test/java/com/foresee/ftcsp/goods/rest/ui/back/CategoryResourceTest.java" timestamp="1502675159557">
-        <mark key="[" line="36" column="51" />
-        <mark key="]" line="36" column="27" />
-        <mark key="." line="36" column="27" />
-        <mark key="^" line="36" column="27" />
-      </file>
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/TokenNotifier.java" timestamp="1502872813628">
         <mark key="[" line="135" column="38" />
         <mark key="]" line="135" column="50" />
         <mark key="." line="135" column="50" />
         <mark key="^" line="135" column="50" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.core/0.0.1/com.foresee.ftcsp.public.core-0.0.1-sources.jar!/com/foresee/ftcsp/common/core/exception/DefaultExceptionHandler.java" timestamp="1503472545254" />
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.model/src/main/java/com/foresee/ftcsp/auth/manual/dao/SecOpenPlatformAppExtMapper.java" timestamp="1503482977897">
+        <mark key="[" line="26" column="30" />
+        <mark key="]" line="26" column="39" />
+        <mark key="^" line="26" column="39" />
+        <mark key="." line="26" column="39" />
+      </file>
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/test/java/com/foresee/ftcsp/common/core/rest/response/StringResponseTest.java" timestamp="1503306119585">
         <mark key="[" line="20" column="58" />
         <mark key="]" line="20" column="57" />
         <mark key="^" line="20" column="57" />
         <mark key="." line="20" column="57" />
       </file>
-      <file name="D:/foresee/product/com.foresee.ftcsp.goods.rest/src/main/java/com/foresee/ftcsp/goods/rest/ui/back/ProductResource.java" timestamp="1503457513277">
-        <mark key="[" line="204" column="129" />
-      </file>
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/manual/dao/SaleRegionExtMapper.java" timestamp="1503462973652">
         <mark key="[" line="33" column="64" />
         <mark key="]" line="33" column="61" />
         <mark key="^" line="33" column="61" />
         <mark key="." line="33" column="61" />
-      </file>
-      <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/manual/dto/PdtPhotoAlbumDTO.java" timestamp="1503469764779">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="15" />
-        <mark key="^" line="55" column="14" />
-        <mark key="." line="87" column="0" />
-      </file>
-      <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/auto/model/PdtGoodsBilling.java" timestamp="1503473000073">
-        <mark key="[" line="47" column="35" />
-        <mark key="]" line="47" column="40" />
-        <mark key="." line="47" column="40" />
-        <mark key="^" line="47" column="40" />
-      </file>
-      <file name="D:/foresee/product/com.foresee.ftcsp.goods.rest/src/main/java/com/foresee/ftcsp/goods/rest/url/GoodsUrl.java" timestamp="1503479361347">
-        <mark key="[" line="33" column="53" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="34" column="0" />
-      </file>
-      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/annotation/SessionUserId.java" timestamp="1503378033057">
-        <mark key="[" line="29" column="23" />
-        <mark key="]" line="29" column="33" />
-        <mark key="^" line="29" column="33" />
-        <mark key="." line="29" column="33" />
       </file>
       <file name="D:/foresee/notify/com.foresee.ftcsp.notify.rest/src/test/java/com/foresee/ftcsp/notify/outter/QueryContainerNotifyListResourceTest.java" timestamp="1502858592086">
         <mark key="[" line="42" column="53" />
@@ -244,6 +289,12 @@
         <mark key="^" line="39" column="21" />
         <mark key="." line="39" column="21" />
       </file>
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/TokenBackService.java" timestamp="1503483075253">
+        <mark key="[" line="44" column="8" />
+        <mark key="]" line="44" column="14" />
+        <mark key="^" line="44" column="14" />
+        <mark key="." line="44" column="14" />
+      </file>
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/resources/com/foresee/ftcsp/goods/manual/mapper/PdtGoodsExtMapper.xml" timestamp="1503456435677">
         <mark key="[" line="401" column="24" />
         <mark key="]" line="401" column="23" />
@@ -257,18 +308,6 @@
         <mark key="." line="0" column="7" />
       </file>
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/resources/com/foresee/ftcsp/goods/manual/mapper/SaleRegionExtMapper.xml" timestamp="1503457331717" />
-      <file name="D:/foresee/product/com.foresee.ftcsp.goods.rest/src/main/java/com/foresee/ftcsp/goods/rest/ui/front/GoodsResource.java" timestamp="1502956220184">
-        <mark key="[" line="45" column="17" />
-        <mark key="]" line="45" column="17" />
-        <mark key="^" line="45" column="17" />
-        <mark key="." line="45" column="17" />
-      </file>
-      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/response/StringResponse.java" timestamp="1503308133227">
-        <mark key="[" line="15" column="35" />
-        <mark key="]" line="15" column="56" />
-        <mark key="." line="15" column="56" />
-        <mark key="^" line="15" column="56" />
-      </file>
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/config/FtcspArgumentResolver.java" timestamp="1503308393301">
         <mark key="[" line="33" column="20" />
         <mark key="]" line="33" column="19" />
@@ -276,7 +315,7 @@
         <mark key="^" line="33" column="19" />
       </file>
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/config/ArgumentResolver.java" timestamp="1503461921447" />
-      <file name="D:/foresee/product/com.foresee.ftcsp.goods.service/src/main/java/com/foresee/ftcsp/goods/service/impl/ProductAttributeTypeServiceImpl.java" timestamp="1503459345851" />
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.service/src/main/java/com/foresee/ftcsp/goods/service/impl/ProductAttributeTypeServiceImpl.java" timestamp="1503482697650" />
       <file name="D:/foresee/base/pom.xml" timestamp="1503389950298">
         <mark key="[" line="21" column="28" />
         <mark key="]" line="21" column="28" />
@@ -288,18 +327,6 @@
         <mark key="]" line="19" column="60" />
         <mark key="^" line="19" column="60" />
         <mark key="." line="19" column="60" />
-      </file>
-      <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/resources/com/foresee/ftcsp/goods/manual/mapper/PdtPackageGoodsExtMapper.xml" timestamp="1503459108664">
-        <mark key="[" line="26" column="62" />
-        <mark key="]" line="26" column="73" />
-        <mark key="^" line="26" column="73" />
-        <mark key="." line="26" column="73" />
-      </file>
-      <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/dynamicdb/PdtCustomSqlSessionFactory.java" timestamp="1502961956959">
-        <mark key="[" line="25" column="32" />
-        <mark key="]" line="25" column="31" />
-        <mark key="^" line="25" column="31" />
-        <mark key="." line="25" column="31" />
       </file>
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/manual/dto/PdtGoodsDetailDTO.java" timestamp="1503470360658">
         <mark key="[" line="144" column="0" />
@@ -317,13 +344,6 @@
         <mark key="]" line="15" column="58" />
         <mark key="^" line="15" column="58" />
         <mark key="." line="15" column="58" />
-      </file>
-      <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/manual/dto/BaseGoodsDetailDTO.java" timestamp="1503469568895">
-        <mark key="'" line="26" column="22" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="^" line="104" column="14" />
-        <mark key="." line="106" column="0" />
       </file>
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/response/LongResponse.java" timestamp="1503307163385">
         <mark key="[" line="15" column="25" />
@@ -343,7 +363,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="58" />
       </file>
-      <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/manual/dao/PdtPackageGoodsExtMapper.java" timestamp="1503458646599">
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/manual/dao/PdtPackageGoodsExtMapper.java" timestamp="1503481713897">
         <mark key="[" line="12" column="24" />
         <mark key="]" line="12" column="38" />
         <mark key="." line="12" column="38" />
@@ -387,43 +407,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>queryGoodsBaseInfo</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text>servet</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CVN0cmluZyBnZXRCYXNlSW5mbyA9IHNlcnZpY2VOYW1lICsgImdldEJhc2VJbmZvIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEZ0Y3NwUnVudGltZUV4Y2VwdGlvbigiMTAwMDAwMDAiLCAitMvJzMa3sru05tTaIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CVN0cmluZyBnZXRCYXNlSW5mbyA9IHNlcnZpY2VOYW1lICsgImdldEJhc2VJbmZvIjsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LndzLnJzLkRFTEVURTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LndzLnJzLkRFTEVURTsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Cglwcml2YXRlIExvZ2dlciBsb2dnZXIgPSBMb2dnZXIuZ2V0TG9nZ2VyKENhdGVnb3J5UmVzb3VyY2UuY2xhc3MpOwoKCUBSZXNvdXJjZQoJcHJpdmF0ZSBJZEdlbmVyYXRvciBpZEdlbmVyYXRvcjs=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CUBSZXNvdXJjZQoJcHJpdmF0ZSBJZEdlbmVyYXRvciBpZEdlbmVyYXRvcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEZ0Y3NwUnVudGltZUV4Y2VwdGlvbigiMSIpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>private PdtGoods copyPdtGoods(PdtGoodsDetailDTO pdtGoodsDTO) {
+        PdtGoods pdtGoods = new PdtGoods();
+
+        BeanUtils.copyProperties(pdtGoodsDTO, pdtGoods);
+        pdtGoods.setGoodsType(1); // 商品
+        pdtGoods.setGoodsStatus(1); // 录入状态
+        pdtGoods.setGoodsCode(&quot;sp&quot; + idGenerator.getLong());
+        pdtGoods.setVersion(1);
+        return pdtGoods;
+    }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXByaXZhdGUgTG9nZ2VyIGxvZ2dlciA9IExvZ2dlcnMubWFrZSgpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHBkdEdvb2RzLnNldEdvb2RzSWQoZ29vZHNJZCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGouTG9nZ2VyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
