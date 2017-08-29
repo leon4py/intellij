@@ -221,11 +221,11 @@
         <mark key="^" line="24" column="29" />
         <mark key="." line="24" column="29" />
       </file>
-      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/api/FtcspRestApiInvocationHandler.java" timestamp="1503974139317">
-        <mark key="[" line="65" column="98" />
-        <mark key="]" line="66" column="81" />
-        <mark key="." line="66" column="81" />
-        <mark key="^" line="66" column="81" />
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/api/FtcspRestApiInvocationHandler.java" timestamp="1503976806399">
+        <mark key="[" line="63" column="11" />
+        <mark key="]" line="63" column="34" />
+        <mark key="." line="63" column="34" />
+        <mark key="^" line="63" column="34" />
       </file>
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/auto/model/PdtGoodsBilling.java" timestamp="1503111539091">
         <mark key="[" line="191" column="35" />
@@ -1305,11 +1305,11 @@
       <jump line="34" column="48" filename="D:/foresee/product/com.foresee.ftcsp.goods.rest/src/test/java/com/foresee/ftcsp/goods/rest/inner/GoodsResourceTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBNZXRob2RVdGlscy5nZXRNZXRob2QK</text>
+      <register name="&quot;" type="4">
+        <text>this.getClass().getMethod(&quot;dummyMethod&quot;).getAnnotation(FtcspRestMethod.class);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>this.getClass().getMethod(&quot;dummyMethod&quot;).getAnnotation(FtcspRestMethod.class);</text>
       </register>
       <register name="/" type="4">
         <text>servet</text>
@@ -1318,31 +1318,31 @@
         <text encoding="base64">CQkJPHZlcnNpb24+MC4wLjEtU05BUFNIT1Q8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBNZXRob2RVdGlscy5nZXRNZXRob2QK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEBGdGNzcFJlc3RNZXRob2QK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEBGdGNzcFJlc3RNZXRob2QK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEBGdGNzcFJlc3RNZXRob2QK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEBGdGNzcFJlc3RNZXRob2QK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZGVmYXVsdEZ0Y3NwUmVzdE1ldGhvZCk7CiAgICB9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBNZXRob2QgZHVtbXlNZXRob2QgPSBudWxsOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0RnRjc3BSZXN0TWV0aG9kID0gZHVtbXlNZXRob2QuZ2V0QW5ub3RhdGlvbihGdGNzcFJlc3RNZXRob2QuY2xhc3MpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBNZXRob2RVdGlscy5nZXRNZXRob2QK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEZ0Y3NwUnVudGltZUV4Y2VwdGlvbihDT05GSUdfQ0FMTF9FWFRFUk5BTF9JTlRFUkZBQ0VfSVNfTlVMTCk7Cg==</text>
+        <text encoding="base64">ICAgIEBGdGNzcFJlc3RNZXRob2QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgIEBGdGNzcFJlc3RNZXRob2QK</text>
       </register>
     </registers>
     <search>
