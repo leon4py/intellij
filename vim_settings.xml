@@ -144,11 +144,11 @@
         <mark key="." line="217" column="10" />
         <mark key="^" line="217" column="10" />
       </file>
-      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/id/impl/SnowflakeIdGenerator.java" timestamp="1504083204067">
-        <mark key="[" line="37" column="23" />
-        <mark key="]" line="37" column="23" />
-        <mark key="." line="37" column="23" />
-        <mark key="^" line="57" column="16" />
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/id/impl/SnowflakeIdGenerator.java" timestamp="1504086048211">
+        <mark key="[" line="63" column="9" />
+        <mark key="]" line="32" column="42" />
+        <mark key="." line="32" column="42" />
+        <mark key="^" line="32" column="42" />
       </file>
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.database/src/main/java/com/foresee/ftcsp/common/database/redis/RedisClientImpl.java" timestamp="1502327224505">
         <mark key="[" line="280" column="55" />
@@ -398,6 +398,13 @@
         <mark key="^" line="115" column="58" />
         <mark key="." line="115" column="58" />
       </file>
+      <file name="D:/foresee/order/.gitignore" timestamp="1504085358413">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="1" column="30" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.rest/pom.xml" timestamp="1503994374510">
         <mark key="[" line="29" column="26" />
         <mark key="]" line="29" column="26" />
@@ -428,6 +435,7 @@
         <mark key="^" line="21" column="37" />
         <mark key="." line="21" column="8" />
       </file>
+      <file name="D:/foresee/order/com.foresee.ftcsp.ordercenter.iml" timestamp="1504085431986" />
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.service/src/main/java/com/foresee/ftcsp/goods/service/IGoodsService.java" timestamp="1503994141290">
         <mark key="[" line="168" column="82" />
         <mark key="]" line="168" column="22" />
@@ -608,7 +616,7 @@
         <mark key="." line="13" column="22" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504082022034">
+      <file name="/Dummy.txt" timestamp="1504085323833">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="7" />
@@ -651,6 +659,7 @@
         <mark key="." line="6" column="13" />
         <mark key="^" line="6" column="13" />
       </file>
+      <file name="D:/foresee/jcdz/.git/info/exclude" timestamp="1504085557145" />
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/dynamicdb/interceptor/DBContextInterceptor.java" timestamp="1501925827620">
         <mark key="[" line="13" column="8" />
         <mark key="]" line="24" column="2" />
@@ -1267,6 +1276,7 @@
       <jump line="31" column="42" filename="D:/foresee/base/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/handler/GlobalExceptionHandler.java" />
       <jump line="217" column="0" filename="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/RestResponse.java" />
       <jump line="34" column="48" filename="D:/foresee/product/com.foresee.ftcsp.goods.rest/src/test/java/com/foresee/ftcsp/goods/rest/inner/GoodsResourceTest.java" />
+      <jump line="26" column="0" filename="D:/foresee/order/.gitignore" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1276,7 +1286,7 @@
         <text>dataCenterId</text>
       </register>
       <register name="/" type="4">
-        <text>servet</text>
+        <text encoding="base64">XDxjb21cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtmdGNzcC5pZC5kYXRhQ2VudGVySWQ6MX0iKQo=</text>
@@ -1310,11 +1320,16 @@
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxjb21cPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxjb21cPg==</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry encoding="base64">XDxjb21cPg==</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
