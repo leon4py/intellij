@@ -144,10 +144,10 @@
         <mark key="." line="217" column="10" />
         <mark key="^" line="217" column="10" />
       </file>
-      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/id/impl/SnowflakeIdGenerator.java" timestamp="1504081931021">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/id/impl/SnowflakeIdGenerator.java" timestamp="1504083204067">
+        <mark key="[" line="37" column="23" />
+        <mark key="]" line="37" column="23" />
+        <mark key="." line="37" column="23" />
         <mark key="^" line="57" column="16" />
       </file>
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.database/src/main/java/com/foresee/ftcsp/common/database/redis/RedisClientImpl.java" timestamp="1502327224505">
@@ -930,7 +930,7 @@
         <mark key="^" line="117" column="21" />
         <mark key="." line="117" column="21" />
       </file>
-      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/pom.xml" timestamp="1504082114970">
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/pom.xml" timestamp="1504083257015">
         <mark key="[" line="12" column="21" />
         <mark key="]" line="12" column="22" />
         <mark key="." line="12" column="22" />
@@ -1269,11 +1269,11 @@
       <jump line="34" column="48" filename="D:/foresee/product/com.foresee.ftcsp.goods.rest/src/test/java/com/foresee/ftcsp/goods/rest/inner/GoodsResourceTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>dataCenterId</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW50IA==</text>
+        <text>dataCenterId</text>
       </register>
       <register name="/" type="4">
         <text>servet</text>
