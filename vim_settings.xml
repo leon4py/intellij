@@ -49,9 +49,6 @@
         <mark key="." line="5" column="14" />
         <mark key="^" line="5" column="14" />
       </file>
-      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.model/src/main/java/com/foresee/ftcsp/auth/manual/dao/OpenPlatformUserExtMapper.java" timestamp="1504593985614">
-        <mark key="[" line="4" column="22" />
-      </file>
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/client/FtcspRestUtils.java" timestamp="1503903232341">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
@@ -124,8 +121,8 @@
         <mark key="." line="49" column="43" />
         <mark key="^" line="49" column="41" />
       </file>
-      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/resources/logback-spring.xml" timestamp="1503990625677">
-        <mark key="[" line="24" column="0" />
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/resources/logback-spring.xml" timestamp="1504601721398">
+        <mark key="[" line="15" column="15" />
         <mark key="]" line="21" column="72" />
         <mark key="." line="21" column="72" />
         <mark key="^" line="21" column="72" />
@@ -229,7 +226,7 @@
         <mark key="." line="33" column="3" />
         <mark key="^" line="33" column="3" />
       </file>
-      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/impl/WhchatAuthServiceImpl.java" timestamp="1504594423151">
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/impl/WhchatAuthServiceImpl.java" timestamp="1504601652647">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
@@ -381,11 +378,10 @@
         <mark key="^" line="27" column="62" />
         <mark key="." line="27" column="62" />
       </file>
-      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.model/pom.xml" timestamp="1504592885392">
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.model/pom.xml" timestamp="1504602192898">
         <mark key="[" line="16" column="18" />
-        <mark key="]" line="11" column="38" />
-        <mark key="." line="11" column="38" />
-        <mark key="^" line="3" column="37" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/ProcessController.java" timestamp="1501749719042">
         <mark key="[" line="121" column="75" />
@@ -441,6 +437,11 @@
         <mark key="]" line="22" column="12" />
         <mark key="^" line="22" column="12" />
         <mark key="." line="22" column="12" />
+      </file>
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/IAppOpenPlatformAccountService.java" timestamp="1504593402038">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/TokenService.java" timestamp="1504251686653">
         <mark key="[" line="30" column="47" />
@@ -528,6 +529,11 @@
         <mark key="]" line="38" column="20" />
         <mark key="^" line="38" column="20" />
         <mark key="." line="38" column="20" />
+      </file>
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.api/src/main/java/com/foresee/ftcsp/goods/api/inner/GoodsApi.java" timestamp="1504588671690">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/response/ListResponse.java" timestamp="1503754624322">
         <mark key="[" line="16" column="56" />
@@ -688,11 +694,11 @@
         <mark key="." line="13" column="22" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504594941585">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
+      <file name="/Dummy.txt" timestamp="1504601752252">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="7" />
-        <mark key="." line="0" column="7" />
+        <mark key="." line="0" column="2" />
       </file>
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/id/impl/SnowflakeIdWorker.java" timestamp="1504094747648">
         <mark key="[" line="46" column="11" />
@@ -921,6 +927,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="6" column="8" />
       </file>
+      <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.model/src/main/java/com/foresee/ftcsp/security/manual/dto/OpenPlatformUserDTO.java" timestamp="1504601526421" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/java/com/foresee/ftcsp/gateway/controller/GatewayController.java" timestamp="1504491848925" />
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.model/src/main/java/com/foresee/ftcsp/auth/manual/dto/SecOutterAccountDTO.java" timestamp="1504505899283" />
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.rest/src/test/java/com/foresee/ftcsp/goods/rest/ui/back/CategoryResourceTest.java" timestamp="1502675159557">
@@ -998,6 +1005,7 @@
         <mark key="^" line="21" column="50" />
         <mark key="." line="21" column="50" />
       </file>
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/impl/UnifiedAuthServiceImpl.java" timestamp="1504601400590" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/resources/logback-spring.xml" timestamp="1504074346988">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="42" />
@@ -1088,6 +1096,11 @@
         <mark key="^" line="155" column="77" />
         <mark key="." line="157" column="0" />
       </file>
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/impl/AppOpenPlatformAccountServiceImpl.java" timestamp="1504593384770">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.service/src/main/java/com/foresee/ftcsp/goods/service/impl/GoodsSkuServiceImpl.java" timestamp="1504588143166" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/sdk/model/BaseResponse.java" timestamp="1503839944656">
         <mark key="[" line="99" column="0" />
@@ -1170,6 +1183,7 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.model/src/main/java/com/foresee/ftcsp/auth/auto/model/SecInnerAccount.java" timestamp="1504602089083" />
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/dynamicdb/PdtCustomSqlSessionFacroty.java" timestamp="1501935288344">
         <mark key="[" line="21" column="36" />
         <mark key="]" line="21" column="37" />
@@ -1200,7 +1214,7 @@
         <mark key="." line="26" column="6" />
         <mark key="^" line="26" column="6" />
       </file>
-      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/TokenNotifier.java" timestamp="1504593440167">
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/TokenNotifier.java" timestamp="1504601710151">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -1389,11 +1403,11 @@
       <jump line="26" column="0" filename="D:/foresee/order/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>auth</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>auth</text>
+        <text>xml</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21cPg==</text>
@@ -1402,28 +1416,28 @@
         <text encoding="base64">ICAgIEBQb2ludGN1dCgiZXhlY3V0aW9uKCogY29tLmZvcmVzZWUuZnRjc3AuLnJlc3QuLiouKiguLikpICYmIHdpdGhpbihAKEBvcmcuc3ByaW5nZnJhbWV3b3JrLnN0ZXJlb3R5cGUuQ29udHJvbGxlciAqKSAqKSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb3Jlc2VlLmZ0Y3NwLmF1dGgubWFudWFsLmRhby5TZWNVc2VyRXh0TWFwcGVyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb3Jlc2VlLmZ0Y3NwLmF1dGgubWFudWFsLmRhby5TZWNPdXR0ZXJBY2NvdW50RXh0TWFwcGVyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb3Jlc2VlLmZ0Y3NwLnNlY3VyaXR5Lm1hbnVhbC5kYW8uT3BlblBsYXRmb3JtVXNlckV4dE1hcHBlcjsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mb3Jlc2VlLmZ0Y3NwLmF1dGgubWFudWFsLmRhby5TZWNVc2VyRXh0TWFwcGVyOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb3Jlc2VlLmZ0Y3NwLmF1dGgubWFudWFsLmR0by5BcHBPcGVuUGxhdGZvcm1BY2NvdW50RFRPOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mb3Jlc2VlLmZ0Y3NwLmF1dGgubWFudWFsLmRhby5TZWNPdXR0ZXJBY2NvdW50RXh0TWFwcGVyOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb3Jlc2VlLmZ0Y3NwLmF1dGgubWFudWFsLmR0by5BcHBPcGVuUGxhdGZvcm1BY2NvdW50RFRPOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mb3Jlc2VlLmZ0Y3NwLnNlY3VyaXR5Lm1hbnVhbC5kYW8uT3BlblBsYXRmb3JtVXNlckV4dE1hcHBlcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb3Jlc2VlLmZ0Y3NwLmF1dGgubWFudWFsLmRhby5BcHBPcGVuUGxhdGZvcm1BY2NvdW50RXh0TWFwcGVyOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mb3Jlc2VlLmZ0Y3NwLmF1dGgubWFudWFsLmR0by5BcHBPcGVuUGxhdGZvcm1BY2NvdW50RFRPOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5mb3Jlc2VlLmZ0Y3NwLmF1dGgubWFudWFsLmR0by5BcHBPcGVuUGxhdGZvcm1BY2NvdW50RFRPOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mb3Jlc2VlLmZ0Y3NwLmF1dGgubWFudWFsLmRhby5BcHBPcGVuUGxhdGZvcm1BY2NvdW50RXh0TWFwcGVyOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5mb3Jlc2VlLmZ0Y3NwLmF1dGgubWFudWFsLmR0by5BcHBPcGVuUGxhdGZvcm1BY2NvdW50RFRPOwo=</text>

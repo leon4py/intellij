@@ -11,7 +11,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>p.xml</mask>
       <mask>po.xml</mask>
@@ -26,13 +26,11 @@
       <mask>pom.x</mask>
       <mask>pom.xml</mask>
       <mask>pom.xm</mask>
-      <mask>*</mask>
       <mask>*po.xml</mask>
       <mask>*p.xml</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.pxml</mask>
@@ -41,8 +39,10 @@
       <mask>*poxml</mask>
       <mask>*pomxml</mask>
       <mask>*pom.xml</mask>
-      <mask>*.java</mask>
       <mask>*.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
