@@ -24,6 +24,18 @@
         <mark key="]" line="3" column="58" />
         <mark key="." line="3" column="58" />
       </file>
+      <file name="D:/foresee/third-proxy/com.foresee.ftcsp.third-proxy.rest/src/main/java/com/foresee/ftcsp/thirdproxy/rest/ThirdProxyApplication.java" timestamp="1505112625994">
+        <mark key="[" line="8" column="2" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="D:/foresee/third-proxy/com.foresee.ftcsp.third-proxy.rest/src/main/resources/logback-spring.xml" timestamp="1505112785654">
+        <mark key="[" line="10" column="80" />
+        <mark key="]" line="10" column="82" />
+        <mark key="^" line="10" column="82" />
+        <mark key="." line="10" column="82" />
+      </file>
       <file name="D:/foresee/workflow/pom.xml" timestamp="1504842059585">
         <mark key="[" line="24" column="26" />
         <mark key="]" line="127" column="54" />
@@ -73,7 +85,7 @@
         <mark key="]" line="28" column="26" />
         <mark key="." line="28" column="26" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/resources/logback-spring.xml" timestamp="1504842892097">
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/resources/logback-spring.xml" timestamp="1505112654551">
         <mark key="[" line="53" column="32" />
         <mark key="]" line="53" column="32" />
         <mark key="^" line="13" column="96" />
@@ -89,6 +101,12 @@
         <mark key="]" line="9" column="15" />
         <mark key="." line="9" column="15" />
         <mark key="^" line="9" column="15" />
+      </file>
+      <file name="D:/foresee/third-proxy/com.foresee.ftcsp.third-proxy.rest/pom.xml" timestamp="1505112585723">
+        <mark key="[" line="48" column="49" />
+        <mark key="]" line="48" column="59" />
+        <mark key="." line="48" column="59" />
+        <mark key="^" line="48" column="59" />
       </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/pom.xml" timestamp="1504842389531">
         <mark key="[" line="12" column="22" />
@@ -120,7 +138,7 @@
       <jump line="5" column="25" filename="D:/foresee/workflow/com.foresee.ftcsp.workflow.awsapi/src/main/java/com/foresee/ftcsp/workflow/controller/ForeseePortalAPI.java" />
       <jump line="31" column="6" filename="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/common/RedisKeyEnum.java" />
       <jump line="28" column="0" filename="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/common/RedisKeyEnum.java" />
-      <jump line="204" column="0" filename="C:/Users/Alex/.m2/repository/foresee/com.foresee.ftcsp.public.core/0.0.1/com.foresee.ftcsp.public.core-0.0.1-sources.jar!/com/foresee/ftcsp/common/core/rest/RestControllerInterceptor.java" />
+      <jump line="204" column="0" filename="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.core/0.0.1/com.foresee.ftcsp.public.core-0.0.1-sources.jar!/com/foresee/ftcsp/common/core/rest/RestControllerInterceptor.java" />
       <jump line="32" column="55" filename="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/common/WorkFlowDict.java" />
       <jump line="24" column="4" filename="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/common/WorkFlowDict.java" />
       <jump line="219" column="22" filename="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/ProcessController.java" />
@@ -129,10 +147,10 @@
       <jump line="97" column="83" filename="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/common/RedisKeyEnum.java" />
       <jump line="76" column="12" filename="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/impl/TaskServiceImpl.java" />
       <jump line="63" column="71" filename="D:/foresee/workflow/com.foresee.ftcsp.workflow.model/src/main/resources/com/foresee/ftcsp/workflow/manual/mapper/WfcVarExtMapper.xml" />
-      <jump line="154" column="44" filename="C:/Users/Alex/.m2/repository/foresee/com.foresee.ftcsp.public.core/0.0.1/com.foresee.ftcsp.public.core-0.0.1-sources.jar!/com/foresee/ftcsp/common/core/rest/client/FtcspInnerRestClient.java" />
+      <jump line="154" column="44" filename="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.core/0.0.1/com.foresee.ftcsp.public.core-0.0.1-sources.jar!/com/foresee/ftcsp/common/core/rest/client/FtcspInnerRestClient.java" />
       <jump line="66" column="44" filename="D:/foresee/jcdz/security/com.foresee.ftcsp.security.rest/src/test/java/com/foresee/ftcsp/security/druidfilter/PasswordFilterTest.java" />
       <jump line="176" column="51" filename="D:/foresee/base/system/com.foresee.ftcsp.system.service/src/main/java/com/foresee/ftcsp/system/service/impl/SysSequenceServiceImpl.java" />
-      <jump line="153" column="16" filename="C:/Users/Alex/.m2/repository/foresee/com.foresee.ftcsp.public.core/0.0.1/com.foresee.ftcsp.public.core-0.0.1-sources.jar!/com/foresee/ftcsp/common/core/rest/RestControllerInterceptor.java" />
+      <jump line="153" column="16" filename="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.core/0.0.1/com.foresee.ftcsp.public.core-0.0.1-sources.jar!/com/foresee/ftcsp/common/core/rest/RestControllerInterceptor.java" />
       <jump line="53" column="4" filename="D:/foresee/base/system/com.foresee.ftcsp.system.rest/src/main/java/com/foresee/ftcsp/system/rest/ui/back/SysSequenceResource.java" />
       <jump line="11" column="29" filename="D:/foresee/bpmpx/nettydemo/src/main/java/HttpServer.java" />
       <jump line="32" column="4" filename="D:/foresee/bpmpx/nettydemo/src/main/java/HttpServer.java" />
@@ -155,10 +173,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>gz</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>gz</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21cPg==</text>
