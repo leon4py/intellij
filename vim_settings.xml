@@ -3,18 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/foresee/third-proxy/pom.xml" timestamp="1505114437237" />
+      <file name="D:/foresee/third-proxy/pom.xml" timestamp="1505115995736" />
       <file name="D:/foresee/third-proxy/com.foresee.ftcsp.third-proxy.rest/src/main/java/com/foresee/ftcsp/thirdproxy/rest/ui/front/OAController.java" timestamp="1505113503109">
         <mark key="[" line="23" column="44" />
         <mark key="]" line="25" column="0" />
         <mark key="^" line="25" column="7" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="D:/foresee/third-proxy/com.foresee.ftcsp.third-proxy.rest/src/main/java/com/foresee/ftcsp/thirdproxy/rest/ThirdProxyApplication.java" timestamp="1505113336336">
-        <mark key="[" line="27" column="30" />
-        <mark key="]" line="27" column="50" />
-        <mark key="^" line="27" column="50" />
-        <mark key="." line="27" column="50" />
+      <file name="D:/foresee/third-proxy/com.foresee.ftcsp.third-proxy.rest/src/main/java/com/foresee/ftcsp/thirdproxy/rest/ThirdProxyApplication.java" timestamp="1505116066890">
+        <mark key="[" line="23" column="12" />
+        <mark key="]" line="23" column="67" />
+        <mark key="^" line="23" column="67" />
+        <mark key="." line="23" column="67" />
       </file>
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/TokenService.java" timestamp="1505095668346">
         <mark key="[" line="90" column="49" />
@@ -28,9 +28,6 @@
         <mark key="^" line="22" column="10" />
         <mark key="." line="22" column="10" />
       </file>
-      <file name="/fragment.kt" timestamp="1504864025170">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/auth/rest/back/TokenBackController.java" timestamp="1504849052384">
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="0" />
@@ -43,6 +40,7 @@
         <mark key="^" line="12" column="22" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/.m2/repository/foresee/com.foresee.ftcsp.public/0.0.2/com.foresee.ftcsp.public-0.0.2.pom" timestamp="1505115850481" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/java/com/foresee/ftcsp/gateway/controller/GatewayController.java" timestamp="1505114064496" />
       <file name="$USER_HOME$/.m2/repository/foresee/com.foresee.ftcsp.public.core/0.0.2/com.foresee.ftcsp.public.core-0.0.2.pom" timestamp="1505114446819" />
       <file name="D:/lab/opus/huatuo/src/main/java/Main.kt" timestamp="1504864224267">
@@ -86,7 +84,9 @@
         <mark key="." line="6" column="29" />
       </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/WorkFlowApplication.java" timestamp="1505113321868" />
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/resources/logback-spring.xml" timestamp="1505113768265">
+      <file name="$USER_HOME$/.m2/repository/foresee/com.foresee.ftcsp.public.dquery/0.0.2/com.foresee.ftcsp.public.dquery-0.0.2.jar!/com/foresee/ftcsp/common/dquery/rest/inner/DQueryResource.class" timestamp="1505115809035" />
+      <file name="$USER_HOME$/.m2/repository/foresee/com.foresee.ftcsp.public.database/0.0.2/com.foresee.ftcsp.public.database-0.0.2-sources.jar!/com/foresee/ftcsp/common/database/conf/MybatisDataSource.java" timestamp="1505116139636" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/resources/logback-spring.xml" timestamp="1505116167830">
         <mark key="[" line="53" column="32" />
         <mark key="]" line="53" column="32" />
         <mark key="^" line="13" column="96" />
@@ -105,11 +105,11 @@
         <mark key="^" line="9" column="15" />
       </file>
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.rest/src/main/java/com/foresee/ftcsp/goods/rest/filter/ThrowableFilter.java" timestamp="1505112838918" />
-      <file name="D:/foresee/third-proxy/com.foresee.ftcsp.third-proxy.rest/pom.xml" timestamp="1505112585723">
-        <mark key="[" line="48" column="49" />
-        <mark key="]" line="48" column="59" />
-        <mark key="." line="48" column="59" />
-        <mark key="^" line="48" column="59" />
+      <file name="D:/foresee/third-proxy/com.foresee.ftcsp.third-proxy.rest/pom.xml" timestamp="1505115863005">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="43" column="59" />
+        <mark key="." line="21" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -152,12 +152,8 @@
       <jump line="26" column="0" filename="D:/foresee/order/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>log.name=goods
-log.level=DEBUG
-log.ftcsp.level=DEBUG
-log.ibatis.level=DEBUG
-log.sql.level=DEBUG</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>wechatMsg</text>
@@ -168,36 +164,36 @@ log.sql.level=DEBUG</text>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBKZWRpcyBqZWRpcyA9IChKZWRpcykgcmVkaXNUZW1wbGF0ZS5nZXRDb25uZWN0aW9uRmFjdG9yeSgpLmdldENvbm5lY3Rpb24oKS5nZXROYXRpdmVDb25uZWN0aW9uKCk7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgCg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Zm9yZXNlZTwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Y29tLmZvcmVzZWUuZnRjc3AucHVibGljLmRxdWVyeTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MC4wLjI8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
+      </register>
+      <register name="3" type="4">
         <text>log.name=goods
 log.level=DEBUG
 log.ftcsp.level=DEBUG
 log.ibatis.level=DEBUG
 log.sql.level=DEBUG</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGFwcGVuZGVyLXJlZiByZWY9ImZpbGVMb2ciIC8+Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgIGUK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CTx2ZXJzaW9uPjAuMC4xPC92ZXJzaW9uPgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIDx2ZXJzaW9uPjAuMC4xPC92ZXJzaW9uPgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIk9LIi5lcXVhbHMoc3RhdHVzKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBqZWRpcy5jbG9zZSgpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIk9LIi5lcXVhbHMoc3RhdHVzKTsK</text>
       </register>
     </registers>
     <search>
