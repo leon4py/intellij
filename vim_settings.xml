@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/dict/impl/FtcspSystemDictProvider.java" timestamp="1505295315592">
-        <mark key="[" line="32" column="17" />
-        <mark key="]" line="32" column="13" />
-        <mark key="^" line="32" column="13" />
-        <mark key="." line="32" column="13" />
-      </file>
       <file name="/a.dummy" timestamp="1505120559452">
         <mark key="[" line="0" column="0" />
       </file>
@@ -28,7 +22,7 @@
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/util/Loggers.java" timestamp="1505204346575">
         <mark key="[" line="23" column="66" />
       </file>
-      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/test/java/com/foresee/ftcsp/mvc/demo/inner/controller/CaseControllerTest.java" timestamp="1505294507527">
+      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/test/java/com/foresee/ftcsp/mvc/demo/inner/controller/CaseControllerTest.java" timestamp="1505296757773">
         <mark key="[" line="23" column="28" />
         <mark key="]" line="24" column="111" />
         <mark key="^" line="24" column="111" />
@@ -88,7 +82,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/test/InjectTestBeanPostProcessor.java" timestamp="1505294845340">
+      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/test/InjectTestBeanPostProcessor.java" timestamp="1505296533642">
         <mark key="[" line="40" column="93" />
         <mark key="]" line="45" column="24" />
         <mark key="." line="45" column="0" />
@@ -331,11 +325,11 @@
         <mark key="." line="35" column="59" />
       </file>
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.core/0.0.2/com.foresee.ftcsp.public.core-0.0.2-sources.jar!/com/foresee/ftcsp/common/core/rest/RestControllerInterceptor.java" timestamp="1505199606014" />
-      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/test/java/com/foresee/ftcsp/mvc/demo/FtcspCaseApplication.java" timestamp="1505294012411">
-        <mark key="[" line="23" column="35" />
-        <mark key="]" line="26" column="59" />
-        <mark key="^" line="26" column="59" />
-        <mark key="." line="26" column="59" />
+      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/test/java/com/foresee/ftcsp/mvc/demo/FtcspCaseApplication.java" timestamp="1505296559633">
+        <mark key="[" line="26" column="47" />
+        <mark key="]" line="26" column="47" />
+        <mark key="^" line="26" column="47" />
+        <mark key="." line="26" column="47" />
       </file>
       <file name="D:/foresee/third-proxy/com.foresee.ftcsp.third-proxy.rest/src/main/java/com/foresee/ftcsp/thirdproxy/service/OAService.java" timestamp="1505207558624">
         <mark key="[" line="70" column="8" />
@@ -389,33 +383,39 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYmVhbjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJjb20uZm9yZXNlZS5mdGNzcC5mdGNzcG12Yy4qLioiLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>MyListener</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYmVhbjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJjb20uZm9yZXNlZS5mdGNzcC5mdGNzcG12Yy4qLioiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEZ0Y3NwRGljdE1lc3NhZ2VMaXN0ZW5lci5jbGFzc30pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobWV0aG9kcyAhPSBudWxsKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGNsdWRlID0ge0lSZWRpc0NsaWVudC5jbGFzcywgRGVmYXVsdEV4Y2VwdGlvbkhhbmRsZXIuY2xhc3MsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobWV0aG9kcyAhPSBudWxsKSB7Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>@Override
     public void postProcessBeanFactory(ConfigurableListableBeanFactory beanFactory)
             throws BeansException {
@@ -426,14 +426,8 @@
         }
     }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5jb25maWcuQmVhbkZhY3RvcnlQb3N0UHJvY2Vzc29yOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgQEF1dG93aXJlZAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5jb25maWcuQmVhbkZhY3RvcnlQb3N0UHJvY2Vzc29yOwo=</text>
       </register>
     </registers>
     <search>
