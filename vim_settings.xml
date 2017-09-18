@@ -209,11 +209,11 @@
       <file name="$MAVEN_REPOSITORY$/net/dongliu/requests/4.12.2/requests-4.12.2-sources.jar!/net/dongliu/requests/RawResponse.java" timestamp="1505206286228" />
       <file name="D:/foresee/third-proxy/com.foresee.ftcsp.third-proxy.awsbpm/pom.xml" timestamp="1505704231973" />
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/util/Jackson.java" timestamp="1505353346631" />
-      <file name="D:/foresee/third-proxy/com.foresee.ftcsp.third-proxy.rest/src/main/java/com/foresee/ftcsp/thirdproxy/rest/ui/front/OAController.java" timestamp="1505714855736">
-        <mark key="[" line="42" column="12" />
-        <mark key="]" line="41" column="29" />
-        <mark key="^" line="41" column="29" />
-        <mark key="." line="41" column="29" />
+      <file name="D:/foresee/third-proxy/com.foresee.ftcsp.third-proxy.rest/src/main/java/com/foresee/ftcsp/thirdproxy/rest/ui/front/OAController.java" timestamp="1505717505801">
+        <mark key="[" line="43" column="24" />
+        <mark key="]" line="43" column="24" />
+        <mark key="^" line="43" column="24" />
+        <mark key="." line="43" column="24" />
       </file>
       <file name="D:/foresee/third-proxy/com.foresee.ftcsp.third-proxy.rest/src/main/java/com/foresee/ftcsp/thirdproxy/rest/ThirdProxyApplication.java" timestamp="1505290477823" />
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.core/0.0.2/com.foresee.ftcsp.public.core-0.0.2-sources.jar!/com/foresee/ftcsp/common/core/dict/listener/FtcspDictMessageListener.java" timestamp="1505463617671" />
@@ -406,6 +406,7 @@
         <mark key="." line="43" column="79" />
       </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/api/FtcspRestApiInvocationHandler.java" timestamp="1505354615639" />
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.config.server/src/main/resources/config/application.properties" timestamp="1505717146734" />
       <file name="D:/foresee/third-proxy/com.foresee.ftcsp.third-proxy.rest/pom.xml" timestamp="1505287427650">
         <mark key="[" line="43" column="17" />
         <mark key="]" line="35" column="59" />
@@ -472,11 +473,11 @@
       <jump line="27" column="87" filename="D:/foresee/third-proxy/com.foresee.ftcsp.third-proxy.rest/src/test/java/com/foresee/ftcsp/thirdproxy/rest/ui/front/OAControllerTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFwcGVuZGVyLXJlZiByZWY9IndlY2hhdE1zZyIgLz4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ID0gImh0dHA6Ly9vbW5pLmVzdi5jb20uY24vcG9ydGFsL3Ivdz9jbWQ9Y29tLmFjdGlvbnNvZnQuYXBwcy5mb3Jlc2VlLnJlaW1idXJzZW1lbnRfdGFibGVMaXN0Jmludm9pY2VJZD0iOw==</text>
       </register>
       <register name="-" type="4">
-        <text>CONSOLE</text>
+        <text encoding="base64">ID0gImh0dHA6Ly9vbW5pLmVzdi5jb20uY24vcG9ydGFsL3Ivdz9jbWQ9Y29tLmFjdGlvbnNvZnQuYXBwcy5mb3Jlc2VlLnJlaW1idXJzZW1lbnRfdGFibGVMaXN0Jmludm9pY2VJZD0iOw==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21cPg==</text>
