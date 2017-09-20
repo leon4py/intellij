@@ -171,6 +171,7 @@
         <mark key="^" line="22" column="10" />
         <mark key="." line="22" column="10" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.core/0.0.2/com.foresee.ftcsp.public.core-0.0.2-sources.jar!/com/foresee/ftcsp/common/core/rest/client/FtcspInnerRestClient.java" timestamp="1505881049757" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/annotation/serial/jackson/SessionUserIdSerializer.java" timestamp="1503844967615">
         <mark key="[" line="37" column="31" />
         <mark key="]" line="37" column="31" />
@@ -312,6 +313,9 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="18" column="112" />
+      </file>
+      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/pom.xml" timestamp="1505880926264">
+        <mark key="[" line="40" column="19" />
       </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.common/src/main/java/com/foresee/ftcsp/workflow/common/Loggers.java" timestamp="1502441601019">
         <mark key="[" line="24" column="30" />
@@ -500,7 +504,10 @@
         <mark key="^" line="1157" column="3" />
         <mark key="." line="1157" column="3" />
       </file>
-      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/RestControllerInterceptor.java" timestamp="1505880492059" />
+      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/RestControllerInterceptor.java" timestamp="1505880525197" />
+      <file name="D:/foresee/ftcsp_thirdProxy/com.foresee.ftcsp.third-proxy.rest/src/test/java/com/foresee/ftcsp/thirdproxy/rest/ui/front/OAControllerTest.java" timestamp="1505880716609">
+        <mark key="." line="22" column="9" />
+      </file>
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.rest/src/test/java/com/foresee/ftcsp/goods/model/AttributeValueMapperTest.java" timestamp="1501917220218">
         <mark key="[" line="14" column="27" />
         <mark key="]" line="22" column="0" />
@@ -584,7 +591,7 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="36" column="4" />
       </file>
-      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/client/FtcspInnerRestClient.java" timestamp="1505880380634">
+      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/client/FtcspInnerRestClient.java" timestamp="1505880556866">
         <mark key="[" line="227" column="0" />
         <mark key="]" line="232" column="0" />
         <mark key="." line="232" column="0" />
@@ -713,11 +720,11 @@
         <mark key="^" line="18" column="19" />
         <mark key="." line="18" column="19" />
       </file>
-      <file name="D:/foresee/ftcsp_thirdProxy/com.foresee.ftcsp.third-proxy.rest/src/main/java/com/foresee/ftcsp/thirdproxy/rest/ui/front/OAController.java" timestamp="1505665073193">
-        <mark key="[" line="38" column="15" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
-        <mark key="^" line="86" column="9" />
+      <file name="D:/foresee/ftcsp_thirdProxy/com.foresee.ftcsp.third-proxy.rest/src/main/java/com/foresee/ftcsp/thirdproxy/rest/ui/front/OAController.java" timestamp="1505880794075">
+        <mark key="[" line="104" column="25" />
+        <mark key="]" line="104" column="27" />
+        <mark key="." line="104" column="27" />
+        <mark key="^" line="104" column="27" />
       </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/test/java/com/foresee/ftcsp/mvc/demo/inner/dto/Person.java" timestamp="1505294092107">
         <mark key="[" line="15" column="21" />
@@ -1231,7 +1238,7 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="33" column="52" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.ftcspmvc/0.0.2/com.foresee.ftcsp.public.ftcspmvc-0.0.2-sources.jar!/com/foresee/ftcsp/ftcspmvc/filter/AsyncFilter.java" timestamp="1505663766625" />
+      <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.ftcspmvc/0.0.2/com.foresee.ftcsp.public.ftcspmvc-0.0.2-sources.jar!/com/foresee/ftcsp/ftcspmvc/filter/AsyncFilter.java" timestamp="1505880564194" />
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.rest/src/test/java/com/foresee/ftcsp/goods/Service/GoogdsServiceTest.java" timestamp="1504948213531">
         <mark key="[" line="18" column="20" />
         <mark key="]" line="18" column="29" />
@@ -1483,7 +1490,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="135" column="50" />
       </file>
-      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/pom.xml" timestamp="1505407791050">
+      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/pom.xml" timestamp="1505880919581">
         <mark key="[" line="40" column="37" />
         <mark key="]" line="43" column="0" />
         <mark key="^" line="43" column="0" />
@@ -1572,6 +1579,7 @@
         <mark key="^" line="28" column="21" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.core/0.0.2/com.foresee.ftcsp.public.core-0.0.2-sources.jar!/com/foresee/ftcsp/common/core/rest/RestControllerInterceptor.java" timestamp="1505880871516" />
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/TokenBackService.java" timestamp="1504777048988">
         <mark key="[" line="6" column="25" />
         <mark key="]" line="6" column="29" />
@@ -1738,11 +1746,11 @@
       <jump line="66" column="44" filename="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/RestControllerInterceptor.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>String</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21cPg==</text>
@@ -1751,9 +1759,12 @@
         <text encoding="base64">ICAgICAgICBTdHJpbmcgcHJvZmlsZSA9IGVudi5nZXRQcm9wZXJ0eSgic3ByaW5nLmNsb3VkLmNvbmZpZy5wcm9maWxlIik7Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>/**
      * 根据手机号获取sid
      *
@@ -1761,26 +1772,23 @@
      * @return
      */</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBPYmplY3QgaW50ZXJjZXB0b3JBcGkoUHJvY2VlZGluZ0pvaW5Qb2ludCBwanApIHRocm93cyBUaHJvd2FibGUgewogICAgICAgIHJldHVybiB0aGlzLmludGVyY2VwdG9yKHBqcCk7CiAgICB9Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Ly8gICAgQEFyb3VuZCgiY29udHJvbGxlckFzcGVjdCgpIikK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIEBBcm91bmQoImFwaUFzcGVjdCgpIHx8IGNvbnRyb2xsZXJBc3BlY3QoKSIpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL8no1sNyZWRpc0tleQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
     </registers>
     <search>
