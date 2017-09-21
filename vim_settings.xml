@@ -141,6 +141,7 @@
         <mark key="^" line="13" column="96" />
         <mark key="." line="53" column="32" />
       </file>
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.rest/src/main/java/com/foresee/ftcsp/goods/rest/inner/GoodsResource.java" timestamp="1505987713963" />
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/auth/rest/back/UnifiedAuthResource.java" timestamp="1505985068297" />
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/config/FtcspRestControllerAspect.java" timestamp="1505204285417">
         <mark key="[" line="95" column="85" />
@@ -222,12 +223,10 @@
         <mark key="^" line="39" column="40" />
       </file>
       <file name="$USER_HOME$/.m2/repository/foresee/com.foresee.ftcsp.public.core/0.0.2/com.foresee.ftcsp.public.core-0.0.2-sources.jar!/com/foresee/ftcsp/common/core/rest/client/FtcspInnerRestClient.java" timestamp="1505806049448" />
-      <file name="D:/foresee/jcdz/case/com.foresee.ftcsp.case.rest/pom.xml" timestamp="1505957436017">
-        <mark key="[" line="42" column="26" />
-        <mark key="]" line="42" column="26" />
-        <mark key="." line="42" column="26" />
-      </file>
       <file name="$USER_HOME$/.m2/repository/foresee/com.foresee.ftcsp.public.core/0.0.1/com.foresee.ftcsp.public.core-0.0.1.jar!/com/foresee/ftcsp/common/core/rest/api/FtcspRestApiInvocationHandler.class" timestamp="1505977369226" />
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.api/src/main/java/com/foresee/ftcsp/goods/api/inner/GoodsApi.java" timestamp="1505987722079">
+        <mark key="[" line="77" column="70" />
+      </file>
       <file name="D:/foresee/third-proxy/com.foresee.ftcsp.third-proxy.rest/src/test/java/com/foresee/ftcsp/thirdproxy/rest/ui/front/OAControllerTest.java" timestamp="1505815359123">
         <mark key="[" line="47" column="25" />
         <mark key="]" line="47" column="56" />
@@ -242,6 +241,12 @@
       </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/pom.xml" timestamp="1505977740697" />
       <file name="$USER_HOME$/.m2/repository/org/springframework/spring-beans/4.3.4.RELEASE/spring-beans-4.3.4.RELEASE-sources.jar!/org/springframework/beans/factory/config/BeanPostProcessor.java" timestamp="1505975873604" />
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.rest/src/test/java/com/foresee/ftcsp/goods/rest/inner/GoodsResourceTest.java" timestamp="1505987125724">
+        <mark key="[" line="82" column="49" />
+        <mark key="]" line="84" column="50" />
+        <mark key="^" line="84" column="50" />
+        <mark key="." line="84" column="50" />
+      </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/test/BaseTest.java" timestamp="1505209253085">
         <mark key="[" line="58" column="55" />
         <mark key="]" line="58" column="55" />
@@ -277,7 +282,7 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505983320311">
+      <file name="/Dummy.txt" timestamp="1505987102408">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/auth/rest/inner/TokenInnerController.java" timestamp="1505813159081" />
@@ -293,10 +298,11 @@
         <mark key="^" line="16" column="50" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/api/FtcspRestApiInvocationHandler.java" timestamp="1505978232673">
-        <mark key="[" line="354" column="0" />
-        <mark key="]" line="354" column="0" />
-        <mark key="." line="354" column="0" />
+      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/api/FtcspRestApiInvocationHandler.java" timestamp="1505987665404">
+        <mark key="[" line="265" column="68" />
+        <mark key="]" line="267" column="7" />
+        <mark key="." line="267" column="7" />
+        <mark key="^" line="267" column="7" />
       </file>
       <file name="D:/foresee/third-proxy/com.foresee.ftcsp.third-proxy.rest/pom.xml" timestamp="1505287427650">
         <mark key="[" line="43" column="17" />
@@ -317,7 +323,7 @@
         <mark key="^" line="81" column="42" />
         <mark key="." line="81" column="42" />
       </file>
-      <file name="/fragment.java" timestamp="1505979018393">
+      <file name="/fragment.java" timestamp="1505987102419">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="37" />
         <mark key="." line="0" column="37" />
@@ -382,21 +388,24 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oU3lzdGVtLmdldFByb3BlcnR5KCJnb29kcy1hcGkiLCAiIikpOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZ2V0UHJvcGVydHkoIiIpCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oU3lzdGVtLmdldFByb3BlcnR5KCJnb29kcy1hcGkiLCAiIikpOwogICAgfQoK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZ2V0UHJvcGVydHkoIiIpCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAvLyBnb29kcyAtRHNlYy1kZXY9c2VjLWNoZW53ZW5sb25nCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>/**
      * 根据手机号获取sid
      *
@@ -404,11 +413,8 @@
      * @return
      */</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
