@@ -9,6 +9,7 @@
       <file name="/a.dummy" timestamp="1505120559452">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/TaskController.java" timestamp="1505979191696" />
       <file name="D:/foresee/third-proxy/pom.xml" timestamp="1505290929450">
         <mark key="[" line="9" column="30" />
         <mark key="]" line="31" column="0" />
@@ -60,8 +61,17 @@
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/pom.xml" timestamp="1505977761602">
         <mark key="[" line="41" column="19" />
       </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/BpmnGraph.java" timestamp="1505980626390">
+        <mark key="[" line="127" column="31" />
+      </file>
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/target/classes/com/foresee/ftcsp/common/core/rest/RestControllerInterceptor.class" timestamp="1505832067003" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/RestRequest.java" timestamp="1505832048629" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/test/java/com/foresee/ftcsp/workflow/BpmnGraphTest.java" timestamp="1505979423067">
+        <mark key="[" line="25" column="102" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="25" column="30" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="D:/foresee/third-proxy/com.foresee.ftcsp.third-proxy.awsbpm/src/main/java/com/foresee/ftcsp/thirdproxy/BpmApiClient.java" timestamp="1505284405597">
         <mark key="[" line="39" column="42" />
         <mark key="]" line="39" column="43" />
@@ -89,14 +99,16 @@
         <mark key="]" line="46" column="70" />
         <mark key="." line="46" column="70" />
       </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/test/resources/diagrams/a.xml" timestamp="1505979696974" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/RestControllerInterceptor.java" timestamp="1505831979183" />
       <file name="/fragment.kt" timestamp="1504864025170">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/java/com/foresee/ftcsp/gateway/service/impl/AuthServiceImpl.java" timestamp="1505981140753" />
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/test/java/com/foresee/ftcsp/common/core/util/LoggersTest.java" timestamp="1505204340758">
         <mark key="[" line="18" column="41" />
       </file>
-      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/client/FtcspInnerRestClient.java" timestamp="1505969183779">
+      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/client/FtcspInnerRestClient.java" timestamp="1505980894761">
         <mark key="[" line="231" column="47" />
         <mark key="]" line="231" column="56" />
         <mark key="." line="231" column="56" />
@@ -124,7 +136,7 @@
         <mark key="[" line="15" column="21" />
       </file>
       <file name="$USER_HOME$/.m2/repository/foresee/com.foresee.ftcsp.goods.api/0.0.1/com.foresee.ftcsp.goods.api-0.0.1-sources.jar!/com/foresee/ftcsp/goods/api/inner/GoodsApi.java" timestamp="1505976518075" />
-      <file name="/Dummy.txt" timestamp="1505978416333">
+      <file name="/Dummy.txt" timestamp="1505979014942">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/auth/rest/inner/TokenInnerController.java" timestamp="1505813159081" />
@@ -140,7 +152,7 @@
         <mark key="." line="354" column="0" />
       </file>
       <file name="$USER_HOME$/.m2/repository/foresee/com.foresee.ftcsp.public.core/0.0.2/com.foresee.ftcsp.public.core-0.0.2-sources.jar!/com/foresee/ftcsp/common/core/rest/RestControllerInterceptor.java" timestamp="1505806557203" />
-      <file name="/fragment.java" timestamp="1505978416357">
+      <file name="/fragment.java" timestamp="1505979018393">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="37" />
         <mark key="." line="0" column="37" />
@@ -190,10 +202,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oU3lzdGVtLmdldFByb3BlcnR5KCJnb29kcy1hcGkiLCAiIikpOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>chenwenlong</text>
+        <text encoding="base64">b2JqX2M3YWJkYWEyMmM3MDAwMDFlNGRiMTI3MTEzOGQxZmY5IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21cPg==</text>
@@ -202,15 +214,24 @@
         <text encoding="base64">ICAgICAgICAvLyBnb29kcyAtRGdvb2RzLWRldj1nb29kcy1jaGVud2VubG9uZwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oU3lzdGVtLmdldFByb3BlcnR5KCJnb29kcy1hcGkiLCAiIikpOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZ2V0UHJvcGVydHkoIiIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oU3lzdGVtLmdldFByb3BlcnR5KCJnb29kcy1hcGkiLCAiIikpOwogICAgfQoK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZ2V0UHJvcGVydHkoIiIpCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAvLyBnb29kcyAtRHNlYy1kZXY9c2VjLWNoZW53ZW5sb25nCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>/**
      * 根据手机号获取sid
      *
@@ -218,20 +239,11 @@
      * @return
      */</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBPYmplY3QgaW50ZXJjZXB0b3JBcGkoUHJvY2VlZGluZ0pvaW5Qb2ludCBwanApIHRocm93cyBUaHJvd2FibGUgewogICAgICAgIHJldHVybiB0aGlzLmludGVyY2VwdG9yKHBqcCk7CiAgICB9Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgQEFyb3VuZCgiY29udHJvbGxlckFzcGVjdCgpIikK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBBcm91bmQoImFwaUFzcGVjdCgpIHx8IGNvbnRyb2xsZXJBc3BlY3QoKSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
     </registers>
     <search>
