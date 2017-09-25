@@ -11,6 +11,12 @@
       </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/RestControllerInterceptor.java" timestamp="1506335481720" />
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/util/Jackson.java" timestamp="1506307224660" />
+      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/client/FtcspRestUtils.java" timestamp="1506336482621">
+        <mark key="[" line="27" column="66" />
+        <mark key="]" line="27" column="79" />
+        <mark key="." line="27" column="79" />
+        <mark key="^" line="27" column="79" />
+      </file>
       <file name="D:/foresee/third-proxy/pom.xml" timestamp="1505290929450">
         <mark key="[" line="9" column="30" />
         <mark key="]" line="31" column="0" />
@@ -33,7 +39,7 @@
         <mark key="^" line="27" column="15" />
         <mark key="." line="27" column="15" />
       </file>
-      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/util/Loggers.java" timestamp="1505204346575">
+      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/util/Loggers.java" timestamp="1506336542771">
         <mark key="[" line="23" column="66" />
       </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/exception/DefaultExceptionHandler.java" timestamp="1505295259798">
@@ -99,7 +105,7 @@
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.api/src/main/java/com/foresee/ftcsp/goods/api/inner/GoodsApi.java" timestamp="1505987722079">
         <mark key="[" line="77" column="70" />
       </file>
-      <file name="D:/foresee/third-proxy/com.foresee.ftcsp.third-proxy.rest/src/test/java/com/foresee/ftcsp/thirdproxy/rest/ui/front/OAControllerTest.java" timestamp="1505815359123">
+      <file name="D:/foresee/third-proxy/com.foresee.ftcsp.third-proxy.rest/src/test/java/com/foresee/ftcsp/thirdproxy/rest/ui/front/OAControllerTest.java" timestamp="1506335548887">
         <mark key="[" line="47" column="25" />
         <mark key="]" line="47" column="56" />
         <mark key="^" line="47" column="56" />
@@ -145,7 +151,8 @@
         <mark key="]" line="39" column="43" />
         <mark key="." line="39" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505987102408">
+      <file name="D:/foresee/jcdz/customer/com.foresee.ftcsp.customer.rest/src/main/resources/config/bootstrap.properties" timestamp="1506336975033" />
+      <file name="/Dummy.txt" timestamp="1506336194919">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/java/com/foresee/ftcsp/gateway/controller/FileController.java" timestamp="1506067423737">
@@ -156,8 +163,9 @@
         <mark key="]" line="22" column="7" />
         <mark key="." line="22" column="7" />
       </file>
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/resources/config/bootstrap.properties" timestamp="1506336961081" />
       <file name="D:/foresee/third-proxy/com.foresee.ftcsp.third-proxy.rest/src/main/resources/config/bootstrap.properties" timestamp="1506325274970" />
-      <file name="/fragment.java" timestamp="1506067995699">
+      <file name="/fragment.java" timestamp="1506336153078">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="37" />
         <mark key="." line="0" column="37" />
@@ -206,10 +214,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>11199</text>
+        <text>class</text>
       </register>
       <register name="-" type="4">
-        <text>11199</text>
+        <text>class</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21cPg==</text>
