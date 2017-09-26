@@ -72,6 +72,7 @@
         <mark key="^" line="25" column="30" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/common/ListValueLength.java" timestamp="1506391968946" />
       <file name="D:/foresee/third-proxy/com.foresee.ftcsp.third-proxy.awsbpm/src/main/java/com/foresee/ftcsp/thirdproxy/BpmApiClient.java" timestamp="1505284405597">
         <mark key="[" line="39" column="42" />
         <mark key="]" line="39" column="43" />
@@ -143,6 +144,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/common/ListNumberValueValidator.java" timestamp="1506391952690" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.common/src/main/java/com/foresee/ftcsp/workflow/common/RedisKeyEnum.java" timestamp="1505705001646">
         <mark key="[" line="133" column="44" />
       </file>
@@ -169,6 +171,11 @@
       </file>
       <file name="/Clipboard.txt" timestamp="1506067041864">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/manual/dto/QueryGoodsBySkuToOrderDTO.java" timestamp="1506392047618">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1506339913156">
         <mark key="[" line="0" column="0" />
@@ -219,7 +226,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIHN1Y2Nlc3MgPSByZWRpc0NsaWVudC5zZXROeCgidXNlcklkOiIgKyB1c2VySWQsICIxIiwgMzApOwogICAgICAgIGlmICghc3VjY2VzcykgewogICAgICAgICAgICByZXR1cm4gUmVzdFJlc3BvbnNlLmNyZWF0ZSgiMSIsIDApOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIEBOb3RCbGFuayhncm91cHMgPSAiIikK</text>
       </register>
       <register name="-" type="4">
         <text>Update</text>
@@ -231,31 +238,31 @@
         <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgc2VydmljZShIdHRwU2VydmxldFJlcXVlc3QgcmVxdWVzdCwKICAgICAgICAgICAgICAgICAgICAgICAgICBIdHRwU2VydmxldFJlc3BvbnNlIHJlc3BvbnNlLAogICAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBhcHBOYW1lLCBTdHJpbmcgc2VydmljZUxldmVsLAogICAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBzZXJ2aWNlTmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmcgc2VydmljZU1ldGhvZCwKICAgICAgICAgICAgICAgICAgICAgICAgICBSZXN0UmVxdWVzdEhlYWQgcmVxdWVzdEhlYWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIGJvZHksCiAgICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIGV4dEFjdGlvbiwKICAgICAgICAgICAgICAgICAgICAgICAgICBib29sZWFuIGlzUG9zdCkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIHN1Y2Nlc3MgPSByZWRpc0NsaWVudC5zZXROeCgidXNlcklkOiIgKyB1c2VySWQsICIxIiwgMzApOwogICAgICAgIGlmICghc3VjY2VzcykgewogICAgICAgICAgICByZXR1cm4gUmVzdFJlc3BvbnNlLmNyZWF0ZSgiMSIsIDApOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIEBOb3RCbGFuayhncm91cHMgPSAiIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN1cGVyLmdldE1ldGhvZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIHN1Y2Nlc3MgPSByZWRpc0NsaWVudC5zZXROeCgidXNlcklkOiIgKyB1c2VySWQsICIxIiwgMzApOwogICAgICAgIGlmICghc3VjY2VzcykgewogICAgICAgICAgICByZXR1cm4gUmVzdFJlc3BvbnNlLmNyZWF0ZSgiMSIsIDApOwogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN1cGVyLmdldENvbnRlbnRUeXBlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN1cGVyLmdldE1ldGhvZCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN1cGVyLmdldENvbnRlbnRUeXBlKCk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgSW50ZWdyYWxNYXBwZXIgaW50ZWdyYWxNYXBwZXI7</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgSW50ZWdyYWxNYXBwZXIgaW50ZWdyYWxNYXBwZXI7</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">CioKICogPHByZT4KICoKICogPC9wcmU+CiAqCiAqIEBhdXRob3IgY2hlbndlbmxvbmdAZm9yZXNlZS5jb20uY24KICogQHZlcnNpb24gMS4wMC4wMAogKiBAZGF0ZSAyMDE3xOowOdTCMjXI1Q==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5mb3Jlc2VlLmZ0Y3NwLnRoaXJkcHJveHkubWFudWFsLmRhby5JbnRlZ3JhbE1hcHBlcjsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
     </registers>
     <search>
