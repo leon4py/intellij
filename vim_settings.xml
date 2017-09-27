@@ -51,7 +51,12 @@
       <file name="D:/foresee/third-proxy/com.foresee.ftcsp.third-proxy.rest/src/main/java/com/foresee/ftcsp/thirdproxy/rest/ui/front/DemoController.java" timestamp="1506415740245">
         <mark key="^" line="40" column="49" />
       </file>
-      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/TokenService.java" timestamp="1506501350126" />
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/TokenService.java" timestamp="1506512267225">
+        <mark key="[" line="78" column="23" />
+        <mark key="]" line="78" column="22" />
+        <mark key="." line="78" column="22" />
+        <mark key="^" line="78" column="22" />
+      </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/util/JsonUtils.java" timestamp="1505354601929">
         <mark key="[" line="33" column="0" />
       </file>
@@ -76,7 +81,7 @@
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/resources/logback-spring.xml" timestamp="1506476717479">
         <mark key="[" line="53" column="36" />
       </file>
-      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/auth/rest/outter/TokenOutterController.java" timestamp="1506501458473">
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/auth/rest/outter/TokenOutterController.java" timestamp="1506511914137">
         <mark key="[" line="80" column="50" />
         <mark key="]" line="80" column="50" />
         <mark key="^" line="79" column="40" />
@@ -146,10 +151,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>connector1</text>
+        <text>return</text>
       </register>
       <register name="-" type="4">
-        <text>connector1</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21cPg==</text>
