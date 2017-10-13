@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/foresee/jcdz/customer/com.foresee.ftcsp.customer.model/src/main/java/com/foresee/ftcsp/customer/manual/dao/CrmCustomerExtMapper.java" timestamp="1507860138460" />
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/jetty/JettySpringEmbeddedContainer.java" timestamp="1507689407366">
         <mark key="]" line="2" column="44" />
         <mark key="." line="2" column="44" />
@@ -54,13 +55,13 @@
         <mark key="]" line="46" column="70" />
         <mark key="." line="46" column="70" />
       </file>
-      <file name="D:/foresee/jcdz/customer/com.foresee.ftcsp.customer.model/src/main/resources/com/foresee/ftcsp/customer/manual/mapper/CrmCustomerExtMapper.xml" timestamp="1507714826718" />
       <file name="D:/foresee/workflow/pom.xml" timestamp="1505985722249">
         <mark key="[" line="5" column="18" />
       </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/util/Loggers.java" timestamp="1506336542771">
         <mark key="[" line="23" column="66" />
       </file>
+      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.database/src/main/java/com/foresee/ftcsp/common/database/page/PageSqlSessionTemplate.java" timestamp="1507860402876" />
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/exception/DefaultExceptionHandler.java" timestamp="1505295259798">
         <mark key="[" line="40" column="14" />
       </file>
@@ -73,7 +74,6 @@
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/util/JsonUtils.java" timestamp="1505354601929">
         <mark key="[" line="33" column="0" />
       </file>
-      <file name="D:/foresee/jcdz/case/com.foresee.ftcsp.case.service/src/main/java/com/foresee/ftcsp/security/service/impl/SecInstitutionfServiceImpl.java" timestamp="1507712918576" />
       <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.rest/src/test/java/com/foresee/ftcsp/security/rest/UserResourceTest.java" timestamp="1505205399059">
         <mark key="[" line="193" column="8" />
       </file>
@@ -98,8 +98,6 @@
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/test/java/com/foresee/oa/helper/test/ForeseeOAHelperTest.java" timestamp="1505704628328">
         <mark key="[" line="2" column="34" />
       </file>
-      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/model/SendSMSModel.java" timestamp="1507714963789" />
-      <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.core/0.0.2/com.foresee.ftcsp.public.core-0.0.2-sources.jar!/com/foresee/ftcsp/common/core/page/Page.java" timestamp="1507713403785" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.common/src/main/java/com/foresee/ftcsp/workflow/common/RedisKeyEnum.java" timestamp="1505705001646">
         <mark key="[" line="133" column="44" />
       </file>
@@ -109,17 +107,14 @@
         <mark key="^" line="24" column="24" />
         <mark key="." line="24" column="24" />
       </file>
-      <file name="D:/foresee/jcdz/customer/com.foresee.ftcsp.customer.rest/src/main/java/com/foresee/ftcsp/customer/rest/ui/back/CustomerController.java" timestamp="1507713685693" />
       <file name="/Clipboard.txt" timestamp="1506067041864">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/foresee/third-proxy/com.foresee.ftcsp.third-proxy.rest/src/main/java/com/foresee/ftcsp/thirdproxy/service/OAService.java" timestamp="1507712786566" />
       <file name="/fragment.java" timestamp="1507707114546">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="116" />
         <mark key="." line="0" column="116" />
       </file>
-      <file name="D:/foresee/jcdz/security/com.foresee.ftcsp.security.service/src/main/java/com/foresee/ftcsp/security/service/impl/SecInstitutionfServiceImpl.java" timestamp="1507713355451" />
     </filemarks>
     <jumps>
       <jump line="15" column="0" filename="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/url/InnerURL.java" />
