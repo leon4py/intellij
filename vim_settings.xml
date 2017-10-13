@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/foresee/jcdz/customer/com.foresee.ftcsp.customer.rest/src/test/java/com/foresee/ftcsp/customer/manual/dao/CrmCustomerExtMapperTest.java" timestamp="1507865050930">
-        <mark key="[" line="38" column="27" />
-        <mark key="]" line="38" column="27" />
-        <mark key="." line="38" column="27" />
-        <mark key="^" line="39" column="27" />
+      <file name="D:/foresee/jcdz/customer/com.foresee.ftcsp.customer.rest/src/test/java/com/foresee/ftcsp/customer/manual/dao/CrmCustomerExtMapperTest.java" timestamp="1507866248172">
+        <mark key="[" line="40" column="41" />
+        <mark key="]" line="40" column="41" />
+        <mark key="." line="40" column="41" />
+        <mark key="^" line="40" column="16" />
       </file>
       <file name="/a.dummy" timestamp="1505120559452">
         <mark key="[" line="0" column="0" />
@@ -177,16 +177,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>queryCustomerByVo</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>queryCustomerByVo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBTZWxlY3QoInNlbGVjdCAqIGZyb20gb3JndXNlciB3aGVyZSBtb2JpbGU9I3ttb2JpbGV9IikKICAgIE9yZ1VzZXIgZmluZEJ5UGhvbmUoQFBhcmFtKCJtb2JpbGUiKSBTdHJpbmcgbW9iaWxlKTsK</text>
+        <text encoding="base64">ICAgICAgICBQYWdlUXVlcnlSZXN1bHQ8Q3JtQ3VzdG9tZXJEVE8+IHJlc3VsdCA9IGNybUN1c3RvbWVyRXh0TWFwcGVyLnF1ZXJ5Q3VzdG9tZXJCeVZvKHBhcmFtKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
