@@ -79,8 +79,8 @@
       <file name="/Dummy.scala" timestamp="1508294090331">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/lab/HelloSBT/build.sbt" timestamp="1508293793867">
-        <mark key="[" line="4" column="22" />
+      <file name="D:/lab/HelloSBT/build.sbt" timestamp="1508385096343">
+        <mark key="[" line="5" column="0" />
         <mark key="]" line="4" column="23" />
         <mark key="." line="4" column="23" />
       </file>
@@ -118,11 +118,11 @@
       <file name="D:/foresee/base/pom.xml" timestamp="1508228204805">
         <mark key="[" line="90" column="26" />
       </file>
-      <file name="D:/lab/HelloSBT/src/main/scala/Hello.scala" timestamp="1508376435090">
-        <mark key="[" line="13" column="14" />
-        <mark key="]" line="12" column="13" />
-        <mark key="." line="12" column="13" />
-        <mark key="^" line="12" column="13" />
+      <file name="D:/lab/HelloSBT/src/main/scala/Hello.scala" timestamp="1508384570673">
+        <mark key="[" line="30" column="59" />
+        <mark key="]" line="35" column="44" />
+        <mark key="." line="35" column="44" />
+        <mark key="^" line="35" column="44" />
       </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/test/java/com/foresee/ftcsp/common/core/util/LoggersTest.java" timestamp="1505204340758">
         <mark key="[" line="18" column="41" />
@@ -138,6 +138,12 @@
       </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/test/java/com/foresee/oa/helper/test/ForeseeOAHelperTest.java" timestamp="1505704628328">
         <mark key="[" line="2" column="34" />
+      </file>
+      <file name="D:/lab/HelloSBT/src/main/scala/FutureDemo.scala" timestamp="1508385208632">
+        <mark key="[" line="45" column="18" />
+        <mark key="]" line="45" column="18" />
+        <mark key="." line="45" column="18" />
+        <mark key="^" line="45" column="18" />
       </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.common/src/main/java/com/foresee/ftcsp/workflow/common/RedisKeyEnum.java" timestamp="1505705001646">
         <mark key="[" line="133" column="44" />
@@ -208,45 +214,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcmludGxuKGNvbWJpbmVkKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>numsFixed</text>
+        <text>map</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjYXNlIHBhdHRlcm4obnVtLCBpdGVtKSA9PiBwcmludGxuKCIkbnVtLCAkaXRlbSIpCg==</text>
+        <text encoding="base64">ICBwcmludGxuKGNvbWJpbmVkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFsIHBhdHRlcm4gPSAiKFswLTldKykgKFthLXpdKykiLnIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ijk5IGJvdHRsZXMiIG1hdGNoIHsKICBjYXNlIHBhdHRlcm4obnVtLCBpdGVtKSA9PiBwcmludGxuKCIkbnVtLCAkaXRlbSIpCiAgY2FzZSBfID0+Cn0K</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuRXhlY3V0aW9uQ29udGV4dC5JbXBsaWNpdHMuZ2xvYmFsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjYXNlIHBhdHRlcm4obnVtLCBpdGVtKSA9PiAuLi4K</text>
+        <text encoding="base64">aW1wb3J0IEltcGxpY2l0aXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmFsIHBhdHRlcm4gPSAiKFswLTldKykgKFthLXpdKykiLnIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIG51bXNGaXhlZChuOiBCaWdJbnQpOiBTdHJlYW1bQmlnSW50XSA9IG4gIzo6IAo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAobSwgYykgPT4gbSArIChjIC0+IChtKSkK</text>
+        <text encoding="base64">aW1wbGljaXRseQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>val i = &quot;陈文龙&quot;
-val u = &quot;候湘茵&quot;
-f&quot;$i loves $u&quot;</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFsIHBhdHRlcm4gPSAiKFswLTldKykgKFthLXpdKykiLnIK</text>
       </register>
     </registers>
     <search>
