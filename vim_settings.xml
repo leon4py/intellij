@@ -4,6 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="D:/lab/apollo/apollo-client/src/main/java/com/ctrip/framework/apollo/spring/annotation/ApolloAnnotationProcessor.java" timestamp="1508484120468" />
+      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/jetty/JettySpringEmbeddedContainer.java" timestamp="1508488445207" />
       <file name="D:/lab/apollo/apollo-client/src/test/java/com/ctrip/framework/apollo/spring/JavaConfigPlaceholderTest.java" timestamp="1508484554680" />
       <file name="D:/lab/apollo/apollo-client/src/main/java/com/ctrip/framework/apollo/spring/annotation/EnableApolloConfig.java" timestamp="1508483745770" />
       <file name="/a.dummy" timestamp="1505120559452">
@@ -16,15 +17,15 @@
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/pom.xml" timestamp="1508225010636">
         <mark key="[" line="54" column="21" />
       </file>
-      <file name="D:/foresee/third-proxy/com.foresee.ftcsp.third-proxy.rest/src/main/java/com/foresee/ftcsp/thirdproxy/rest/ui/front/OAController.java" timestamp="1508487313165">
+      <file name="D:/foresee/third-proxy/com.foresee.ftcsp.third-proxy.rest/src/main/java/com/foresee/ftcsp/thirdproxy/rest/ui/front/OAController.java" timestamp="1508487962610">
         <mark key="[" line="49" column="25" />
         <mark key="]" line="49" column="24" />
         <mark key="^" line="49" column="24" />
         <mark key="." line="49" column="24" />
       </file>
       <file name="D:/lab/apollo/apollo-client/src/main/java/com/ctrip/framework/apollo/spring/annotation/ApolloConfigRegistrar.java" timestamp="1508481042984" />
-      <file name="D:/foresee/third-proxy/com.foresee.ftcsp.third-proxy.rest/src/main/java/com/foresee/ftcsp/thirdproxy/rest/ThirdProxyApplication.java" timestamp="1508466764813">
-        <mark key="[" line="24" column="15" />
+      <file name="D:/foresee/third-proxy/com.foresee.ftcsp.third-proxy.rest/src/main/java/com/foresee/ftcsp/thirdproxy/rest/ThirdProxyApplication.java" timestamp="1508488111244">
+        <mark key="[" line="22" column="66" />
       </file>
       <file name="D:/lab/apollo/apollo-client/README.md" timestamp="1508479950344" />
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/util/Loggers.java" timestamp="1506336542771">
@@ -35,9 +36,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.core/0.0.2/com.foresee.ftcsp.public.core-0.0.2-sources.jar!/com/foresee/ftcsp/common/core/dict/impl/FtcspSystemDictProvider.java" timestamp="1508467394555" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.4.RELEASE/spring-core-4.3.4.RELEASE-sources.jar!/org/springframework/core/env/CommandLinePropertySource.java" timestamp="1508488909661" />
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/exception/DefaultExceptionHandler.java" timestamp="1505295259798">
         <mark key="[" line="40" column="14" />
       </file>
+      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/config/FtcspAspectConfiguration.java" timestamp="1508488775542" />
       <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/java/com/foresee/ftcsp/gateway/GatewayApplication.java" timestamp="1508466737634" />
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/util/JsonUtils.java" timestamp="1505354601929">
         <mark key="[" line="33" column="0" />
@@ -62,6 +65,12 @@
       </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/test/java/com/foresee/oa/helper/test/ForeseeOAHelperTest.java" timestamp="1505704628328">
         <mark key="[" line="2" column="34" />
+      </file>
+      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/config/DictPropertySource.java" timestamp="1508489162507">
+        <mark key="[" line="21" column="55" />
+        <mark key="]" line="21" column="63" />
+        <mark key="^" line="21" column="63" />
+        <mark key="." line="21" column="63" />
       </file>
       <file name="D:/foresee/base/system/com.foresee.ftcsp.system.model/src/main/resources/com/foresee/ftcsp/system/manual/mapper/SysDicItemExtMapper.xml" timestamp="1508470602048" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.2.8.RELEASE/spring-core-4.2.8.RELEASE-sources.jar!/org/springframework/core/env/CompositePropertySource.java" timestamp="1508484839618" />
@@ -101,10 +110,15 @@
       <file name="D:/foresee/workflow/pom.xml" timestamp="1505985722249">
         <mark key="[" line="5" column="18" />
       </file>
+      <file name="D:/foresee/third-proxy/com.foresee.ftcsp.third-proxy.awsbpm/src/main/java/com/foresee/ftcsp/thirdproxy/BpmApiClient.java" timestamp="1508488396006">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
+      </file>
       <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/java/com/foresee/ftcsp/gateway/config/GatewayConfig.java" timestamp="1508466731778" />
       <file name="D:/foresee/base/system/com.foresee.ftcsp.system.service/src/main/java/com/foresee/ftcsp/system/service/impl/SysDicItemServiceImpl.java" timestamp="1508471681583" />
       <file name="D:/foresee/base/system/com.foresee.ftcsp.system.rest/src/main/java/com/foresee/ftcsp/system/rest/inner/SysDicItemController.java" timestamp="1508470143477" />
-      <file name="/Dummy.txt" timestamp="1508486526606">
+      <file name="/Dummy.txt" timestamp="1508488148222">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/lab/apollo/apollo-client/src/main/java/com/ctrip/framework/apollo/spring/config/PropertySourcesProcessor.java" timestamp="1508484886173" />
@@ -117,7 +131,7 @@
       <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/java/com/foresee/ftcsp/gateway/controller/FileController.java" timestamp="1506067423737">
         <mark key="[" line="120" column="28" />
       </file>
-      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/dict/FtcspDictLoader.java" timestamp="1508475485477" />
+      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/dict/FtcspDictLoader.java" timestamp="1508488698691" />
       <file name="D:/foresee/base/pom.xml" timestamp="1508228204805">
         <mark key="[" line="90" column="26" />
       </file>
@@ -127,7 +141,9 @@
       <file name="D:/foresee/third-proxy/com.foresee.ftcsp.third-proxy.rest/src/main/resources/config/bootstrap.properties" timestamp="1508469507712" />
       <file name="D:/foresee/base/system/com.foresee.ftcsp.system.service/src/main/java/com/foresee/ftcsp/system/service/impl/SysDictionaryTypeServiceImpl.java" timestamp="1508469846621" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.6.RELEASE/spring-context-4.3.6.RELEASE-sources.jar!/org/springframework/context/support/PropertySourcesPlaceholderConfigurer.java" timestamp="1508484068607" />
-      <file name="/fragment.java" timestamp="1508487279053">
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.4.RELEASE/spring-core-4.3.4.RELEASE-sources.jar!/org/springframework/core/env/MapPropertySource.java" timestamp="1508488872525" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.4.RELEASE/spring-core-4.3.4.RELEASE-sources.jar!/org/springframework/core/env/PropertySource.java" timestamp="1508489050726" />
+      <file name="/fragment.java" timestamp="1508488148212">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="116" />
         <mark key="." line="0" column="116" />
@@ -180,44 +196,44 @@
       <jump line="123" column="3" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.3-sources.jar!/scala/collection/immutable/List.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlbnYuZ2V0UHJvcGVydHlTb3VyY2VzKCkuCg==</text>
+      <register name="&quot;" type="4">
+        <text>commandLineArgs</text>
       </register>
       <register name="-" type="4">
-        <text>next</text>
+        <text>commandLineArgs</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBGdGNzcERpY3RWYWx1ZSgiJHtvYS51cmx9IikK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHVybCA9ICJodHRwOi8vMTkyLjE2OC4yMjAuMTo4MDg4L3BvcnRhbC9vcGVuYXBpIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbnYuZ2V0UHJvcGVydHlTb3VyY2VzKCkuCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZXJhdG9yLnJlbW92ZSgpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpczsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEBGdGNzcERpY3RWYWx1ZSgib2EudXJsIikK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIGNsYXNzIEEgewogICAgICAgIHByaXZhdGUgRG91YmxlIGQ7CgogICAgICAgIHB1YmxpYyBEb3VibGUgZ2V0RCgpIHsKICAgICAgICAgICAgcmV0dXJuIGQ7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgQSBzZXREKERvdWJsZSBkKSB7CiAgICAgICAgICAgIHRoaXMuZCA9IGQ7CiAgICAgICAgICAgIHJldHVybiB0aGlzOwogICAgICAgIH0KICAgIH0KCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgQSBhID0gbmV3IEEoKTsKICAgICAgICBhLnNldEQoKGRvdWJsZSkgMTAwKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSmFja3Nvbi50b0pzb24oYSkpOwogICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBWYWx1ZSgiJHtvYS5vcGVuYXBpfX0iKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBlbnYuZ2V0UHJvcGVydHlTb3VyY2VzKCkuCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZXJhdG9yLnJlbW92ZSgpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpczsK</text>
       </register>
     </registers>
     <search>
