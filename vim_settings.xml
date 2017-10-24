@@ -69,6 +69,12 @@
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/id/impl/SnowflakeIdWorker.java" timestamp="1507532678576">
         <mark key="[" line="194" column="67" />
       </file>
+      <file name="D:/lab/spark-study/src/main/scala/cn/kkicc/SumApp.scala" timestamp="1508856739962">
+        <mark key="[" line="20" column="29" />
+        <mark key="]" line="20" column="20" />
+        <mark key="^" line="20" column="20" />
+        <mark key="." line="20" column="20" />
+      </file>
       <file name="D:/foresee/workflow/pom.xml" timestamp="1505985722249">
         <mark key="[" line="5" column="18" />
       </file>
@@ -226,11 +232,11 @@
       <jump line="123" column="3" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.3-sources.jar!/scala/collection/immutable/List.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>sc</text>
       </register>
       <register name="-" type="4">
-        <text>provided</text>
+        <text>sc</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21cPg==</text>
@@ -239,31 +245,31 @@
         <text encoding="base64">ICB1cmkgKz0gIiZxaT0iICsgVVVJRC5yYW5kb21VVUlEKCkudG9TdHJpbmcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICB3b3JkQ291bnRzLmZvcmVhY2goKGtleSwgY291bnQpID0+IHsKICAgIHByaW50bG4ocyIka2V5PT4kY291bnQiKQogIH0p</text>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gICogQGRhdGUgMjAxN8TqMTDUwjI0yNUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcmludGxuKHdvcmRzKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC5tYXAobGluKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICB3b3JkQ291bnRzLmZvcmVhY2goKGtleSwgY291bnQpID0+IHsKICAgIHByaW50bG4ocyIka2V5PT4kY291bnQiKQogIH0p</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBwcmludGxuKHdvcmRzKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSgiJHtvYS5vcGVuYXBpfSIpCg==</text>
+        <text encoding="base64">ICAgIC5tYXAobGluKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly9ARnRjc3BEaWN0Q29uZmlnKGRpY3RDb2RlID0gIm9hLWNvbmZpZyIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTG9nZ2VyIGxvZ2dlciA9IExvZ2dlcnMubWFrZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
