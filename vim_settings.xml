@@ -109,12 +109,14 @@
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/pom.xml" timestamp="1508491703622">
         <mark key="[" line="42" column="21" />
       </file>
+      <file name="D:/foresee/product/pom.xml" timestamp="1508813353376" />
       <file name="D:/foresee/third-proxy/com.foresee.ftcsp.third-proxy.rest/src/main/java/com/foresee/ftcsp/thirdproxy/config/AppConfig.java" timestamp="1508553814994">
         <mark key="[" line="26" column="38" />
         <mark key="]" line="36" column="0" />
         <mark key="^" line="36" column="16" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="D:/foresee/analysis/spark/com.foresee.xwfx/com.foresee.xwfx.parselog/src/main/scala/com/foresee/xwfx/parselog/handler/LogHandler.scala" timestamp="1508812896570" />
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/pom.xml" timestamp="1507626143170">
         <mark key="[" line="41" column="19" />
       </file>
@@ -140,7 +142,7 @@
         <mark key="^" line="41" column="3" />
       </file>
       <file name="D:/foresee/analysis/spark/com.foresee.xwfx/com.foresee.xwfx.visitor/src/main/scala/com/foresee/xwfx/conf/CommonConfig.scala" timestamp="1508811378753" />
-      <file name="/Dummy.txt" timestamp="1508554020980">
+      <file name="/Dummy.txt" timestamp="1508812867861">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Scala Console" timestamp="1508376611725">
@@ -161,15 +163,16 @@
       <file name="D:/foresee/base/pom.xml" timestamp="1508228204805">
         <mark key="[" line="90" column="26" />
       </file>
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.service/src/main/java/com/foresee/ftcsp/goods/dynamicdb/DataSourceConfiguration.java" timestamp="1508813450264" />
       <file name="D:/foresee/analysis/spark/com.foresee.xwfx/report/com.foresee.xwfx.report.bszsfree/src/main/scala/com/foresee/xwfx/report/bszsfree/BszsFreeReportApplication.scala" timestamp="1508811005585" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/resources/logback-spring.xml" timestamp="1506476717479">
         <mark key="[" line="53" column="36" />
       </file>
-      <file name="D:/lab/spark-study/src/main/scala/cn/kkicc/SparkApp.scala" timestamp="1508812097881">
-        <mark key="[" line="6" column="25" />
-        <mark key="]" line="6" column="25" />
-        <mark key="^" line="6" column="14" />
-        <mark key="." line="6" column="25" />
+      <file name="D:/lab/spark-study/src/main/scala/cn/kkicc/SparkApp.scala" timestamp="1508813090020">
+        <mark key="[" line="14" column="43" />
+        <mark key="]" line="14" column="44" />
+        <mark key="^" line="14" column="44" />
+        <mark key="." line="14" column="44" />
       </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/client/RestTemplateConfig.java" timestamp="1508551497813">
         <mark key="[" line="51" column="0" />
@@ -230,17 +233,17 @@
       <jump line="123" column="3" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.3-sources.jar!/scala/collection/immutable/List.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QEZ0Y3NwRGljdENvbmZpZyhkaWN0Q29kZSA9ICJvYS1jb25maWciKQo=</text>
+        <text encoding="base64">ICB1cmkgKz0gIiZxaT0iICsgVVVJRC5yYW5kb21VVUlEKCkudG9TdHJpbmcK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
