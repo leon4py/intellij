@@ -81,10 +81,11 @@
         <mark key="^" line="20" column="20" />
         <mark key="." line="20" column="20" />
       </file>
+      <file name="D:/foresee/analysis/spark/com.foresee.xwfx/com.foresee.xwfx.timer/src/main/resources/log4j.properties" timestamp="1509092327575" />
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/util/Loggers.java" timestamp="1506336542771">
         <mark key="[" line="23" column="66" />
       </file>
-      <file name="/Dummy.scala" timestamp="1508932042859">
+      <file name="/Dummy.scala" timestamp="1509091709325">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/exception/DefaultExceptionHandler.java" timestamp="1505295259798">
@@ -165,8 +166,10 @@
         <mark key="^" line="57" column="7" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="D:/foresee/analysis/spark/com.foresee.xwfx/com.foresee.xwfx.timer/src/main/scala/com/foresee/xwfx/ReportGenerator.scala" timestamp="1509089729231">
-        <mark key="[" line="11" column="24" />
+      <file name="D:/foresee/analysis/spark/com.foresee.xwfx/com.foresee.xwfx.timer/src/main/scala/com/foresee/xwfx/ReportGenerator.scala" timestamp="1509092472799">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.common/src/main/java/com/foresee/ftcsp/workflow/common/RedisKeyEnum.java" timestamp="1505705001646">
         <mark key="[" line="133" column="44" />
@@ -179,6 +182,12 @@
       </file>
       <file name="/Clipboard.txt" timestamp="1506067041864">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/foresee/analysis/spark/com.foresee.xwfx/.gitignore" timestamp="1509091952375">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="6" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="D:/foresee/jcdz/customer/pom.xml" timestamp="1508211696296">
         <mark key="[" line="49" column="21" />
@@ -242,8 +251,11 @@
       <file name="D:/foresee/workflow/pom.xml" timestamp="1505985722249">
         <mark key="[" line="5" column="18" />
       </file>
-      <file name="D:/foresee/analysis/spark/com.foresee.xwfx/com.foresee.xwfx.timer/src/main/scala/com/foresee/xwfx/TimerApplication.scala" timestamp="1509089690749">
-        <mark key="[" line="3" column="3" />
+      <file name="D:/foresee/analysis/spark/com.foresee.xwfx/com.foresee.xwfx.timer/src/main/scala/com/foresee/xwfx/TimerApplication.scala" timestamp="1509092405554">
+        <mark key="[" line="14" column="44" />
+        <mark key="]" line="14" column="44" />
+        <mark key="^" line="14" column="44" />
+        <mark key="." line="14" column="44" />
       </file>
       <file name="D:/foresee/third-proxy/com.foresee.ftcsp.third-proxy.awsbpm/src/main/java/com/foresee/ftcsp/thirdproxy/BpmApiClient.java" timestamp="1508554570813">
         <mark key="[" line="41" column="0" />
@@ -258,7 +270,7 @@
         <mark key="." line="68" column="47" />
         <mark key="^" line="68" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509089048718">
+      <file name="/Dummy.txt" timestamp="1509092479796">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Scala Console" timestamp="1508376611725">
@@ -300,8 +312,15 @@
         <mark key="." line="37" column="62" />
         <mark key="^" line="37" column="62" />
       </file>
+      <file name="D:/foresee/analysis/spark/com.foresee.xwfx/report/com.foresee.xwfx.report.bszsfree/src/main/scala/com/foresee/xwfx/report/bszsfree/jdbc/MysqlUtil.scala" timestamp="1509091184392" />
+      <file name="D:/foresee/analysis/spark/com.foresee.xwfx/com.foresee.xwfx.timer/src/test/scala/com/foresee/xwfx/ReportGeneratorTest.scala" timestamp="1509092497092">
+        <mark key="[" line="19" column="30" />
+        <mark key="]" line="19" column="31" />
+        <mark key="." line="19" column="31" />
+        <mark key="^" line="17" column="32" />
+      </file>
       <file name="D:/foresee/analysis/spark/com.foresee.xwfx/com.foresee.xwfx.timer/src/main/resource/log4j.properties" timestamp="1509089219373" />
-      <file name="/fragment.java" timestamp="1508927074395">
+      <file name="/fragment.java" timestamp="1509091496427">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -353,44 +372,44 @@
       <jump line="36" column="70" filename="D:/foresee/analysis/spark/com.foresee.xwfx/report/com.foresee.xwfx.report.bszsfree/src/main/scala/com/foresee/xwfx/report/bszsfree/handler/CountRemainUser.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>visitor</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFJlcG9ydEdlbmVyYXRvci5nZW5lcmF0ZSgiWSIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>visitor</text>
+        <text>ype</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8bW9kdWxlPmNvbS5mb3Jlc2VlLnh3ZngudmlzaXRvcjwvbW9kdWxlPgo=</text>
+        <text encoding="base64">ICAgIFJlcG9ydEdlbmVyYXRvci5nZW5lcmF0ZSgiWSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8bW9kdWxlPmNvbS5mb3Jlc2VlLnh3ZngudGltZXI8L21vZHVsZT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8bW9kdWxlPnRpbWVyPC9tb2R1bGU+Cg==</text>
+        <text encoding="base64">ICAgIGlmIChjb25uZWN0aW9uICE9IG51bGwpIHsKICAgICAgY29ubmVjdGlvbi5jbG9zZSgpCiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgZGVmIHNldENvdW50RGF5KGNvdW50RGF5OiBMb2NhbERhdGUpOiBVbml0ID0gewogICAgdGhpcy5jb3VudERheSA9IGNvdW50RGF5CiAgfQoKICBkZWYgZ2V0Q291bnREYXk6IExvY2FsRGF0ZSA9IHsKICAgIHRoaXMuY291bnREYXkKICB9CgogIGRlZiBzZXRDb25maWd1cmF0aW9uKGhiYXNlQ29uZjogQ29uZmlndXJhdGlvbik6IFVuaXQgPSB7CiAgICB0aGlzLmhiYXNlQ29uZiA9IGhiYXNlQ29uZgogIH0KCiAgZGVmIGdldENvbmZpZ3VyYXRpb246IENvbmZpZ3VyYXRpb24gPSB7CiAgICB0aGlzLmhiYXNlQ29uZgogIH0KCiAgZGVmIHNldFNRTENvbnRleHQoc3FsQ29udGV4dDogU1FMQ29udGV4dCk6IFVuaXQgPSB7CiAgICB0aGlzLnNxbENvbnRleHQgPSBzcWxDb250ZXh0CiAgfQoKICBkZWYgZ2V0U1FMQ29udGV4dDogU1FMQ29udGV4dCA9IHsKICAgIHRoaXMuc3FsQ29udGV4dAogIH0KCiAgZGVmIHNldFNwYXJrQ29udGV4dChzcGFya0NvbnRleHQ6IFNwYXJrQ29udGV4dCk6IFVuaXQgPSB7CiAgICB0aGlzLnNwYXJrQ29udGV4dCA9IHNwYXJrQ29udGV4dAogIH0KCiAgZGVmIGdldFNwYXJrQ29udGV4dDogU3BhcmtDb250ZXh0ID0gewogICAgdGhpcy5zcGFya0NvbnRleHQKICB9</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbm5lY3Rpb24uY2xvc2UoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnRleHQuCg==</text>
+        <text encoding="base64">Ki5jbGFzcwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IGRlZiBzZXRDb3VudERheShjb3VudERheTogTG9jYWxEYXRlKTogVW5pdCA9IHsKICAgIHRoaXMuY291bnREYXkgPSBjb3VudERheQogIH0KCiAgZGVmIGdldENvdW50RGF5OiBMb2NhbERhdGUgPSB7CiAgICB0aGlzLmNvdW50RGF5CiAgfQoKICBkZWYgc2V0Q29uZmlndXJhdGlvbihoYmFzZUNvbmY6IENvbmZpZ3VyYXRpb24pOiBVbml0ID0gewogICAgdGhpcy5oYmFzZUNvbmYgPSBoYmFzZUNvbmYKICB9CgogIGRlZiBnZXRDb25maWd1cmF0aW9uOiBDb25maWd1cmF0aW9uID0gewogICAgdGhpcy5oYmFzZUNvbmYKICB9CgogIGRlZiBzZXRTUUxDb250ZXh0KHNxbENvbnRleHQ6IFNRTENvbnRleHQpOiBVbml0ID0gewogICAgdGhpcy5zcWxDb250ZXh0ID0gc3FsQ29udGV4dAogIH0KCiAgZGVmIGdldFNRTENvbnRleHQ6IFNRTENvbnRleHQgPSB7CiAgICB0aGlzLnNxbENvbnRleHQKICB9CgogIGRlZiBzZXRTcGFya0NvbnRleHQoc3BhcmtDb250ZXh0OiBTcGFya0NvbnRleHQpOiBVbml0ID0gewogICAgdGhpcy5zcGFya0NvbnRleHQgPSBzcGFya0NvbnRleHQKICB9CgogIGRlZiBnZXRTcGFya0NvbnRleHQ6IFNwYXJrQ29udGV4dCA9IHsKICAgIHRoaXMuc3BhcmtDb250ZXh0CiAgfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnRleHQuc3BhcmtDb250ZXh0ID0gc2MK</text>
+        <text encoding="base64">ICAgIERyaXZlck1hbmFnZXIuZ2V0Q29ubmVjdGlvbigpCg==</text>
       </register>
     </registers>
     <search>
