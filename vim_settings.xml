@@ -12,6 +12,12 @@
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/config/FtcspArgumentResolver.java" timestamp="1509118946806" />
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.core/0.0.2.1/com.foresee.ftcsp.public.core-0.0.2.1-sources.jar!/com/foresee/ftcsp/common/core/page/PageQueryResult.java" timestamp="1509176091093" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.4.2.RELEASE/spring-boot-autoconfigure-1.4.2.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceAutoConfiguration.java" timestamp="1509116878873" />
+      <file name="D:/lab/spark-study/src/main/scala/cn/kkicc/ClassDemo.scala" timestamp="1509184700581">
+        <mark key="[" line="33" column="2" />
+        <mark key="]" line="18" column="7" />
+        <mark key="^" line="41" column="37" />
+        <mark key="." line="18" column="7" />
+      </file>
       <file name="D:/foresee/third-proxy/pom.xml" timestamp="1509119243672">
         <mark key="[" line="34" column="26" />
         <mark key="]" line="34" column="27" />
@@ -63,6 +69,12 @@
         <mark key="[" line="18" column="41" />
       </file>
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.ftcspmvc/0.0.2/com.foresee.ftcsp.public.ftcspmvc-0.0.2-sources.jar!/com/foresee/ftcsp/ftcspmvc/config/DictPropertySource.java" timestamp="1509117693419" />
+      <file name="D:/lab/spark-study/src/main/scala/cn/kkicc/ForFunction.scala" timestamp="1509183135841">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="38" column="8" />
+        <mark key="^" line="38" column="8" />
+        <mark key="." line="38" column="8" />
+      </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/test/java/com/foresee/ftcsp/common/core/util/JacksonTest.java" timestamp="1505786551673">
         <mark key="[" line="47" column="37" />
       </file>
@@ -216,6 +228,12 @@
         <mark key="." line="56" column="25" />
         <mark key="^" line="55" column="49" />
       </file>
+      <file name="D:/lab/spark-study/src/main/scala/cn/kkicc/temp.sc" timestamp="1509183505313">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="D:/foresee/analysis/spark/com.foresee.xwfx/com.foresee.xwfx.timer/src/test/scala/com/foresee/xwfx/ReportGeneratorTest.scala" timestamp="1509092497092">
         <mark key="[" line="19" column="30" />
         <mark key="]" line="19" column="31" />
@@ -278,44 +296,44 @@
       <jump line="36" column="70" filename="D:/foresee/analysis/spark/com.foresee.xwfx/report/com.foresee.xwfx.report.bszsfree/src/main/scala/com/foresee/xwfx/report/bszsfree/handler/CountRemainUser.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>age</text>
       </register>
       <register name="-" type="4">
-        <text>Throwable</text>
+        <text>age</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBDb25kaXRpb25hbE9uQ2xhc3MobmFtZSA9ICJjb20uZ2l0aHViLnBhZ2VoZWxwZXIuUGFnZUhlbHBlciIpCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oc3R1ZGVudC5hZ2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2NvcmVzKCJhbGV4IikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEBDb25kaXRpb25hbE9uQ2xhc3MobmFtZSA9ICJjb20uZ2l0aHViLnBhZ2VoZWxwZXIuUGFnZUhlbHBlciIpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">QENvbmRpdGlvbmFsT25DbGFzcyhuYW1lID0gImNvbS5naXRodWIucGFnZWhlbHBlci5QYWdlSGVscGVyIikK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEBDb25kaXRpb25hbE9uQ2xhc3MobmFtZSA9ICJjb20uZ2l0aHViLnBhZ2VoZWxwZXIuUGFnZUludGVyY2VwdG9yIikK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEBCZWFuCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBDb25kaXRpb25hbE9uQ2xhc3MobmFtZSA9ICJjb20uZ2l0aHViLnBhZ2VoZWxwZXIuUGFnZUhlbHBlciIpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">QENvbmRpdGlvbmFsT25DbGFzcyhuYW1lID0gImNvbS5naXRodWIucGFnZWhlbHBlci5QYWdlSGVscGVyIikK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBDb25kaXRpb25hbE9uQ2xhc3MobmFtZSA9ICJjb20uZ2l0aHViLnBhZ2VoZWxwZXIuUGFnZUludGVyY2VwdG9yIikK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEBCZWFuCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUGFnZUhlbHBlckxvYWRlciBwYWdlSGVscGVyTG9hZGVyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgUGFnZUhlbHBlckxvYWRlciBwYWdlSGVscGVyTG9hZGVyOwo=</text>
       </register>
     </registers>
     <search>
