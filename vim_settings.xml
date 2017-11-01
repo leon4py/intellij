@@ -40,12 +40,18 @@
         <mark key="." line="57" column="0" />
       </file>
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.service/src/main/java/com/foresee/ftcsp/goods/service/impl/GetOrederGoodSkuServiceImpl.java" timestamp="1509440884354">
-        <mark key="[" line="37" column="99" />
-        <mark key="]" line="37" column="98" />
-        <mark key="^" line="37" column="98" />
-        <mark key="." line="37" column="98" />
+        <mark key="[" line="5" column="99" />
+        <mark key="]" line="5" column="98" />
+        <mark key="^" line="5" column="98" />
+        <mark key="." line="5" column="98" />
       </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.data.authority/src/main/java/com/foresee/ftcsp/core/data/authority/validate/DataAuthorityHolder.java" timestamp="1509518225792" />
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.rest/src/main/resources/logback-spring.xml" timestamp="1509519283766">
+        <mark key="[" line="3" column="46" />
+        <mark key="]" line="3" column="27" />
+        <mark key="." line="3" column="27" />
+        <mark key="^" line="3" column="27" />
+      </file>
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.api/src/main/java/com/foresee/ftcsp/goods/api/inner/GoodsApi.java" timestamp="1509440592900">
         <mark key="[" line="43" column="28" />
         <mark key="]" line="69" column="33" />
@@ -109,43 +115,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>CONSOLE_LOG_PATTERN</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>CONSOLE_LOG_PATTERN</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">VVBEQVRFX0NPTkRJVElPTj0iZGF0ZV9mb3JtYXQodXBkYXRlX3RpbWUsJyVZLSVtLSVkICVIOiVpOiVzJyk9JyRZRVNURVJEQVknIgo=</text>
+        <text encoding="base64">ICAgIDxwcm9wZXJ0eSBuYW1lPSJDT05TT0xFX0xPR19QQVRURVJOIiB2YWx1ZT0iJHtQQVRURVJOfSIgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZWNobyAkV1hCT0RZCg==</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyAkV1hCT0RZCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">U1FPT1BfSE9NRT0iL2hvbWUvZm9yZXNlZS9zZXJ2aWNlL3Nxb29wLTEuNC42IgpIT1NUPSIxMC4xMC4wLjIwNDoxMzMwNiIKVVNFUk5BTUU9InJvb3QiClBBU1NXT1JEPSJmb3Jlc2VlQDEyMyIKQUxFUlRfVVJMPWh0dHA6Ly8xMC4xMC4wLjIwMzo4NjUwL2lubmVyL3dlY2hhdC9wdXNoClJFQ0VJVkVSPWxpbnhpYW9zaGVuQGZvcmVzZWUuY29tLmNuCkhPU1ROQU1FPSQoaG9zdG5hbWUpCkRBVEU9JChkYXRlKQoKV1hCT0RZPSQocHJpbnRmICd7InVzZXIiOiIlcyIsICJmaXJzdCI6ICK7+sb3w/vX1jolcyIsICJ0aXRsZSI6ICJTUU9PUCBzeW5jZWQgZmFpbGVkIiwgImNvbnRlbnQiOiJzcW9vcM2ssr3Kp7Dco6zP/r+hvsjD/CIsICJ1cmwiOiIiLCAicmVtYXJrIjoiJXMifScgIiRSRUNFSVZFUiIgIiRIT1NUTkFNRSIgIiREQVRFIikK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ZWNobyBXWEJPRFkK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CldYX0JPRFk9JChwcmludGYgJ3sidXNlciI6IiVzIiwgImZpcnN0IjogIiVzIiwgInRpdGxlIjogIlNRT09QIHN5bmNlZCBmYWlsZWQiLCAiY29udGVudCI6IkZVQ0siLCAidXJsIjoiIiwgInJlbWFyayI6IiVzIn0nICRSRUNFSVZFUiAkSE9TVE5BTUUgJERBVEUpCmVjaG8gJFdYX0JPRFk=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">QEltcG9ydChGVGNzcC5jbGFzcykK</text>
       </register>
     </registers>
     <search>
