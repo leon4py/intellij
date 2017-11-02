@@ -9,8 +9,10 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.1.0/spark-sql_2.11-2.1.0-sources.jar!/org/apache/spark/sql/SQLContext.scala" timestamp="1509611624369" />
       <file name="D:/foresee/analysis/spark/com.foresee.xwfx/report/com.foresee.xwfx.report.bszsfree/src/main/scala/com/foresee/xwfx/report/bszsfree/read/ReadCustomerData.scala" timestamp="1509610924393" />
       <file name="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/TraversableOnce.scala" timestamp="1509595152317" />
-      <file name="D:/foresee/analysis/spark/com.foresee.xwfx/report/com.foresee.xwfx.report.bszsfree/src/main/scala/com/foresee/xwfx/report/bszsfree/handler/CountFreeUser.scala" timestamp="1509607386310" />
-      <file name="D:/foresee/analysis/spark/com.foresee.xwfx/report/com.foresee.xwfx.report.bszsfree/src/main/scala/com/foresee/xwfx/report/bszsfree/HistoryGeneratorFreeApplication.scala" timestamp="1509611395118">
+      <file name="D:/foresee/analysis/spark/com.foresee.xwfx/report/com.foresee.xwfx.report.bszsfree/src/main/scala/com/foresee/xwfx/report/bszsfree/handler/CountFreeUser.scala" timestamp="1509614421699">
+        <mark key="[" line="115" column="140" />
+      </file>
+      <file name="D:/foresee/analysis/spark/com.foresee.xwfx/report/com.foresee.xwfx.report.bszsfree/src/main/scala/com/foresee/xwfx/report/bszsfree/HistoryGeneratorFreeApplication.scala" timestamp="1509614124196">
         <mark key="[" line="38" column="22" />
         <mark key="]" line="38" column="22" />
         <mark key="." line="38" column="22" />
@@ -36,7 +38,7 @@
         <mark key="." line="3" column="27" />
         <mark key="^" line="3" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509594881085">
+      <file name="/Dummy.txt" timestamp="1509615288765">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/manual/restdto/QueryGoodInfoByIdDTO.java" timestamp="1509440351433">
@@ -68,11 +70,10 @@
       </file>
       <file name="D:/foresee/analysis/spark/com.foresee.xwfx/report/com.foresee.xwfx.report.bszsfree/src/main/resources/application.properties" timestamp="1509593654787" />
       <file name="D:/foresee/analysis/spark/com.foresee.xwfx/report/com.foresee.xwfx.report.bszsfree/src/main/scala/com/foresee/xwfx/report/bszsfree/jdbc/MysqlUtil.scala" timestamp="1509593628333" />
-      <file name="D:/foresee/analysis/spark/com.foresee.xwfx/report/com.foresee.xwfx.report.bszsfree/pom.xml" timestamp="1509437159218">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="^" line="57" column="7" />
-        <mark key="." line="57" column="0" />
+      <file name="D:/foresee/analysis/spark/com.foresee.xwfx/report/com.foresee.xwfx.report.bszsfree/pom.xml" timestamp="1509615287601">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.service/src/main/java/com/foresee/ftcsp/goods/service/impl/GetOrederGoodSkuServiceImpl.java" timestamp="1509440884354">
         <mark key="[" line="5" column="99" />
@@ -152,8 +153,8 @@
       <jump line="69" column="14" filename="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.core/0.0.2.1/com.foresee.ftcsp.public.core-0.0.2.1-sources.jar!/com/foresee/ftcsp/common/core/rest/client/FtcspInnerRestClient.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>foreach(println)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnByb3ZpZDwvc2NvcGU+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>foreach(println)</text>
@@ -165,31 +166,31 @@
         <text encoding="base64">ICAgIHByaW50bG4obWQ1MSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGRhdGUuZm9ybWF0KERhdGVVdGlscy55bWRGb3JtYXR0ZXIpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnByb3ZpZDwvc2NvcGU+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKGRhdGUuZm9ybWF0KERhdGVVdGlscy55bWRGb3JtYXR0ZXIpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihkYXRlLmZvcm1hdChEYXRlVXRpbHMueW1kRm9ybWF0dGVyKSkKICAgICAgQ291bnRGcmVlVXNlci5jb3VudChzYywgc3BhcmtDb25mLCBzcWxDb250ZXh0LCBoYmFzZUNvbmYsIGRhdGUpIC8vuPm+3cn6s8m1xMTatOax7cr9vt2jrM2zvMbD4rfR08O7p8/gudi1xMr9vt0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgcHJpbnRsbihkYXRlLmZvcm1hdChEYXRlVXRpbHMueW1kRm9ybWF0dGVyKSkKICAgICAgQ291bnRGcmVlVXNlci5jb3VudChzYywgc3BhcmtDb25mLCBzcWxDb250ZXh0LCBoYmFzZUNvbmYsIGRhdGUpIC8vuPm+3cn6s8m1xMTatOax7cr9vt2jrM2zvMbD4rfR08O7p8/gudi1xMr9vt0K</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCj09PT09PT0=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgUmVhZE9yZGVyRGF0YS5yZWdpc3RlckJzenNUYWJsZShzYywgc3BhcmtDb25mLCBzcWxDb250ZXh0LCBoYmFzZUNvbmYpIC8vtsHIobKix9LJ+rPJU3BhcmtTUUy/ydLUstnX97XExNq05rHtyv2+3Qo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgSGlzdG9yeUdlbmVyYXRvckZyZWVBcHBsaWNhdGlvbi5zdG9wV2F0Y2goZGF0ZSkgewo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgSGlzdG9yeUdlbmVyYXRvckZyZWVBcHBsaWNhdGlvbi5zdG9wV2F0Y2goZGF0ZSkgewo=</text>
       </register>
     </registers>
     <search>
