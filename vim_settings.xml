@@ -8,17 +8,19 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="D:/foresee/analysis/spark/com.foresee.xwfx/report/com.foresee.xwfx.report.bszsfree/src/main/scala/com/foresee/xwfx/report/bszsfree/handler/CountFreeUser.scala" timestamp="1509621438596">
-        <mark key="[" line="73" column="39" />
-        <mark key="]" line="74" column="30" />
-        <mark key="." line="74" column="30" />
-        <mark key="^" line="74" column="30" />
+      <file name="D:/foresee/analysis/spark/com.foresee.xwfx/report/com.foresee.xwfx.report.bszsfree/src/main/scala/com/foresee/xwfx/report/bszsfree/handler/CountFreeUser.scala" timestamp="1509624153341">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="D:/foresee/analysis/spark/com.foresee.xwfx/report/com.foresee.xwfx.report.bszsfree/src/main/scala/com/foresee/xwfx/report/bszsfree/HistoryGeneratorFreeApplication.scala" timestamp="1509619731613">
         <mark key="[" line="38" column="22" />
         <mark key="]" line="38" column="22" />
         <mark key="." line="38" column="22" />
         <mark key="^" line="60" column="7" />
+      </file>
+      <file name="D:/lab/spark-study/pom.xml" timestamp="1509623346782">
+        <mark key="[" line="8" column="30" />
       </file>
       <file name="D:/foresee/third-proxy/pom.xml" timestamp="1509432335965">
         <mark key="[" line="34" column="26" />
@@ -41,6 +43,12 @@
       <file name="/Dummy.txt" timestamp="1509615288765">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/lab/spark-study/src/main/scala/cn/kkicc/ThreadDemo.scala" timestamp="1509623726360">
+        <mark key="[" line="16" column="46" />
+        <mark key="]" line="16" column="47" />
+        <mark key="." line="16" column="47" />
+        <mark key="^" line="22" column="24" />
+      </file>
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/manual/restdto/QueryGoodInfoByIdDTO.java" timestamp="1509440351433">
         <mark key="[" line="18" column="35" />
         <mark key="]" line="32" column="19" />
@@ -61,6 +69,7 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
+      <file name="D:/lab/spark-study/src/main/scala/cn/kkicc/SparkApp.scala" timestamp="1509623600863" />
       <file name="D:/lab/spark-study/src/main/scala/cn/kkicc/ForFunction.scala" timestamp="1509594073203">
         <mark key="[" line="20" column="23" />
         <mark key="]" line="20" column="11" />
@@ -97,7 +106,7 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="/fragment.java" timestamp="1509621451148">
+      <file name="/fragment.java" timestamp="1509623222291">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -148,46 +157,47 @@
       <jump line="123" column="3" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.3-sources.jar!/scala/collection/immutable/List.scala" />
       <jump line="36" column="70" filename="D:/foresee/analysis/spark/com.foresee.xwfx/report/com.foresee.xwfx.report.bszsfree/src/main/scala/com/foresee/xwfx/report/bszsfree/handler/CountRemainUser.scala" />
       <jump line="69" column="14" filename="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.core/0.0.2.1/com.foresee.ftcsp.public.core-0.0.2.1-sources.jar!/com/foresee/ftcsp/common/core/rest/client/FtcspInnerRestClient.java" />
+      <jump line="20" column="32" filename="D:/lab/spark-study/src/main/scala/cn/kkicc/ThreadDemo.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRocmVhZDEuc3RhcnQoKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBlID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>log</text>
+        <text encoding="base64">bmV3IFRocmVhZCAoKCk9Pns=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRocmVhZDEuam9pbigpCg==</text>
+        <text encoding="base64">ICAgIHZhbCBlID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHRocmVhZDEuc3RhcnQoKQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIHQxLgogICAgdDEuc3RhcnQoKQogICAgdDIuc3RhcnQoKQogICAgdDEuam9pbigpCiAgICB0Mi5qb2luKCk=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgQ291bnRMb2dpbkRhdGEuY291bnQoc3BhcmtDb250ZXh0LCBzcGFya0NvbmYsIHNxbENvbnRleHQsIGhiYXNlQ29uZiwgZGF0ZSkK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgVGhyZWFkLnNsZWVwKDMqMTAwMCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vzbO8xrXHwrzK/b7dCiAgICBDb3VudExvZ2luRGF0YS5jb3VudChzcGFya0NvbnRleHQsIHNwYXJrQ29uZiwgc3FsQ29udGV4dCwgaGJhc2VDb25mLCBkYXRlKQo=</text>
+        <text encoding="base64">ICAgIHZhbCByID0gbmV3IFJ1bm5hYmxlIHsKICAgICAgb3ZlcnJpZGUgZGVmIHJ1bigpOiBVbml0ID0gewoKICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY291bnRGcmVlRGF0YShzcGFya0NvbnRleHQsIHNwYXJrQ29uZiwgc3FsQ29udGV4dCwgaGJhc2VDb25mLCBkYXRlKQo=</text>
+        <text encoding="base64">ICAgICAgLy/Ns7zGtcfCvMr9vt0KICAgICAgc3RvcFdhdGNoKCJDb3VudExvZ2luRGF0YSIpIHsKICAgICAgICBDb3VudExvZ2luRGF0YS5jb3VudChzcGFya0NvbnRleHQsIHNwYXJrQ29uZiwgc3FsQ29udGV4dCwgaGJhc2VDb25mLCBkYXRlKQogICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvdW50RnJlZURhdGEoc3BhcmtDb250ZXh0LCBzcGFya0NvbmYsIHNxbENvbnRleHQsIGhiYXNlQ29uZiwgZGF0ZSkK</text>
+        <text encoding="base64">ICAgICAgc3RvcFdhdGNoKCJjb3VudEZyZWVEYXRhIikgewogICAgICAgIGNvdW50RnJlZURhdGEoc3BhcmtDb250ZXh0LCBzcGFya0NvbmYsIHNxbENvbnRleHQsIGhiYXNlQ29uZiwgZGF0ZSkKICAgICAgfQo=</text>
       </register>
     </registers>
     <search>
