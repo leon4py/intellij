@@ -6,8 +6,16 @@
       <file name="D:/foresee/analysis/spark/com.foresee.xwfx/report/com.foresee.xwfx.report.bszsfree/src/main/scala/com/foresee/xwfx/report/bszsfree/handler/BaseUserCounter.scala" timestamp="1509593543535" />
       <file name="D:/foresee/analysis/spark/com.foresee.xwfx/report/com.foresee.xwfx.report.bszsfree/src/main/scala/com/foresee/xwfx/report/bszsfree/cache/CacheData.scala" timestamp="1509608566631" />
       <file name="D:/foresee/analysis/spark/com.foresee.xwfx/report/com.foresee.xwfx.report.bszsfree/src/main/scala/com/foresee/xwfx/report/bszsfree/handler/CountPayUser.scala" timestamp="1509593486008" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.1.0/spark-sql_2.11-2.1.0-sources.jar!/org/apache/spark/sql/SQLContext.scala" timestamp="1509611624369" />
+      <file name="D:/foresee/analysis/spark/com.foresee.xwfx/report/com.foresee.xwfx.report.bszsfree/src/main/scala/com/foresee/xwfx/report/bszsfree/read/ReadCustomerData.scala" timestamp="1509610924393" />
       <file name="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/TraversableOnce.scala" timestamp="1509595152317" />
       <file name="D:/foresee/analysis/spark/com.foresee.xwfx/report/com.foresee.xwfx.report.bszsfree/src/main/scala/com/foresee/xwfx/report/bszsfree/handler/CountFreeUser.scala" timestamp="1509607386310" />
+      <file name="D:/foresee/analysis/spark/com.foresee.xwfx/report/com.foresee.xwfx.report.bszsfree/src/main/scala/com/foresee/xwfx/report/bszsfree/HistoryGeneratorFreeApplication.scala" timestamp="1509611395118">
+        <mark key="[" line="38" column="22" />
+        <mark key="]" line="38" column="22" />
+        <mark key="." line="38" column="22" />
+        <mark key="^" line="60" column="7" />
+      </file>
       <file name="D:/foresee/third-proxy/pom.xml" timestamp="1509432335965">
         <mark key="[" line="34" column="26" />
         <mark key="]" line="34" column="24" />
@@ -20,6 +28,7 @@
         <mark key="^" line="196" column="19" />
         <mark key="." line="196" column="19" />
       </file>
+      <file name="/HistoryGeneratorFreeApplication.scala" timestamp="1509610461312" />
       <file name="D:/foresee/analysis/spark/com.foresee.xwfx/report/com.foresee.xwfx.report.bszsfree/src/main/scala/com/foresee/xwfx/report/bszsfree/read/ReadOrderData.scala" timestamp="1509609404658" />
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.rest/src/main/resources/logback-spring.xml" timestamp="1509528291378">
         <mark key="[" line="3" column="46" />
@@ -143,11 +152,11 @@
       <jump line="69" column="14" filename="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.core/0.0.2.1/com.foresee.ftcsp.public.core-0.0.2.1-sources.jar!/com/foresee/ftcsp/common/core/rest/client/FtcspInnerRestClient.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>foreach(println)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text>foreach(println)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21cPg==</text>
@@ -156,31 +165,31 @@
         <text encoding="base64">ICAgIHByaW50bG4obWQ1MSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKGRhdGUuZm9ybWF0KERhdGVVdGlscy55bWRGb3JtYXR0ZXIpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgSGlzdG9yeUdlbmVyYXRvckZyZWVBcHBsaWNhdGlvbi5zdG9wV2F0Y2goZGF0ZSkgewo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbG9nLmluZm8oIr+qyry0psDtob57faG/yv2+3SIsIGRhdGUuZm9ybWF0KERhdGVVdGlscy55bWRGb3JtYXR0ZXIpKQogICAgICBDb3VudFBheVVzZXIuY291bnQoc2MsIHNwYXJrQ29uZiwgc3FsQ29udGV4dCwgaGJhc2VDb25mLCBkYXRlKSAvL7j5vt3J+rPJtcTE2rTmse3K/b7do6zNs7zGuLa30dPDu6fP4LnYtcTK/b7dCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgcHJpbnRsbihkYXRlLmZvcm1hdChEYXRlVXRpbHMueW1kRm9ybWF0dGVyKSkKICAgICAgQ291bnRGcmVlVXNlci5jb3VudChzYywgc3BhcmtDb25mLCBzcWxDb250ZXh0LCBoYmFzZUNvbmYsIGRhdGUpIC8vuPm+3cn6s8m1xMTatOax7cr9vt2jrM2zvMbD4rfR08O7p8/gudi1xMr9vt0K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgSGlzdG9yeUdlbmVyYXRvckZyZWVBcHBsaWNhdGlvbi5zdG9wV2F0Y2goZGEpCg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCj09PT09PT0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgSGlzdG9yeUdlbmVyYXRvckZyZWVBcHBsaWNhdGlvbi4K</text>
+        <text encoding="base64">ICAgICAgUmVhZE9yZGVyRGF0YS5yZWdpc3RlckJzenNUYWJsZShzYywgc3BhcmtDb25mLCBzcWxDb250ZXh0LCBoYmFzZUNvbmYpIC8vtsHIobKix9LJ+rPJU3BhcmtTUUy/ydLUstnX97XExNq05rHtyv2+3Qo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0b3BXYXRjaChMb2NhbERhdGUubm93KCkpIHsKICAgICAgVGhyZWFkLnNsZWVwKDEwMDApCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZyhkYXRlKQo=</text>
+        <text encoding="base64">ICAgICAgSGlzdG9yeUdlbmVyYXRvckZyZWVBcHBsaWNhdGlvbi5zdG9wV2F0Y2goZGF0ZSkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZGF0ZSA9IHN0YXJ0RGF0ZS5wbHVzRGF5cyhkYXkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
