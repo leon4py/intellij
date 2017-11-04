@@ -8,7 +8,11 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="D:/foresee/analysis/spark/com.foresee.xwfx/report/com.foresee.xwfx.report.bszsfree/src/main/scala/com/foresee/xwfx/report/bszsfree/hbase/HbaseOper.scala" timestamp="1509700942233" />
+      <file name="D:/foresee/analysis/spark/com.foresee.xwfx/report/com.foresee.xwfx.report.bszsfree/src/main/scala/com/foresee/xwfx/report/bszsfree/handler/CountFreeUser.scala" timestamp="1509776223416">
+        <mark key="[" line="56" column="80" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+      </file>
       <file name="D:/foresee/analysis/spark/com.foresee.xwfx/report/com.foresee.xwfx.report.bszsfree/src/main/scala/com/foresee/xwfx/report/bszsfree/HistoryGeneratorFreeApplication.scala" timestamp="1509696031655">
         <mark key="[" line="38" column="22" />
         <mark key="]" line="38" column="22" />
@@ -26,15 +30,12 @@
         <mark key="." line="34" column="24" />
         <mark key="^" line="34" column="21" />
       </file>
-      <file name="D:/foresee/analysis/spark/com.foresee.xwfx/report/com.foresee.xwfx.report.bszsfree/src/main/scala/com/foresee/xwfx/report/bszsfree/config/EnvConfig.scala" timestamp="1509697478288" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/common/WorkFlowUtils.java" timestamp="1509435191602">
         <mark key="[" line="196" column="20" />
         <mark key="]" line="196" column="19" />
         <mark key="^" line="196" column="19" />
         <mark key="." line="196" column="19" />
       </file>
-      <file name="D:/lab/SBTStudy/build.sbt" timestamp="1509685245033" />
-      <file name="D:/foresee/analysis/spark/com.foresee.xwfx/report/com.foresee.xwfx.report.bszsfree/src/main/scala/com/foresee/xwfx/report/bszsfree/read/ReadOrderData.scala" timestamp="1509700350915" />
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.rest/src/main/resources/logback-spring.xml" timestamp="1509528291378">
         <mark key="[" line="3" column="46" />
         <mark key="]" line="3" column="27" />
@@ -165,7 +166,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHZhbCB0aHJlYWQyID0gbmV3IFRocmVhZCgoKT0+IHsKICAgICAgfQogICAgfSkKICAgIHRocmVhZDEuc3RhcnQoKQogICAgdGhyZWFkMi5zdGFydCgpCiAgICB0aHJlYWQxLmpvaW4oKQogICAgdGhyZWFkMi5qb2luKCkK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -177,31 +178,31 @@
         <text encoding="base64">ICAgIHQxLmpvaW4oKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHZhbCB0aHJlYWQyID0gbmV3IFRocmVhZCgoKT0+IHsKICAgICAgfQogICAgfSkKICAgIHRocmVhZDEuc3RhcnQoKQogICAgdGhyZWFkMi5zdGFydCgpCiAgICB0aHJlYWQxLmpvaW4oKQogICAgdGhyZWFkMi5qb2luKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy/Ns7zGtcfCvMr9vt0KICAgICAgc3RvcFdhdGNoKCJDb3VudExvZ2luRGF0YSIpIHsKICAgICAgICBDb3VudExvZ2luRGF0YS5jb3VudChzcGFya0NvbnRleHQsIHNwYXJrQ29uZiwgc3FsQ29udGV4dCwgaGJhc2VDb25mLCBkYXRlKQogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgLy/Ns7zGtcfCvMr9vt0KICAgICAgc3RvcFdhdGNoKCJDb3VudExvZ2luRGF0YSIpIHsKICAgICAgICBDb3VudExvZ2luRGF0YS5jb3VudChzcGFya0NvbnRleHQsIHNwYXJrQ29uZiwgc3FsQ29udGV4dCwgaGJhc2VDb25mLCBkYXRlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCB0aHJlYWQxID0gbmV3IFRocmVhZCgoKT0+IHsKICAgIH0pCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgc3RvcFdhdGNoKCJjb3VudEZyZWVEYXRhIikgewogICAgICAgIGNvdW50RnJlZURhdGEoc3BhcmtDb250ZXh0LCBzcGFya0NvbmYsIHNxbENvbnRleHQsIGhiYXNlQ29uZiwgZGF0ZSkKICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbih0KQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBzID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkK</text>
+        <text encoding="base64">ICAgICAgLy/Ns7zGtcfCvMr9vt0KICAgICAgc3RvcFdhdGNoKCJDb3VudExvZ2luRGF0YSIpIHsKICAgICAgICBDb3VudExvZ2luRGF0YS5jb3VudChzcGFya0NvbnRleHQsIHNwYXJrQ29uZiwgc3FsQ29udGV4dCwgaGJhc2VDb25mLCBkYXRlKQogICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgc3RvcFdhdGNoKCJjb3VudEZyZWVEYXRhIikgewogICAgICAgIGNvdW50RnJlZURhdGEoc3BhcmtDb250ZXh0LCBzcGFya0NvbmYsIHNxbENvbnRleHQsIGhiYXNlQ29uZiwgZGF0ZSkKICAgICAgfQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5ldyBUaHJlYWQoKCk9PiApCg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbih0KQo=</text>
       </register>
     </registers>
     <search>
