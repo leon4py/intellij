@@ -52,6 +52,12 @@
       <file name="D:/foresee/analysis/spark/com.foresee.xwfx/pom.xml" timestamp="1509673223741">
         <mark key="[" line="17" column="44" />
       </file>
+      <file name="E:/dev/MVN/report/pom.xml" timestamp="1509950624873">
+        <mark key="[" line="5" column="48" />
+        <mark key="]" line="5" column="40" />
+        <mark key="^" line="5" column="40" />
+        <mark key="." line="5" column="40" />
+      </file>
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/manual/restdto/AddAttributeDTO.java" timestamp="1509439721481">
         <mark key="[" line="32" column="35" />
       </file>
@@ -139,11 +145,11 @@
       <jump line="20" column="32" filename="D:/lab/spark-study/src/main/scala/cn/kkicc/ThreadDemo.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bXktYXJjaGV0eXBlLWlkPA==</text>
       </register>
       <register name="-" type="4">
-        <text>database</text>
+        <text encoding="base64">bXktYXJjaGV0eXBlLWlkPA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21cPg==</text>
@@ -151,31 +157,31 @@
       <register name="0" type="2">
         <text encoding="base64">CQk8IS0tIMr9vt2y2df3LCDI53JlZGlzLCBteXNxbCAtLT4K</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAg1/fV36O6RG90aW9ucwogICAgICAgIMG0vdOjumh0dHA6Ly93d3cuamlhbnNodS5jb20vcC83MTBlZTExNjVlMTUKICAgICAgICCB7dS0o7q88srpCiAgICAgICAg1vjX98iouenX99Xfy/nT0KGjyczStdeq1NjH68Gqz7XX99Xfu/G1w8rayKijrLfHyczStdeq1NjH69eiw/ez9rSmoaM=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">CTxkZXBlbmRlbmN5PgoJCQk8Z3JvdXBJZD5mb3Jlc2VlPC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5jb20uZm9yZXNlZS5mdGNzcC5jYXNlcy5tb2RlbDwvYXJ0aWZhY3RJZD4KCQk8L2RlcGVuZGVuY3k+</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>import com.foresee.ftcsp.common.core.rest.RestRequestParam;
 import com.foresee.ftcsp.demo.service.IFtcspSecurityRestApi;
 import com.foresee.ftcsp.demo.service.dto.SecUserDTO;</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CTx2ZXJzaW9uPjAuMC4xPC92ZXJzaW9uPgo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJPHZlcnNpb24+MC4wLjE8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">CTx2ZXJzaW9uPjAuMC4xPC92ZXJzaW9uPgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">CQkJPHZlcnNpb24+MC4wLjE8L3ZlcnNpb24+Cg==</text>
