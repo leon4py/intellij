@@ -19,14 +19,11 @@
         <mark key="^" line="9" column="41" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="D:/foresee/analysis/spark/com.foresee.xwfx/report/com.foresee.xwfx.report.bszsfree/src/main/scala/com/foresee/xwfx/report/bszsfree/hbase/HbaseOper.scala" timestamp="1509966675245" />
-      <file name="D:/foresee/analysis/spark/com.foresee.xwfx/report/com.foresee.xwfx.report.bszsfree/src/main/scala/com/foresee/xwfx/report/bszsfree/handler/CountFreeUser.scala" timestamp="1509952023373" />
       <file name="D:/lab/spark-study/pom.xml" timestamp="1509674388760">
         <mark key="[" line="73" column="50" />
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.1.0/spark-core_2.11-2.1.0-sources.jar!/org/apache/spark/package.scala" timestamp="1509965977522" />
       <file name="D:/foresee/case/cases/pom.xml" timestamp="1509809182387">
         <mark key="[" line="39" column="21" />
         <mark key="]" line="30" column="12" />
@@ -78,6 +75,12 @@
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
+      </file>
+      <file name="D:/lab/spark-study/src/main/scala/cn/kkicc/SparkApp.scala" timestamp="1509986986228">
+        <mark key="[" line="35" column="106" />
+        <mark key="]" line="35" column="106" />
+        <mark key="^" line="35" column="105" />
+        <mark key="." line="39" column="39" />
       </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.dynamicdb/src/main/java/com/foresee/ftcsp/common/dynamicdb/DBRouter.java" timestamp="1509807172260">
         <mark key="[" line="63" column="37" />
@@ -158,17 +161,17 @@
       <jump line="20" column="32" filename="D:/lab/spark-study/src/main/scala/cn/kkicc/ThreadDemo.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWFyY2hldHlwZS1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4zLjAuMTwvdmVyc2lvbj4KICAgICAgICAgICAgPC9wbHVnaW4+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bXktYXJjaGV0eXBlLWlkPA==</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQk8IS0tIMr9vt2y2df3LCDI53JlZGlzLCBteXNxbCAtLT4K</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCB3b3JkQ291bnRzOiBSRERbKFN0cmluZywgSW50KV0gPSB3b3Jkcy5tYXB7KF8sMSl9LnJlZHVjZUJ5S2V5e18rX30K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWFyY2hldHlwZS1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4zLjAuMTwvdmVyc2lvbj4KICAgICAgICAgICAgPC9wbHVnaW4+Cg==</text>
