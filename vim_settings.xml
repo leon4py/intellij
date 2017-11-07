@@ -96,11 +96,11 @@
       <file name="/fragment.java" timestamp="1510022939698">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/lab/spark-study/src/main/scala/cn/kkicc/FileDemo.scala" timestamp="1510071223558">
-        <mark key="[" line="32" column="18" />
-        <mark key="]" line="32" column="16" />
-        <mark key="^" line="32" column="16" />
-        <mark key="." line="32" column="16" />
+      <file name="D:/lab/spark-study/src/main/scala/cn/kkicc/FileDemo.scala" timestamp="1510072203363">
+        <mark key="[" line="33" column="44" />
+        <mark key="]" line="28" column="48" />
+        <mark key="^" line="28" column="48" />
+        <mark key="." line="28" column="48" />
       </file>
     </filemarks>
     <jumps>
@@ -153,44 +153,44 @@
       <jump line="20" column="32" filename="D:/lab/spark-study/src/main/scala/cn/kkicc/ThreadDemo.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHcgPSBuZXcgRmlsZVdyaXRlcigifi8xLnR4dCIsIHRydWUpCiAgICAgIHcud3JpdGUobnVtLnRvU3RyaW5nKQogICAgICB3LmNsb3NlKCkK</text>
+        <text encoding="base64">ICAgICAgdmFsIHcgPSBuZXcgRmlsZVdyaXRlcigiL2hvbWUvZm9yZXNlZS8zLnR4dCIsIHRydWUpCiAgICAgIHcud3JpdGUobnVtLnRvU3RyaW5nKQogICAgICB3LmNsb3NlKCkKICAgICAgbnVtCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgdmFsIHcgPSBuZXcgRmlsZVdyaXRlcigiL2hvbWUvZm9yZXNlZS80LnR4dCIsIHRydWUpCiAgICAgIHcud3JpdGUobnVtLnRvU3RyaW5nKQogICAgICB3LmNsb3NlKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5ldyBGaWxlV3JpdGVyKCJpbyIpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZVdyaXRlcgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IEphdmFIaXN0b3J5R2VuZXJhdG9yRnJlZUFwcGxpY2F0aW9uLntjb3VudEhpc3RvcnksIHNwYXJrQ29uZn0K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIG5ldyBGaWxlV3JpdGVyKCJpbyIpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZVdyaXRlcgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IEphdmFIaXN0b3J5R2VuZXJhdG9yRnJlZUFwcGxpY2F0aW9uLntjb3VudEhpc3RvcnksIHNwYXJrQ29uZn0K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvdW50RnJlZURhdGEoc3BhcmtDb250ZXh0LCBzcGFya0NvbmYsIHNxbENvbnRleHQsIGhiYXNlQ29uZiwgZGF0ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oU3RyaW5nQ29udGV4dCh3ZWxjb21lKS5zKG5hbWUpKQo=</text>
+        <text encoding="base64">ICAgIGNvdW50RnJlZURhdGEoc3BhcmtDb250ZXh0LCBzcGFya0NvbmYsIHNxbENvbnRleHQsIGhiYXNlQ29uZiwgZGF0ZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWFyY2hldHlwZS1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4zLjAuMTwvdmVyc2lvbj4KICAgICAgICAgICAgPC9wbHVnaW4+Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oU3RyaW5nQ29udGV4dCh3ZWxjb21lKS5zKG5hbWUpKQo=</text>
       </register>
     </registers>
     <search>
