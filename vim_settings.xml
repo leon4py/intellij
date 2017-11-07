@@ -28,6 +28,12 @@
       <file name="D:/foresee/analysis/spark/com.foresee.xwfx/report/com.foresee.xwfx.report.bszsfree/src/main/scala/com/foresee/xwfx/report/bszsfree/config/EnvConfig.scala" timestamp="1510026091496" />
       <file name="$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.9/commons-codec-1.9-sources.jar!/org/apache/commons/codec/binary/StringUtils.java" timestamp="1510022081563" />
       <file name="D:/foresee/analysis/spark/com.foresee.xwfx/report/com.foresee.xwfx.report.bszsfree/src/main/scala/com/foresee/xwfx/report/bszsfree/read/ReadOrderData.scala" timestamp="1510025919443" />
+      <file name="D:/foresee/analysis/spark/com.foresee.xwfx/report/com.foresee.xwfx.report.bszsfree/src/main/java/com/foresee/xwfx/report/bszsfree/JavaHistoryGeneratorFreeApplication.java" timestamp="1510036316707">
+        <mark key="[" line="20" column="44" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="23" column="7" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="D:/foresee/case/cases/pom.xml" timestamp="1509809182387">
         <mark key="[" line="39" column="21" />
         <mark key="]" line="30" column="12" />
@@ -79,6 +85,12 @@
       </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.dynamicdb/src/main/java/com/foresee/ftcsp/common/dynamicdb/DynamicDataSource.java" timestamp="1510019392387" />
       <file name="D:/foresee/analysis/spark/com.foresee.xwfx/report/com.foresee.xwfx.report.bszsfree/src/main/scala/com/foresee/xwfx/report/bszsfree/utils/MD5.scala" timestamp="1510022132868" />
+      <file name="D:/foresee/analysis/spark/com.foresee.xwfx/report/com.foresee.xwfx.report.bszsfree/src/main/java/com/foresee/xwfx/report/bszsfree/HistoryGeneratorFreeApplication.java" timestamp="1510036246783">
+        <mark key="[" line="15" column="15" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="D:/foresee/case/pom.xml" timestamp="1509809703548">
         <mark key="[" line="27" column="12" />
         <mark key="]" line="27" column="15" />
@@ -142,7 +154,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -154,31 +166,31 @@
         <text encoding="base64">ICBwcml2YXRlIHZhbCB3b3JkQ291bnRzOiBSRERbKFN0cmluZywgSW50KV0gPSB3b3Jkcy5tYXB7KF8sMSl9LnJlZHVjZUJ5S2V5e18rX30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvdW50RnJlZURhdGEoc3BhcmtDb250ZXh0LCBzcGFya0NvbmYsIHNxbENvbnRleHQsIGhiYXNlQ29uZiwgZGF0ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oU3RyaW5nQ29udGV4dCh3ZWxjb21lKS5zKG5hbWUpKQo=</text>
+        <text encoding="base64">ICAgIGNvdW50RnJlZURhdGEoc3BhcmtDb250ZXh0LCBzcGFya0NvbmYsIHNxbENvbnRleHQsIGhiYXNlQ29uZiwgZGF0ZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWFyY2hldHlwZS1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4zLjAuMTwvdmVyc2lvbj4KICAgICAgICAgICAgPC9wbHVnaW4+Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oU3RyaW5nQ29udGV4dCh3ZWxjb21lKS5zKG5hbWUpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQk8IS0tLSDS/cjrss7K/deiyOu6zdCj0ekgLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWFyY2hldHlwZS1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4zLjAuMTwvdmVyc2lvbj4KICAgICAgICAgICAgPC9wbHVnaW4+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PC9hcmNoZXR5cGU+Cg==</text>
+        <text encoding="base64">CQk8IS0tLSDS/cjrss7K/deiyOu6zdCj0ekgLS0+Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAg1/fV36O6RG90aW9ucwogICAgICAgIMG0vdOjumh0dHA6Ly93d3cuamlhbnNodS5jb20vcC83MTBlZTExNjVlMTUKICAgICAgICCB7dS0o7q88srpCiAgICAgICAg1vjX98iouenX99Xfy/nT0KGjyczStdeq1NjH68Gqz7XX99Xfu/G1w8rayKijrLfHyczStdeq1NjH69eiw/ez9rSmoaM=</text>
+      <register name="7" type="2">
+        <text encoding="base64">PC9hcmNoZXR5cGU+Cg==</text>
       </register>
       <register name="8" type="4">
         <text encoding="base64">CiAgICAgICAg1/fV36O6RG90aW9ucwogICAgICAgIMG0vdOjumh0dHA6Ly93d3cuamlhbnNodS5jb20vcC83MTBlZTExNjVlMTUKICAgICAgICCB7dS0o7q88srpCiAgICAgICAg1vjX98iouenX99Xfy/nT0KGjyczStdeq1NjH68Gqz7XX99Xfu/G1w8rayKijrLfHyczStdeq1NjH69eiw/ez9rSmoaM=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAg1/fV36O6RG90aW9ucwogICAgICAgIMG0vdOjumh0dHA6Ly93d3cuamlhbnNodS5jb20vcC83MTBlZTExNjVlMTUKICAgICAgICCB7dS0o7q88srpCiAgICAgICAg1vjX98iouenX99Xfy/nT0KGjyczStdeq1NjH68Gqz7XX99Xfu/G1w8rayKijrLfHyczStdeq1NjH69eiw/ez9rSmoaM=</text>
       </register>
     </registers>
     <search>
