@@ -3,44 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/dev/MVN/report/src/main/resources/META-INF/maven/archetype-metadata.xml" timestamp="1509951407254">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="41" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/jetty/JettySpringEmbeddedContainer.java" timestamp="1510106150734">
-        <mark key="[" line="40" column="49" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-      </file>
-      <file name="D:/foresee/ftcsp_dataprocess/public/com.foresee.ftcsp.dataprocess.core/src/test/java/com/foresee/ftcsp/dataprocess/core/SparkUtilTest.scala" timestamp="1510163145514">
+      <file name="D:/foresee/ftcsp_dataprocess/public/com.foresee.ftcsp.dataprocess.core/src/test/java/com/foresee/ftcsp/dataprocess/core/SparkUtilTest.scala" timestamp="1510192362662">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
         <mark key="^" line="17" column="61" />
       </file>
+      <file name="D:/foresee/ftcsp_dataprocess/public/com.foresee.ftcsp.dataprocess.core/src/main/scala/com/foresee/ftcsp/dataprocess/core/KafkaUtil.scala" timestamp="1510191327946">
+        <mark key="[" line="9" column="10" />
+        <mark key="]" line="35" column="7" />
+        <mark key="^" line="35" column="7" />
+        <mark key="." line="34" column="15" />
+      </file>
       <file name="D:/foresee/ftcsp_dataprocess/public/com.foresee.ftcsp.dataprocess.core/src/main/resources/df-common.properties" timestamp="1510164624917">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/foresee/analysis/spark/com.foresee.xwfx/report/com.foresee.xwfx.report.bszsfree/src/main/scala/com/foresee/xwfx/report/bszsfree/handler/CountFreeUser.scala" timestamp="1510023049149">
-        <mark key="[" line="56" column="78" />
-        <mark key="]" line="54" column="13" />
-        <mark key="." line="54" column="13" />
-        <mark key="^" line="54" column="13" />
-      </file>
-      <file name="D:/lab/spark-study/pom.xml" timestamp="1510048841701">
-        <mark key="[" line="73" column="50" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
-      </file>
-      <file name="D:/foresee/ftcsp_dataprocess/public/com.foresee.ftcsp.dataprocess.mysql/src/test/scala/com/foresee/ftcsp/dataprocess/mysql/MysqlUtilTest.scala" timestamp="1510163866242">
-        <mark key="'" line="21" column="37" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
-      <file name="D:/foresee/ftcsp_dataprocess/public/com.foresee.ftcsp.dataprocess.core/src/main/scala/com/foresee/ftcsp/dataprocess/core/SparkCoreConf.scala" timestamp="1510164910758">
+      <file name="D:/foresee/analysis/spark/com.foresee.xwfx/public/com.foresee.xwfx.public.hbase/pom.xml" timestamp="1510191870668" />
+      <file name="D:/foresee/ftcsp_dataprocess/public/com.foresee.ftcsp.dataprocess.core/src/main/scala/com/foresee/ftcsp/dataprocess/core/SparkCoreConf.scala" timestamp="1510192295547">
         <mark key="[" line="16" column="33" />
         <mark key="]" line="16" column="32" />
         <mark key="." line="16" column="32" />
@@ -49,128 +28,58 @@
       <file name="/Dummy.scala" timestamp="1510164822937">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/foresee/ftcsp_dataprocess/public/com.foresee.ftcsp.dataprocess.mysql/src/main/scala/com/foresee/ftcsp/dataprocess/mysql/MysqlUtil.scala" timestamp="1510164269829">
-        <mark key="[" line="63" column="32" />
-        <mark key="]" line="63" column="32" />
-        <mark key="." line="63" column="32" />
+      <file name="D:/foresee/analysis/spark/com.foresee.xwfx/public/com.foresee.xwfx.public.common/src/main/scala/com/foresee/xwfx/common/util/MD5.scala" timestamp="1510190611641" />
+      <file name="D:/foresee/ftcsp_dataprocess/public/com.foresee.ftcsp.dataprocess.core/src/main/scala/com/foresee/ftcsp/dataprocess/core/DateUtils.scala" timestamp="1510190970829">
+        <mark key="[" line="60" column="6" />
+        <mark key="]" line="60" column="7" />
+        <mark key="." line="60" column="7" />
+        <mark key="^" line="130" column="46" />
       </file>
-      <file name="D:/foresee/ftcsp_dataprocess/public/com.foresee.ftcsp.dataprocess.core/src/main/scala/com/foresee/ftcsp/dataprocess/core/package.scala" timestamp="1510162424514">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="D:/foresee/analysis/spark/com.foresee.xwfx/com.foresee.xwfx.timer/pom.xml" timestamp="1510191708615" />
+      <file name="D:/foresee/ftcsp_dataprocess/public/com.foresee.ftcsp.dataprocess.core/src/main/scala/com/foresee/ftcsp/dataprocess/core/Hash.scala" timestamp="1510190727535">
+        <mark key="[" line="15" column="25" />
+        <mark key="]" line="15" column="26" />
+        <mark key="^" line="15" column="26" />
+        <mark key="." line="15" column="26" />
       </file>
-      <file name="D:/foresee/analysis/spark/com.foresee.xwfx/pom.xml" timestamp="1510158194854">
+      <file name="D:/foresee/analysis/spark/com.foresee.xwfx/pom.xml" timestamp="1510191262493">
         <mark key="[" line="17" column="44" />
       </file>
-      <file name="E:/dev/MVN/report/pom.xml" timestamp="1509951463825">
-        <mark key="[" line="5" column="48" />
-        <mark key="]" line="5" column="40" />
-        <mark key="^" line="5" column="40" />
-        <mark key="." line="5" column="40" />
+      <file name="D:/foresee/ftcsp_dataprocess/public/com.foresee.ftcsp.dataprocess.core/src/main/scala/com/foresee/ftcsp/dataprocess/core/util/SparkUtil.scala" timestamp="1510191519106">
+        <mark key="[" line="0" column="47" />
+        <mark key="^" line="19" column="21" />
       </file>
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/manual/restdto/AddAttributeDTO.java" timestamp="1510042958602">
         <mark key="[" line="32" column="35" />
       </file>
-      <file name="D:/lab/spark-study/src/main/scala/cn/kkicc/ForFunction.scala" timestamp="1510022169586">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.dynamicdb/src/main/java/com/foresee/ftcsp/common/dynamicdb/DBRouter.java" timestamp="1509807172260">
-        <mark key="[" line="63" column="37" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="52" column="6" />
-        <mark key="." line="52" column="0" />
-      </file>
-      <file name="D:/foresee/ftcsp_dataprocess/public/com.foresee.ftcsp.dataprocess.core/src/main/scala/com/foresee/ftcsp/dataprocess/core/MysqlUtil.scala" timestamp="1510157950568">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="0" />
-      </file>
-      <file name="D:/foresee/analysis/spark/com.foresee.xwfx/report/com.foresee.xwfx.report.bszsfree/src/main/java/com/foresee/xwfx/report/bszsfree/HistoryGeneratorFreeApplication.java" timestamp="1510036246783">
-        <mark key="[" line="15" column="15" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="D:/foresee/analysis/spark/com.foresee.xwfx/.gitignore" timestamp="1510161835558">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="5" />
-        <mark key="^" line="6" column="4" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="D:/lab/spark-study/src/main/scala/cn/kkicc/FileDemo.scala" timestamp="1510072203363">
-        <mark key="[" line="33" column="44" />
-        <mark key="]" line="28" column="48" />
-        <mark key="^" line="28" column="48" />
-        <mark key="." line="28" column="48" />
-      </file>
+      <file name="D:/foresee/ftcsp_dataprocess/public/com.foresee.ftcsp.dataprocess.hbase/src/main/java/com/foresee/ftcsp/App.java" timestamp="1510190461979" />
+      <file name="D:/foresee/analysis/spark/com.foresee.xwfx/public/com.foresee.xwfx.public.common/src/main/scala/com/foresee/xwfx/common/util/KafkaUtil.scala" timestamp="1510191147267" />
       <file name="D:/foresee/ftcsp_dataprocess/public/com.foresee.ftcsp.dataprocess.core/src/main/resources/test/application.properties" timestamp="1510164291477">
         <mark key="[" line="0" column="24" />
       </file>
+      <file name="D:/foresee/ftcsp_dataprocess/public/com.foresee.ftcsp.dataprocess.core/src/main/scala/com/foresee/ftcsp/dataprocess/core/conf/SparkCoreConf.scala" timestamp="1510192317275" />
       <file name="D:/foresee/case/cases/com.foresee.ftcsp.cases.rest/src/main/resources/banner.txt" timestamp="1510157446477">
         <mark key="[" line="20" column="57" />
       </file>
-      <file name="D:/foresee/ftcsp_dataprocess/public/com.foresee.ftcsp.dataprocess.core/src/test/resources/dev/application.properties" timestamp="1510163093941">
-        <mark key="[" line="0" column="25" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="24" />
-        <mark key="^" line="0" column="24" />
-      </file>
-      <file name="D:/foresee/analysis/spark/com.foresee.xwfx/report/com.foresee.xwfx.report.bszsfree/src/main/java/com/foresee/xwfx/report/bszsfree/JavaHistoryGeneratorFreeApplication.java" timestamp="1510048578203">
-        <mark key="[" line="39" column="43" />
-        <mark key="]" line="36" column="65" />
-        <mark key="^" line="36" column="65" />
-        <mark key="." line="36" column="65" />
-      </file>
-      <file name="D:/foresee/case/cases/pom.xml" timestamp="1509809182387">
-        <mark key="[" line="39" column="21" />
-        <mark key="]" line="30" column="12" />
-        <mark key="^" line="30" column="12" />
-        <mark key="." line="30" column="12" />
-      </file>
-      <file name="D:/foresee/ftcsp_dataprocess/public/com.foresee.ftcsp.dataprocess.core/src/main/scala/com/foresee/ftcsp/dataprocess/core/SparkUtil.scala" timestamp="1510162753312">
-        <mark key="[" line="19" column="37" />
-        <mark key="]" line="18" column="35" />
-        <mark key="^" line="18" column="35" />
-        <mark key="." line="18" column="35" />
+      <file name="D:/foresee/ftcsp_dataprocess/public/com.foresee.ftcsp.dataprocess.core/src/main/scala/com/foresee/ftcsp/dataprocess/core/DateUtil.scala" timestamp="1510191287582" />
+      <file name="D:/foresee/ftcsp_dataprocess/public/com.foresee.ftcsp.dataprocess.hbase/pom.xml" timestamp="1510191907006">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1510158704998">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/foresee/case/cases/com.foresee.ftcsp.cases.rest/pom.xml" timestamp="1510157407901">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="25" column="25" />
-        <mark key="." line="48" column="0" />
-      </file>
-      <file name="D:/foresee/ftcsp_dataprocess/public/com.foresee.ftcsp.dataprocess.mysql/src/test/resources/application.properties" timestamp="1510164155547">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="4" column="19" />
-      </file>
+      <file name="D:/foresee/analysis/spark/com.foresee.xwfx/public/com.foresee.xwfx.public.common/src/main/scala/com/foresee/xwfx/common/util/DateUtils.scala" timestamp="1510190584391" />
       <file name="D:/foresee/ftcsp_dataprocess/public/com.foresee.ftcsp.dataprocess.mysql/src/main/scala/com/foresee/ftcsp/dataprocess/core/MysqlUtil.scala" timestamp="1510158483452">
         <mark key="[" line="44" column="8" />
       </file>
-      <file name="D:/foresee/ftcsp_dataprocess/public/com.foresee.ftcsp.dataprocess.mysql/pom.xml" timestamp="1510163791723">
-        <mark key="[" line="20" column="18" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="30" column="20" />
-        <mark key="." line="31" column="0" />
+      <file name="D:/foresee/ftcsp_dataprocess/public/com.foresee.ftcsp.dataprocess.core/pom.xml" timestamp="1510191081732">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
-      <file name="D:/foresee/analysis/spark/com.foresee.xwfx/report/com.foresee.xwfx.report.bszsfree/src/main/scala/com/foresee/xwfx/report/bszsfree/HistoryGeneratorPayApplication.scala" timestamp="1510048473335">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="D:/lab/spark-study/src/main/scala/cn/kkicc/SparkApp.scala" timestamp="1509986986228">
-        <mark key="[" line="35" column="106" />
-        <mark key="]" line="35" column="106" />
-        <mark key="^" line="35" column="105" />
-        <mark key="." line="39" column="39" />
-      </file>
+      <file name="D:/foresee/ftcsp_dataprocess/public/com.foresee.ftcsp.dataprocess.core/src/main/resources/dev/application.properties" timestamp="1510192499001" />
       <file name="D:/lab/spark-study/src/main/scala/cn/kkicc/temp.sc" timestamp="1510022226184">
         <mark key="[" line="17" column="21" />
       </file>
@@ -178,25 +87,13 @@
       <file name="D:/lab/spark-study/src/main/scala/cn/kkicc/FileWriter.scala" timestamp="1510070424657">
         <mark key="[" line="11" column="8" />
       </file>
-      <file name="D:/foresee/case/pom.xml" timestamp="1509809703548">
-        <mark key="[" line="27" column="12" />
-        <mark key="]" line="27" column="15" />
-        <mark key="." line="27" column="15" />
-        <mark key="^" line="27" column="15" />
-      </file>
-      <file name="/fragment.java" timestamp="1510163104597">
+      <file name="/fragment.java" timestamp="1510191088619">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/foresee/ftcsp_dataprocess/pom.xml" timestamp="1510163663466">
+      <file name="D:/foresee/ftcsp_dataprocess/pom.xml" timestamp="1510191967567">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="41" column="18" />
         <mark key="." line="35" column="0" />
-      </file>
-      <file name="D:/foresee/ftcsp_dataprocess/.gitignore" timestamp="1510161847880">
-        <mark key="[" line="6" column="3" />
-        <mark key="]" line="6" column="2" />
-        <mark key="^" line="6" column="2" />
-        <mark key="." line="6" column="2" />
       </file>
     </filemarks>
     <jumps>
@@ -251,49 +148,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>config</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+anVuaXQ8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmp1bml0PC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4zLjguMTwvdmVyc2lvbj4KICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgogICAgICAgIDwvZGVwZW5kZW5jeT4=</text>
       </register>
       <register name="-" type="4">
-        <text>config</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8cHJvZmlsZT4KICAgICAgICAgICAgPCEtLSDJ+rL6u7e+syAtLT4KICAgICAgICAgICAgPGlkPnBybzwvaWQ+CiAgICAgICAgICAgIDxwcm9wZXJ0aWVzPgogICAgICAgICAgICAgICAgPHByb2ZpbGVzLmFjdGl2ZT5wcm88L3Byb2ZpbGVzLmFjdGl2ZT4KICAgICAgICAgICAgPC9wcm9wZXJ0aWVzPgogICAgICAgIDwvcHJvZmlsZT4K</text>
+        <text encoding="base64">ICAgIHZhbCBub3cgPSBMb2NhbERhdGUubm93KCkKICAgIHZhbCB0aGVEYXlCZWZvcmVZZXN0ZXJkYXkgPSBub3cubWludXNEYXlzKDIpCiAgICB5bWRGb3JtYXR0ZXIuZm9ybWF0KHRoZURheUJlZm9yZVllc3RlcmRheSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+anVuaXQ8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmp1bml0PC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4zLjguMTwvdmVyc2lvbj4KICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgogICAgICAgIDwvZGVwZW5kZW5jeT4=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mb3Jlc2VlLmZ0Y3NwLmRhdGFwcm9jZXNzLmNvcmUuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBDb25maWdGYWN0b3J5LmxvYWQoKQo=</text>
+        <text encoding="base64">ICAgIFNwYXJrQ29yZUNvbmYK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIE15c3FsVXRpbC5kYXRhRnJhbWVUb015c3FsKGRmLCB0Yk5hbWUpCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+anVuaXQ8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmp1bml0PC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4zLjguMTwvdmVyc2lvbj4KICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgogICAgICAgIDwvZGVwZW5kZW5jeT4=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2YWwgc3BhcmtDb25mID0gbmV3IFNwYXJrQ29uZigpCiAgICAuc2V0TWFzdGVyKCJsb2NhbCIpCiAgICAuc2V0QXBwTmFtZSgiRGF0YVByb2Nlc3NUZXN0IikKICB2YWwgc2MgPSBuZXcgU3BhcmtDb250ZXh0KHNwYXJrQ29uZikK</text>
+        <text encoding="base64">ICAgIHZhbCBkYXRlRm9ybWF0OiBTaW1wbGVEYXRlRm9ybWF0ID0gbmV3IFNpbXBsZURhdGVGb3JtYXQoInl5eXktTU0tZGQiKQogICAgdmFsIGNhbDogQ2FsZW5kYXIgPSBDYWxlbmRhci5nZXRJbnN0YW5jZSgpCiAgICBjYWwuYWRkKENhbGVuZGFyLkRBVEUsIC0xKQogICAgdmFsIHllc3RlcmRheSA9IGRhdGVGb3JtYXQuZm9ybWF0KGNhbC5nZXRUaW1lKCkpCiAgICB5ZXN0ZXJkYXkK</text>
       </register>
-      <register name="6" type="4">
-        <text>private def getSpark = {
-    val spark: SparkSession = SparkSession.builder()
-      .appName(&quot;AppName&quot;)
-      .config(&quot;spark.master&quot;, &quot;local&quot;)
-      .getOrCreate()
-    spark
-  }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8cHJvZmlsZT4KICAgICAgICAgICAgPCEtLSCy4srUu7e+syAtLT4KICAgICAgICAgICAgPGlkPnRlc3Q8L2lkPgogICAgICAgICAgICA8cHJvcGVydGllcz4KICAgICAgICAgICAgICAgIDxwcm9maWxlcy5hY3RpdmU+dGVzdDwvcHJvZmlsZXMuYWN0aXZlPgogICAgICAgICAgICA8L3Byb3BlcnRpZXM+CiAgICAgICAgPC9wcm9maWxlPgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBDb25maWdGYWN0b3J5LmxvYWQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0ZXN0KCJ0ZXN0U2MiKSB7CgogIH0KCiAgdGVzdCgidGVzdFNwYXJrIikgewoKICB9Cg==</text>
+        <text encoding="base64">ICAgIE15c3FsVXRpbC5kYXRhRnJhbWVUb015c3FsKGRmLCB0Yk5hbWUpCg==</text>
       </register>
     </registers>
     <search>
