@@ -10,11 +10,11 @@
         <mark key="." line="54" column="13" />
         <mark key="^" line="54" column="13" />
       </file>
-      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/page/PageQueryParam.java" timestamp="1510214377484">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-        <mark key="^" line="76" column="8" />
+      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/page/PageQueryParam.java" timestamp="1510215691130">
+        <mark key="[" line="43" column="17" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+        <mark key="^" line="84" column="24" />
       </file>
       <file name="/Dummy.scala" timestamp="1510164822937">
         <mark key="[" line="0" column="0" />
@@ -57,7 +57,7 @@
         <mark key="^" line="17" column="0" />
       </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/page/BasePageQueryParam.java" timestamp="1510213771274" />
-      <file name="D:/foresee/case/cases/com.foresee.ftcsp.cases.rest/src/main/java/com/foresee/ftcsp/cases/rest/ui/back/PostResource.java" timestamp="1510213763926" />
+      <file name="D:/foresee/case/cases/com.foresee.ftcsp.cases.rest/src/main/java/com/foresee/ftcsp/cases/rest/ui/back/PostResource.java" timestamp="1510216016773" />
       <file name="D:/foresee/ftcsp_dataprocess/public/com.foresee.ftcsp.dataprocess.core/src/main/scala/com/foresee/ftcsp/dataprocess/core/MysqlUtil.scala" timestamp="1510157950568">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -162,6 +162,12 @@
         <mark key="^" line="83" column="45" />
       </file>
       <file name="D:/foresee/case/cases/com.foresee.ftcsp.cases.model/src/main/java/com/foresee/ftcsp/cases/manual/dao/SecPostExtMapper.java" timestamp="1510213133946" />
+      <file name="D:/foresee/ftcsp_dataprocess/public/com.foresee.ftcsp.dataprocess.mysql/src/test/scala/com/foresee/ftcsp/dataprocess/mysql/MysqlUtilTest.scala" timestamp="1510216130790">
+        <mark key="'" line="21" column="37" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.ftcspmvc/0.0.2/com.foresee.ftcsp.public.ftcspmvc-0.0.2.pom" timestamp="1510212075130" />
       <file name="D:/foresee/ftcsp_dataprocess/public/com.foresee.ftcsp.dataprocess.core/src/main/scala/com/foresee/ftcsp/dataprocess/core/SparkCoreConf.scala" timestamp="1510192295547">
         <mark key="[" line="16" column="33" />
@@ -190,6 +196,7 @@
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/manual/restdto/AddAttributeDTO.java" timestamp="1510042958602">
         <mark key="[" line="32" column="35" />
       </file>
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/auth/rest/outter/TokenOutterController.java" timestamp="1510215018848" />
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.dynamicdb/src/main/java/com/foresee/ftcsp/common/dynamicdb/DBRouter.java" timestamp="1509807172260">
         <mark key="[" line="63" column="37" />
         <mark key="]" line="52" column="0" />
@@ -288,7 +295,7 @@
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.dquery/pom.xml" timestamp="1510212644076">
         <mark key="[" line="25" column="36" />
       </file>
-      <file name="/fragment.java" timestamp="1510214265958">
+      <file name="/fragment.java" timestamp="1510215746259">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -345,43 +352,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh0aGlzLikK</text>
       </register>
       <register name="-" type="4">
-        <text>PageQueryParam</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN1cGVyLnB1dChrZXksIHZhbHVlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh0aGlzLikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBzd2l0Y2ggKGtleSkgewogICAgICAgICAgICBjYXNlICJwYWdlSW5kZXgi</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN1cGVyLnB1dChrZXksIHZhbHVlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICog0vLOqtXiuPbA4LK7UE9KTywg16rOqsq508NQYWdlUmVxdWVzdAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBNZXRob2RVdGlscy5pbnZva2VNZXRob2QodGhpcy52bywgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHZhbHVlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogyse38dDo0qrWtNDQIGNvdW50IHNxbAogICAgICovCiAgICBwcml2YXRlIGJvb2xlYW4gICAgICAgICAgIG5lZWRDb3VudCA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHZhbHVlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QERlcHJlY2F0ZWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWV0aG9kVXRpbHMuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoa2V5ID09IG51bGwpIHsKICAgICAgICAgICAgcmV0dXJuIHN1cGVyLnB1dChrZXksIHZhbHVlKTsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IHB1YmxpYyB2b2lkIHNldE5lZWRDb3VudChib29sZWFuIG5lZWRDb3VudCkgewogICAgICAgIHRoaXMubmVlZENvdW50ID0gbmVlZENvdW50OwogICAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKGtleSkgewogICAgICAgICAgICBjYXNlICJwYWdlSW5kZXgiOgogICAgICAgICAgICAgICAgdGhpcy5zZXRQYWdlSW5kZXgoSW50ZWdlci5wYXJzZUludChTdHJpbmcudmFsdWVPZih2YWx1ZSkpKTsKICAgICAgICAgICAgICAgIHJldHVybiBzdXBlci5wdXQoa2V5LCB2YWx1ZSk7CiAgICAgICAgICAgIGNhc2UgInBhZ2VTaXplIjoKICAgICAgICAgICAgICAgIHRoaXMuc2V0UGFnZUluZGV4KEludGVnZXIucGFyc2VJbnQoU3RyaW5nLnZhbHVlT2YodmFsdWUpKSk7CiAgICAgICAgICAgICAgICByZXR1cm4gc3VwZXIucHV0KGtleSwgdmFsdWUpOwogICAgICAgICAgICAKICAgICAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
     </registers>
     <search>
