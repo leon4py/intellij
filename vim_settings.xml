@@ -289,12 +289,18 @@
         <mark key="^" line="35" column="105" />
         <mark key="." line="39" column="39" />
       </file>
-      <file name="D:/foresee/analysis/analysis-or/lua/behavior_cilent.lua" timestamp="1510907257206" />
+      <file name="D:/foresee/analysis/analysis-or/lua/behavior_cilent.lua" timestamp="1510907850440" />
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/test/java/com/foresee/ftcsp/common/core/page/PageRequestTest.java" timestamp="1510214042919">
         <mark key="[" line="51" column="37" />
         <mark key="]" line="52" column="28" />
         <mark key="^" line="52" column="28" />
         <mark key="." line="52" column="28" />
+      </file>
+      <file name="E:/apps/HelloLua/src/hello.lua" timestamp="1510909096670">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="11" column="28" />
+        <mark key="^" line="11" column="28" />
+        <mark key="." line="11" column="28" />
       </file>
       <file name="D:/foresee/ftcsp_dataprocess/archetype/src/main/resources/META-INF/maven/archetype-metadata.xml" timestamp="1510652262223">
         <mark key="[" line="22" column="0" />
@@ -327,6 +333,12 @@
         <mark key="[" line="9" column="16" />
         <mark key="]" line="9" column="16" />
         <mark key="." line="9" column="16" />
+      </file>
+      <file name="D:/foresee/analysis/analysis-or/lua/hello.lua" timestamp="1510908171932">
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="8" column="6" />
+        <mark key="^" line="6" column="13" />
+        <mark key="." line="8" column="6" />
       </file>
     </filemarks>
     <jumps>
@@ -385,10 +397,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Yi5EQlJvdXRlci42NSAtyv2+3dS0wO/D5rHttcTQxc+iOiA=</text>
+        <text>cjson</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Yi5EQlJvdXRlci42NSAtyv2+3dS0wO/D5rHttcTQxc+iOiA=</text>
+        <text>cjson</text>
       </register>
       <register name="/" type="4">
         <text>module</text>
