@@ -162,11 +162,11 @@
         <mark key="." line="74" column="81" />
         <mark key="^" line="74" column="81" />
       </file>
-      <file name="D:/foresee/analysis/analysis-or/lua/ipinfo.lua" timestamp="1510910293071">
-        <mark key="[" line="43" column="24" />
-        <mark key="]" line="43" column="31" />
-        <mark key="^" line="43" column="31" />
-        <mark key="." line="43" column="31" />
+      <file name="D:/foresee/analysis/analysis-or/lua/ipinfo.lua" timestamp="1510912506121">
+        <mark key="[" line="60" column="13" />
+        <mark key="]" line="60" column="11" />
+        <mark key="^" line="60" column="11" />
+        <mark key="." line="60" column="11" />
       </file>
       <file name="D:/foresee/ftcsp_dataprocess/public/com.foresee.ftcsp.dataprocess.core/src/main/scala/com/foresee/ftcsp/dataprocess/core/MysqlUtil.scala" timestamp="1510157950568">
         <mark key="[" line="15" column="0" />
@@ -248,6 +248,11 @@
         <mark key="." line="245" column="34" />
         <mark key="^" line="245" column="32" />
       </file>
+      <file name="D:/foresee/analysis/analysis-or/bin/reload.sh" timestamp="1510911845261">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/test/java/com/foresee/ftcsp/common/core/page/PageQueryParamTest.java" timestamp="1510214202854">
         <mark key="[" line="30" column="64" />
         <mark key="]" line="33" column="4" />
@@ -258,6 +263,18 @@
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
+      </file>
+      <file name="D:/foresee/analysis/analysis-or/bin/start.sh" timestamp="1510911850621">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/foresee/analysis/analysis-or/bin/sync-dev.sh" timestamp="1510912416709">
+        <mark key="[" line="0" column="49" />
+        <mark key="]" line="0" column="50" />
+        <mark key="^" line="0" column="50" />
+        <mark key="." line="0" column="50" />
       </file>
       <file name="D:/foresee/ftcsp_dataprocess/public/com.foresee.ftcsp.dataprocess.core/src/test/resources/dev/application.properties" timestamp="1510163093941">
         <mark key="[" line="0" column="25" />
@@ -321,11 +338,11 @@
         <mark key="^" line="52" column="28" />
         <mark key="." line="52" column="28" />
       </file>
-      <file name="E:/apps/HelloLua/src/hello.lua" timestamp="1510909096670">
-        <mark key="[" line="9" column="25" />
-        <mark key="]" line="11" column="28" />
-        <mark key="^" line="11" column="28" />
-        <mark key="." line="11" column="28" />
+      <file name="E:/apps/HelloLua/src/hello.lua" timestamp="1510913173943">
+        <mark key="[" line="32" column="12" />
+        <mark key="]" line="32" column="12" />
+        <mark key="^" line="32" column="13" />
+        <mark key="." line="32" column="12" />
       </file>
       <file name="D:/foresee/ftcsp_dataprocess/archetype/src/main/resources/META-INF/maven/archetype-metadata.xml" timestamp="1510652262223">
         <mark key="[" line="22" column="0" />
@@ -421,11 +438,11 @@
       <jump line="87" column="6" filename="D:/foresee/case/cases/com.foresee.ftcsp.cases.rest/src/main/java/com/foresee/ftcsp/cases/rest/inner/UserController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>xpcall(function(a, b) return add(a+b) end, function(err) end)</text>
       </register>
       <register name="-" type="4">
-        <text>lib</text>
+        <text>xpcall(function(a, b) return add(a+b) end, function(err) end)</text>
       </register>
       <register name="/" type="4">
         <text>module</text>
@@ -434,31 +451,33 @@
         <text encoding="base64">ICAgICAgICBsb2NhdGlvbiAvYmVoYXZpb3IuZ2lmewogICAgICAgICAgICAjbHVhX2NvZGVfY2FjaGUgb2ZmOwogICAgICAgICAgICBjb250ZW50X2J5X2x1YV9maWxlIGx1YS9iZWhhdmlvcl9jaWxlbnQubHVhOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGx1YV9wYWNrYWdlX3BhdGggImx1YS9saWIvPy5sdWEiOwo=</text>
+      <register name="2" type="4">
+        <text>local cjson = require('cjson')
+
+print(cjson.encode(person))</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICPS/cjrbHVhvcWxvr/iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgI2x1YV9jb2RlX2NhY2hlIG9mZjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oICJIZWxsbyBXb3JsZCEiICk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8ZmlsZVNldCBlbmNvZGluZz0iVVRGLTgiPgogICAgICAgICAgICA8ZGlyZWN0b3J5PjwvZGlyZWN0b3J5PgogICAgICAgICAgICA8aW5jbHVkZXM+CiAgICAgICAgICAgICAgICA8aW5jbHVkZT4uZ2l0aWdub3JlPC9pbmNsdWRlPgogICAgICAgICAgICA8L2luY2x1ZGVzPgogICAgICAgIDwvZmlsZVNldD4K</text>
+        <text encoding="base64">ICAgIGx1YV9wYWNrYWdlX3BhdGggImx1YS9saWIvPy5sdWEiOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPHBsdWdpbj4KICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLm1hdmVuLnBsdWdpbnM8L2dyb3VwSWQ+CiAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tcmVzb3VyY2VzLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICA8dmVyc2lvbj4zLjAuMjwvdmVyc2lvbj4KICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgIDxhZGREZWZhdWx0RXhjbHVkZXM+ZmFsc2U8L2FkZERlZmF1bHRFeGNsdWRlcz4KICAgICAgICA8L2NvbmZpZ3VyYXRpb24+CiAgICAgIDwvcGx1Z2luPgo=</text>
+        <text encoding="base64">ICAgICPS/cjrbHVhvcWxvr/iCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbmNsdWRlPmNvbS5mb3Jlc2VlLnh3ZnguaW1sPC9pbmNsdWRlPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgI2x1YV9jb2RlX2NhY2hlIG9mZjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oICJIZWxsbyBXb3JsZCEiICk7Cg==</text>
       </register>
     </registers>
     <search>
