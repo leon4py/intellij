@@ -68,6 +68,11 @@
         <mark key="^" line="3" column="42" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="D:/foresee/core/archetype/src/main/resources/archetype-resources/pom.xml" timestamp="1511231922146">
+        <mark key="[" line="22" column="21" />
+        <mark key="]" line="22" column="21" />
+        <mark key="." line="22" column="21" />
+      </file>
       <file name="D:/foresee/ftcsp_dataprocess/archetype/src/main/resources/archetype-resources/__rootArtifactId__/src/main/scala/__rootArtifactId__.app/App.scala" timestamp="1511147622368">
         <mark key="[" line="6" column="8" />
         <mark key="]" line="0" column="15" />
@@ -621,10 +626,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>[</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
         <text>module</text>
