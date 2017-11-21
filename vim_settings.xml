@@ -109,6 +109,11 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="18" column="38" />
       </file>
+      <file name="D:/foresee/core/archetype/.gitignore" timestamp="1511228815812">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="D:/foresee/product/com.foresee.ftcsp.ip.service/pom.xml" timestamp="1511170256468">
         <mark key="[" line="26" column="46" />
         <mark key="]" line="26" column="46" />
@@ -615,11 +620,11 @@
       <jump line="87" column="6" filename="D:/foresee/case/cases/com.foresee.ftcsp.cases.rest/src/main/java/com/foresee/ftcsp/cases/rest/inner/UserController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxkZXZlbG9wZXI+CiAgICAgIDxpZD5wd2ViYjwvaWQ+CiAgICAgIDxuYW1lPlBoaWxsaXAgV2ViYjwvbmFtZT4KICAgICAgPGVtYWlsPnB3ZWJiIGF0IHBpdm90YWwuaW88L2VtYWlsPgogICAgICA8b3JnYW5pemF0aW9uPlBpdm90YWwgU29mdHdhcmUsIEluYy48L29yZ2FuaXphdGlvbj4KICAgICAgPG9yZ2FuaXphdGlvblVybD5odHRwOi8vd3d3LnNwcmluZy5pbzwvb3JnYW5pemF0aW9uVXJsPgogICAgICA8cm9sZXM+CiAgICAgICAgPHJvbGU+UHJvamVjdCBsZWFkPC9yb2xlPgogICAgICA8L3JvbGVzPgogICAgPC9kZXZlbG9wZXI+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>dsyer</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>module</text>
