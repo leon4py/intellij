@@ -84,10 +84,10 @@
         <mark key="." line="16" column="32" />
         <mark key="^" line="16" column="32" />
       </file>
-      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.es5/src/test/java/com/foresee/ftcsp/es5/config/ES5ConfigurationTest.java" timestamp="1511417712668">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.es5/src/test/java/com/foresee/ftcsp/es5/config/ES5ConfigurationTest.java" timestamp="1511489229440">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.es5/src/test/java/com/foresee/ftcsp/es5/druid/DruidTEst.java" timestamp="1511429062198">
         <mark key="[" line="2" column="19" />
@@ -316,7 +316,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.es5/src/test/java/com/foresee/ftcsp/es5/client/ES5ClientTest.java" timestamp="1511488579083">
+      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.es5/src/test/java/com/foresee/ftcsp/es5/client/ES5ClientTest.java" timestamp="1511489203896">
         <mark key="[" line="27" column="75" />
         <mark key="]" line="27" column="65" />
         <mark key="." line="27" column="65" />
@@ -499,10 +499,11 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="31" column="38" />
       </file>
-      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.es5/src/main/java/com/foresee/ftcsp/es5/client/ES5Client.java" timestamp="1511488117486">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.es5/src/main/java/com/foresee/ftcsp/es5/client/ES5Client.java" timestamp="1511489683140">
+        <mark key="[" line="75" column="17" />
+        <mark key="]" line="70" column="32" />
+        <mark key="^" line="70" column="32" />
+        <mark key="." line="70" column="32" />
       </file>
       <file name="D:/foresee/ftcsp_dataprocess/bigdata.demo/com.foresee.ftcsp.bigdata.dummy/src/test/scala/com/foresee/ftcsp/dataprocess/core/SparkUtilTest.scala" timestamp="1510629328458">
         <mark key="[" line="15" column="21" />
@@ -597,7 +598,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zcWwgPSBzcWw7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>MYSQL</text>
@@ -606,34 +607,34 @@
         <text>module</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEVTNUNsaWVudCBlczVDbGllbnQgPSBnZXRCZWFuKEVTNUNsaWVudC5jbGFzcywgQXBwQ29uZmlnLmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgU1FMKFN0cmluZyBzcWwpIHsKICAgICAgICAgICAgdGhpcy5zcWwgPSBzcWw7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zcWwgPSBzcWw7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb247Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocHJvZHVjdHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgUHJvZHVjdCAgewogICAgICAgIHByaXZhdGUgU3RyaW5nIG5hbWU7CiAgICAgICAgcHJpdmF0ZSBTdHJpbmcgZGVzYzsKICAgICAgICBwcml2YXRlIERvdWJsZSBwcmljZTsKICAgICAgICBwcml2YXRlIExpc3Q8U3RyaW5nPiB0YWdzOwoKICAgICAgICBwdWJsaWMgU3RyaW5nIGdldE5hbWUoKSB7CiAgICAgICAgICAgIHJldHVybiBuYW1lOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIFByb2R1Y3Qgc2V0TmFtZShTdHJpbmcgbmFtZSkgewogICAgICAgICAgICB0aGlzLm5hbWUgPSBuYW1lOwogICAgICAgICAgICByZXR1cm4gdGhpczsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBTdHJpbmcgZ2V0RGVzYygpIHsKICAgICAgICAgICAgcmV0dXJuIGRlc2M7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgUHJvZHVjdCBzZXREZXNjKFN0cmluZyBkZXNjKSB7CiAgICAgICAgICAgIHRoaXMuZGVzYyA9IGRlc2M7CiAgICAgICAgICAgIHJldHVybiB0aGlzOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIERvdWJsZSBnZXRQcmljZSgpIHsKICAgICAgICAgICAgcmV0dXJuIHByaWNlOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIFByb2R1Y3Qgc2V0UHJpY2UoRG91YmxlIHByaWNlKSB7CiAgICAgICAgICAgIHRoaXMucHJpY2UgPSBwcmljZTsKICAgICAgICAgICAgcmV0dXJuIHRoaXM7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgTGlzdDxTdHJpbmc+IGdldFRhZ3MoKSB7CiAgICAgICAgICAgIHJldHVybiB0YWdzOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIFByb2R1Y3Qgc2V0VGFncyhMaXN0PFN0cmluZz4gdGFncykgewogICAgICAgICAgICB0aGlzLnRhZ3MgPSB0YWdzOwogICAgICAgICAgICByZXR1cm4gdGhpczsKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTUUwgc3FsID0gbmV3IFNRTChzcWxTdHJpbmcpOwogICAgICAgIFNlYXJjaFJlc3VsdCByZXN1bHQgPSB0aGlzLmV4ZWN1dGUoc3FsKTsKICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3FsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBFUzVDbGllbnQgZXM1Q2xpZW50ID0gZ2V0QmVhbihFUzVDbGllbnQuY2xhc3MsIEFwcENvbmZpZy5jbGFzcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
     </registers>
     <search>
