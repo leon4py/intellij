@@ -89,6 +89,7 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/common/ListValueLength.java" timestamp="1511490275753" />
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.es5/src/test/java/com/foresee/ftcsp/es5/druid/DruidTEst.java" timestamp="1511429062198">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="19" />
@@ -358,6 +359,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/manual/restdto/ProductBaseDTO.java" timestamp="1511490364809" />
       <file name="D:/foresee/analysis/analysis-or/bin/sync-dev.sh" timestamp="1511343121508">
         <mark key="[" line="0" column="49" />
         <mark key="]" line="0" column="50" />
@@ -457,6 +459,7 @@
         <mark key="^" line="7" column="48" />
         <mark key="." line="7" column="48" />
       </file>
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/common/ListStringValueValidator.java" timestamp="1511490303138" />
       <file name="D:/lab/spark-study/src/main/scala/cn/kkicc/SparkApp.scala" timestamp="1509986986228">
         <mark key="[" line="35" column="106" />
         <mark key="]" line="35" column="106" />
@@ -499,11 +502,10 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="31" column="38" />
       </file>
-      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.es5/src/main/java/com/foresee/ftcsp/es5/client/ES5Client.java" timestamp="1511489683140">
-        <mark key="[" line="75" column="17" />
-        <mark key="]" line="70" column="32" />
-        <mark key="^" line="70" column="32" />
-        <mark key="." line="70" column="32" />
+      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.es5/src/main/java/com/foresee/ftcsp/es5/client/ES5Client.java" timestamp="1511491083432">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="D:/foresee/ftcsp_dataprocess/bigdata.demo/com.foresee.ftcsp.bigdata.dummy/src/test/scala/com/foresee/ftcsp/dataprocess/core/SparkUtilTest.scala" timestamp="1510629328458">
         <mark key="[" line="15" column="21" />
@@ -598,10 +600,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zcWwgPSBzcWw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuc3FsID0gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>MYSQL</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>module</text>
@@ -610,31 +612,31 @@
         <text encoding="base64">ICAgICAgICBwdWJsaWMgU1FMKFN0cmluZyBzcWwpIHsKICAgICAgICAgICAgdGhpcy5zcWwgPSBzcWw7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zcWwgPSBzcWw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuc3FsID0gCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNxbCA9IHNxbCArICIiOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTUUwgc3FsID0gbmV3IFNRTChzcWxTdHJpbmcpOwogICAgICAgIFNlYXJjaFJlc3VsdCByZXN1bHQgPSB0aGlzLmV4ZWN1dGUoc3FsKTsKICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3FsCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zcWwgPSBzcWw7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBTUUwgc3FsID0gbmV3IFNRTChzcWxTdHJpbmcpOwogICAgICAgIFNlYXJjaFJlc3VsdCByZXN1bHQgPSB0aGlzLmV4ZWN1dGUoc3FsKTsKICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3FsCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
     </registers>
     <search>
