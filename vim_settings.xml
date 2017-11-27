@@ -29,11 +29,11 @@
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.es5/src/main/java/com/foresee/ftcsp/es5/IntToStringSerializer.java" timestamp="1511505021361">
         <mark key="[" line="9" column="26" />
       </file>
-      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.es5/src/test/java/com/foresee/ftcsp/es5/client/ES5ClientTest.java" timestamp="1511768751845">
-        <mark key="[" line="33" column="22" />
-        <mark key="]" line="33" column="22" />
-        <mark key="." line="33" column="22" />
-        <mark key="^" line="34" column="16" />
+      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.es5/src/test/java/com/foresee/ftcsp/es5/client/ES5ClientTest.java" timestamp="1511773291133">
+        <mark key="[" line="42" column="13" />
+        <mark key="]" line="42" column="15" />
+        <mark key="." line="42" column="15" />
+        <mark key="^" line="42" column="15" />
       </file>
       <file name="D:/app/gateway/com.foresee.ftcsp.gateway.service/pom.xml" timestamp="1511750171011">
         <mark key="[" line="45" column="25" />
@@ -53,11 +53,11 @@
         <mark key="." line="16" column="4" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.4.2.RELEASE/spring-boot-autoconfigure-1.4.2.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/velocity/VelocityAutoConfiguration.java" timestamp="1511750488811" />
-      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.es5/src/main/java/com/foresee/ftcsp/es5/client/ES5Client.java" timestamp="1511770597471">
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="149" column="0" />
-        <mark key="^" line="162" column="36" />
-        <mark key="." line="149" column="0" />
+      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.es5/src/main/java/com/foresee/ftcsp/es5/client/ES5Client.java" timestamp="1511779811661">
+        <mark key="[" line="197" column="48" />
+        <mark key="]" line="195" column="36" />
+        <mark key="^" line="195" column="36" />
+        <mark key="." line="195" column="36" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.4/jackson-databind-2.8.4-sources.jar!/com/fasterxml/jackson/databind/deser/std/StringCollectionDeserializer.java" timestamp="1511747992788" />
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/util/Jackson.java" timestamp="1511766422194" />
@@ -100,7 +100,7 @@
       <file name="/Dummy.txt" timestamp="1511753296051">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1511767986745">
+      <file name="/fragment.java" timestamp="1511779784404">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -162,44 +162,44 @@
       <jump line="87" column="6" filename="D:/foresee/case/cases/com.foresee.ftcsp.cases.rest/src/main/java/com/foresee/ftcsp/cases/rest/inner/UserController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSnNvbk5vZGUga2V5VmFsdWUgPSBidWNrZXQuZmluZFZhbHVlKCJrZXkiKTsK</text>
+      <register name="&quot;" type="4">
+        <text>StackName</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>StackName</text>
       </register>
       <register name="/" type="4">
         <text>module</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFQ+IGxpc3QgPSBMaXN0cy5uZXdBcnJheUxpc3QoKTsKICAgICAgICByZXR1cm4gbGlzdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgbmV4dFN0YWNrTmFtZSA9IHN0YWNrLmdldChpKzEpLmdldEtleSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSnNvbk5vZGUga2V5VmFsdWUgPSBidWNrZXQuZmluZFZhbHVlKCJrZXkiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm93TWFwLnB1dChrZXksIHZhbHVlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBmaWVsZFZhbHVlID0gY3VycmVudEJ1Y2tldHMuZmluZFZhbHVlKCJrZXkiKS5hc1RleHQoKTsKICAgICAgICAgICAgICAgIHJvd01hcC5wdXQoZmllbGQsIGZpZWxkVmFsdWUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmllbGRNYXAucHV0KGtleSwga2V5VmFsdWUudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKE1hcC5FbnRyeTxTdHJpbmcsIEpzb25Ob2RlPiBmaWVsZEVudHJ5IDogc3RhY2spIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBmaWVsZE1hcCA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBmaWVsZE1hcCA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGZpZWxkVmFsdWUgPSBmaWVsZEVudHJ5LmdldFZhbHVlKCkuZmluZFZhbHVlKCJidWNrZXRzIikuZmluZFZhbHVlKCJrZXkiKS5hc1RleHQoKTsKICAgICAgICAgICAgcm93TWFwLnB1dChmaWVsZCwgZmllbGRWYWx1ZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmllbGRNYXAucHV0KGtleSwgdmFsdWVOb2RlLmZpbmRWYWx1ZSgia2V5IikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFwLkVudHJ5PFN0cmluZywgSnNvbk5vZGU+IGZpZWxkRW50cnkgPSBzdGFjay5nZXQoaSk7CiAgICAgICAgICAgIFN0cmluZyBmaWVsZCA9IGZpZWxkRW50cnkuZ2V0S2V5KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmllbGRNYXAucHV0KGtleSwgdmFsdWVOb2RlLmZpbmRWYWx1ZSgia2V5IikpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpZWxkTWFwLnB1dChrZXksIHZhbHVlTm9kZS5maW5kVmFsdWUoImtleSIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGZpZWxkID0gZmllbGRFbnRyeS5nZXRLZXkoKTsKICAgICAgICAgICAgU3RyaW5nIGZpZWxkVmFsdWUgPSBmaWVsZEVudHJ5LmdldFZhbHVlKCkuZmluZFZhbHVlKCJidWNrZXRzIikuZmluZFZhbHVlKCJrZXkiKS5hc1RleHQoKTsKICAgICAgICAgICAgcm93TWFwLnB1dChmaWVsZCwgZmllbGRWYWx1ZSk7Cg==</text>
       </register>
     </registers>
     <search>
