@@ -129,6 +129,7 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="18" column="38" />
       </file>
+      <file name="D:/lab/guangdong2/src/main/webapp/WEB-INF/web.xml" timestamp="1511939198503" />
       <file name="D:/foresee/ftcsp_dataprocess/archetype/src/main/resources/archetype-resources/__rootArtifactId__/src/test/scala/com/foresee/ftcsp/dataprocess/core/ForeseeConfTest.scala" timestamp="1510649320688">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="8" />
@@ -430,6 +431,11 @@
         <mark key="^" line="17" column="35" />
         <mark key="." line="17" column="35" />
       </file>
+      <file name="D:/lab/guangdong2/pom.xml" timestamp="1511939072459">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="D:/foresee/case/README.md" timestamp="1510241059322">
         <mark key="[" line="36" column="1" />
         <mark key="]" line="31" column="1" />
@@ -702,7 +708,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXN1bHRMaXN0LmFkZChKYWNrc29uLm1hcFRvSmF2YUJlYW4ocm93TWFwLCBrbGFzcykpOwo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="-" type="4">
         <text>variableTree,</text>
@@ -714,32 +720,32 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXN1bHRMaXN0LmFkZChKYWNrc29uLm1hcFRvSmF2YUJlYW4ocm93TWFwLCBrbGFzcykpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSXRlcmFibGU8TWFwLkVudHJ5PFN0cmluZywgSnNvbk5vZGU+PiBjeWNsZSA9IEl0ZXJhYmxlcy5jeWNsZShmaWVsZE5vZGUpOwo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">dmFsdWVOb2RlLmhhcygidmFsdWUiKQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IDxidWlsZD4KICAgIDxwbHVnaW5zPgogICAgICA8cGx1Z2luPgogICAgICAgIDxncm91cElkPm9yZy5tb3J0YmF5LmpldHR5PC9ncm91cElkPgogICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWpldHR5LXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICA8dmVyc2lvbj42LjEuNzwvdmVyc2lvbj4KICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgIDxjb25uZWN0b3JzPgogICAgICAgICAgICA8Y29ubmVjdG9yIGltcGxlbWVudGF0aW9uPSJvcmcubW9ydGJheS5qZXR0eS5uaW8uU2VsZWN0Q2hhbm5lbENvbm5lY3RvciI+CiAgICAgICAgICAgICAgPHBvcnQ+ODg4ODwvcG9ydD4KICAgICAgICAgICAgICA8bWF4SWRsZVRpbWU+MzAwMDA8L21heElkbGVUaW1lPgogICAgICAgICAgICA8L2Nvbm5lY3Rvcj4KICAgICAgICAgIDwvY29ubmVjdG9ycz4KICAgICAgICAgIDx3ZWJBcHBTb3VyY2VEaXJlY3Rvcnk+JHtwcm9qZWN0LmJ1aWxkLmRpcmVjdG9yeX0vJHtwb20uYXJ0aWZhY3RJZH0tJHtwb20udmVyc2lvbn08L3dlYkFwcFNvdXJjZURpcmVjdG9yeT4KICAgICAgICAgIDxjb250ZXh0UGF0aD4vPC9jb250ZXh0UGF0aD4KICAgICAgICA8L2NvbmZpZ3VyYXRpb24+CiAgICAgIDwvcGx1Z2luPgogICAgPC9wbHVnaW5zPgogIDwvYnVpbGQ+Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgSXRlcmFibGU8TWFwLkVudHJ5PFN0cmluZywgSnNvbk5vZGU+PiBjeWNsZSA9IEl0ZXJhYmxlcy5jeWNsZShmaWVsZE5vZGUpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">dmFsdWVOb2RlLmhhcygidmFsdWUiKQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB2YXJpYWJsZVRyZWUuYWRkKGZpZWxkTm9kZSk7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>select name,   price, sum(price) as sumPrice, count(name) as count&quot; +
                 &quot;  from goods-1 group by name,price&quot;</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAK</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAvKiBTdHJpbmdUZW1wbGF0ZVJlc291cmNlTG9hZGVyIHJlc291cmNlTG9hZGVyID0gbmV3IFN0cmluZ1RlbXBsYXRlUmVzb3VyY2VMb2FkZXIoKTsKICAgICAgICBDb25maWd1cmF0aW9uIGNmZyA9IENvbmZpZ3VyYXRpb24uZGVmYXVsdENvbmZpZ3VyYXRpb24oKTsKICAgICAgICBHcm91cFRlbXBsYXRlIGd0ID0gbmV3IEdyb3VwVGVtcGxhdGUocmVzb3VyY2VMb2FkZXIsIGNmZyk7CiAgICAgICAgVGVtcGxhdGUgdCA9IGd0LmdldFRlbXBsYXRlKCJoZWxsbywnJHtuYW1lfSciKTsKICAgICAgICB0LmJpbmRpbmcoIm5hbWUiLCAiYmVldGwiKTsKICAgICAgICBTdHJpbmcgc3RyID0gdC5yZW5kZXIoKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RyKTsqLw==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUZW1wbGF0ZSB0ZW1wbGF0ZSA9IGhhbmRsZWJhcnMuY29tcGlsZUlubGluZSgiSGVsbG8ge3t0aGlzfX0hIik7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBIYW5kbGViYXJzIGhhbmRsZWJhcnMgPSBuZXcgSGFuZGxlYmFycygpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICBUZW1wbGF0ZSB0ZW1wbGF0ZSA9IGhhbmRsZWJhcnMuY29tcGlsZUlubGluZSgiSGVsbG8ge3t0aGlzfX0hIik7Cg==</text>
       </register>
     </registers>
     <search>
