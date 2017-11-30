@@ -108,7 +108,7 @@
         <mark key="^" line="5" column="40" />
         <mark key="." line="5" column="40" />
       </file>
-      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.es5/pom.xml" timestamp="1511931566363">
+      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.es5/pom.xml" timestamp="1512028443530">
         <mark key="[" line="16" column="18" />
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
@@ -173,6 +173,12 @@
         <mark key="." line="24" column="15" />
         <mark key="^" line="24" column="15" />
       </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/pom.xml" timestamp="1512028576720">
+        <mark key="[" line="60" column="21" />
+        <mark key="]" line="60" column="25" />
+        <mark key="^" line="60" column="25" />
+        <mark key="." line="60" column="25" />
+      </file>
       <file name="D:/foresee/analysis/spark/com.foresee.xwfx/report/com.foresee.xwfx.report.bszsfree/src/main/java/com/foresee/xwfx/report/bszsfree/HistoryGeneratorFreeApplication.java" timestamp="1510036246783">
         <mark key="[" line="15" column="15" />
         <mark key="]" line="15" column="0" />
@@ -229,6 +235,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/lab/guangdong-java6/src/main/java/com/foresee/ftcsp/workflow/bpmn/UserTask.java" timestamp="1512027637472">
+        <mark key="[" line="111" column="48" />
+        <mark key="]" line="111" column="48" />
+        <mark key="." line="111" column="48" />
       </file>
       <file name="D:/foresee/ftcsp_dataprocess/public/com.foresee.ftcsp.dataprocess.core/src/test/resources/dev/application.properties" timestamp="1510163093941">
         <mark key="[" line="0" column="25" />
@@ -383,6 +394,12 @@
         <mark key="^" line="46" column="57" />
         <mark key="." line="46" column="57" />
       </file>
+      <file name="D:/lab/guangdong-java6/src/main/java/com/foresee/ftcsp/workflow/util/XmlUtil.kt" timestamp="1512027598954">
+        <mark key="[" line="33" column="47" />
+        <mark key="]" line="33" column="42" />
+        <mark key="^" line="33" column="42" />
+        <mark key="." line="33" column="42" />
+      </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.es5/src/main/java/com/foresee/ftcsp/es5/config/ES5Configuration.java" timestamp="1511939900054">
         <mark key="[" line="30" column="52" />
         <mark key="]" line="30" column="5" />
@@ -427,6 +444,7 @@
         <mark key="." line="60" column="7" />
         <mark key="^" line="130" column="46" />
       </file>
+      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.es5/src/test/resources/config/bootstrap.properties" timestamp="1512028453807" />
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.es5/src/main/java/com/foresee/ftcsp/es5/client/ES5SearchResult.java" timestamp="1511783522515">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="28" column="83" />
@@ -556,6 +574,7 @@
         <mark key="^" line="12" column="11" />
         <mark key="." line="12" column="11" />
       </file>
+      <file name="D:/lab/guangdong-java6/src/main/java/com/foresee/ftcsp/workflow/util/XmlUtils.java" timestamp="1512027532277" />
       <file name="D:/lab/guangdong2/src/main/resources/application.properties" timestamp="1511948534908">
         <mark key="[" line="2" column="8" />
         <mark key="]" line="2" column="8" />
@@ -604,8 +623,14 @@
         <mark key="^" line="18" column="35" />
         <mark key="." line="18" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511961477924">
+      <file name="/Dummy.txt" timestamp="1512028709492">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/test/java/com/foresee/ftcsp/workflow/rest/front/OAControllerTest.java" timestamp="1512028620816">
+        <mark key="[" line="30" column="68" />
+        <mark key="]" line="30" column="67" />
+        <mark key="^" line="30" column="67" />
+        <mark key="." line="30" column="67" />
       </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.es5/src/main/java/com/foresee/ftcsp/es5/jackson/StringToIntSerializer.java" timestamp="1511505651991">
         <mark key="[" line="9" column="29" />
@@ -753,11 +778,11 @@
       <jump line="87" column="6" filename="D:/foresee/case/cases/com.foresee.ftcsp.cases.rest/src/main/java/com/foresee/ftcsp/cases/rest/inner/UserController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nMy5idWlsZGVyLlJlZmxlY3Rpb25Ub1N0cmluZ0J1aWxkZXI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>core</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>core</text>
       </register>
       <register name="/" type="4">
         <text>module</text>
