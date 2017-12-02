@@ -47,14 +47,12 @@
         <mark key="^" line="37" column="92" />
         <mark key="." line="37" column="92" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/lib/openapi.jar!/com/intellij/psi/JavaPsiFacade.class" timestamp="1512215168280" />
       <file name="D:/app/gateway/pom.xml" timestamp="1511856758014">
         <mark key="[" line="16" column="18" />
       </file>
       <file name="/Catch Statement Body.txt.ft" timestamp="1511834516497">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/lab/plugin/mvc-generator/resources/META-INF/plugin.xml" timestamp="1512213338737" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.awsapi/src/main/java/com/foresee/ftcsp/workflow/controller/ForeseePortalAPI.java" timestamp="1512032844733">
         <mark key="[" line="72" column="52" />
       </file>
@@ -64,10 +62,10 @@
       <file name="/HTML File.txt.ft" timestamp="1511850419162">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/lab/plugin/mvc-generator/src/cn/kkicc/idea/HelloTestKotlinAction.kt" timestamp="1512217058172">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="D:/lab/plugin/mvc-generator/src/cn/kkicc/idea/HelloTestKotlinAction.kt" timestamp="1512218976014">
+        <mark key="[" line="14" column="74" />
+        <mark key="]" line="14" column="74" />
+        <mark key="." line="14" column="74" />
       </file>
       <file name="/Dummy.txt" timestamp="1512213198148">
         <mark key="[" line="0" column="0" />
@@ -120,7 +118,6 @@
         <mark key="^" line="6" column="21" />
         <mark key="." line="6" column="21" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/lib/openapi.jar!/com/intellij/openapi/actionSystem/AnAction.class" timestamp="1512218384625" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/pom.xml" timestamp="1512030274402">
         <mark key="[" line="61" column="4" />
         <mark key="]" line="61" column="4" />
@@ -133,7 +130,6 @@
         <mark key="." line="249" column="0" />
         <mark key="^" line="248" column="73" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/lib/openapi.jar!/com/intellij/openapi/ui/Messages.class" timestamp="1512215780196" />
       <file name="D:/lab/MVCGenerator/.gitignore" timestamp="1512138410479">
         <mark key="[" line="25" column="6" />
         <mark key="]" line="28" column="0" />
@@ -204,11 +200,11 @@
       <jump line="87" column="6" filename="D:/foresee/case/cases/com.foresee.ftcsp.cases.rest/src/main/java/com/foresee/ftcsp/cases/rest/inner/UserController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlLnByb2plY3QubW9kaWZ5TW9kdWxlcyB7IG51bGwgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>getInformationIcon</text>
       </register>
       <register name="-" type="4">
-        <text>getData(PlatformDataKeys.PROJECT)</text>
+        <text>getInformationIcon</text>
       </register>
       <register name="/" type="4">
         <text>module</text>
