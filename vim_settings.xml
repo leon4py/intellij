@@ -53,6 +53,7 @@
       <file name="/Catch Statement Body.txt.ft" timestamp="1511834516497">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/lab/plugin/mvc-generator/resources/META-INF/plugin.xml" timestamp="1512213338737" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.awsapi/src/main/java/com/foresee/ftcsp/workflow/controller/ForeseePortalAPI.java" timestamp="1512032844733">
         <mark key="[" line="72" column="52" />
       </file>
@@ -61,6 +62,11 @@
       </file>
       <file name="/HTML File.txt.ft" timestamp="1511850419162">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/lab/plugin/mvc-generator/src/cn/kkicc/idea/HelloTestKotlinAction.kt" timestamp="1512214424607">
+        <mark key="[" line="15" column="95" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1512213198148">
         <mark key="[" line="0" column="0" />
@@ -91,6 +97,11 @@
         <mark key="]" line="7" column="30" />
         <mark key="." line="7" column="30" />
         <mark key="^" line="7" column="30" />
+      </file>
+      <file name="D:/lab/plugin/mvc-generator/.gitignore" timestamp="1512213567108">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="D:/lab/MVCGenerator/src/cn/kkicc/idea/HelloTestAction.java" timestamp="1512139191931">
         <mark key="[" line="13" column="0" />
@@ -186,10 +197,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vSW50ZWxsaUogSURFQSAyMDE2LjMgZGVwZW5kZW5jeTsgZm9yIGEgZnVsbCBsaXN0IG9mIEludGVsbGlKIElERUEgcmVsZWFzZXMgcGxlYXNlIHNlZSBodHRwczovL3d3dy5qZXRicmFpbnMuY29tL2ludGVsbGlqLXJlcG9zaXRvcnkvcmVsZWFzZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>java</text>
+        <text>getData(PlatformDataKeys.PROJECT)</text>
       </register>
       <register name="/" type="4">
         <text>module</text>
@@ -198,31 +209,31 @@
         <text encoding="base64">YXBwbHkgcGx1Z2luOiAnamF2YScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vSW50ZWxsaUogSURFQSAyMDE2LjMgZGVwZW5kZW5jeTsgZm9yIGEgZnVsbCBsaXN0IG9mIEludGVsbGlKIElERUEgcmVsZWFzZXMgcGxlYXNlIHNlZSBodHRwczovL3d3dy5qZXRicmFpbnMuY29tL2ludGVsbGlqLXJlcG9zaXRvcnkvcmVsZWFzZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgTXV0YWJsZUdyYXBoPD4oKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgZWRpdG9yID0gZS5nZXREYXRhKFBsYXRmb3JtRGF0YUtleXMuRURJVE9SKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBlZGl0b3Iuc2VsZWN0aW9uTW9kZWwuc2VsZWN0ZWRUZXh0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0cy5uZXdBcnJheUxpc3QoKQo=</text>
+        <text encoding="base64">ICAgICAgICBlLnByb2plY3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgR3NvbigpLnRvanMK</text>
+        <text encoding="base64">b3V0Lwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCJuYW1lPSIgKyBuYW1lISEpCg==</text>
+        <text encoding="base64">LmdpdGlnbm9yZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">c3JjLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">cmVzb3VyY2VzLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBpbnNlcnQgYWN0aW9uIGxvZ2ljIGhlcmUK</text>
+        <text encoding="base64">ICAgIC8vSW50ZWxsaUogSURFQSAyMDE2LjMgZGVwZW5kZW5jeTsgZm9yIGEgZnVsbCBsaXN0IG9mIEludGVsbGlKIElERUEgcmVsZWFzZXMgcGxlYXNlIHNlZSBodHRwczovL3d3dy5qZXRicmFpbnMuY29tL2ludGVsbGlqLXJlcG9zaXRvcnkvcmVsZWFzZXMK</text>
       </register>
     </registers>
     <search>
