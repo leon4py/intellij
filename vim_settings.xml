@@ -47,6 +47,7 @@
         <mark key="^" line="37" column="92" />
         <mark key="." line="37" column="92" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/lib/openapi.jar!/com/intellij/psi/JavaPsiFacade.class" timestamp="1512215168280" />
       <file name="D:/app/gateway/pom.xml" timestamp="1511856758014">
         <mark key="[" line="16" column="18" />
       </file>
@@ -63,10 +64,10 @@
       <file name="/HTML File.txt.ft" timestamp="1511850419162">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/lab/plugin/mvc-generator/src/cn/kkicc/idea/HelloTestKotlinAction.kt" timestamp="1512214424607">
-        <mark key="[" line="15" column="95" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="D:/lab/plugin/mvc-generator/src/cn/kkicc/idea/HelloTestKotlinAction.kt" timestamp="1512216061254">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1512213198148">
         <mark key="[" line="0" column="0" />
@@ -79,6 +80,11 @@
       </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.es5/src/main/java/com/foresee/ftcsp/es5/util/SqlUtil.java" timestamp="1512093416599">
         <mark key="[" line="78" column="18" />
+      </file>
+      <file name="/fragment.kt" timestamp="1512215390307">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.es5/pom.xml" timestamp="1512098060476">
         <mark key="[" line="16" column="17" />
@@ -126,6 +132,7 @@
         <mark key="." line="249" column="0" />
         <mark key="^" line="248" column="73" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/lib/openapi.jar!/com/intellij/openapi/ui/Messages.class" timestamp="1512215780196" />
       <file name="D:/lab/MVCGenerator/.gitignore" timestamp="1512138410479">
         <mark key="[" line="25" column="6" />
         <mark key="]" line="28" column="0" />
@@ -197,7 +204,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlLnByb2plY3QubW9kaWZ5TW9kdWxlcyB7IG51bGwgfQo=</text>
       </register>
       <register name="-" type="4">
         <text>getData(PlatformDataKeys.PROJECT)</text>
@@ -209,31 +216,31 @@
         <text encoding="base64">YXBwbHkgcGx1Z2luOiAnamF2YScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlLnByb2plY3QubW9kaWZ5TW9kdWxlcyB7IG51bGwgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgZWRpdG9yID0gZS5nZXREYXRhKFBsYXRmb3JtRGF0YUtleXMuRURJVE9SKQo=</text>
+        <text encoding="base64">SmF2YVBzaUZhY2FkZS5nZXRJbnN0YW5jZShlLnByb2plY3QpLmZpbmRQYWNrYWdlKCJvayIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlZGl0b3Iuc2VsZWN0aW9uTW9kZWwuc2VsZWN0ZWRUZXh0Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlLnByb2plY3QK</text>
+        <text encoding="base64">ICAgICAgICBKYXZhUHNpRmFjYWRlLmdldEluc3RhbmNlKCkuZmluZFBhY2thZ2UoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">b3V0Lwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgYmFzZURpciA9IGUucHJvamVjdD8uYmFzZURpcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LmdpdGlnbm9yZQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKGJhc2VEaXIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c3JjLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVzb3VyY2VzLwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgZWRpdG9yID0gZS5nZXREYXRhKFBsYXRmb3JtRGF0YUtleXMuRURJVE9SKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vSW50ZWxsaUogSURFQSAyMDE2LjMgZGVwZW5kZW5jeTsgZm9yIGEgZnVsbCBsaXN0IG9mIEludGVsbGlKIElERUEgcmVsZWFzZXMgcGxlYXNlIHNlZSBodHRwczovL3d3dy5qZXRicmFpbnMuY29tL2ludGVsbGlqLXJlcG9zaXRvcnkvcmVsZWFzZXMK</text>
+        <text encoding="base64">ICAgICAgICBlZGl0b3Iuc2VsZWN0aW9uTW9kZWwuc2VsZWN0ZWRUZXh0Cg==</text>
       </register>
     </registers>
     <search>
