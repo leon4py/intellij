@@ -73,11 +73,11 @@
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/manual/dao/PdtGoodsExtMapper.java" timestamp="1512269264394">
         <mark key="[" line="24" column="34" />
       </file>
-      <file name="D:/lab/plugin/mvc-generator/src/com/foresee/plugin/mvc/generator/ModelGenerator.kt" timestamp="1512373758593">
-        <mark key="[" line="7" column="16" />
-        <mark key="]" line="10" column="17" />
-        <mark key="^" line="10" column="17" />
-        <mark key="." line="10" column="17" />
+      <file name="D:/lab/plugin/mvc-generator/src/com/foresee/plugin/mvc/generator/ModelGenerator.kt" timestamp="1512376972788">
+        <mark key="[" line="13" column="98" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="41" />
       </file>
       <file name="D:/lab/plugin/MVPHelper/src/com/wingsofts/mvphelper/gui/MvpHelperConfigPanel.java" timestamp="1512374740203" />
       <file name="D:/foresee/case/cases/com.foresee.ftcsp.cases.model/src/test/resources/cases-config-dev.properties" timestamp="1512271805968">
@@ -162,11 +162,11 @@
       <jump line="87" column="6" filename="D:/foresee/case/cases/com.foresee.ftcsp.cases.rest/src/main/java/com/foresee/ftcsp/cases/rest/inner/UserController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CgojZm9yZWFjaCggJHJvdyBpbiAkcm93cyApCiAgICBwcml2YXRlICR7cm93LmZpZWxkVHlwZX0gJHtyb3cuZmllbGROYW1lfQojZW5k</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcm9qZWN0RGlyLmZpbmRTdWJkaXJlY3RvcnkoIm1vZGVsIikK</text>
       </register>
       <register name="-" type="4">
-        <text>mud</text>
+        <text>baseDir</text>
       </register>
       <register name="/" type="4">
         <text>module</text>
@@ -174,32 +174,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgZmllbGRUeXBlOiBTdHJpbmcsCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CgojZm9yZWFjaCggJHJvdyBpbiAkcm93cyApCiAgICBwcml2YXRlICR7cm93LmZpZWxkVHlwZX0gJHtyb3cuZmllbGROYW1lfQojZW5k</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBwcm9qZWN0RGlyLmZpbmRTdWJkaXJlY3RvcnkoIm1vZGVsIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvamVjdERpci5maW5kU3ViZGlyZWN0b3J5KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyC0tL2obW9kZWwK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBiYXNlUGFja2FnZS4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnByb2plY3QuZmluZAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoU3RyaW5nKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJzWyJhdXRob3IiXSA9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCB2YXJzOiBNdXRhYmxlTWFwPFN0cmluZywgU3RyaW5nPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICoKICogICAgICAgICAgPHByZT4KICog0N64xLzHwrwKICogICAg0N64xLrzsOaxvjogICAgINDeuMTIy6O6ICDQ3rjEyNXG2jogICAgINDeuMTE2sjdOgogKiAgICAgICAgICA8L3ByZT4K</text>
+        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKCkK</text>
       </register>
     </registers>
     <search>
