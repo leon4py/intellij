@@ -24,6 +24,9 @@
         <mark key="^" line="10" column="16" />
         <mark key="." line="10" column="16" />
       </file>
+      <file name="D:/lab/plugin/mvc-generator/src/test/java/com/foresee/plugin/mvc/generator/util/DBRowHelperTest.kt" timestamp="1512454616248">
+        <mark key="[" line="9" column="25" />
+      </file>
       <file name="/JUnit4 Test Class.txt.ft" timestamp="1512369370993">
         <mark key="[" line="0" column="0" />
       </file>
@@ -78,11 +81,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/lab/plugin/mvc-generator/src/main/java/com/foresee/plugin/mvc/generator/util/DBRowHelper.kt" timestamp="1512450362699">
-        <mark key="[" line="28" column="60" />
-        <mark key="]" line="33" column="38" />
-        <mark key="^" line="33" column="38" />
-        <mark key="." line="33" column="38" />
+      <file name="D:/lab/plugin/mvc-generator/src/main/java/com/foresee/plugin/mvc/generator/util/DBRowHelper.kt" timestamp="1512454599631">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/resources/com/foresee/ftcsp/goods/auto/mapper/PdtGoodsMapper.xml" timestamp="1512445133390" />
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/manual/dao/PdtGoodsExtMapper.java" timestamp="1512445899156">
@@ -138,7 +140,7 @@
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.es5/src/main/java/com/foresee/ftcsp/es5/IntToStringSerializer.java" timestamp="1511505021361">
         <mark key="[" line="9" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1512447431383">
+      <file name="/fragment.java" timestamp="1512454607211">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/foresee/jcdz/customer/pom.xml" timestamp="1511858625532">
@@ -200,8 +202,8 @@
       <jump line="87" column="6" filename="D:/foresee/case/cases/com.foresee.ftcsp.cases.rest/src/main/java/com/foresee/ftcsp/cases/rest/inner/UserController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZm9ybWF0dGVyID0gRGF0ZVRpbWVGb3JtYXR0ZXIub2ZQYXR0ZXJuKCJ5eXl5LU1NLWRkIikK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKi8=</text>
       </register>
       <register name="-" type="4">
         <text>=</text>
@@ -212,29 +214,29 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgZm9ybWF0dGVyID0gRGF0ZVRpbWVGb3JtYXR0ZXIub2ZQYXR0ZXJuKCJ5eXl5LU1NLWRkIikKICAgICAgICBwYXJhbU1hcFsiZGF0ZSJdID0gTG9jYWxEYXRlVGltZS5ub3coKS5mb3JtYXQoZm9ybWF0dGVyKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZm9ybWF0dGVyID0gRGF0ZVRpbWVGb3JtYXR0ZXIub2ZQYXR0ZXJuKCJ5eXl5LU1NLWRkIikK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKi8=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFBkdEdvb2RzIHNlbGVjdEJ5UHJpbWFyeUtleShMb25nIGdvb2RzSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZm9ybWF0dGVyID0gRGF0ZVRpbWVGb3JtYXR0ZXIub2ZQYXR0ZXJuKCJ5eXl5LU1NLWRkIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2VuZAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICoguPm+3db3vPy78cih0rvM9cr9vt2/4rzHwrwKICAgICAqCiAgICAgKiBAcGFyYW0gZ29vZHNJZAogICAgICovCiAgICBQZHRHb29kcyBzZWxlY3RCeVByaW1hcnlLZXkoTG9uZyBnb29kc0lkKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoInBkdEdvb2RzIiwgRlN0cmluZ3MudG9Mb3dlckNhbWVsKCJQZHRfR29vZHMiKSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIFBkdEdvb2RzIHNlbGVjdEJ5UHJpbWFyeUtleShMb25nIGdvb2RzSWQpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">I2VuZAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICoguPm+3db3vPy78cih0rvM9cr9vt2/4rzHwrwKICAgICAqCiAgICAgKiBAcGFyYW0gZ29vZHNJZAogICAgICovCiAgICBQZHRHb29kcyBzZWxlY3RCeVByaW1hcnlLZXkoTG9uZyBnb29kc0lkKTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoInBkdEdvb2RzIiwgRlN0cmluZ3MudG9Mb3dlckNhbWVsKCJQZHRfR29vZHMiKSk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
