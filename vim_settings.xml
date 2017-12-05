@@ -21,7 +21,7 @@
       <file name="/JUnit4 Test Class.txt.ft" timestamp="1512369370993">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/auto/dao/PdtGoodsMapper.java" timestamp="1512443873572" />
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/auto/dao/PdtGoodsMapper.java" timestamp="1512445563337" />
       <file name="D:/lab/plugin/mvc-generator/resources/Model.vm" timestamp="1512437390608" />
       <file name="D:/app/gateway/pom.xml" timestamp="1511856758014">
         <mark key="[" line="16" column="18" />
@@ -49,6 +49,12 @@
       <file name="/HTML File.txt.ft" timestamp="1512369572847">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/lab/plugin/mvc-generator/resources/template/java/Mapper.vm" timestamp="1512446241403">
+        <mark key="[" line="38" column="4" />
+        <mark key="]" line="62" column="4" />
+        <mark key="^" line="62" column="4" />
+        <mark key="." line="62" column="4" />
+      </file>
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/resources/com/foresee/ftcsp/goods/manual/mapper/PdtGoodsExtMapper.xml" timestamp="1512443861438" />
       <file name="/Dummy.txt" timestamp="1512383106478">
         <mark key="[" line="0" column="0" />
@@ -66,7 +72,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/manual/dao/PdtGoodsExtMapper.java" timestamp="1512443811769">
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/resources/com/foresee/ftcsp/goods/auto/mapper/PdtGoodsMapper.xml" timestamp="1512445133390" />
+      <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/manual/dao/PdtGoodsExtMapper.java" timestamp="1512445899156">
         <mark key="[" line="24" column="34" />
       </file>
       <file name="D:/lab/plugin/mvc-generator/src/com/foresee/plugin/mvc/generator/ModelGenerator.kt" timestamp="1512442911672">
@@ -82,6 +89,12 @@
       </file>
       <file name="D:/lab/plugin/mvc-generator/resources/fileTemplates/internal/Model.vm" timestamp="1512436816816">
         <mark key="[" line="22" column="0" />
+      </file>
+      <file name="D:/lab/plugin/mvc-generator/src/com/foresee/plugin/mvc/generator/util/FStrings.java" timestamp="1512446597851">
+        <mark key="[" line="15" column="52" />
+        <mark key="]" line="15" column="52" />
+        <mark key="^" line="15" column="36" />
+        <mark key="." line="15" column="52" />
       </file>
       <file name="D:/lab/plugin/MVPHelper/src/com/wingsofts/mvphelper/biz/file/generator/impl/BaseFileGenerator.java" timestamp="1512369720909">
         <mark key="[" line="42" column="0" />
@@ -164,44 +177,44 @@
       <jump line="87" column="6" filename="D:/foresee/case/cases/com.foresee.ftcsp.cases.rest/src/main/java/com/foresee/ftcsp/cases/rest/inner/UserController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Owo=</text>
+      <register name="&quot;" type="4">
+        <text>UPPER_CAMEL</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>UPPER_CAMEL</text>
       </register>
       <register name="/" type="4">
         <text>module</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHVibGljICR7ZmllbGQudHlwZX0gc2V0JHtmaWVsZC5uYW1lLnN1YnN0cmluZygwLDEpLnRvVXBwZXJDYXNlKCl9JHtmaWVsZC5uYW1lLnN1YnN0cmluZygxKX07Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgdG9VcHBlckNhbWVsKFN0cmluZyBpbnB1dCkgewogICAgICAgIHJldHVybiBDYXNlRm9ybWF0LkxPV0VSX0NBTUVMLnRvKENhc2VGb3JtYXQuVVBQRVJfQ0FNRUwsIGlucHV0KTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Owo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Owo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTW9kZWxHZW5lcmF0b3IoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFdyaXRlQ29tbWFuZEFjdGlvbi5ydW5Xcml0ZUNvbW1hbmRBY3Rpb24odGhpcy5wcm9qZWN0KSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTW9kZWxHZW5lcmF0b3IoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKCkgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIFdyaXRlQ29tbWFuZEFjdGlvbi5ydW5Xcml0ZUNvbW1hbmRBY3Rpb24odGhpcy5wcm9qZWN0KSB7Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKCkgewogICAgICAgIAogICAgfQo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKCkgewogICAgICAgIAogICAgfQogICAgZnVuIGVudGVyRGlyKGJhc2VQYWNrYWdlOiBTdHJpbmcpOiBQc2lEaXJlY3Rvcnkgewo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgICAgICAgICAgdmFsIHRlbXBsYXRlID0gVmVsb2NpdHkuZ2V0VGVtcGxhdGUoInRlbXBsYXRlL2phdmEvTW9kZWwudm0iLCBDaGFyc2V0cy5VVEZfOC5uYW1lKCkpCiAgICAgICAgICAgIHZhbCBjb250ZXh0ID0gVmVsb2NpdHlDb250ZXh0KCkKICAgICAgICAgICAgdmFsIHN3ID0gU3RyaW5nV3JpdGVyKCkKICAgICAgICAgICAgdGVtcGxhdGUubWVyZ2UoY29udGV4dCwgc3cpCiAgICAgICAgICAgIHByaW50bG4oc3cudG9TdHJpbmcoKSk=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIG9iamVjdCB7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
     </registers>
     <search>
