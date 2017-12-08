@@ -42,11 +42,11 @@
         <mark key="^" line="37" column="92" />
         <mark key="." line="37" column="92" />
       </file>
-      <file name="D:/lab/plugin/mvc-generator/resources/template/java/AutoMapper.vm" timestamp="1512723412689">
-        <mark key="[" line="9" column="5" />
-        <mark key="]" line="9" column="4" />
-        <mark key="." line="9" column="4" />
-        <mark key="^" line="9" column="4" />
+      <file name="D:/lab/plugin/mvc-generator/resources/template/java/AutoMapper.vm" timestamp="1512725618684">
+        <mark key="[" line="70" column="21" />
+        <mark key="]" line="70" column="20" />
+        <mark key="." line="70" column="20" />
+        <mark key="^" line="70" column="20" />
       </file>
       <file name="/Gradle Kotlin DSL Settings.txt.ft" timestamp="1512719763032">
         <mark key="[" line="0" column="0" />
@@ -81,7 +81,7 @@
       <file name="/fragment.kt" timestamp="1512722599287">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/lab/plugin/mvc-generator/src/main/java/com/foresee/plugin/mvc/generator/util/DBRowHelper.kt" timestamp="1512723015880">
+      <file name="D:/lab/plugin/mvc-generator/src/main/java/com/foresee/plugin/mvc/generator/util/DBRowHelper.kt" timestamp="1512724948645">
         <mark key="[" line="33" column="61" />
         <mark key="]" line="31" column="62" />
         <mark key="." line="31" column="62" />
@@ -222,11 +222,11 @@
         <mark key="." line="249" column="0" />
         <mark key="^" line="248" column="73" />
       </file>
-      <file name="D:/lab/plugin/mvc-generator/src/main/java/com/foresee/plugin/mvc/generator/ModelGenerator.kt" timestamp="1512722650630">
-        <mark key="[" line="86" column="45" />
-        <mark key="]" line="86" column="52" />
-        <mark key="." line="86" column="52" />
-        <mark key="^" line="86" column="52" />
+      <file name="D:/lab/plugin/mvc-generator/src/main/java/com/foresee/plugin/mvc/generator/ModelGenerator.kt" timestamp="1512725209984">
+        <mark key="[" line="71" column="62" />
+        <mark key="]" line="71" column="61" />
+        <mark key="." line="71" column="61" />
+        <mark key="^" line="71" column="61" />
       </file>
     </filemarks>
     <jumps>
@@ -284,44 +284,44 @@
       <jump line="87" column="6" filename="D:/foresee/case/cases/com.foresee.ftcsp.cases.rest/src/main/java/com/foresee/ftcsp/cases/rest/inner/UserController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>model</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>model</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>module</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbU1hcFsiY2Fub25pY2FsTW9kZWwiXSA9IGNhbm9uaWNhbE1vZGVsCg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICoguPm+3db3vPzAtLj80MKyv7fWyv2+3b/ivMfCvAogICAgICoKICAgICAqIEBwYXJhbSAke0ZTdHJpbmdzLnRvTG93ZXJDYW1lbCgkbW9kZWwpfQogICAgICovCiAgICBpbnQgdXBkYXRlQnlQcmltYXJ5S2V5U2VsZWN0aXZlKCRtb2RlbCAke0ZTdHJpbmdzLnRvTG93ZXJDYW1lbCgkbW9kZWwpfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbW9kZWxDbGFzc05hbWUgPSAK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbW9kZWxDbGFzc05hbWUgPSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0ICR7UEFDS0FHRV9OQU1FLnJlcGxhY2VBbGwoIi5hdXRvLmRhbyIsICIubWFudWFsLmRhbyIpfS4ke25hbWV9RXh0TWFwcGVyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVKYXZhQmVhbihhdXRvTW9kZWxEaXIsIG5hbWUsIG5hbWUsICIvdGVtcGxhdGUvamF2YS9Nb2RlbC52bSIpCg==</text>
+        <text encoding="base64">aW1wb3J0ICR7UEFDS0FHRV9OQU1FLnJlcGxhY2VBbGwoIi5hdXRvLmRhbyIsICIubWFudWFsLmRhbyIpfS4ke25hbWV9RXh0TWFwcGVyOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG1hcHBlckdlbmVyYXRvci4K</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGVKYXZhQmVhbihhdXRvTW9kZWxEaXIsIG5hbWUsIG5hbWUsICIvdGVtcGxhdGUvamF2YS9Nb2RlbC52bSIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogQHNlZSAke1BBQ0tBR0VfTkFNRX0uJHtuYW1lfU1hcHBlcgo=</text>
+        <text encoding="base64">Ly8gICAgICAgIG1hcHBlckdlbmVyYXRvci4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogPC9wcmU+Cg==</text>
+        <text encoding="base64">ICogQHNlZSAke1BBQ0tBR0VfTkFNRX0uJHtuYW1lfU1hcHBlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogPHByZT4K</text>
+        <text encoding="base64">ICogPC9wcmU+Cg==</text>
       </register>
     </registers>
     <search>
