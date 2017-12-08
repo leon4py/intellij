@@ -18,6 +18,11 @@
       <file name="/Interface.txt.ft" timestamp="1512719745054">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/lab/plugin/mvc-generator/resources/template/java/AutoMapper.vm" timestamp="1512720179811">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="/Gradle Kotlin DSL Settings.txt.ft" timestamp="1512719763032">
         <mark key="[" line="0" column="0" />
       </file>
@@ -45,8 +50,26 @@
       <file name="/fragment.kt" timestamp="1512635963392">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/lab/plugin/mvc-generator/src/main/java/com/foresee/plugin/mvc/generator/util/DBRowHelper.kt" timestamp="1512720963296">
+        <mark key="[" line="31" column="47" />
+        <mark key="]" line="30" column="11" />
+        <mark key="." line="30" column="11" />
+        <mark key="^" line="30" column="11" />
+      </file>
+      <file name="D:/lab/plugin/mvc-generator/resources/template/java/ManualMapper.xml.vm" timestamp="1512717642335">
+        <mark key="[" line="4" column="52" />
+        <mark key="]" line="4" column="39" />
+        <mark key="^" line="4" column="39" />
+        <mark key="." line="4" column="39" />
+      </file>
       <file name="/Kotlin Interface.txt.ft" timestamp="1512719759482">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/lab/plugin/mvc-generator/resources/template/java/DTO.vm" timestamp="1512720078088">
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="34" column="4" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="/XHTML File.txt.ft" timestamp="1512719722513">
         <mark key="[" line="0" column="0" />
@@ -71,6 +94,12 @@
       </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.es5/src/test/java/com/foresee/ftcsp/es5/client/ES5ClientTest.java" timestamp="1512093531310">
         <mark key="[" line="46" column="41" />
+      </file>
+      <file name="D:/lab/plugin/mvc-generator/src/main/java/com/foresee/plugin/mvc/generator/util/DBHelper.kt" timestamp="1512717825969">
+        <mark key="[" line="78" column="27" />
+        <mark key="]" line="80" column="27" />
+        <mark key="^" line="80" column="27" />
+        <mark key="." line="80" column="27" />
       </file>
       <file name="/Play 2 template.scala.txt.ft" timestamp="1512719753296">
         <mark key="[" line="0" column="0" />
@@ -113,6 +142,12 @@
       </file>
       <file name="/AnnotationType.txt.ft" timestamp="1512719746688">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/lab/plugin/mvc-generator/src/main/java/com/foresee/plugin/mvc/generator/ModelGenerator.kt" timestamp="1512720790807">
+        <mark key="[" line="85" column="53" />
+        <mark key="]" line="85" column="51" />
+        <mark key="^" line="85" column="51" />
+        <mark key="." line="85" column="51" />
       </file>
     </filemarks>
     <jumps>
@@ -171,10 +206,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>packageName</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>packageName</text>
       </register>
       <register name="/" type="4">
         <text>module</text>
@@ -183,31 +218,31 @@
         <text encoding="base64">ICAgICAgICB2YWwgYXV0b01hcHBlclhtbERpciA9IHRoaXMuY3JlYXRlRGlyKGN1cnJlbnRNb2RlbFJlc291cmNlc1BzaSwgImF1dG8uZGFvIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogQHNlZSAke1BBQ0tBR0VfTkFNRX0uJHtuYW1lfU1hcHBlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogPC9wcmU+Cg==</text>
+        <text encoding="base64">aW1wb3J0ICR7UEFDS0FHRV9OQU1FLnJlcGxhY2VBbGwoIi5hdXRvLmRhbyIsICIubWFudWFsLmRhbyIpfS4ke25hbWV9RXh0TWFwcGVyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogPHByZT4K</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGVKYXZhQmVhbihhdXRvTW9kZWxEaXIsIG5hbWUsIG5hbWUsICIvdGVtcGxhdGUvamF2YS9Nb2RlbC52bSIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICoK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpczsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpczsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Ly8gICAgICAgIG1hcHBlckdlbmVyYXRvci4K</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICogQHNlZSAke1BBQ0tBR0VfTkFNRX0uJHtuYW1lfU1hcHBlcgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICogPC9wcmU+Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICogPHByZT4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICoK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbWFwcGVyR2VuZXJhdG9yID0gTWFwcGVyR2VuZXJhdG9yKHByb2plY3QpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
     </registers>
     <search>
