@@ -48,8 +48,14 @@
         <mark key="^" line="11" column="67" />
         <mark key="." line="10" column="26" />
       </file>
-      <file name="D:/lab/plugin/mvc-generator/resources/template/java/AutoMapper.vm" timestamp="1512555119929">
+      <file name="D:/lab/plugin/mvc-generator/resources/template/java/AutoMapper.vm" timestamp="1512974763070">
         <mark key="[" line="9" column="41" />
+      </file>
+      <file name="D:/lab/plugin/mvc-generator/resources/template/java/DTOPage.vm" timestamp="1512974611702">
+        <mark key="[" line="23" column="20" />
+        <mark key="]" line="23" column="19" />
+        <mark key="^" line="23" column="19" />
+        <mark key="." line="23" column="19" />
       </file>
       <file name="/JUnit4 Test Class.txt.ft" timestamp="1512369370993">
         <mark key="[" line="0" column="0" />
@@ -57,7 +63,7 @@
       <file name="D:/app/gateway/pom.xml" timestamp="1511856758014">
         <mark key="[" line="16" column="18" />
       </file>
-      <file name="D:/lab/plugin/mvc-generator/resources/template/java/ManualMapper.vm" timestamp="1512554762686">
+      <file name="D:/lab/plugin/mvc-generator/resources/template/java/ManualMapper.vm" timestamp="1512975383472">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
@@ -163,6 +169,12 @@
       <file name="/JUnit4 Test Method.txt.ft" timestamp="1512369364848">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/lab/plugin/mvc-generator/src/main/java/com/foresee/plugin/mvc/generator/ModelGenerator.kt" timestamp="1512974729206">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="71" column="88" />
+      </file>
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.service/src/main/java/com/foresee/ftcsp/goods/service/impl/GoodsServiceImpl.java" timestamp="1512534756628">
         <mark key="[" line="106" column="13" />
       </file>
@@ -240,43 +252,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0ICR7UEFDS0FHRV9OQU1FLnJlcGxhY2VBbGwoIi5tYW51YWwuZHRvIiwgIi5hdXRvLm1vZGVsIil9LiR7bmFtZX07Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5EYXRlOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>Model</text>
+        <text>dto</text>
       </register>
       <register name="/" type="4">
         <text>module</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVKYXZhQmVhbihhdXRvTW9kZWxEaXIsIG5hbWUsIG5hbWUsICIvdGVtcGxhdGUvamF2YS9Nb2RlbC52bSIpCg==</text>
+        <text encoding="base64">I3NldCAoJG9wID0gIiR7bW9kZWx9UE8iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICR7UEFDS0FHRV9OQU1FLnJlcGxhY2VBbGwoIi5tYW51YWwuZHRvIiwgIi5hdXRvLm1vZGVsIil9LiR7bmFtZX07Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5EYXRlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uU2VyaWFsaXphYmxlOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uU2VyaWFsaXphYmxlOwo=</text>
+        <text encoding="base64">ICAgICAgICBEYXRlOjpjbGFzcy5qYXZhLmNhbm9uaWNhbE5hbWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0ICR7bW9kZWx9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGVKYXZhQmVhbihhdXRvTWFwcGVyRGlyLCBjYW5vbmljYWxNb2RlbCwgIiR7bmFtZX1NYXBwZXIiLCAiL3RlbXBsYXRlL2phdmEvQXV0b01hcHBlci52bSIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGF0ZTo6Y2xhc3MuamF2YSAtPiAiRGF0ZSIK</text>
+        <text encoding="base64">aW1wb3J0ICR7UEFDS0FHRV9OQU1FLnJlcGxhY2VBbGwoIi5tYW51YWwuZHRvIiwgIi5hdXRvLm1vZGVsIil9LiR7bmFtZX07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRG91YmxlLmphdmFDbGFzcyAtPiAiRG91YmxlIgo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uU2VyaWFsaXphYmxlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW50LmphdmFDbGFzcyAtPiAiSW50ZWdlciIK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uU2VyaWFsaXphYmxlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nLmphdmFDbGFzcyAtPiAiU3RyaW5nIgo=</text>
+        <text encoding="base64">aW1wb3J0ICR7bW9kZWx9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGF0ZTo6Y2xhc3MuamF2YSAtPiAiRGF0ZSIK</text>
       </register>
     </registers>
     <search>
