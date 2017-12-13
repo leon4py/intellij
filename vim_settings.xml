@@ -48,7 +48,7 @@
         <mark key="^" line="44" column="87" />
       </file>
       <file name="D:/lab/plugin/mvc-generator/src/main/java/com/foresee/plugin/mvc/generator/gui/MvcConfig.java" timestamp="1513130796362" />
-      <file name="$MAVEN_REPOSITORY$/com/bladejava/blade-mvc/2.0.4-RELEASE/blade-mvc-2.0.4-RELEASE-sources.jar!/com/blade/server/netty/NettyServer.java" timestamp="1513137669254" />
+      <file name="$MAVEN_REPOSITORY$/com/bladejava/blade-mvc/2.0.4-RELEASE/blade-mvc-2.0.4-RELEASE-sources.jar!/com/blade/server/netty/NettyServer.java" timestamp="1513138380966" />
       <file name="D:/lab/plugin/MVPHelper/resources/META-INF/plugin.xml" timestamp="1513132515540" />
       <file name="/fragment.kt" timestamp="1513137310375">
         <mark key="[" line="0" column="0" />
@@ -63,8 +63,8 @@
         <mark key="[" line="20" column="38" />
       </file>
       <file name="D:/lab/plugin/MVPHelper/src/com/wingsofts/mvphelper/biz/config/impl/MvpConfig.java" timestamp="1513131229095" />
-      <file name="$MAVEN_REPOSITORY$/com/bladejava/blade-mvc/2.0.4-RELEASE/blade-mvc-2.0.4-RELEASE-sources.jar!/com/blade/Blade.java" timestamp="1513137643460" />
-      <file name="D:/lab/project/miniapp/pom.xml" timestamp="1513137578657">
+      <file name="$MAVEN_REPOSITORY$/com/bladejava/blade-mvc/2.0.4-RELEASE/blade-mvc-2.0.4-RELEASE-sources.jar!/com/blade/Blade.java" timestamp="1513138353826" />
+      <file name="D:/lab/project/miniapp/pom.xml" timestamp="1513138516029">
         <mark key="[" line="36" column="19" />
         <mark key="]" line="36" column="19" />
         <mark key="." line="36" column="19" />
@@ -106,11 +106,8 @@
         <mark key="." line="11" column="102" />
         <mark key="^" line="11" column="92" />
       </file>
-      <file name="D:/lab/project/miniapp/src/main/java/cn/kkicc/shop/Application.kt" timestamp="1513137412900">
-        <mark key="[" line="17" column="43" />
-        <mark key="]" line="17" column="43" />
-        <mark key="^" line="17" column="41" />
-        <mark key="." line="17" column="43" />
+      <file name="D:/lab/project/miniapp/src/main/java/cn/kkicc/shop/Application.kt" timestamp="1513138649347">
+        <mark key="[" line="16" column="26" />
       </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.awsapi/src/main/java/com/foresee/ftcsp/workflow/controller/ForeseePortalAPI.java" timestamp="1512032844733">
         <mark key="[" line="72" column="52" />
@@ -155,7 +152,7 @@
         <mark key="^" line="31" column="4" />
         <mark key="." line="31" column="4" />
       </file>
-      <file name="/fragment.java" timestamp="1513131349675">
+      <file name="/fragment.java" timestamp="1513138407365">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/lab/plugin/mvc-generator/resources/template/java/Controller.vm" timestamp="1513064848560">
@@ -227,11 +224,11 @@
       <jump line="81" column="12" filename="D:/lab/plugin/mvc-generator/src/main/java/com/foresee/plugin/mvc/generator/util/DBHelper.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>address</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>address</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>module</text>
@@ -240,31 +237,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVzcC50ZXh0KCIke3JlcS5ob3N0KCl9IEhlbGxvIikK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIG9iamVjdCB7CiAgICAgICAgCiAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDEwMDApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBzdm0gICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9wZXJ0aWVzLnNldFZhbHVlKEtFWV9TVUZGSVgsIHN1ZmZpeCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBja0VuYWJsZVN1ZmZpeC5zZXRTZWxlY3RlZChoYXNTdWZmaXgpOwogICAgICAgIHRmU3VmZml4VGVtcGxhdGUuc2V0VGV4dChzdWZmaXgpOwogICAgICAgIHRhU3VmZml4RXhhbXBsZS5zZXRUZXh0KGhlbGxvV29ybGRNb2RlbCArIHN1ZmZpeCk7Cgo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIG9iamVjdCB7CiAgICAgICAgCiAgICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHBzdm0gICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9wZXJ0aWVzLnNldFZhbHVlKEtFWV9TVUZGSVgsIHN1ZmZpeCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9qZWN0LmdldFN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBja0VuYWJsZVN1ZmZpeC5zZXRTZWxlY3RlZChoYXNTdWZmaXgpOwogICAgICAgIHRmU3VmZml4VGVtcGxhdGUuc2V0VGV4dChzdWZmaXgpOwogICAgICAgIHRhU3VmZml4RXhhbXBsZS5zZXRUZXh0KGhlbGxvV29ybGRNb2RlbCArIHN1ZmZpeCk7Cgo=</text>
       </register>
     </registers>
     <search>
