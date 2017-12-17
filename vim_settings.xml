@@ -21,6 +21,7 @@
         <mark key="^" line="46" column="12" />
         <mark key="." line="46" column="12" />
       </file>
+      <file name="D:/lab/plugin/mvc-generator/resources/template/java/AutoMapper.xml.vm" timestamp="1513485424667" />
       <file name="D:/lab/project/ckshop/apiserver/src/main/java/cn/kkicc/ckshop/apiserver/Application.java" timestamp="1513153448590">
         <mark key="[" line="15" column="18" />
         <mark key="]" line="15" column="18" />
@@ -36,15 +37,15 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="16" column="22" />
       </file>
-      <file name="D:/lab/plugin/mvc-generator/resources/template/java/ManualMapper.vm" timestamp="1513483812794" />
+      <file name="D:/lab/plugin/mvc-generator/resources/template/java/ManualMapper.vm" timestamp="1513485153652" />
       <file name="/Dummy.scala" timestamp="1512461708912">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/lab/plugin/mvc-generator/resources/template/java/Service.vm" timestamp="1513483853522">
-        <mark key="[" line="20" column="24" />
-        <mark key="]" line="20" column="27" />
-        <mark key="^" line="20" column="27" />
-        <mark key="." line="20" column="27" />
+      <file name="D:/lab/plugin/mvc-generator/resources/template/java/Service.vm" timestamp="1513486000243">
+        <mark key="[" line="28" column="30" />
+        <mark key="]" line="28" column="20" />
+        <mark key="^" line="28" column="20" />
+        <mark key="." line="28" column="20" />
       </file>
       <file name="D:/foresee/ftcsp_crm/com.foresee.ftcsp.customer.service/src/main/java/com/foresee/ftcsp/customer/service/impl/CrmUniversalCustomerServiceImpl.java" timestamp="1513431617452" />
       <file name="D:/lab/project/ckshop/data-syncer/README.MD" timestamp="1513157929142">
@@ -112,11 +113,11 @@
         <mark key="[" line="83" column="11" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.4.RELEASE/spring-context-4.3.4.RELEASE-sources.jar!/org/springframework/context/annotation/ComponentScan.java" timestamp="1513430676331" />
-      <file name="D:/lab/plugin/mvc-generator/resources/template/java/ServiceImpl.vm" timestamp="1513483871826">
-        <mark key="[" line="30" column="26" />
-        <mark key="]" line="30" column="26" />
-        <mark key="^" line="30" column="0" />
-        <mark key="." line="30" column="26" />
+      <file name="D:/lab/plugin/mvc-generator/resources/template/java/ServiceImpl.vm" timestamp="1513485975114">
+        <mark key="[" line="42" column="30" />
+        <mark key="]" line="42" column="20" />
+        <mark key="^" line="42" column="20" />
+        <mark key="." line="42" column="20" />
       </file>
       <file name="D:/foresee/ftcsp_crm/com.foresee.ftcsp.customer.model/src/main/resources/com/foresee/ftcsp/customer/manual/mapper/CrmCusContactExtMapper.xml" timestamp="1513433685558">
         <mark key="[" line="643" column="0" />
@@ -170,7 +171,7 @@
         <mark key="." line="43" column="52" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.4.RELEASE/spring-context-4.3.4.RELEASE-sources.jar!/org/springframework/context/annotation/FilterType.java" timestamp="1513430973800" />
-      <file name="D:/lab/plugin/mvc-generator/resources/template/java/AutoMapper.vm" timestamp="1513483568996">
+      <file name="D:/lab/plugin/mvc-generator/resources/template/java/AutoMapper.vm" timestamp="1513485953664">
         <mark key="[" line="9" column="41" />
       </file>
       <file name="D:/app/gateway/pom.xml" timestamp="1511856758014">
@@ -313,11 +314,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/lab/plugin/mvc-generator/resources/template/java/Controller.vm" timestamp="1513484084724">
-        <mark key="[" line="27" column="37" />
-        <mark key="]" line="27" column="66" />
-        <mark key="^" line="27" column="66" />
-        <mark key="." line="27" column="66" />
+      <file name="D:/lab/plugin/mvc-generator/resources/template/java/Controller.vm" timestamp="1513486015906">
+        <mark key="[" line="37" column="11" />
+        <mark key="]" line="37" column="11" />
+        <mark key="^" line="38" column="7" />
+        <mark key="." line="37" column="11" />
       </file>
     </filemarks>
     <jumps>
@@ -388,43 +389,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>org.springframework.web.bind.annotation.RequestMapping;</text>
+        <text>PageQueryResult</text>
       </register>
       <register name="-" type="4">
-        <text>org.springframework.web.bind.annotation.RequestMapping;</text>
+        <text>PageQueryResult</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmJpbmQuYW5ub3RhdGlvbi5SZXF1ZXN0TWFwcGluZzsK</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZT0iL2xpc3QiLCBtZXRob2Q9UmVxdWVzdE1ldGhvZC5QT1NUKQogICAgcHVibGljIFBhZ2VRdWVyeVJlc3VsdDwkZHRvPiBsaXN0KCRwbyAke0ZTdHJpbmdzLnRvTG93ZXJDYW1lbCgkcG8pfSkgewogICAgICAgIHJldHVybiAke0ZTdHJpbmdzLnRvTG93ZXJDYW1lbCgiJHttb2RlbH1TZXJ2aWNlIil9Lmxpc3QoJHtGU3RyaW5ncy50b0xvd2VyQ2FtZWwoJHBvKX0pOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICRkdG8gZGVsZXRlKCRway50eXBlICRway5uYW1lKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgk8c2VsZWN0IGlkPSJxdWVyeU1haW5Db250YWN0QnlDdXNJZCIgcGFyYW1ldGVyVHlwZT0iY29tLmZvcmVzZWUuZnRjc3AuY3VzdG9tZXIubWFudWFsLnJlc3RkdG8uQ29udGFjdFJlcURUTyIKCQkJcmVzdWx0VHlwZT0iY29tLmZvcmVzZWUuZnRjc3AuY3VzdG9tZXIubWFudWFsLnJlcG9uc2VkdG8uTWFpbkNvbnRhY3RSZXNEVE8iPgoJCVNFTEVDVAoJCXRjYy5jdXNfaWQgY3VzSWQsCgkJdGNjYy5uYW1lIEFTIGNvbnRhY3ROYW1lLAoJCXRjYy5jdXNfbmFtZSBBUyBjdXNOYW1lLAoJCXRjY2MubW9iaWxlX3Bob25lIEFTIG1vYmlsZVBob25lCgkJRlJPTQoJCXRfY3JtX2N1c3RvbWVyIHRjYwoJCUxFRlQgSk9JTiB0X2NybV9jdXNfY29udGFjdCB0Y2NjCgkJT04gdGNjLmN1c19pZCA9IHRjY2MuY3VzX2lkCgkJYW5kIHRjY2MuaXNfbWFpbl9hY2NvdW50ID0gJ1knCgkJV0hFUkUgdGNjLmN1c19pZCA9ICN7Y3VzSWQsamRiY1R5cGU9VkFSQ0hBUn0KCTwvc2VsZWN0PgoK</text>
+        <text encoding="base64">ICAgICRkdG8gdXBkYXRlKCRway50eXBlICRway5uYW1lKTsKICAgICRkdG8gZGVsZXRlKCRway50eXBlICRway5uYW1lKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgoKCTxzZWxlY3QgaWQ9InF1ZXJ5TWFpbkNvbnRhY3RCeUN1c0lkIiBwYXJhbWV0ZXJUeXBlPSJjb20uZm9yZXNlZS5mdGNzcC5jdXN0b21lci5tYW51YWwucmVzdGR0by5Db250YWN0UmVxRFRPIgoJCQlyZXN1bHRUeXBlPSJjb20uZm9yZXNlZS5mdGNzcC5jdXN0b21lci5tYW51YWwucmVwb25zZWR0by5NYWluQ29udGFjdFJlc0RUTyI+CgkJU0VMRUNUCgkJdGNjLmN1c19pZCBjdXNJZCwKCQl0Y2NjLm5hbWUgQVMgY29udGFjdE5hbWUsCgkJdGNjLmN1c19uYW1lIEFTIGN1c05hbWUsCgkJdGNjYy5tb2JpbGVfcGhvbmUgQVMgbW9iaWxlUGhvbmUKCQlGUk9NCgkJdF9jcm1fY3VzdG9tZXIgdGNjCgkJTEVGVCBKT0lOIHRfY3JtX2N1c19jb250YWN0IHRjY2MKCQlPTiB0Y2MuY3VzX2lkID0gdGNjYy5jdXNfaWQKCQlhbmQgdGNjYy5pc19tYWluX2FjY291bnQgPSAnWScKCQlXSEVSRSB0Y2MuY3VzX2lkID0gI3tjdXNJZCxqZGJjVHlwZT1WQVJDSEFSfQoJPC9zZWxlY3Q+Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">dGFyZ2V0Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CmltcG9ydCA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PCEtLSC52MGqserHqbHto6y31tKzsunRr8Gqz7XIyyAtLT4KICAgIDxzZWxlY3QgaWQ9InBhZ2VRdWVyeVNwcm92aWRlckNvbnRhY3QiCiAgICAgICAgcGFyYW1ldGVyVHlwZT0iY29tLmZvcmVzZWUuZnRjc3AuY3VzdG9tZXIubWFudWFsLnJlc3RkdG8uUXVlcnlTcHJvdmlkZXJDb250YWN0RFRPIgogICAgICAgIHJlc3VsdFR5cGU9ImNvbS5mb3Jlc2VlLmZ0Y3NwLmN1c3RvbWVyLm1hbnVhbC5kdG8uQ3JtQ3VzQ29udGFjdERUTyI+CiAgICAgICAgU0VMRUNUCiAgICAgICAgICAgIGNsLmxhYmVsX3ZhbHVlIGFzIGxhYmVsVmFsdWUsCiAgICAgICAgICAgIGNjYy5JRCBhcyBpZCwKICAgICAgICAgICAgY2NjLmlzX21haW5fYWNjb3VudCBhcyBpc01haW5BY2NvdW50LAogICAgICAgICAgICBjY2MuZHV0aWVzX25hbWUgYXMgZHV0aWVzTmFtZSwKICAgICAgICAgICAgY2NjLmN1c19pZCBhcyBjdXNJZCwKICAgICAgICAgICAgY2NjLkVNQUlMIGFzIGVtYWlsLAogICAgICAgICAgICBjY2MuaXNfYWRtaW4gYXMgaXNBZG1pbiwKICAgICAgICAgICAgY2NjLk1PQklMRV9QSE9ORSBtb2JpbGVQaG9uZSwKICAgICAgICAgICAgY2NjLmBOQU1FYCBhcyBuYW1lLAogICAgICAgICAgICBjY2MucHJvdmlkZXJfaWQgYXMgcHJvdmlkZXJJZCwKICAgICAgICAgICAgR1JPVVBfQ09OQ0FUKGNsLmxhYmVsX25hbWUpIGxhYmVsTmFtZXMsCiAgICAgICAgICAgIGNsLmxhYmVsX25hbWUgYXMgbGFiZWxOYW1lCiAgICAgICAgRlJPTQogICAgICAgICAgICB0X2NybV9jdXNfY29udGFjdCBjY2MsCiAgICAgICAgICAgIHRfY3JtX2xhYmVsIGNsCiAgICAgICAgV0hFUkUKICAgICAgICAgICAgY2NjLmN1c19pZCA9ICN7Y3VzSWQsamRiY1R5cGU9VkFSQ0hBUn0KICAgICAgICAgICAgQU5EIGNsLmVudGl0eV9pZCA9IGNjYy5JRAogICAgICAgIDxpZiB0ZXN0PSJsYWJlbFR5cGUgIT1udWxsIGFuZCBsYWJlbFR5cGUgIT0nJyI+CiAgICAgICAgICAgIEFORCBjbC5sYWJlbF90eXBlID0gI3tsYWJlbFR5cGUsamRiY1R5cGU9VkFSQ0hBUn0KICAgICAgICA8L2lmPgogICAgICAgIDxpZiB0ZXN0PSJpc1ZhbGlkICE9bnVsbCBhbmQgaXNWYWxpZCAhPScnIj4KICAgICAgICAgICAgQU5EIGNjYy5pc192YWxpZCA9ICN7aXNWYWxpZCxqZGJjVHlwZT1WQVJDSEFSfQogICAgICAgIDwvaWY+CiAgICAgICAgPGlmIHRlc3Q9ImxhYmVsVmFsdWUgIT1udWxsIGFuZCBsYWJlbFZhbHVlICE9JyciPgogICAgICAgICAgICBBTkQgY2wubGFiZWxfdmFsdWUgPSAje2xhYmVsVmFsdWUsamRiY1R5cGU9VkFSQ0hBUn0KICAgICAgICA8L2lmPgogICAgICAgIEdST1VQIEJZCiAgICAgICAgICAgIGNsLmVudGl0eV9pZAogICAgPC9zZWxlY3Q+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ki5jbGFzcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgk8c2VsZWN0IGlkPSJxdWVyeU1haW5Db250YWN0QnlDdXNJZCIgcGFyYW1ldGVyVHlwZT0iY29tLmZvcmVzZWUuZnRjc3AuY3VzdG9tZXIubWFudWFsLnJlc3RkdG8uQ29udGFjdFJlcURUTyIKCQkJcmVzdWx0VHlwZT0iY29tLmZvcmVzZWUuZnRjc3AuY3VzdG9tZXIubWFudWFsLnJlcG9uc2VkdG8uTWFpbkNvbnRhY3RSZXNEVE8iPgoJCVNFTEVDVAoJCXRjYy5jdXNfaWQgY3VzSWQsCgkJdGNjYy5uYW1lIEFTIGNvbnRhY3ROYW1lLAoJCXRjYy5jdXNfbmFtZSBBUyBjdXNOYW1lLAoJCXRjY2MubW9iaWxlX3Bob25lIEFTIG1vYmlsZVBob25lCgkJRlJPTQoJCXRfY3JtX2N1c3RvbWVyIHRjYwoJCUxFRlQgSk9JTiB0X2NybV9jdXNfY29udGFjdCB0Y2NjCgkJT04gdGNjLmN1c19pZCA9IHRjY2MuY3VzX2lkCgkJYW5kIHRjY2MuaXNfbWFpbl9hY2NvdW50ID0gJ1knCgkJV0hFUkUgdGNjLmN1c19pZCA9ICN7Y3VzSWQsamRiY1R5cGU9VkFSQ0hBUn0KCTwvc2VsZWN0PgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgoKCTxzZWxlY3QgaWQ9InF1ZXJ5TWFpbkNvbnRhY3RCeUN1c0lkIiBwYXJhbWV0ZXJUeXBlPSJjb20uZm9yZXNlZS5mdGNzcC5jdXN0b21lci5tYW51YWwucmVzdGR0by5Db250YWN0UmVxRFRPIgoJCQlyZXN1bHRUeXBlPSJjb20uZm9yZXNlZS5mdGNzcC5jdXN0b21lci5tYW51YWwucmVwb25zZWR0by5NYWluQ29udGFjdFJlc0RUTyI+CgkJU0VMRUNUCgkJdGNjLmN1c19pZCBjdXNJZCwKCQl0Y2NjLm5hbWUgQVMgY29udGFjdE5hbWUsCgkJdGNjLmN1c19uYW1lIEFTIGN1c05hbWUsCgkJdGNjYy5tb2JpbGVfcGhvbmUgQVMgbW9iaWxlUGhvbmUKCQlGUk9NCgkJdF9jcm1fY3VzdG9tZXIgdGNjCgkJTEVGVCBKT0lOIHRfY3JtX2N1c19jb250YWN0IHRjY2MKCQlPTiB0Y2MuY3VzX2lkID0gdGNjYy5jdXNfaWQKCQlhbmQgdGNjYy5pc19tYWluX2FjY291bnQgPSAnWScKCQlXSEVSRSB0Y2MuY3VzX2lkID0gI3tjdXNJZCxqZGJjVHlwZT1WQVJDSEFSfQoJPC9zZWxlY3Q+Cgo=</text>
       </register>
     </registers>
     <search>
