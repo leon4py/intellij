@@ -74,12 +74,6 @@
         <mark key="." line="43" column="30" />
         <mark key="^" line="43" column="45" />
       </file>
-      <file name="D:/lab/project/ckshop/common/src/test/java/cn/kkicc/ckshop/common/FastjsonSupportTest.kt" timestamp="1513519471501">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="26" column="40" />
-      </file>
       <file name="D:/lab/plugin/mvc-generator/src/main/java/com/foresee/plugin/mvc/generator/util/DBRowHelper.kt" timestamp="1513489844061">
         <mark key="[" line="56" column="44" />
         <mark key="]" line="56" column="44" />
@@ -174,8 +168,14 @@
         <mark key="^" line="18" column="24" />
         <mark key="." line="18" column="24" />
       </file>
-      <file name="D:/lab/project/ckshop/data-syncer/src/main/java/cn/kkicc/ckshop/datasyncer/timer/Syncer.kt" timestamp="1513519878285">
-        <mark key="[" line="9" column="18" />
+      <file name="D:/lab/project/ckshop/model/src/main/java/cn/kkicc/ckshop/model/Category.java" timestamp="1513525371819">
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="20" column="7" />
+        <mark key="^" line="20" column="7" />
+        <mark key="." line="20" column="7" />
+      </file>
+      <file name="D:/lab/project/ckshop/data-syncer/src/main/java/cn/kkicc/ckshop/datasyncer/timer/Syncer.kt" timestamp="1513524965659">
+        <mark key="[" line="11" column="9" />
       </file>
       <file name="D:/lab/plugin/mvc-generator/src/main/java/com/foresee/plugin/mvc/generator/ModelGenerator.kt" timestamp="1513516369614">
         <mark key="[" line="114" column="44" />
@@ -265,6 +265,13 @@
         <mark key="." line="21" column="41" />
       </file>
       <file name="D:/foresee/product/pom.xml" timestamp="1513482950113" />
+      <file name="D:/lab/project/ckshop/data-syncer/src/main/java/cn/kkicc/ckshop/datasyncer/timer/CatagorySyncer.kt" timestamp="1513524939294">
+        <mark key="[" line="49" column="41" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="51" column="57" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/bladejava/blade-jdbc/0.2.2-RELEASE/blade-jdbc-0.2.2-RELEASE-sources.jar!/com/blade/jdbc/annotation/Column.java" timestamp="1513525359167" />
       <file name="D:/lab/project/blade/src/main/java/com/blade/kit/json/DefaultJsonSupport.java" timestamp="1513518257001" />
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.api/src/main/java/com/foresee/ftcsp/goods/manual/restdto/QueryGoodInfoByIdDTO.java" timestamp="1513430440748" />
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/pom.xml" timestamp="1513430255638" />
@@ -335,6 +342,7 @@
       <file name="/JUnit5 SetUp Method.txt.ft" timestamp="1512369359525">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/sql2o/sql2o/1.6.0-RC3/sql2o-1.6.0-RC3-sources.jar!/org/sql2o/Query.java" timestamp="1513525739277" />
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/manual/dao/DynamicDataSourceDemoMapper.java" timestamp="1513430869472" />
       <file name="D:/lab/plugin/mvc-generator/resources/template/java/AutoMapper.xml" timestamp="1512456927130">
         <mark key="[" line="0" column="0" />
@@ -444,11 +452,11 @@
       <jump line="20" column="0" filename="D:/lab/project/ckshop/data-syncer/src/main/java/cn/kkicc/ckshop/datasyncer/Syncer.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>int</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWxcPg==</text>
@@ -457,31 +465,31 @@
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgZ29vZHMgPSBHb29kcygpLmZpbmQ8R29vZHM+KGl0LmlkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIENhdGVnb3J5KCkudXBkYXRlKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCB1cGRhdGVkID0gaXQudXBkYXRlKGl0LmlkKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHVwZGF0ZWQgPiAwKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgUmVxdWVzdHMuZ2V0KHBpY1VybCkuc2VuZCgpLndyaXRlVG9GaWxlKCIkaW1hZ2VQYXRoJHtGaWxlLnNlcGFyYXRvcn0kcGljTmFtZSIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGl0LnVwZGF0ZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGl0LnVwZGEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICBpZiAoKSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICYmIG5hbWUuZXF1YWxzKCJzcWwybyIpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaXQubWQ1c3VtID0gbWQ1c3VtCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gVE9ETwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsIGdvb2RzID0gQ2F0ZWdvcnkoKS48Q2F0ZWdvcnk+KGl0LmlkKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoZ29vZHMgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaXQuc2F2ZTxHb29kcz4oKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaXQudXBkYXRlKGl0LmlkKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAucGFyYW1zKHBhcmFtcykK</text>
       </register>
     </registers>
     <search>
