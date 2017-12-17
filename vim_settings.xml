@@ -39,6 +39,7 @@
       <file name="/Dummy.scala" timestamp="1512461708912">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/foresee/ftcsp_crm/com.foresee.ftcsp.customer.service/src/main/java/com/foresee/ftcsp/customer/service/impl/CrmUniversalCustomerServiceImpl.java" timestamp="1513431617452" />
       <file name="D:/lab/project/ckshop/data-syncer/README.MD" timestamp="1513157929142">
         <mark key="[" line="0" column="0" />
       </file>
@@ -76,6 +77,9 @@
         <mark key="^" line="11" column="30" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.4.2.RELEASE/spring-boot-autoconfigure-1.4.2.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.java" timestamp="1513430722116" />
+      <file name="D:/foresee/ftcsp_crm/.gitignore" timestamp="1513432897670">
+        <mark key="^" line="24" column="4" />
+      </file>
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.service/src/main/java/com/foresee/ftcsp/goods/service/impl/GoodsServiceImpl.java" timestamp="1512534756628">
         <mark key="[" line="106" column="13" />
       </file>
@@ -101,6 +105,11 @@
         <mark key="[" line="83" column="11" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.4.RELEASE/spring-context-4.3.4.RELEASE-sources.jar!/org/springframework/context/annotation/ComponentScan.java" timestamp="1513430676331" />
+      <file name="D:/foresee/ftcsp_crm/com.foresee.ftcsp.customer.model/src/main/resources/com/foresee/ftcsp/customer/manual/mapper/CrmCusContactExtMapper.xml" timestamp="1513433685558">
+        <mark key="[" line="643" column="0" />
+        <mark key="]" line="643" column="0" />
+        <mark key="." line="643" column="0" />
+      </file>
       <file name="D:/foresee/case/cases/pom.xml" timestamp="1512271431352">
         <mark key="[" line="28" column="26" />
       </file>
@@ -206,10 +215,10 @@
       <file name="D:/lab/project/ckshop/apiserver/src/main/resources/package.xml" timestamp="1513155459591">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/foresee/ftcsp_crm/com.foresee.ftcsp.customer.rest/src/main/java/com/foresee/ftcsp/customer/rest/CustomerApplication.java" timestamp="1513431225588">
-        <mark key="]" line="46" column="18" />
-        <mark key="^" line="46" column="18" />
-        <mark key="." line="46" column="18" />
+      <file name="D:/foresee/ftcsp_crm/com.foresee.ftcsp.customer.rest/src/main/java/com/foresee/ftcsp/customer/rest/CustomerApplication.java" timestamp="1513431571469">
+        <mark key="]" line="37" column="18" />
+        <mark key="^" line="37" column="18" />
+        <mark key="." line="37" column="18" />
       </file>
       <file name="D:/lab/plugin/mvc-generator/src/main/java/com/foresee/plugin/mvc/generator/util/DBHelper.kt" timestamp="1513322375077">
         <mark key="[" line="30" column="48" />
@@ -224,6 +233,9 @@
         <mark key="." line="21" column="20" />
       </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.database/src/main/java/com/foresee/ftcsp/common/database/conf/MybatisDataSource.java" timestamp="1513429467225" />
+      <file name="D:/foresee/ftcsp_crm/pom.xml" timestamp="1513431844603">
+        <mark key="[" line="34" column="21" />
+      </file>
       <file name="D:/lab/project/miniapp/src/main/java/cn/kkicc/shop/Application.kt" timestamp="1513146547709">
         <mark key="[" line="16" column="26" />
         <mark key="]" line="12" column="13" />
@@ -248,7 +260,7 @@
       <file name="D:/lab/project/ckshop/data-syncer/src/main/resources/app.properties" timestamp="1513388369016">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513431445632">
+      <file name="/Dummy.txt" timestamp="1513433127330">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.es5/src/main/java/com/foresee/ftcsp/es5/util/SqlUtil.java" timestamp="1512093416599">
@@ -352,11 +364,11 @@
       <jump line="20" column="0" filename="D:/lab/project/ckshop/data-syncer/src/main/java/cn/kkicc/ckshop/datasyncer/Syncer.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>\</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWxcPg==</text>
@@ -365,31 +377,31 @@
         <text encoding="base64">ICAgIEBWYWx1ZSgiXCR7amRiYy51cmx9IikKICAgIHByaXZhdGUgdmFsIGpkYmNVcmw6IFN0cmluZz8gPSBudWxsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBleGNsdWRlRmlsdGVycyA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PGRlcGVuZGVuY3k+CgkJCTxncm91cElkPmZvcmVzZWU8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPmNvbS5mb3Jlc2VlLmZ0Y3NwLmdvb2RzLm1vZGVsPC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj4wLjAuMTwvdmVyc2lvbj4KCQk8L2RlcGVuZGVuY3k+</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cgk8c2VsZWN0IGlkPSJxdWVyeU1haW5Db250YWN0QnlDdXNJZCIgcGFyYW1ldGVyVHlwZT0iY29tLmZvcmVzZWUuZnRjc3AuY3VzdG9tZXIubWFudWFsLnJlc3RkdG8uQ29udGFjdFJlcURUTyIKCQkJcmVzdWx0VHlwZT0iY29tLmZvcmVzZWUuZnRjc3AuY3VzdG9tZXIubWFudWFsLnJlcG9uc2VkdG8uTWFpbkNvbnRhY3RSZXNEVE8iPgoJCVNFTEVDVAoJCXRjYy5jdXNfaWQgY3VzSWQsCgkJdGNjYy5uYW1lIEFTIGNvbnRhY3ROYW1lLAoJCXRjYy5jdXNfbmFtZSBBUyBjdXNOYW1lLAoJCXRjY2MubW9iaWxlX3Bob25lIEFTIG1vYmlsZVBob25lCgkJRlJPTQoJCXRfY3JtX2N1c3RvbWVyIHRjYwoJCUxFRlQgSk9JTiB0X2NybV9jdXNfY29udGFjdCB0Y2NjCgkJT04gdGNjLmN1c19pZCA9IHRjY2MuY3VzX2lkCgkJYW5kIHRjY2MuaXNfbWFpbl9hY2NvdW50ID0gJ1knCgkJV0hFUkUgdGNjLmN1c19pZCA9ICN7Y3VzSWQsamRiY1R5cGU9VkFSQ0hBUn0KCTwvc2VsZWN0PgoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">CgoKCTxzZWxlY3QgaWQ9InF1ZXJ5TWFpbkNvbnRhY3RCeUN1c0lkIiBwYXJhbWV0ZXJUeXBlPSJjb20uZm9yZXNlZS5mdGNzcC5jdXN0b21lci5tYW51YWwucmVzdGR0by5Db250YWN0UmVxRFRPIgoJCQlyZXN1bHRUeXBlPSJjb20uZm9yZXNlZS5mdGNzcC5jdXN0b21lci5tYW51YWwucmVwb25zZWR0by5NYWluQ29udGFjdFJlc0RUTyI+CgkJU0VMRUNUCgkJdGNjLmN1c19pZCBjdXNJZCwKCQl0Y2NjLm5hbWUgQVMgY29udGFjdE5hbWUsCgkJdGNjLmN1c19uYW1lIEFTIGN1c05hbWUsCgkJdGNjYy5tb2JpbGVfcGhvbmUgQVMgbW9iaWxlUGhvbmUKCQlGUk9NCgkJdF9jcm1fY3VzdG9tZXIgdGNjCgkJTEVGVCBKT0lOIHRfY3JtX2N1c19jb250YWN0IHRjY2MKCQlPTiB0Y2MuY3VzX2lkID0gdGNjYy5jdXNfaWQKCQlhbmQgdGNjYy5pc19tYWluX2FjY291bnQgPSAnWScKCQlXSEVSRSB0Y2MuY3VzX2lkID0gI3tjdXNJZCxqZGJjVHlwZT1WQVJDSEFSfQoJPC9zZWxlY3Q+Cgo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5mb3Jlc2VlPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5jb20uZm9yZXNlZS5mdGNzcC5nb29kcy5tb2RlbDwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MC4wLjE8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">dGFyZ2V0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">PCEtLSC52MGqserHqbHto6y31tKzsunRr8Gqz7XIyyAtLT4KICAgIDxzZWxlY3QgaWQ9InBhZ2VRdWVyeVNwcm92aWRlckNvbnRhY3QiCiAgICAgICAgcGFyYW1ldGVyVHlwZT0iY29tLmZvcmVzZWUuZnRjc3AuY3VzdG9tZXIubWFudWFsLnJlc3RkdG8uUXVlcnlTcHJvdmlkZXJDb250YWN0RFRPIgogICAgICAgIHJlc3VsdFR5cGU9ImNvbS5mb3Jlc2VlLmZ0Y3NwLmN1c3RvbWVyLm1hbnVhbC5kdG8uQ3JtQ3VzQ29udGFjdERUTyI+CiAgICAgICAgU0VMRUNUCiAgICAgICAgICAgIGNsLmxhYmVsX3ZhbHVlIGFzIGxhYmVsVmFsdWUsCiAgICAgICAgICAgIGNjYy5JRCBhcyBpZCwKICAgICAgICAgICAgY2NjLmlzX21haW5fYWNjb3VudCBhcyBpc01haW5BY2NvdW50LAogICAgICAgICAgICBjY2MuZHV0aWVzX25hbWUgYXMgZHV0aWVzTmFtZSwKICAgICAgICAgICAgY2NjLmN1c19pZCBhcyBjdXNJZCwKICAgICAgICAgICAgY2NjLkVNQUlMIGFzIGVtYWlsLAogICAgICAgICAgICBjY2MuaXNfYWRtaW4gYXMgaXNBZG1pbiwKICAgICAgICAgICAgY2NjLk1PQklMRV9QSE9ORSBtb2JpbGVQaG9uZSwKICAgICAgICAgICAgY2NjLmBOQU1FYCBhcyBuYW1lLAogICAgICAgICAgICBjY2MucHJvdmlkZXJfaWQgYXMgcHJvdmlkZXJJZCwKICAgICAgICAgICAgR1JPVVBfQ09OQ0FUKGNsLmxhYmVsX25hbWUpIGxhYmVsTmFtZXMsCiAgICAgICAgICAgIGNsLmxhYmVsX25hbWUgYXMgbGFiZWxOYW1lCiAgICAgICAgRlJPTQogICAgICAgICAgICB0X2NybV9jdXNfY29udGFjdCBjY2MsCiAgICAgICAgICAgIHRfY3JtX2xhYmVsIGNsCiAgICAgICAgV0hFUkUKICAgICAgICAgICAgY2NjLmN1c19pZCA9ICN7Y3VzSWQsamRiY1R5cGU9VkFSQ0hBUn0KICAgICAgICAgICAgQU5EIGNsLmVudGl0eV9pZCA9IGNjYy5JRAogICAgICAgIDxpZiB0ZXN0PSJsYWJlbFR5cGUgIT1udWxsIGFuZCBsYWJlbFR5cGUgIT0nJyI+CiAgICAgICAgICAgIEFORCBjbC5sYWJlbF90eXBlID0gI3tsYWJlbFR5cGUsamRiY1R5cGU9VkFSQ0hBUn0KICAgICAgICA8L2lmPgogICAgICAgIDxpZiB0ZXN0PSJpc1ZhbGlkICE9bnVsbCBhbmQgaXNWYWxpZCAhPScnIj4KICAgICAgICAgICAgQU5EIGNjYy5pc192YWxpZCA9ICN7aXNWYWxpZCxqZGJjVHlwZT1WQVJDSEFSfQogICAgICAgIDwvaWY+CiAgICAgICAgPGlmIHRlc3Q9ImxhYmVsVmFsdWUgIT1udWxsIGFuZCBsYWJlbFZhbHVlICE9JyciPgogICAgICAgICAgICBBTkQgY2wubGFiZWxfdmFsdWUgPSAje2xhYmVsVmFsdWUsamRiY1R5cGU9VkFSQ0hBUn0KICAgICAgICA8L2lmPgogICAgICAgIEdST1VQIEJZCiAgICAgICAgICAgIGNsLmVudGl0eV9pZAogICAgPC9zZWxlY3Q+Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5mb3Jlc2VlPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5jb20uZm9yZXNlZS5mdGNzcC5zZWN1cml0eS5hcGk8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjAuMC4xPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Ki5jbGFzcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkNvbmZpZ3VyYXRpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
