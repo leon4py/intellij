@@ -36,8 +36,15 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="16" column="22" />
       </file>
+      <file name="D:/lab/plugin/mvc-generator/resources/template/java/ManualMapper.vm" timestamp="1513483812794" />
       <file name="/Dummy.scala" timestamp="1512461708912">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/lab/plugin/mvc-generator/resources/template/java/Service.vm" timestamp="1513483853522">
+        <mark key="[" line="20" column="24" />
+        <mark key="]" line="20" column="27" />
+        <mark key="^" line="20" column="27" />
+        <mark key="." line="20" column="27" />
       </file>
       <file name="D:/foresee/ftcsp_crm/com.foresee.ftcsp.customer.service/src/main/java/com/foresee/ftcsp/customer/service/impl/CrmUniversalCustomerServiceImpl.java" timestamp="1513431617452" />
       <file name="D:/lab/project/ckshop/data-syncer/README.MD" timestamp="1513157929142">
@@ -105,6 +112,12 @@
         <mark key="[" line="83" column="11" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.4.RELEASE/spring-context-4.3.4.RELEASE-sources.jar!/org/springframework/context/annotation/ComponentScan.java" timestamp="1513430676331" />
+      <file name="D:/lab/plugin/mvc-generator/resources/template/java/ServiceImpl.vm" timestamp="1513483871826">
+        <mark key="[" line="30" column="26" />
+        <mark key="]" line="30" column="26" />
+        <mark key="^" line="30" column="0" />
+        <mark key="." line="30" column="26" />
+      </file>
       <file name="D:/foresee/ftcsp_crm/com.foresee.ftcsp.customer.model/src/main/resources/com/foresee/ftcsp/customer/manual/mapper/CrmCusContactExtMapper.xml" timestamp="1513433685558">
         <mark key="[" line="643" column="0" />
         <mark key="]" line="643" column="0" />
@@ -119,16 +132,12 @@
       <file name="/HTML File.txt.ft" timestamp="1513131579062">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.4.RELEASE/spring-web-4.3.4.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RequestMethod.java" timestamp="1513484018492" />
       <file name="D:/lab/plugin/mvc-generator/src/main/java/com/foresee/plugin/mvc/generator/action/MvcCreatorAction.kt" timestamp="1513304833311">
         <mark key="[" line="40" column="41" />
         <mark key="]" line="40" column="40" />
         <mark key="^" line="40" column="40" />
         <mark key="." line="40" column="40" />
-      </file>
-      <file name="D:/foresee/product/com.foresee.ftcsp.goods.service/pom.xml" timestamp="1513430274594">
-        <mark key="[" line="22" column="25" />
-        <mark key="]" line="22" column="26" />
-        <mark key="." line="22" column="26" />
       </file>
       <file name="D:/lab/project/chshop/ckshop/pom.xml" timestamp="1513152548424">
         <mark key="[" line="9" column="0" />
@@ -161,7 +170,7 @@
         <mark key="." line="43" column="52" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.4.RELEASE/spring-context-4.3.4.RELEASE-sources.jar!/org/springframework/context/annotation/FilterType.java" timestamp="1513430973800" />
-      <file name="D:/lab/plugin/mvc-generator/resources/template/java/AutoMapper.vm" timestamp="1512974763070">
+      <file name="D:/lab/plugin/mvc-generator/resources/template/java/AutoMapper.vm" timestamp="1513483568996">
         <mark key="[" line="9" column="41" />
       </file>
       <file name="D:/app/gateway/pom.xml" timestamp="1511856758014">
@@ -191,6 +200,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.4.RELEASE/spring-web-4.3.4.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RequestMapping.java" timestamp="1513483996776" />
       <file name="D:/foresee/case/cases/com.foresee.ftcsp.cases.model/src/test/resources/cases-config-dev.properties" timestamp="1512271805968">
         <mark key="[" line="20" column="38" />
       </file>
@@ -232,6 +242,12 @@
         <mark key="^" line="21" column="20" />
         <mark key="." line="21" column="20" />
       </file>
+      <file name="D:/lab/project/ckshop/data-syncer/src/main/java/cn/kkicc/ckshop/datasyncer/timer/Sample.java" timestamp="1513388712870">
+        <mark key="[" line="14" column="25" />
+        <mark key="]" line="14" column="21" />
+        <mark key="^" line="14" column="21" />
+        <mark key="." line="14" column="21" />
+      </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.database/src/main/java/com/foresee/ftcsp/common/database/conf/MybatisDataSource.java" timestamp="1513482960963" />
       <file name="D:/foresee/ftcsp_crm/pom.xml" timestamp="1513431844603">
         <mark key="[" line="34" column="21" />
@@ -251,10 +267,11 @@
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.awsapi/src/main/java/com/foresee/ftcsp/workflow/controller/ForeseePortalAPI.java" timestamp="1512032844733">
         <mark key="[" line="72" column="52" />
       </file>
-      <file name="D:/foresee/product/com.foresee.ftcsp.goods.api/pom.xml" timestamp="1513430069154">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="D:/lab/project/ckshop/data-syncer/src/main/java/cn/kkicc/ckshop/datasyncer/timer/DataSyncCenter.kt" timestamp="1513389854463">
+        <mark key="[" line="50" column="40" />
+        <mark key="]" line="50" column="52" />
+        <mark key="." line="50" column="52" />
+        <mark key="^" line="50" column="52" />
       </file>
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.rest/src/main/java/com/foresee/ftcsp/goods/rest/GoodsApplication.java" timestamp="1513430301806" />
       <file name="D:/lab/project/ckshop/data-syncer/src/main/resources/app.properties" timestamp="1513388369016">
@@ -295,6 +312,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/lab/plugin/mvc-generator/resources/template/java/Controller.vm" timestamp="1513484084724">
+        <mark key="[" line="27" column="37" />
+        <mark key="]" line="27" column="66" />
+        <mark key="^" line="27" column="66" />
+        <mark key="." line="27" column="66" />
       </file>
     </filemarks>
     <jumps>
@@ -364,17 +387,17 @@
       <jump line="20" column="0" filename="D:/lab/project/ckshop/data-syncer/src/main/java/cn/kkicc/ckshop/datasyncer/Syncer.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>org.springframework.web.bind.annotation.RequestMapping;</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>org.springframework.web.bind.annotation.RequestMapping;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSgiXCR7amRiYy51cmx9IikKICAgIHByaXZhdGUgdmFsIGpkYmNVcmw6IFN0cmluZz8gPSBudWxsCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmJpbmQuYW5ub3RhdGlvbi5SZXF1ZXN0TWFwcGluZzsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
