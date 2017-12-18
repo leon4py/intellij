@@ -21,7 +21,7 @@
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
       </file>
-      <file name="D:/lab/plugin/mvc-generator/resources/template/java/AutoMapper.xml.vm" timestamp="1513587372315" />
+      <file name="D:/lab/plugin/mvc-generator/resources/template/java/AutoMapper.xml.vm" timestamp="1513591925635" />
       <file name="D:/lab/project/ckshop/apiserver/src/main/java/cn/kkicc/ckshop/apiserver/Application.java" timestamp="1513153448590">
         <mark key="[" line="15" column="18" />
         <mark key="]" line="15" column="18" />
@@ -67,10 +67,10 @@
         <mark key="." line="43" column="30" />
         <mark key="^" line="43" column="45" />
       </file>
-      <file name="D:/lab/plugin/mvc-generator/src/main/java/com/foresee/plugin/mvc/generator/util/DBRowHelper.kt" timestamp="1513590964399">
-        <mark key="[" line="54" column="25" />
-        <mark key="]" line="54" column="25" />
-        <mark key="." line="54" column="25" />
+      <file name="D:/lab/plugin/mvc-generator/src/main/java/com/foresee/plugin/mvc/generator/util/DBRowHelper.kt" timestamp="1513592575281">
+        <mark key="[" line="59" column="18" />
+        <mark key="]" line="59" column="18" />
+        <mark key="." line="59" column="18" />
         <mark key="^" line="51" column="27" />
       </file>
       <file name="D:/lab/plugin/MVPHelper/src/com/wingsofts/mvphelper/gui/MvpHelperConfigPanel.java" timestamp="1513133009939">
@@ -146,10 +146,11 @@
         <mark key="^" line="20" column="28" />
         <mark key="." line="21" column="20" />
       </file>
-      <file name="D:/lab/plugin/mvc-generator/resources/template/java/Controller.java.vm" timestamp="1513587808691">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="D:/lab/plugin/mvc-generator/resources/template/java/Controller.java.vm" timestamp="1513592452765">
+        <mark key="[" line="41" column="120" />
+        <mark key="]" line="41" column="40" />
+        <mark key="." line="41" column="40" />
+        <mark key="^" line="41" column="39" />
       </file>
       <file name="D:/lab/project/ccshop/apiserver/src/main/java/cn/kkicc/ccshop/api/Application.java" timestamp="1513151379658">
         <mark key="[" line="18" column="24" />
@@ -166,11 +167,11 @@
       <file name="D:/lab/project/ckshop/data-syncer/src/main/java/cn/kkicc/ckshop/datasyncer/timer/Syncer.kt" timestamp="1513524965659">
         <mark key="[" line="11" column="9" />
       </file>
-      <file name="D:/lab/plugin/mvc-generator/src/main/java/com/foresee/plugin/mvc/generator/ModelGenerator.kt" timestamp="1513587861883">
-        <mark key="[" line="122" column="26" />
-        <mark key="]" line="122" column="26" />
-        <mark key="^" line="100" column="77" />
-        <mark key="." line="122" column="26" />
+      <file name="D:/lab/plugin/mvc-generator/src/main/java/com/foresee/plugin/mvc/generator/ModelGenerator.kt" timestamp="1513592245152">
+        <mark key="[" line="100" column="55" />
+        <mark key="]" line="99" column="71" />
+        <mark key="^" line="99" column="71" />
+        <mark key="." line="99" column="71" />
       </file>
       <file name="D:/lab/project/blade/src/test/java/com/blade/model/TestBean.java" timestamp="1513173878031">
         <mark key="[" line="21" column="26" />
@@ -297,7 +298,7 @@
         <mark key="^" line="5" column="14" />
         <mark key="." line="5" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513581459444">
+      <file name="/Dummy.txt" timestamp="1513592699367">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.es5/src/main/java/com/foresee/ftcsp/es5/util/SqlUtil.java" timestamp="1512093416599">
@@ -408,16 +409,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>packageDir.toString().substring(packageIndex).replace(File.separatorChar, '.');</text>
+        <text>date</text>
       </register>
       <register name="-" type="4">
-        <text>packageDir.toString().substring(packageIndex).replace(File.separatorChar, '.');</text>
+        <text>date</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcGFja2FnZU5hbWUgPSBwYWNrYWdlRGlyLnRvU3RyaW5nKCkuc3Vic3RyaW5nKHBhY2thZ2VJbmRleCkucmVwbGFjZShGaWxlLnNlcGFyYXRvckNoYXIsICcuJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbU1hcFsiZGF0ZSJdID0gdGhpcy50b2RheSgpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">I3NldCAoJGxvd2VyTmFtZSA9ICR7fSkK</text>
