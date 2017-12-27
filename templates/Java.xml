@@ -5,4 +5,11 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
+  <template name="bean" value="@Bean&#10;public $CLASS_NAME$ $VALUE$() {&#10;    return new $CLASS_NAME$();&#10;}" description="快速Bean" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="variableOfType(CLASS_NAME)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
 </templateSet>
