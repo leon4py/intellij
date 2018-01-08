@@ -5,18 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
-      <mask>java</mask>
-      <mask>p</mask>
-      <mask>po</mask>
-      <mask>pom</mask>
-      <mask>pom.</mask>
-      <mask>pom.x</mask>
-      <mask>pom.xm</mask>
-      <mask>*po.xml</mask>
-      <mask>*p.xml</mask>
-      <mask>*.pxml</mask>
-      <mask>*xml</mask>
       <mask>*pxml</mask>
       <mask>*poxml</mask>
       <mask>*pomxml</mask>
@@ -36,6 +26,17 @@
       <mask>p.xml</mask>
       <mask>po.xml</mask>
       <mask>pom.xml</mask>
+      <mask>pom.xm</mask>
+      <mask>p</mask>
+      <mask>pr</mask>
+      <mask>pro</mask>
+      <mask>prop</mask>
+      <mask>proper</mask>
+      <mask>propert</mask>
+      <mask>propertie</mask>
+      <mask>properties</mask>
+      <mask>*properties</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
