@@ -431,11 +431,11 @@
         <mark key="." line="7" column="2" />
         <mark key="^" line="7" column="2" />
       </file>
-      <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.service/src/main/java/com/foresee/ftcsp/smscenter/cache/GuavaCacheRefresherAspect.java" timestamp="1515398405165">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="41" column="29" />
-        <mark key="^" line="41" column="29" />
-        <mark key="." line="41" column="29" />
+      <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.service/src/main/java/com/foresee/ftcsp/smscenter/cache/GuavaCacheRefresherAspect.java" timestamp="1515399196194">
+        <mark key="[" line="45" column="66" />
+        <mark key="]" line="48" column="11" />
+        <mark key="^" line="48" column="11" />
+        <mark key="." line="48" column="11" />
       </file>
       <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.daemon/src/test/java/com/foresee/ftcsp/smscenter/daemon/SmsStatusUpdaterTest.java" timestamp="1515140100591">
         <mark key="[" line="40" column="32" />
@@ -696,7 +696,7 @@
         <mark key="." line="35" column="54" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/jsoniter/jsoniter/0.9.19/jsoniter-0.9.19-sources.jar!/com/jsoniter/extra/JacksonCompatibilityMode.java" timestamp="1515391982606" />
-      <file name="/fragment.java" timestamp="1515398117855">
+      <file name="/fragment.java" timestamp="1515399134181">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -785,11 +785,11 @@
       <jump line="17" column="5" filename="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.service/src/test/java/com/foresee/ftcsp/smscenter/kit/DesKit.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>enclosingCls</text>
       </register>
       <register name="-" type="4">
-        <text>Blank</text>
+        <text>enclosingCls</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWxcPg==</text>
