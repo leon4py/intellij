@@ -27,7 +27,7 @@
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/resources/banner.txt" timestamp="1515637729170">
         <mark key="[" line="20" column="57" />
       </file>
-      <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.rest/src/main/resources/config/dev.properties" timestamp="1515750097481">
+      <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.rest/src/main/resources/config/dev.properties" timestamp="1515856075007">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
@@ -86,6 +86,11 @@
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
+      </file>
+      <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.rest/src/test/java/com/foresee/ftcsp/smscenter/jdbc/JdbcTimeout.java" timestamp="1515857879830">
+        <mark key="[" line="24" column="115" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="D:/foresee/ftcsp_smscenter/smscentersdk/src/main/java/com/foresee/ftcsp/smscenter/sdk/restdto/SmsReportRequest.java" timestamp="1515727910746">
         <mark key="[" line="18" column="0" />
@@ -186,50 +191,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdHJ5KFJlc3VsdFNldCBycyA9IHN0bXQuZXhlY3V0ZVF1ZXJ5KHNxbCkpIHsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>rs</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Zm9yZXNlZS5kcnVpZC5kYXRhc291cmNlLnVybCA9IGpkYmM6bXlzcWw6Ly8xMC4xMC4wLjIwNDozMzA2L2Z0Y3NwX3Ntcz91c2VVbmljb2RlPXRydWUmY2hhcmFjdGVyRW5jb2Rpbmc9dXRmLTgKZm9yZXNlZS5kcnVpZC5kYXRhc291cmNlLnVzZXJuYW1lID0gZnRjc3Bfc21zCmZvcmVzZWUuZHJ1aWQuZGF0YXNvdXJjZS5wYXNzd29yZCA9IGZ0Y3NwX3Ntcwo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkoQ29ubmVjdGlvbiBjb25uID0gZGF0YVNvdXJjZS5nZXRDb25uZWN0aW9uKCkgKSB7CiAgICAgICAgICAgIHRyeShTdGF0ZW1lbnQgc3RtdCA9IGNvbm4uY3JlYXRlU3RhdGVtZW50KCkpIHsKICAgICAgICAgICAgICAgIFN0cmluZyBzcWwgPSAiU0VMRUNUIHNsZWVwKDMwKjEwMDApLCAnbmFtZScgIjsKICAgICAgICAgICAgICAgIHRyeShSZXN1bHRTZXQgcnMgPSBzdG10LmV4ZWN1dGVRdWVyeShzcWwpKSB7Ci8vICAgICAgICAgICAgICAgIHRyeShSZXN1bHRTZXQgcnMgPSBzdG10LmV4ZWN1dGVRdWVyeShzcWwpKSB7CiAgICAgICAgICAgICAgICAgICAgd2hpbGUgKHJzLm5leHQoKSkgewogICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmcgbmFtZSA9IHJzLmdldFN0cmluZygibmFtZSIpOwogICAgICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obmFtZSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgfQoKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdHJ5KFJlc3VsdFNldCBycyA9IHN0bXQuZXhlY3V0ZVF1ZXJ5KHNxbCkpIHsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygic3RyYXRlZ3k6e30sIHN1cHBsaWVyOnt9Iiwgc3RyYXRlZ3lOYW1lLCBzbXNTdXBwbGllci5nZXRDbGFzcygpLmdldFNpbXBsZU5hbWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VuZFN5bmMoc21zUmVxdWVzdCwgYXBwSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aGlsZSAocnMubmV4dCgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBuYW1lID0gcnMuZ2V0U3RyaW5nKCJuYW1lIik7CiAgICAgICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihuYW1lKTsKICAgICAgICAgICAgICAgICAgICB9</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeShSZXN1bHRTZXQgcnMgPSBzdG10LmV4ZWN1dGVRdWVyeShzcWwpKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>// 读取模板配置,选择策略(默认权重/指定权重/滑动窗口),根据策略选择一个供应商
-        // loadConfig, chooseStrategy, strategy.chooseSupplier()
-        // strategy = appContext.getBean(&quot;策略名字&quot;, SmsStrategy.class)
-        // supplier = strategy.chooseSupplier()
-        // 发送之前先记日志(发送消息到消息队列)
-        // task = supplier.send(smsRequest)
-        // task.recoverWith() 自动重试
-        //     .andThen() 修改状态(发送消息队列)</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3FsID0gIlVQREFURSBwZXJzb24gIFNFVCBhZ2U9MyAgV0hFUkUgaWQ9MSBBTkQgU0xFRVAoMzAqMTAwMCkiOwogICAgICAgIHRyeShDb25uZWN0aW9uIGNvbm4gPSBkYXRhU291cmNlLmdldENvbm5lY3Rpb24oKSApIHsKICAgICAgICAgICAgdHJ5KFN0YXRlbWVudCBzdG10ID0gY29ubi5jcmVhdGVTdGF0ZW1lbnQoKSkgewogICAgICAgICAgICAgICAgdHJ5KFJlc3VsdFNldCBycyA9IHN0bXQuZXhlY3V0ZVF1ZXJ5KHNxbCkpIHsKLy8gICAgICAgICAgICAgICAgdHJ5KFJlc3VsdFNldCBycyA9IHN0bXQuZXhlY3V0ZVF1ZXJ5KHNxbCkpIHsKICAgICAgICAgICAgICAgICAgICB3aGlsZSAocnMubmV4dCgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBuYW1lID0gcnMuZ2V0U3RyaW5nKCJuYW1lIik7CiAgICAgICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihuYW1lKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICB9CgogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Zm9yZXNlZS5kcnVpZC5kYXRhc291cmNlLnVybCA9IGpkYmM6bXlzcWw6Ly8xMjcuMC4wLjE6MzMwNi9mdGNzcF9zbXM/dXNlVW5pY29kZT10cnVlJmNoYXJhY3RlckVuY29kaW5nPXV0Zi04Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBzcWwgPSAiU0VMRUNUIHNsZWVwKDMwKjEwMDApLCAnbmFtZScgIjsK</text>
       </register>
     </registers>
     <search>
