@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/foresee/ftcsp_smscenter/smscentersdk/src/main/java/com/foresee/ftcsp/smscenter/sdk/client/SmsClient.java" timestamp="1515982590401" />
       <file name="/a.dummy" timestamp="1515978826915">
         <mark key="[" line="0" column="0" />
       </file>
@@ -50,6 +51,12 @@
         <mark key="." line="21" column="3" />
         <mark key="^" line="21" column="3" />
       </file>
+      <file name="D:/foresee/ftcsp_smscenter/smscentersdk/src/main/java/com/foresee/ftcsp/smscenter/sdk/restdto/SmsRequest.java" timestamp="1515981926558">
+        <mark key="[" line="49" column="11" />
+        <mark key="]" line="49" column="14" />
+        <mark key="." line="49" column="14" />
+        <mark key="^" line="49" column="14" />
+      </file>
       <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.service/src/main/java/com/foresee/ftcsp/smscenter/cache/NonBlockingCache.java" timestamp="1515745023776">
         <mark key="[" line="57" column="21" />
         <mark key="]" line="30" column="27" />
@@ -76,11 +83,10 @@
         <mark key="." line="47" column="95" />
       </file>
       <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.model/src/main/java/com/foresee/ftcsp/smscenter/manual/dto/SmsSendlogDTO.java" timestamp="1515980056064" />
-      <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.service/src/main/java/com/foresee/ftcsp/smscenter/service/SmsService.java" timestamp="1515980916593">
-        <mark key="[" line="104" column="33" />
-        <mark key="]" line="104" column="30" />
-        <mark key="." line="104" column="30" />
-        <mark key="^" line="104" column="30" />
+      <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.service/src/main/java/com/foresee/ftcsp/smscenter/service/SmsService.java" timestamp="1515982443961">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.service/src/main/java/com/foresee/ftcsp/smscenter/cache/KeyWrapper.java" timestamp="1515747659725">
         <mark key="[" line="48" column="5" />
@@ -126,6 +132,12 @@
         <mark key="." line="31" column="32" />
         <mark key="^" line="31" column="32" />
       </file>
+      <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.model/src/main/java/com/foresee/ftcsp/smscenter/manual/dto/SmsExtRequest.java" timestamp="1515981942273">
+        <mark key="[" line="25" column="42" />
+        <mark key="]" line="27" column="29" />
+        <mark key="^" line="27" column="29" />
+        <mark key="." line="27" column="29" />
+      </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/resources/child.xml" timestamp="1515567864962">
         <mark key="[" line="0" column="0" />
       </file>
@@ -137,6 +149,12 @@
         <mark key="]" line="63" column="25" />
         <mark key="^" line="63" column="60" />
         <mark key="." line="63" column="25" />
+      </file>
+      <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.service/src/main/java/com/foresee/ftcsp/smscenter/check/SmsDataChecker.java" timestamp="1515982387228">
+        <mark key="[" line="75" column="68" />
+        <mark key="]" line="76" column="45" />
+        <mark key="." line="76" column="45" />
+        <mark key="^" line="76" column="45" />
       </file>
       <file name="/fragment.java" timestamp="1515980058623">
         <mark key="[" line="0" column="0" />
@@ -222,10 +240,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZXRhaWwuc2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxMb25nPiBtc2dJZHMgPSBzbXNFeHRSZXF1ZXN0LmdldE1zZ0lkcygpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>NEW</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWxcPg==</text>
@@ -234,31 +252,31 @@
         <text encoding="base64">ICAgIC8qKiC3osvNtci0/bbTwdAgKi8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZXRhaWwuc2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxMb25nPiBtc2dJZHMgPSBzbXNFeHRSZXF1ZXN0LmdldE1zZ0lkcygpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzbXNSZXNwb25zZS5zZXREZXRhaWwoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFNtc1Jlc3BvbnNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG1vYmlsZSA9IHNtc0V4dFJlcXVlc3QuZ2V0TW9iaWxlKCkuZ2V0KGkpOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChTdHJpbmcgbW9iaWxlIDogc21zRXh0UmVxdWVzdC5nZXRNb2JpbGUoKSkgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwb3B1bGF0ZU1zZ0lkKHNtc0V4dFJlcXVlc3QpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgU21zRXh0UmVxdWVzdE1RTXNnKCkgewo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBwb3B1bGF0ZU1zZ0lkKFNtc0V4dFJlcXVlc3Qgc21zRXh0UmVxdWVzdCkgewogICAgICAgIHNtcwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKFN0cmluZyBtb2JpbGUgOiBzbXNFeHRSZXF1ZXN0LmdldE1vYmlsZSgpKSB7IH0K</text>
       </register>
     </registers>
     <search>
