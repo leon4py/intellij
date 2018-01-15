@@ -3,8 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/foresee/ftcsp_smscenter/smscentersdk/src/main/java/com/foresee/ftcsp/smscenter/sdk/client/SmsClient.java" timestamp="1515982590401" />
-      <file name="/a.dummy" timestamp="1515978826915">
+      <file name="D:/foresee/ftcsp_smscenter/smscentersdk/src/main/java/com/foresee/ftcsp/smscenter/sdk/client/SmsClient.java" timestamp="1515985959464">
+        <mark key="[" line="28" column="65" />
+        <mark key="]" line="28" column="65" />
+        <mark key="." line="28" column="65" />
+      </file>
+      <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.daemon/src/main/java/com/foresee/ftcsp/smscenter/daemon/SmsSendWaitingConsumer.java" timestamp="1515986747993">
+        <mark key="[" line="44" column="31" />
+        <mark key="]" line="44" column="31" />
+        <mark key="." line="44" column="31" />
+        <mark key="^" line="44" column="28" />
+      </file>
+      <file name="/a.dummy" timestamp="1515986675150">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.service/src/main/java/com/foresee/ftcsp/smscenter/cache/CacheGet.java" timestamp="1515746706434">
@@ -35,13 +45,13 @@
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/resources/banner.txt" timestamp="1515637729170">
         <mark key="[" line="20" column="57" />
       </file>
-      <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.model/src/main/java/com/foresee/ftcsp/smscenter/config/SmsConstant.java" timestamp="1515979982325">
+      <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.model/src/main/java/com/foresee/ftcsp/smscenter/config/SmsConstant.java" timestamp="1515985766884">
         <mark key="[" line="20" column="44" />
         <mark key="]" line="21" column="3" />
         <mark key="." line="21" column="3" />
         <mark key="^" line="21" column="3" />
       </file>
-      <file name="D:/foresee/ftcsp_smscenter/smscentersdk/src/main/java/com/foresee/ftcsp/smscenter/sdk/restdto/SmsRequest.java" timestamp="1515981926558">
+      <file name="D:/foresee/ftcsp_smscenter/smscentersdk/src/main/java/com/foresee/ftcsp/smscenter/sdk/restdto/SmsRequest.java" timestamp="1515984940434">
         <mark key="[" line="49" column="11" />
         <mark key="]" line="49" column="14" />
         <mark key="." line="49" column="14" />
@@ -79,10 +89,11 @@
         <mark key="." line="47" column="95" />
       </file>
       <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.model/src/main/java/com/foresee/ftcsp/smscenter/manual/dto/SmsSendlogDTO.java" timestamp="1515980056064" />
-      <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.service/src/main/java/com/foresee/ftcsp/smscenter/service/SmsService.java" timestamp="1515982443961">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
+      <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.service/src/main/java/com/foresee/ftcsp/smscenter/service/SmsService.java" timestamp="1515986784231">
+        <mark key="[" line="84" column="16" />
+        <mark key="]" line="84" column="16" />
+        <mark key="." line="84" column="16" />
+        <mark key="^" line="275" column="39" />
       </file>
       <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.service/src/main/java/com/foresee/ftcsp/smscenter/cache/KeyWrapper.java" timestamp="1515747659725">
         <mark key="[" line="48" column="5" />
@@ -105,8 +116,16 @@
         <mark key="^" line="43" column="39" />
         <mark key="." line="43" column="39" />
       </file>
+      <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.daemon/src/main/java/com/foresee/ftcsp/smscenter/daemon/SmsReportCutter.java" timestamp="1515985049069" />
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.ftcspmvc/0.0.2/com.foresee.ftcsp.public.ftcspmvc-0.0.2-sources.jar!/com/foresee/ftcsp/ftcspmvc/isolation/ExecutorFactory.java" timestamp="1515979183157" />
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.ftcspmvc/0.0.2/com.foresee.ftcsp.public.ftcspmvc-0.0.2-sources.jar!/com/foresee/ftcsp/ftcspmvc/filter/AsyncFilter.java" timestamp="1515979013522" />
+      <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.daemon/src/main/java/com/foresee/ftcsp/smscenter/daemon/SmsSendlogConsumer.java" timestamp="1515986477038">
+        <mark key="[" line="62" column="22" />
+        <mark key="]" line="48" column="22" />
+        <mark key="^" line="48" column="22" />
+        <mark key="." line="48" column="22" />
+      </file>
+      <file name="D:/foresee/ftcsp_smscenter/smscentersdk/src/test/java/com/foresee/ftcsp/smscenter/sdk/client/SmsClientTest.java" timestamp="1515986015710" />
       <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.model/src/main/java/com/foresee/ftcsp/smscenter/manual/dto/SmsExtRequestMQMsg.java" timestamp="1515980213758">
         <mark key="[" line="33" column="5" />
         <mark key="]" line="31" column="32" />
@@ -149,7 +168,7 @@
         <mark key="." line="35" column="38" />
         <mark key="^" line="35" column="33" />
       </file>
-      <file name="/fragment.java" timestamp="1515980058623">
+      <file name="/fragment.java" timestamp="1515986571508">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.ftcspmvc/0.0.2/com.foresee.ftcsp.public.ftcspmvc-0.0.2-sources.jar!/com/foresee/ftcsp/ftcspmvc/jetty/JettySpringEmbeddedContainer.java" timestamp="1515978912527" />
@@ -233,43 +252,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>HashSet</text>
+        <text>!</text>
       </register>
       <register name="-" type="4">
-        <text>HashSet</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKiC3osvNtci0/bbTwdAgKi8K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgaW50IFNFTkRfQVNZTkNfVEhSRUFEUyA9IDIwOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxMb25nPiBtc2dJZHMgPSBzbXNFeHRSZXF1ZXN0LmdldE1zZ0lkcygpOwo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVxdWVzdFV0aWxzLmdldFJlcXVlc3QoKS5nZXRQYXJhbWV0ZXIoInJlcXVlc3RJZCIpOwo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghKG1lc3NhZ2UgaW5zdGFuY2VvZiBTbXNFeHRSZXF1ZXN0TVFNc2cpKSB7CiAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLndhcm4oIs/7z6LA4NDNsru21CIpOwogICAgICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICBTbXNFeHRSZXF1ZXN0TVFNc2cgc21zRXh0UmVxdWVzdE1RTXNnID0gKFNtc0V4dFJlcXVlc3RNUU1zZykgbWVzc2FnZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKFN0cmluZyBtb2JpbGUgOiBtb2JpbGVzKSB7CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG1vYmlsZSA9IHNtc0V4dFJlcXVlc3QuZ2V0TW9iaWxlKCkuZ2V0KGkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU21zUmVzcG9uc2UuU21zRGV0YWlsIGRldGFpbCA9IG5ldyBTbXNSZXNwb25zZS5TbXNEZXRhaWwoKTsKICAgICAgICAgICAgZGV0YWlsLnNldE1zZ0lkKGRldGFpbC5nZXRNc2dJZCgpKQovLyAgICAgICAgICAgICAgICAgICAgLnNldEZlZSgxKQogICAgICAgICAgICAgICAgICAgIC5zZXRFcnJvckNvZGUoMCkKICAgICAgICAgICAgICAgICAgICAuc2V0RXJyb3JNc2coIk9LIikKICAgICAgICAgICAgICAgICAgICAuc2V0TW9iaWxlKG1vYmlsZSk7CiAgICAgICAgICAgIHNtc1Jlc3BvbnNlLmFkZERldGFpbChkZXRhaWwpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChTdHJpbmcgbW9iaWxlIDogc21zRXh0UmVxdWVzdC5nZXRNb2JpbGUoKSkgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwb3B1bGF0ZU1zZ0lkKHNtc0V4dFJlcXVlc3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRNc2dJZChSZXF1ZXN0VXRpbHMuZ2V0UmVxdWVzdCgpLmdldFBhcmFtZXRlcigicmVxdWVzdElkIikpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBwb3B1bGF0ZU1zZ0lkKFNtc0V4dFJlcXVlc3Qgc21zRXh0UmVxdWVzdCkgewogICAgICAgIHNtcwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKFN0cmluZyBtb2JpbGUgOiBzbXNFeHRSZXF1ZXN0LmdldE1vYmlsZSgpKSB7IH0K</text>
+        <text encoding="base64">ICAgICAgICBtZXNzYWdlQ29uc3VtZXIuc3RhcnRMaXN0ZW4oU21zQ29uc3RhbnQuTVFfUVVFVUVfU0VORF9ORVcsIDIwMCwKICAgICAgICAgICAgICAgIG5ldyBGb3Jlc2VlTWVzc2FnZUxpc3RlbmVyPFNtc1NlbmRsb2dEVE8+KCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHJvdGVjdGVkIHZvaWQgaGFuZGxlTWVzc2FnZShTbXNTZW5kbG9nRFRPIHNtc1NlbmRsb2dEVE8pIHRocm93cyBFeGNlcHRpb24gewogICAgICAgICAgICAgICAgTURDLnB1dCgicmVxdWVzdElkIiwgc21zU2VuZGxvZ0RUTy5nZXRSZXF1ZXN0SWQoKSk7CiAgICAgICAgICAgICAgICBzbXNSZWNvcmRTZXJ2aWNlLmluc2VydFNlbmRsb2coc21zU2VuZGxvZ0RUTyk7CgogICAgICAgICAgICAgICAgc21zUmVjb3JkU2VydmljZS5pbnNlcnRNb2JpbGVzKHNtc1NlbmRsb2dEVE8uZ2V0TW9iaWxlcygpKTsKICAgICAgICAgICAgfQogICAgICAgIH0pOwo=</text>
       </register>
     </registers>
     <search>
