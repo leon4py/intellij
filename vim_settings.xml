@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1515986675150">
+      <file name="/a.dummy" timestamp="1516096957748">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/foresee/bpmpx/src/com/foresee/ftcsp/jvm/test01/Main.java" timestamp="1515854572171">
@@ -11,11 +11,6 @@
         <mark key="]" line="19" column="0" />
         <mark key="^" line="11" column="2" />
         <mark key="." line="19" column="0" />
-      </file>
-      <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.rest/src/main/resources/config/dev.properties" timestamp="1516026295439">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
       </file>
       <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.model/src/main/java/com/foresee/ftcsp/smscenter/config/SmsConstant.java" timestamp="1515985766884">
         <mark key="[" line="20" column="44" />
@@ -70,12 +65,16 @@
       <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.rest/src/main/java/com/foresee/ftcsp/smscenter/rest/config/SmsWebConfig.java" timestamp="1516026342511">
         <mark key="[" line="16" column="62" />
       </file>
+      <file name="D:/foresee/oauth/com.foresee.ftcsp.oauth.rest/src/main/java/com/foresee/ftcsp/oauth/rest/Application.java" timestamp="1516096956888">
+        <mark key="[" line="28" column="16" />
+      </file>
       <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.model/src/main/java/com/foresee/ftcsp/smscenter/manual/dto/SmsExtRequestMQMsg.java" timestamp="1515980213758">
         <mark key="[" line="33" column="5" />
         <mark key="]" line="31" column="32" />
         <mark key="." line="31" column="32" />
         <mark key="^" line="31" column="32" />
       </file>
+      <file name="D:/foresee/oauth/com.foresee.ftcsp.oauth.rest/pom.xml" timestamp="1516096998242" />
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/pom.xml" timestamp="1515999428383">
         <mark key="[" line="27" column="36" />
       </file>
@@ -139,11 +138,6 @@
       <file name="D:/foresee/workflow/pom.xml" timestamp="1515999591174">
         <mark key="[" line="24" column="29" />
       </file>
-      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.database/src/main/java/com/foresee/ftcsp/common/database/conf/MybatisDataSource.java" timestamp="1516026168082">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
-      </file>
       <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.service/src/main/java/com/foresee/ftcsp/smscenter/cache/NonBlockingCache.java" timestamp="1515745023776">
         <mark key="[" line="57" column="21" />
         <mark key="]" line="30" column="27" />
@@ -169,7 +163,7 @@
         <mark key="." line="217" column="7" />
         <mark key="^" line="217" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516025649391">
+      <file name="/Dummy.txt" timestamp="1516097006608">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.service/src/test/resources/app.properties" timestamp="1515749125891">
@@ -199,6 +193,7 @@
       <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.service/pom.xml" timestamp="1515988114628">
         <mark key="[" line="44" column="26" />
       </file>
+      <file name="D:/foresee/oauth/com.foresee.ftcsp.oauth.rest/src/main/resources/logback-spring.xml" timestamp="1516096927265" />
       <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.rest/src/main/java/com/foresee/ftcsp/smscenter/rest/SmsApplication.java" timestamp="1515987829734">
         <mark key="[" line="30" column="15" />
       </file>
@@ -238,7 +233,7 @@
         <mark key="." line="35" column="38" />
         <mark key="^" line="35" column="33" />
       </file>
-      <file name="/fragment.java" timestamp="1516074218847">
+      <file name="/fragment.java" timestamp="1516097006596">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
