@@ -3,26 +3,16 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*pxml</mask>
       <mask>*poxml</mask>
       <mask>*pomxml</mask>
       <mask>*.m;j</mask>
       <mask>*.mj</mask>
-      <mask>*.xm</mask>
-      <mask>*</mask>
-      <mask>*.java</mask>
       <mask>*.jav</mask>
-      <mask>*.ja</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
-      <mask>*.xml</mask>
-      <mask>.xml</mask>
       <mask>p.xml</mask>
       <mask>po.xml</mask>
       <mask>pom.xml</mask>
@@ -38,6 +28,15 @@
       <mask>*properties</mask>
       <mask>*.properties</mask>
       <mask>*pom.xml</mask>
+      <mask>m.xml</mask>
+      <mask>.xml</mask>
+      <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
