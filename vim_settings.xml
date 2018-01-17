@@ -41,11 +41,11 @@
         <mark key="." line="21" column="3" />
         <mark key="^" line="21" column="3" />
       </file>
-      <file name="D:/foresee/ftcsp_smscenter/smscentersdk/src/main/java/com/foresee/ftcsp/smscenter/sdk/restdto/SmsRequest.java" timestamp="1516030320869">
-        <mark key="[" line="74" column="40" />
-        <mark key="]" line="74" column="48" />
-        <mark key="." line="74" column="48" />
-        <mark key="^" line="74" column="48" />
+      <file name="D:/foresee/ftcsp_smscenter/smscentersdk/src/main/java/com/foresee/ftcsp/smscenter/sdk/restdto/SmsRequest.java" timestamp="1516154083105">
+        <mark key="[" line="21" column="24" />
+        <mark key="]" line="21" column="29" />
+        <mark key="." line="21" column="29" />
+        <mark key="^" line="21" column="29" />
       </file>
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.ftcspmvc/0.0.4/com.foresee.ftcsp.public.ftcspmvc-0.0.4-sources.jar!/com/foresee/ftcsp/ftcspmvc/cache/CacheGet.java" timestamp="1516073999199" />
       <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.model/src/main/java/com/foresee/ftcsp/smscenter/manual/dto/TemplateConfig.java" timestamp="1516085999526" />
@@ -422,10 +422,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SmsSupplier</text>
+        <text>String</text>
       </register>
       <register name="-" type="4">
-        <text>SmsSupplier</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWxcPg==</text>
