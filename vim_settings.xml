@@ -72,6 +72,12 @@
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/resources/banner.txt" timestamp="1515637729170">
         <mark key="[" line="20" column="57" />
       </file>
+      <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.rest/src/main/resources/config/bootstrap.properties" timestamp="1516193326425">
+        <mark key="[" line="1" column="42" />
+        <mark key="]" line="1" column="44" />
+        <mark key="." line="1" column="44" />
+        <mark key="^" line="1" column="44" />
+      </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/common/WorkFlowUtils.java" timestamp="1516000833776">
         <mark key="[" line="254" column="56" />
       </file>
@@ -91,7 +97,7 @@
         <mark key="." line="149" column="15" />
         <mark key="^" line="135" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516188697225">
+      <file name="/Dummy.txt" timestamp="1516193213154">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -121,7 +127,7 @@
       <file name="D:/foresee/bpmpx/src/com/foresee/ftcsp/jvm/test01/JDBCTimeout.java" timestamp="1515855919249">
         <mark key="[" line="8" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1516188697219">
+      <file name="/fragment.java" timestamp="1516193213144">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -202,11 +208,11 @@
       <jump line="17" column="5" filename="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.service/src/test/java/com/foresee/ftcsp/smscenter/kit/DesKit.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>DEV</text>
       </register>
       <register name="-" type="4">
-        <text>spring.cloud.config.profile&quot;</text>
+        <text>DEV</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWxcPg==</text>
