@@ -75,11 +75,11 @@
         <mark key="." line="137" column="19" />
         <mark key="^" line="137" column="19" />
       </file>
-      <file name="D:/foresee/oauth/com.foresee.ftcsp.oauth.rest/src/test/java/com/foresee/ftcsp/oauth/rest/BaseBizTest.java" timestamp="1516174486749">
-        <mark key="[" line="37" column="9" />
-        <mark key="]" line="36" column="34" />
-        <mark key="." line="36" column="34" />
-        <mark key="^" line="36" column="34" />
+      <file name="D:/foresee/oauth/com.foresee.ftcsp.oauth.rest/src/test/java/com/foresee/ftcsp/oauth/rest/BaseBizTest.java" timestamp="1516175136656">
+        <mark key="[" line="51" column="82" />
+        <mark key="]" line="54" column="30" />
+        <mark key="." line="54" column="30" />
+        <mark key="^" line="54" column="30" />
       </file>
       <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.model/src/main/resources/com/foresee/ftcsp/smscenter/manual/dao/SmsSupplierExtMapper.xml" timestamp="1516028834879">
         <mark key="[" line="64" column="23" />
@@ -155,7 +155,7 @@
         <mark key="[" line="27" column="36" />
       </file>
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.core/0.0.2/com.foresee.ftcsp.public.core-0.0.2-sources.jar!/com/foresee/ftcsp/common/core/rest/client/FtcspInnerRestClient.java" timestamp="1516105590863" />
-      <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/java/com/foresee/ftcsp/gateway/controller/GatewayController.java" timestamp="1516105850911" />
+      <file name="D:/foresee/base/public/com.foresee.ftcsp.gateway/src/main/java/com/foresee/ftcsp/gateway/controller/GatewayController.java" timestamp="1516174613243" />
       <file name="D:/foresee/oauth/com.foresee.ftcsp.oauth.model/src/main/java/com/foresee/ftcsp/oauth/model/restdto/CodeRequest.java" timestamp="1516171290480">
         <mark key="[" line="49" column="11" />
         <mark key="]" line="49" column="11" />
@@ -434,8 +434,8 @@
       <jump line="17" column="5" filename="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.service/src/test/java/com/foresee/ftcsp/smscenter/kit/DesKit.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>RequestParam(required = false)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBib29sZWFuIHN1Y2Nlc3MgPSBmdGNzcFJlc3RDbGllbnQucG9zdCgiaHR0cDovLzE4My42Mi4yNTMuMTIyOjkwMDEvZ2F0ZXdheS9vYXV0aCIrIE91dHRlclVSTC5nZXRUb2tlbiwgZGF0YSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>RequestParam(required = false)</text>
@@ -444,7 +444,7 @@
         <text encoding="base64">XDxpbWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHBhcmFtcyA9CiAgICAgICAgICAgICAgICBJbW11dGFibGVNYXAub2YoImFwcElkIiwgIjAwMDEwNiIsICJ1cmwiLCAiaHR0cDovL2pkLmNvbS9hP2I9YyIsICJ1c2VySWQiLCB1c2VySWQpOwogICAgICAgIFN0cmluZyBkYXRhID0gSmFja3Nvbi50b0pzb24ocGFyYW1zKTsKICAgICAgICBib29sZWFuIHN1Y2Nlc3MgPSBmdGNzcFJlc3RDbGllbnQucG9zdCgiaHR0cDovLzE4My42Mi4yNTMuMTIyOjkwMDEvZ2F0ZXdheS9vYXV0aCIrIE91dHRlclVSTC5nZXRDb2RlLCBkYXRhKTsKCiAgICAgICAgaWYgKHN1Y2Nlc3MpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGZ0Y3NwUmVzdENsaWVudC5nZXRSZXNwb25zZUNvbnRlbnQoKSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIHN1Y2Nlc3MgPSBmdGNzcFJlc3RDbGllbnQucG9zdCgiaHR0cDovLzE4My42Mi4yNTMuMTIyOjkwMDEvZ2F0ZXdheS9vYXV0aCIrIE91dHRlclVSTC5nZXRUb2tlbiwgZGF0YSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
