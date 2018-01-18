@@ -93,7 +93,18 @@
         <mark key="." line="32" column="107" />
         <mark key="^" line="32" column="108" />
       </file>
+      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.dynamicdb/pom.xml" timestamp="1516271047239">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="8" column="18" />
+        <mark key="." line="8" column="18" />
+      </file>
       <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.common/src/main/java/com/foresee/ftcsp/workflow/misc/ErrorEnum.java" timestamp="1516237172841" />
+      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.dynamicdb/src/main/java/com/foresee/ftcsp/common/dynamicdb/DBRouter.java" timestamp="1516271106207">
+        <mark key="[" line="71" column="23" />
+        <mark key="]" line="71" column="23" />
+        <mark key="." line="71" column="23" />
+        <mark key="^" line="70" column="28" />
+      </file>
       <file name="D:/foresee/oauth/com.foresee.ftcsp.oauth.rest/pom.xml" timestamp="1516257978860">
         <mark key="[" line="48" column="21" />
         <mark key="]" line="48" column="20" />
@@ -229,48 +240,44 @@
       <jump line="17" column="5" filename="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.service/src/test/java/com/foresee/ftcsp/smscenter/kit/DesKit.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>dataSourceName</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>dataSourceName</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QENvbmRpdGlvbmFsT25Qcm9wZXJ0eSh2YWx1ZSA9IERydWlkREJDb25maWcuRU5BQkxFLCBtYXRjaElmTWlzc2luZyA9IHRydWUsIGhhdmluZ1ZhbHVlID0gInRydWUiKQo=</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQubm90TnVsbChkYXRhU291cmNlTmFtZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgRW52aXJvbm1lbnQgZW52OwoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>es5.cluster.name = elk
-# es集群节点, 多个用逗号隔开,如 10.10.0.204:9300, 10.10.0.206:9201
-es5.cluster.tcp.nodes = 10.10.0.204:9300
-# es http通信端口,多个用逗号隔开,如 10.10.0.204:9300, 10.10.0.206:9201
-es5.cluster.http.nodes = 10.10.0.204:9200</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBDb25kaXRpb25hbE9uUHJvcGVydHkodmFsdWUgPSBEcnVpZERCQ29uZmlnLkVOQUJMRSwgbWF0Y2hJZk1pc3NpbmcgPSB0cnVlLCBoYXZpbmdWYWx1ZSA9ICJ0cnVlIikK</text>
+        <text encoding="base64">ICAgICAgICBsb2FkTWV0YUZyb21Db25maWcoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBDb25kaXRpb25hbE9uUHJvcGVydHkodmFsdWUgPSBEcnVpZERCQ29uZmlnLkVOQUJMRSwgbWF0Y2hJZk1pc3NpbmcgPSB0cnVlLCBoYXZpbmdWYWx1ZSA9ICJ0cnVlIikK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBsb2FkTWV0YUZyb21Db25maWcoKSB7CiAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBtYXAgPSBuZXcgSGFzaE1hcCgpOwogICAgICAgIGZvcihJdGVyYXRvciBpdCA9ICgoQWJzdHJhY3RFbnZpcm9ubWVudCkgZW52KS5nZXRQcm9wZXJ0eVNvdXJjZXMoKS5pdGVyYXRvcigpOyBpdC5oYXNOZXh0KCk7ICkgewogICAgICAgICAgICBQcm9wZXJ0eVNvdXJjZSBwcm9wZXJ0eVNvdXJjZSA9IChQcm9wZXJ0eVNvdXJjZSkgaXQubmV4dCgpOwogICAgICAgICAgICBTdHJpbmcga2V5ID0gcHJvcGVydHlTb3VyY2UuZ2V0TmFtZSgpOwogICAgICAgICAgICBpZiAoIWtleS5zdGFydHNXaXRoKCJtdWx0aXBsZS5kYXRhc291cmNlIikpIHsKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGtleS5zdWIKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Zm9yZXNlZTwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Y29tLmZvcmVzZWUuZnRjc3AucHVibGljLmRxdWVyeTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MC4wLjI8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Zm9yZXNlZTwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+Y29tLmZvcmVzZWUuZnRjc3AucHVibGljLmR5bmFtaWNkYjwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+MC4wLjI8L3ZlcnNpb24+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHByb3BlcnR5U291cmNlIGluc3RhbmNlb2YgTWFwUHJvcGVydHlTb3VyY2UpIHsKICAgICAgICAgICAgICAgIG1hcC5wdXRBbGwoKChNYXBQcm9wZXJ0eVNvdXJjZSkgcHJvcGVydHlTb3VyY2UpLmdldFNvdXJjZSgpKTsKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvcGVydHlTb3VyY2UuZ2V0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbnZpcm9ubWVudC4K</text>
       </register>
     </registers>
     <search>
