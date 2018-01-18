@@ -29,6 +29,7 @@
         <mark key="." line="32" column="107" />
         <mark key="^" line="32" column="108" />
       </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.common/src/main/java/com/foresee/ftcsp/workflow/misc/ErrorEnum.java" timestamp="1516237172841" />
       <file name="D:/foresee/core/archetype/src/main/resources/archetype-resources/__rootArtifactId__.rest/src/main/resources/logback-spring.xml" timestamp="1516192705585">
         <mark key="[" line="9" column="83" />
         <mark key="]" line="20" column="14" />
@@ -97,7 +98,7 @@
         <mark key="." line="149" column="15" />
         <mark key="^" line="135" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516193213154">
+      <file name="/Dummy.txt" timestamp="1516237745836">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -115,6 +116,9 @@
       <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.rest/src/main/java/com/foresee/ftcsp/smscenter/rest/SmsApplication.java" timestamp="1515987829734">
         <mark key="[" line="30" column="15" />
       </file>
+      <file name="D:/foresee/core/public/pom.xml" timestamp="1516238322339">
+        <mark key="[" line="35" column="21" />
+      </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/config/FtcspRestControllerAspect.java" timestamp="1516190836150">
         <mark key="[" line="95" column="97" />
         <mark key="]" line="96" column="55" />
@@ -127,9 +131,15 @@
       <file name="D:/foresee/bpmpx/src/com/foresee/ftcsp/jvm/test01/JDBCTimeout.java" timestamp="1515855919249">
         <mark key="[" line="8" column="26" />
       </file>
+      <file name="D:/foresee/oauth/com.foresee.ftcsp.oauth.service/src/main/java/com/foresee/ftcsp/oauth/config/ErrorEnum.java" timestamp="1516237748201">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1516193213144">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.awsapi/pom.xml" timestamp="1516238629685" />
     </filemarks>
     <jumps>
       <jump line="15" column="0" filename="D:/foresee/base/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/url/InnerURL.java" />
@@ -208,11 +218,11 @@
       <jump line="17" column="5" filename="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.service/src/test/java/com/foresee/ftcsp/smscenter/kit/DesKit.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>DEV</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFBBR0VfSU5ERVhfT1VUX09GX0JPVU5EUygiMTcwMTAwMTIiLCAit9bSs9Kzwuu089ChtO3O86Osx+vK5Mjr1f3It7XE0rPC6yIpLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>DEV</text>
+        <text>getErrorMsg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWxcPg==</text>
@@ -221,31 +231,31 @@
         <text encoding="base64">ICAgICAgICBTdHJpbmcgcHJvZmlsZSA9IGVudi5nZXRQcm9wZXJ0eSgic3ByaW5nLmNsb3VkLmNvbmZpZy5wcm9maWxlIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFBBR0VfSU5ERVhfT1VUX09GX0JPVU5EUygiMTcwMTAwMTIiLCAit9bSs9Kzwuu089ChtO3O86Osx+vK5Mjr1f3It7XE0rPC6yIpLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXJyb3IoIsqnsNyxqL6vMTExMzMzIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBoZWFkID0gRXJyb3JFbnVtLkFXU19FUlJPUi50b1Jlc3BvbnNlKCK+08i7sai07SIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYmFzZVJlc3BvbnNlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcXVlcnlTdHJpbmcK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFJlc3RSZXNwb25zZSgiMDExMDExOSIsICLRvSzPtc2zs/bP1sHLtePQoc7KzOIsx+vJ1Lrz1NnK1CIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBCYXNlUmVzcG9uc2UuSGVhZCBoZWFkID0gbmV3IEJhc2VSZXNwb25zZS5IZWFkKCk7CiAgICAgICAgaGVhZC5zZXRFcnJvckNvZGUodGhpcy5lcnJvckNvZGUpOwogICAgICAgIGhlYWQuc2V0RXJyb3JNc2cobWVzc2FnZSk7CiAgICAgICAgQmFzZVJlc3BvbnNlIGJhc2VSZXNwb25zZSA9IG5ldyBCYXNlUmVzcG9uc2UoKTsKICAgICAgICBiYXNlUmVzcG9uc2Uuc2V0SGVhZChoZWFkKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29kZSA9IG9BdXRoU2VydmljZS5nZXRDb2RlKGNvZGVSZXF1ZXN0KTsKICAgICAgICBDb2RlUmVzcG9uc2UgY29kZVJlc3BvbnNlID0gbmV3IENvZGVSZXNwb25zZSgpLnNldENvZGUoY29kZSk7Cg==</text>
+        <text encoding="base64">ICAgIFRBU0tfTk9ORVhJU1RFTkNFKCIxNzAyMDAwNiIsICK4w8jOzvGyu7Tm1NoiKSwKICAgIFRBU0tfSVNfQ0xPU0UoIjE3MDIwMDA4IiwgIsjOzvHS0b3hyvgiKSwKCiAgICBVU0VSX0FXU19FUlJPUigiMTcwNjAwMDkiKSwKICAgIFVTRVJfTk9fUEVSTUlTU0lPTigiMTcwMjAwMDUiLCAi08O7p8O709DIqM/eIiksCgogICAgQ09QWV9CRUFOX01PREVMX0VSUk9SKCIxNzAxMDAxMyIpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">zqq/1Qo=</text>
+        <text encoding="base64">ICAgIFBST0NFU1NfRU5EKCIwMDA1MDAyMyIsICJ0b2tlbtLRyqfQp6Os0enWpHRva2Vuyqew3CIpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIE1EQy5wdXQoInJlcXVlc3RJZCIsIHJlcXVlc3RJZCk7Cg==</text>
+        <text encoding="base64">ICAgIFRBU0tfQVdTX0VSUk9SKCIxNzAyMDAwMyIpLAo=</text>
       </register>
     </registers>
     <search>
