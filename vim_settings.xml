@@ -24,11 +24,11 @@
       <file name="/a.dummy" timestamp="1516278537858">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/foresee/bpmpx/src/com/foresee/ftcsp/awsapi/rest/RestApi.java" timestamp="1516780325443">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="41" column="71" />
-        <mark key="." line="34" column="0" />
+      <file name="D:/foresee/bpmpx/src/com/foresee/ftcsp/awsapi/rest/RestApi.java" timestamp="1516782821745">
+        <mark key="[" line="43" column="49" />
+        <mark key="]" line="49" column="19" />
+        <mark key="^" line="49" column="19" />
+        <mark key="." line="49" column="19" />
       </file>
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.ftcspmvc/0.0.2/com.foresee.ftcsp.public.ftcspmvc-0.0.2-sources.jar!/com/foresee/ftcsp/ftcspmvc/config/FtcspAspectConfiguration.java" timestamp="1516612754800" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/1.1.0.RELEASE/spring-cloud-commons-1.1.0.RELEASE.jar!/META-INF/MANIFEST.MF" timestamp="1516604233262" />
@@ -192,6 +192,11 @@
       <file name="D:/foresee/third-proxy/com.foresee.ftcsp.third-proxy.rest/src/main/resources/logback-spring.xml" timestamp="1516608629721" />
       <file name="D:/foresee/third-proxy/com.foresee.ftcsp.third-proxy.rest/src/main/java/com/foresee/ftcsp/thirdproxy/rest/url/FrontURL.java" timestamp="1516608706075" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/1.3.1.RELEASE/spring-cloud-commons-1.3.1.RELEASE-sources.jar!/org/springframework/cloud/client/loadbalancer/LoadBalancerRetryProperties.java" timestamp="1516613626306" />
+      <file name="D:/foresee/oauth/com.foresee.ftcsp.oauth.rest/src/main/java/com/foresee/ftcsp/oauth/rest/Demo.java" timestamp="1516781696138">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="D:/foresee/oauth/com.foresee.ftcsp.oauth.rest/src/test/java/com/foresee/ftcsp/oauth/rest/outter/UserSerivceTest.java" timestamp="1516275001783">
         <mark key="[" line="29" column="19" />
         <mark key="]" line="33" column="3" />
@@ -409,6 +414,11 @@
       </file>
       <file name="D:/foresee/oauth/com.foresee.ftcsp.oauth.rest/src/main/java/com/foresee/ftcsp/oauth/rest/Application.java" timestamp="1516096956888">
         <mark key="[" line="28" column="16" />
+      </file>
+      <file name="D:/foresee/oauth/com.foresee.ftcsp.oauth.rest/src/main/java/com/foresee/ftcsp/oauth/rest/OaDemo.java" timestamp="1516783642500">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/client/FtcspInnerRestClient.java" timestamp="1516678747598">
         <mark key="[" line="278" column="0" />
@@ -660,7 +670,7 @@
         <mark key="." line="46" column="0" />
       </file>
       <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.daemon/src/main/resources/dev/app.properties" timestamp="1516696879245" />
-      <file name="/fragment.java" timestamp="1516779602179">
+      <file name="/fragment.java" timestamp="1516782371326">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -742,10 +752,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXMuYXNNYXAoKQo=</text>
+        <text encoding="base64">ICAgICAgICBGdGNzcFJlc3RDbGllbnQgZnRjc3BSZXN0Q2xpZW50ID0gbmV3IEZ0Y3NwUmVzdENsaWVudCgiMDAwMTA2Iik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>helloH5</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWxcPg==</text>
@@ -754,31 +764,31 @@
         <text encoding="base64">ICAgIEBNYXBwaW5nKHZhbHVlID0gImNvbS5hY3Rpb25zb2Z0LmFwcHMuZm9yZXNlZS5yZWltbWFuYWdlcl9vcGVuUHJvY2Vzc0J5TW9iaWxlIiwKICAgICAgICAgICAgc2Vzc2lvbiA9IGZhbHNlLCBub1Nlc3Npb25FdmFsdWF0ZSA9ICLO3rCyyKvS/ru8Iiwgbm9TZXNzaW9uUmVhc29uID0gItbQvemw5szhvbuxqM/6vdO/2iIpCiAgICBwdWJsaWMgU3RyaW5nIG9wZW5Qcm9jZXNzQnlNb2JpbGUoUmVxdWVzdFBhcmFtcyBwYXJhbXMpIHsKICAgICAgICBwYXJhbXMuYXNNYXAoKQogICAgICAgIFN0cmluZyBuYW1lID0gcGFyYW1zLmdldCgibmFtZSIpOwogICAgICAgIGludCBhZ2UgPSBwYXJhbXMuZ2V0SW50KCJhZ2UiKTsKICAgICAgICByZXR1cm4gbmFtZSArIGFnZTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXMuYXNNYXAoKQo=</text>
+        <text encoding="base64">ICAgICAgICBGdGNzcFJlc3RDbGllbnQgZnRjc3BSZXN0Q2xpZW50ID0gbmV3IEZ0Y3NwUmVzdENsaWVudCgiMDAwMTA2Iik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXMuYXNNYXAoKQogICAgICAgIFN0cmluZyBuYW1lID0gcGFyYW1zLmdldCgibmFtZSIpOwogICAgICAgIGludCBhZ2UgPSBwYXJhbXMuZ2V0SW50KCJhZ2UiKTsK</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIHN1Y2Nlc3MgPSBmdGNzcFJlc3RDbGllbnQucG9zdCh1cmwsIGRhdGEpOwogICAgICAgIGlmIChzdWNjZXNzKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihmdGNzcFJlc3RDbGllbnQuZ2V0UmVzcG9uc2VDb250ZW50KCkpOwogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJPHNjb3BlPnJ1bnRpbWU8L3Njb3BlPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJPHZlcnNpb24+cnU8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgKChGdGNzcFJ1bnRpbWVFeGNlcHRpb24pIHRocm93YWJsZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmFtZSArIGFnZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbXMuYXNNYXAoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgQFBvaW50Y3V0KCJleGVjdXRpb24oKiBjb20uZm9yZXNlZS5mdGNzcC4ucmVzdC4uKi4qKC4uKSkgJiYgQGFubm90YXRpb24ob3JnLnNwcmluZ2ZyYW1ld29yay53ZWIuYmluZC5hbm5vdGF0aW9uLlJlcXVlc3RNYXBwaW5nKSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbXMuYXNNYXAoKQogICAgICAgIFN0cmluZyBuYW1lID0gcGFyYW1zLmdldCgibmFtZSIpOwogICAgICAgIGludCBhZ2UgPSBwYXJhbXMuZ2V0SW50KCJhZ2UiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">CQkJPHNjb3BlPnJ1bnRpbWU8L3Njb3BlPgo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBTdHJpbmcgcXMgPSAiYXBwSWQ9MDAwMTI3JnVzZXJJZD1udWxsJnNlc3Npb25JZD1udWxsJnJlcXVlc3RJZD1mMTAwZTU0OTkwOGQ0ZWY2OTE3Y2RiMzExNTMyNjY4NyZyZWRpcmVjdF91cmk9aHR0cDovL3d3dy5iYWlkdS5jb20lMjAmcmVzcG9uc2VfdHlwZT1jb2RlJnN0YXRlPTEyMzQ1NiNub25lIjsKCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHFzLnJlcGxhY2VBbGwoInVzZXJJZD1udWxsKCYpPyIsICIiKQogICAgICAgICAgICAgICAgLnJlcGxhY2VBbGwoInNlc3Npb25JZD1udWxsKCYpPyIsICIiKSk7CiAgICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJPHZlcnNpb24+cnU8L3ZlcnNpb24+Cg==</text>
       </register>
     </registers>
     <search>
