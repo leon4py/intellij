@@ -19,6 +19,7 @@
         <mark key="]" line="1" column="42" />
         <mark key="." line="1" column="42" />
       </file>
+      <file name="E:/Actionsoft/aws62lib/fastjson-1.2.29.jar!/com/alibaba/fastjson/JSONObject.class" timestamp="1517220783461" />
       <file name="D:/foresee/bpmpx/ext/cas.js" timestamp="1517190251247">
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="0" />
@@ -227,6 +228,8 @@
         <mark key="^" line="48" column="22" />
         <mark key="." line="48" column="22" />
       </file>
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.plugin/src/main/java/com/foresee/ftcsp/workflow/listener/TaskListener.java" timestamp="1517219102062" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.plugin/src/main/java/com/foresee/ftcsp/workflow/plugin/Plugin.java" timestamp="1517219045081" />
       <file name="D:/foresee/oauth/com.foresee.ftcsp.oauth.api/pom.xml" timestamp="1516606246438">
         <mark key="[" line="7" column="17" />
         <mark key="]" line="7" column="18" />
@@ -280,6 +283,11 @@
         <mark key="]" line="32" column="27" />
         <mark key="." line="32" column="27" />
         <mark key="^" line="20" column="9" />
+      </file>
+      <file name="D:/foresee/bpmpx/aws62/src/com/foresee/ftcsp/guangdong/TaskListener.java" timestamp="1517221616633">
+        <mark key="[" line="53" column="49" />
+        <mark key="]" line="67" column="19" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/auth/config/DataSourceAspect.java" timestamp="1516614597936">
         <mark key="[" line="21" column="27" />
@@ -380,6 +388,13 @@
         <mark key="]" line="17" column="45" />
         <mark key="^" line="17" column="45" />
         <mark key="." line="17" column="45" />
+      </file>
+      <file name="D:/foresee/bpmpx/aws62/src/com/foresee/ftcsp/guangdong/TaskState.java" timestamp="1517221014658">
+        <mark key="'" line="12" column="1" />
+        <mark key="[" line="33" column="26" />
+        <mark key="]" line="33" column="29" />
+        <mark key="^" line="33" column="29" />
+        <mark key="." line="33" column="29" />
       </file>
       <file name="D:/foresee/oauth/com.foresee.ftcsp.oauth.service/pom.xml" timestamp="1516274359403">
         <mark key="[" line="32" column="51" />
@@ -592,6 +607,11 @@
         <mark key="." line="40" column="25" />
         <mark key="^" line="40" column="25" />
       </file>
+      <file name="D:/foresee/bpmpx/aws62/src/com/foresee/ftcsp/guangdong/Plugin.java" timestamp="1517219187058">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.model/src/main/java/com/foresee/ftcsp/smscenter/manual/dao/SmsSupplierExtMapper.java" timestamp="1516028793893">
         <mark key="[" line="31" column="31" />
         <mark key="]" line="31" column="31" />
@@ -616,10 +636,10 @@
         <mark key="^" line="44" column="52" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1517103946720">
+      <file name="/fragment.java" timestamp="1517221208061">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="13" />
       </file>
     </filemarks>
@@ -703,46 +723,48 @@
       <jump line="2" column="131" filename="D:/foresee/bpmpx/ext/cas.js" />
       <jump line="93" column="8" filename="D:/foresee/bpmpx/src/com/foresee/ftcsp/awsapi/rest/RestApi.java" />
       <jump line="0" column="0" filename="D:/foresee/bpmpx/ext/cas.js" />
+      <jump line="29" column="63" filename="D:/foresee/bpmpx/aws62/src/com/foresee/ftcsp/guangdong/TaskState.java" />
+      <jump line="10" column="1" filename="D:/foresee/bpmpx/aws62/src/com/foresee/ftcsp/guangdong/TaskState.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDTyrz+t6LLzQo=</text>
       </register>
       <register name="-" type="4">
-        <text>MINUTES</text>
+        <text>sms</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydCA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwoKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDEwMDAwMDA7IGkrKykgewoKICAgICAgICAgICAgSnNvbktpdC50b1N0cmluZyhzbXNSZXF1ZXN0KTsKICAgICAgICB9CiAgICAgICAgZW5kID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGVuZC1zdGFydCk7Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBTTVNfTk9USUZZID0gInNtcyI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDTyrz+t6LLzQo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBtYXAgPSBuZXcgSGFzaE1hcDw+KCk7CiAgICAgICAgbWFwLnB1dCgibmFtZSIsICKzws7EwfoiKTsKICAgICAgICBtYXAucHV0KCJhZ2UiLCA4MCk7CgogICAgICAgIENvbmZpZy5JTlNUQU5DRS5lc2NhcGVVbmljb2RlKCk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKEpzb25LaXQudG9TdHJpbmcobWFwKSk7CiAgICB9</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmYWN0b3J5LnNldENvbXByZXNzaW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoMSwgKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IG1hcCA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgICBtYXAucHV0KCJuYW1lIiwgIrPCzsTB+iIpOwogICAgICAgIG1hcC5wdXQoImFnZSIsIDgwKTsKCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKEpzb25LaXQudG9TdHJpbmcobWFwKSk7CiAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBsb2dnZXIuaW5mbygiztK84Mz9tb0gLS0tLS0tLS0+IFsiICsgc3RhdGUgKyAiXSIgKyB0YXNrSW5zdGFuY2UuZ2V0UGFyZW50VGFza0luc3RJZCgpICsgIiA6IiArIGNyZWF0ZWQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxwcm9wZXJ0aWVzPgogICAgICAgIDxtYXZlbi5jb21waWxlci5zb3VyY2U+MS42PC9tYXZlbi5jb21waWxlci5zb3VyY2U+CiAgICAgICAgPG1hdmVuLmNvbXBpbGVyLnRhcmdldD4xLjY8L21hdmVuLmNvbXBpbGVyLnRhcmdldD4KICAgICAgICA8cHJvamVjdC5idWlsZC5zb3VyY2VFbmNvZGluZz5VVEYtODwvcHJvamVjdC5idWlsZC5zb3VyY2VFbmNvZGluZz4KICAgIDwvcHJvcGVydGllcz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gyMu5pLeixvAKLyogICAgICAgICAgICBpZiAoU3RyaW5nVXRpbHMuZXF1YWxzKHRhc2tJbnN0YW5jZS5nZXRPd25lcigpLCB0YXNrSW5zdGFuY2UuZ2V0VGFyZ2V0KCkpKSB7CiAgICAgICAgICAgICAgICBsb2dnZXIud2FybigiyM7O8beixvDIy7rNvdPK3MjLtrzKx82s0ru49sjLLCDM+Ln9LCDIzs7xyMs6e30iLCB0YXNrSW5zdGFuY2UuZ2V0VGFyZ2V0KCkpOwogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9Ki8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICYmIHRhc2tJbnN0YW5jZS5nZXRQYXJlbnRUYXNrSW5zdElkKCkuZXF1YWxzKFRhc2tTdGF0ZS5GSVJTVF9QQVJFTlRfVEFTSykK</text>
       </register>
     </registers>
     <search>
