@@ -326,6 +326,12 @@
         <mark key="." line="62" column="18" />
         <mark key="^" line="62" column="18" />
       </file>
+      <file name="D:/foresee/oauth/com.foresee.ftcsp.oauth.rest/src/main/java/com/foresee/ftcsp/oauth/rest/Main.java" timestamp="1517989379123">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="8" column="186" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/RestControllerInterceptor.java" timestamp="1517974332488" />
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/auth/config/DataSourceAspect.java" timestamp="1516614597936">
         <mark key="[" line="21" column="27" />
@@ -844,7 +850,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBSIGludm9rZShDYWxsYWJsZTxSPiBjYWxsYWJsZSkgewogICAgfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>foresee</text>
@@ -856,31 +862,36 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlc3RDbGllbnRDb21tYW5kICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIHJldHVybiByZXN0Q2xpZW50Q29tbWFuZDsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBSIGludm9rZShDYWxsYWJsZTxSPiBjYWxsYWJsZSkgewogICAgfQoK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmV4ZWN1dGUoKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBhcHBsaWNhdGlvbkNvbnRleHQuZ2V0RW52aXJvbm1lbnQoKS5nZXRQcm9wZXJ0eShob3N0KyIuIitIeXN0cml4Q29uc3RhbnRzLikK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVzdENsaWVudENvbW1hbmQgcmVzdENsaWVudENvbW1hbmQgPSByZXN0Q29uZmlnQ2FjaGUuZ2V0SWZQcmVzZW50KGhvc3QpOwogICAgICAgICAgICBpZiAocmVzdENsaWVudENvbW1hbmQgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgcmV0dXJuIHJlc3RDbGllbnRDb21tYW5kOwogICAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text>/**
+ * Main
+ *
+ * @author chenwenlong@foresee.com.cn
+ * @version 1.0
+ */</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBSIGludm9rZShDYWxsYWJsZTxSPiBjYWxsYWJsZSkgewogICAgfQoK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmV4ZWN1dGUoKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBhcHBsaWNhdGlvbkNvbnRleHQuZ2V0RW52aXJvbm1lbnQoKS5nZXRQcm9wZXJ0eShob3N0KyIuIitIeXN0cml4Q29uc3RhbnRzLikK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFN0cmluCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVzdENsaWVudENvbW1hbmQgcmVzdENsaWVudENvbW1hbmQgPSByZXN0Q29uZmlnQ2FjaGUuZ2V0SWZQcmVzZW50KGhvc3QpOwogICAgICAgICAgICBpZiAocmVzdENsaWVudENvbW1hbmQgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgcmV0dXJuIHJlc3RDbGllbnRDb21tYW5kOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBSZXN0Q2xpZW50Q29tbWFuZCByZXN0Q2xpZW50Q29tbWFuZCA9IHJlc3RDb25maWdDYWNoZS5nZXRJZlByZXNlbnQodXJsKTsKICAgICAgICBpZiAocmVzdENsaWVudENvbW1hbmQgIT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm4gcmVzdENsaWVudENvbW1hbmQ7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIFN0cmluCg==</text>
       </register>
     </registers>
     <search>
