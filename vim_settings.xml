@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/foresee/oauth/pom.xml" timestamp="1516774868912">
-        <mark key="[" line="32" column="21" />
-        <mark key="]" line="33" column="7" />
-        <mark key="^" line="33" column="7" />
-        <mark key="." line="33" column="7" />
+      <file name="D:/foresee/oauth/pom.xml" timestamp="1518073612015">
+        <mark key="[" line="61" column="26" />
+        <mark key="]" line="21" column="25" />
+        <mark key="^" line="21" column="25" />
+        <mark key="." line="21" column="25" />
       </file>
       <file name="/a.dummy" timestamp="1518061546575">
         <mark key="[" line="0" column="0" />
@@ -30,6 +30,7 @@
         <mark key="." line="12" column="17" />
         <mark key="^" line="12" column="17" />
       </file>
+      <file name="D:/foresee/oauth/com.foresee.ftcsp.oauth.rest/src/main/resources/dev/app.properties" timestamp="1518071710596" />
       <file name="D:/foresee/ftcsp_smscenter/smscentersdk/src/main/java/com/foresee/ftcsp/smscenter/kit/DesKit.java" timestamp="1516862076856">
         <mark key="[" line="57" column="9" />
         <mark key="]" line="58" column="41" />
@@ -90,7 +91,7 @@
         <mark key="^" line="12" column="42" />
         <mark key="." line="12" column="42" />
       </file>
-      <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.rest/src/main/resources/dev/app.properties" timestamp="1518062461885" />
+      <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.rest/src/main/resources/dev/app.properties" timestamp="1518071381202" />
       <file name="D:/foresee/oauth/com.foresee.ftcsp.oauth.rest/src/test/java/com/foresee/ftcsp/oauth/rest/outter/OAuthControllerTest.java" timestamp="1516155620162">
         <mark key="[" line="27" column="31" />
         <mark key="]" line="27" column="31" />
@@ -188,11 +189,6 @@
         <mark key="^" line="68" column="36" />
         <mark key="." line="68" column="36" />
       </file>
-      <file name="D:/foresee/userCenter/com.foresee.ftcsp.userCenter.rest/src/main/java/com/foresee/ftcsp/userCenter/UserCenterApplication.java" timestamp="1518061626786">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
       <file name="D:/foresee/oauth/com.foresee.ftcsp.oauth.rest/src/test/java/com/foresee/ftcsp/oauth/rest/outter/UserSerivceTest.java" timestamp="1516275001783">
         <mark key="[" line="29" column="19" />
         <mark key="]" line="33" column="3" />
@@ -217,23 +213,28 @@
         <mark key="^" line="25" column="26" />
         <mark key="." line="25" column="26" />
       </file>
-      <file name="D:/foresee/userCenter/pom.xml" timestamp="1518066681203">
+      <file name="D:/foresee/userCenter/pom.xml" timestamp="1518072593713">
         <mark key="[" line="39" column="26" />
         <mark key="]" line="39" column="25" />
         <mark key="." line="39" column="25" />
         <mark key="^" line="39" column="25" />
       </file>
-      <file name="D:/foresee/userCenter/com.foresee.ftcsp.userCenter.rest/src/main/resources/app.properties" timestamp="1518065945790">
+      <file name="D:/foresee/oauth/com.foresee.ftcsp.oauth.rest/src/main/java/com/foresee/ftcsp/oauth/OAuthIDEApplication.java" timestamp="1518074379518">
+        <mark key="[" line="32" column="27" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="D:/foresee/userCenter/com.foresee.ftcsp.userCenter.rest/src/main/resources/app.properties" timestamp="1518072965154">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="59" column="52" />
         <mark key="^" line="59" column="52" />
         <mark key="." line="59" column="52" />
       </file>
-      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/db/ForeseeDBConfig.java" timestamp="1518062440201">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="21" column="14" />
-        <mark key="^" line="21" column="14" />
-        <mark key="." line="21" column="14" />
+      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/db/ForeseeDBConfig.java" timestamp="1518074518135">
+        <mark key="[" line="16" column="14" />
+        <mark key="]" line="17" column="96" />
+        <mark key="^" line="17" column="96" />
+        <mark key="." line="17" column="96" />
       </file>
       <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.daemon/src/main/java/com/foresee/ftcsp/smscenter/daemon/SmsSendlogConsumer.java" timestamp="1515986477038">
         <mark key="[" line="62" column="22" />
@@ -247,7 +248,7 @@
         <mark key="." line="7" column="18" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.database/src/main/java/com/foresee/ftcsp/common/database/conf/DruidDBConfig.java" timestamp="1516868688053">
+      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.database/src/main/java/com/foresee/ftcsp/common/database/conf/DruidDBConfig.java" timestamp="1518074507321">
         <mark key="[" line="22" column="90" />
         <mark key="]" line="22" column="94" />
         <mark key="^" line="22" column="94" />
@@ -352,6 +353,7 @@
         <mark key="." line="21" column="29" />
         <mark key="^" line="21" column="29" />
       </file>
+      <file name="D:/foresee/userCenter/com.foresee.ftcsp.userCenter.rest/src/main/resources/banner.txt" timestamp="1518072880415" />
       <file name="D:/foresee/core/archetype/src/main/resources/archetype-resources/__rootArtifactId__.rest/pom.xml" timestamp="1517984465859">
         <mark key="[" line="58" column="36" />
         <mark key="]" line="58" column="49" />
@@ -400,7 +402,7 @@
         <mark key="^" line="17" column="45" />
         <mark key="." line="17" column="45" />
       </file>
-      <file name="D:/foresee/userCenter/com.foresee.ftcsp.userCenter.rest/src/main/resources/config/bootstrap.properties" timestamp="1518065615085">
+      <file name="D:/foresee/userCenter/com.foresee.ftcsp.userCenter.rest/src/main/resources/config/bootstrap.properties" timestamp="1518072859915">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -435,11 +437,11 @@
         <mark key="." line="58" column="24" />
         <mark key="^" line="33" column="7" />
       </file>
-      <file name="D:/foresee/oauth/com.foresee.ftcsp.oauth.rest/pom.xml" timestamp="1517991478614">
-        <mark key="[" line="137" column="35" />
-        <mark key="]" line="137" column="49" />
-        <mark key="^" line="137" column="49" />
-        <mark key="." line="137" column="49" />
+      <file name="D:/foresee/oauth/com.foresee.ftcsp.oauth.rest/pom.xml" timestamp="1518073437944">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="78" column="49" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="D:/foresee/bpmpx/aws62/src/com/foresee/ftcsp/guangdong/kit/SmsKit.java" timestamp="1517282854077">
         <mark key="[" line="10" column="10" />
@@ -458,11 +460,6 @@
         <mark key="]" line="30" column="18" />
         <mark key="^" line="30" column="18" />
         <mark key="." line="30" column="18" />
-      </file>
-      <file name="D:/foresee/oauth/com.foresee.ftcsp.oauth.rest/src/main/java/com/foresee/ftcsp/oauth/rest/OAuthController.java" timestamp="1518059022249">
-        <mark key="[" line="75" column="26" />
-        <mark key="]" line="126" column="0" />
-        <mark key="." line="126" column="0" />
       </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/pom.xml" timestamp="1518062104204">
         <mark key="[" line="8" column="18" />
@@ -518,7 +515,7 @@
         <mark key="^" line="30" column="42" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.database/src/main/java/com/foresee/ftcsp/common/database/conf/MybatisDataSource.java" timestamp="1516870475627">
+      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.database/src/main/java/com/foresee/ftcsp/common/database/conf/MybatisDataSource.java" timestamp="1518074478063">
         <mark key="[" line="32" column="97" />
         <mark key="]" line="32" column="74" />
         <mark key="^" line="32" column="74" />
@@ -536,11 +533,11 @@
         <mark key="." line="34" column="19" />
         <mark key="^" line="34" column="19" />
       </file>
-      <file name="D:/foresee/oauth/com.foresee.ftcsp.oauth.rest/src/main/resources/config/bootstrap.properties" timestamp="1517990946299">
-        <mark key="[" line="5" column="33" />
-        <mark key="]" line="6" column="24" />
-        <mark key="." line="6" column="24" />
-        <mark key="^" line="6" column="24" />
+      <file name="D:/foresee/oauth/com.foresee.ftcsp.oauth.rest/src/main/resources/config/bootstrap.properties" timestamp="1518074487883">
+        <mark key="[" line="3" column="42" />
+        <mark key="]" line="3" column="41" />
+        <mark key="." line="3" column="41" />
+        <mark key="^" line="3" column="41" />
       </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/test/java/com/foresee/ftcsp/common/core/rest/client/FtcspInnerRestClientTest.java" timestamp="1517966654273">
         <mark key="[" line="46" column="0" />
@@ -572,7 +569,7 @@
         <mark key="." line="149" column="7" />
         <mark key="^" line="149" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518065946368">
+      <file name="/Dummy.txt" timestamp="1518074491393">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.service/src/test/resources/app.properties" timestamp="1515749125891">
@@ -599,12 +596,7 @@
         <mark key="." line="12" column="45" />
         <mark key="^" line="12" column="45" />
       </file>
-      <file name="D:/foresee/userCenter/com.foresee.ftcsp.userCenter.rest/src/main/java/com/foresee/ftcsp/userCenter/rest/UserCenterApplication.java" timestamp="1518061587055">
-        <mark key="]" line="29" column="42" />
-        <mark key="^" line="29" column="42" />
-        <mark key="." line="29" column="42" />
-      </file>
-      <file name="D:/foresee/userCenter/com.foresee.ftcsp.userCenter.rest/src/main/java/com/foresee/ftcsp/userCenter/UserCenterIDEApplication.java" timestamp="1518061639898" />
+      <file name="D:/foresee/userCenter/com.foresee.ftcsp.userCenter.rest/src/main/java/com/foresee/ftcsp/userCenter/UserCenterIDEApplication.java" timestamp="1518072789490" />
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/filter/AsyncFilter.java" timestamp="1516175957522">
         <mark key="[" line="53" column="16" />
         <mark key="]" line="53" column="42" />
@@ -616,11 +608,6 @@
         <mark key="]" line="14" column="19" />
         <mark key="^" line="14" column="19" />
         <mark key="." line="14" column="19" />
-      </file>
-      <file name="D:/foresee/oauth/com.foresee.ftcsp.oauth.rest/src/main/resources/pro/app.properties" timestamp="1518060209155">
-        <mark key="[" line="11" column="38" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="D:/foresee/oauth/com.foresee.ftcsp.oauth.rest/src/main/resources/logback-spring.xml" timestamp="1517968470205">
         <mark key="[" line="1" column="63" />
@@ -688,7 +675,7 @@
         <mark key="^" line="44" column="52" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1518066345632">
+      <file name="/fragment.java" timestamp="1518074367524">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -781,7 +768,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Zm9yZXNlZTwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+Y29tLmZvcmVzZWUuZnRjc3AucHVibGljLmRhdGFiYXNlPC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj4wLjAuNDwvdmVyc2lvbj4KCQk8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -795,20 +782,20 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICA8cHJvZmlsZXM+CiAgICAgICAgPHByb2ZpbGU+CiAgICAgICAgICAgIDwhLS0gsb612L+qt6K7t76zIC0tPgogICAgICAgICAgICA8aWQ+ZGV2PC9pZD4KICAgICAgICAgICAgPHByb3BlcnRpZXM+CiAgICAgICAgICAgICAgICA8cHJvZmlsZXMuYWN0aXZlPmRldjwvcHJvZmlsZXMuYWN0aXZlPgogICAgICAgICAgICA8L3Byb3BlcnRpZXM+CiAgICAgICAgICAgIDxhY3RpdmF0aW9uPgogICAgICAgICAgICAgICAgPCEtLSDJ6NbDxKzIz7yku+7V4rj2xeTWwyAtLT4KICAgICAgICAgICAgICAgIDxhY3RpdmVCeURlZmF1bHQ+dHJ1ZTwvYWN0aXZlQnlEZWZhdWx0PgogICAgICAgICAgICA8L2FjdGl2YXRpb24+CiAgICAgICAgPC9wcm9maWxlPgogICAgICAgIDxwcm9maWxlPgogICAgICAgICAgICA8IS0tILLiytS7t76zIC0tPgogICAgICAgICAgICA8aWQ+dGVzdDwvaWQ+CiAgICAgICAgICAgIDxwcm9wZXJ0aWVzPgogICAgICAgICAgICAgICAgPHByb2ZpbGVzLmFjdGl2ZT50ZXN0PC9wcm9maWxlcy5hY3RpdmU+CiAgICAgICAgICAgIDwvcHJvcGVydGllcz4KICAgICAgICA8L3Byb2ZpbGU+CiAgICAgICAgPHByb2ZpbGU+CiAgICAgICAgICAgIDwhLS0g1KS3orK8u7e+syAtLT4KICAgICAgICAgICAgPGlkPnByPC9pZD4KICAgICAgICAgICAgPHByb3BlcnRpZXM+CiAgICAgICAgICAgICAgICA8cHJvZmlsZXMuYWN0aXZlPnByPC9wcm9maWxlcy5hY3RpdmU+CiAgICAgICAgICAgIDwvcHJvcGVydGllcz4KICAgICAgICA8L3Byb2ZpbGU+CiAgICAgICAgPHByb2ZpbGU+CiAgICAgICAgICAgIDwhLS0gyfqy+ru3vrMgLS0+CiAgICAgICAgICAgIDxpZD5wcm88L2lkPgogICAgICAgICAgICA8cHJvcGVydGllcz4KICAgICAgICAgICAgICAgIDxwcm9maWxlcy5hY3RpdmU+cHJvPC9wcm9maWxlcy5hY3RpdmU+CiAgICAgICAgICAgIDwvcHJvcGVydGllcz4KICAgICAgICA8L3Byb2ZpbGU+CiAgICAgICAgPHByb2ZpbGU+CiAgICAgICAgICAgIDwhLS0gxeDRtSAtLT4KICAgICAgICAgICAgPGlkPnB4PC9pZD4KICAgICAgICAgICAgPHByb3BlcnRpZXM+CiAgICAgICAgICAgICAgICA8cHJvZmlsZXMuYWN0aXZlPnB4PC9wcm9maWxlcy5hY3RpdmU+CiAgICAgICAgICAgIDwvcHJvcGVydGllcz4KICAgICAgICA8L3Byb2ZpbGU+CiAgICA8L3Byb2ZpbGVzPg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CTwhLS0gPz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/PyAtLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QFByb3BlcnR5U291cmNlKCJjbGFzc3BhdGg6YXBwLnByb3BlcnRpZXMiKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">PHJlc291cmNlcz4KICAgICAgICAgICAgPHJlc291cmNlPgogICAgICAgICAgICAgICAgPGRpcmVjdG9yeT5zcmMvbWFpbi9yZXNvdXJjZXM8L2RpcmVjdG9yeT4KICAgICAgICAgICAgICAgIDwhLS0g18rUtLj5xL/CvMXFs/2497u3vrO1xMXk1sOjrMq508O1pbbAtcTXytS0xL/CvMC01ri2qCAtLT4KICAgICAgICAgICAgICAgIDxleGNsdWRlcz4KICAgICAgICAgICAgICAgICAgICA8ZXhjbHVkZT50ZXN0Lyo8L2V4Y2x1ZGU+CiAgICAgICAgICAgICAgICAgICAgPGV4Y2x1ZGU+cHIvKjwvZXhjbHVkZT4KICAgICAgICAgICAgICAgICAgICA8ZXhjbHVkZT5wci8qPC9leGNsdWRlPgogICAgICAgICAgICAgICAgICAgIDxleGNsdWRlPnB4Lyo8L2V4Y2x1ZGU+CiAgICAgICAgICAgICAgICAgICAgPGV4Y2x1ZGU+ZGV2Lyo8L2V4Y2x1ZGU+CiAgICAgICAgICAgICAgICA8L2V4Y2x1ZGVzPgogICAgICAgICAgICA8L3Jlc291cmNlPgogICAgICAgICAgICA8cmVzb3VyY2U+CiAgICAgICAgICAgICAgICA8ZGlyZWN0b3J5PnNyYy9tYWluL3Jlc291cmNlcy8ke3Byb2ZpbGVzLmFjdGl2ZX08L2RpcmVjdG9yeT4KICAgICAgICAgICAgPC9yZXNvdXJjZT4KICAgICAgICA8L3Jlc291cmNlcz4=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">KgogKiA8cHJlPgogKiDJzMa3udzA7cSjv+nTptPDs8zQ8sb0tq/A4KGjoaMKICogPC9wcmU+CiAqCiAqIEBhdXRob3IgbGlueGpAZm9yZXNlZS5jb20uY24KICogQHZlcnNpb24gMS4wMC4wMAogKiA8cD4KICogPHByZT4KICog0N64xLzHwrwKICogICAg0N64xLrzsOaxvjogICAgINDeuMTIy6O6ICDQ3rjEyNXG2jogICAgINDeuMTE2sjdOgogKiAgICAgICAgICA8L3ByZT4KICogQGRhdGUgMjAxN8TqMDjUwjAzyNU=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -817,7 +804,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBSZWRpc1x1OTE0RFx1N0Y2RQo=</text>
+        <text encoding="base64">CTwhLS0gPz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/PyAtLT4K</text>
       </register>
     </registers>
     <search>
