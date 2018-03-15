@@ -9,7 +9,7 @@
       <file name="/a.dummy" timestamp="1518061546575">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/TaskController.java" timestamp="1521101913087">
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/TaskController.java" timestamp="1521104146108">
         <mark key="[" line="267" column="99" />
         <mark key="]" line="267" column="41" />
         <mark key="." line="267" column="41" />
@@ -63,10 +63,11 @@
         <mark key="^" line="71" column="8" />
         <mark key="." line="71" column="8" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/impl/TaskServiceImpl.java" timestamp="1521101649385">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/impl/TaskServiceImpl.java" timestamp="1521104296130">
+        <mark key="[" line="89" column="21" />
+        <mark key="]" line="80" column="8" />
+        <mark key="." line="80" column="8" />
+        <mark key="^" line="80" column="8" />
       </file>
       <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.service/src/main/java/com/foresee/ftcsp/smscenter/cache/KeyWrapper.java" timestamp="1515747659725">
         <mark key="[" line="48" column="5" />
@@ -201,11 +202,6 @@
         <mark key="^" line="68" column="36" />
         <mark key="." line="68" column="36" />
       </file>
-      <file name="D:/foresee/userCenter/com.foresee.ftcsp.userCenter.rest/src/main/java/com/foresee/ftcsp/userCenter/UserCenterApplication.java" timestamp="1521096308382">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
       <file name="D:/foresee/oauth/com.foresee.ftcsp.oauth.rest/src/test/java/com/foresee/ftcsp/oauth/rest/outter/UserSerivceTest.java" timestamp="1516275001783">
         <mark key="[" line="29" column="19" />
         <mark key="]" line="33" column="3" />
@@ -237,7 +233,7 @@
         <mark key="." line="39" column="25" />
         <mark key="^" line="39" column="25" />
       </file>
-      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/sdk/model/params/task/BaseTaskQuery.java" timestamp="1521099553556">
+      <file name="D:/foresee/workflow/com.foresee.ftcsp.workflow.sdk/src/main/java/com/foresee/ftcsp/workflow/sdk/model/params/task/BaseTaskQuery.java" timestamp="1521103620666">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="35" />
         <mark key="^" line="48" column="32" />
@@ -833,10 +829,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>BEGINTIME</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>BEGINTIME</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWxcPg==</text>
