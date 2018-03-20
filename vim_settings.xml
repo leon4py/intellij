@@ -456,11 +456,11 @@
         <mark key="^" line="8" column="186" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ext/src/main/resources/com/foresee/ftcsp/common/ext/dao/manual/ExtColumnMapper.xml" timestamp="1521510386228">
-        <mark key="[" line="16" column="17" />
-        <mark key="]" line="15" column="18" />
-        <mark key="." line="15" column="18" />
-        <mark key="^" line="15" column="18" />
+      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ext/src/main/resources/com/foresee/ftcsp/common/ext/dao/manual/ExtColumnMapper.xml" timestamp="1521511627686">
+        <mark key="[" line="17" column="19" />
+        <mark key="]" line="17" column="18" />
+        <mark key="." line="17" column="18" />
+        <mark key="^" line="17" column="18" />
       </file>
       <file name="D:/foresee/bpmpx/src/com/foresee/ftcsp/jvm/test01/Main.java" timestamp="1515854572171">
         <mark key="[" line="14" column="44" />
@@ -797,6 +797,12 @@
         <mark key="^" line="13" column="42" />
         <mark key="." line="13" column="42" />
       </file>
+      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ext/src/test/java/com/foresee/ftcsp/common/ext/dao/manual/ExtColumnMapperTest.java" timestamp="1521511702453">
+        <mark key="[" line="40" column="26" />
+        <mark key="]" line="40" column="54" />
+        <mark key="^" line="40" column="54" />
+        <mark key="." line="40" column="54" />
+      </file>
       <file name="/Dummy.txt" timestamp="1521444533974">
         <mark key="[" line="0" column="0" />
       </file>
@@ -928,13 +934,13 @@
         <mark key="^" line="44" column="52" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1521451554275">
+      <file name="/fragment.java" timestamp="1521510422666">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="13" />
       </file>
-      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ext/src/main/java/com/foresee/ftcsp/common/ext/dao/manual/ExtColumnMapper.java" timestamp="1521509964337">
+      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ext/src/main/java/com/foresee/ftcsp/common/ext/dao/manual/ExtColumnMapper.java" timestamp="1521511711323">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="22" column="41" />
         <mark key="." line="22" column="41" />
@@ -1031,10 +1037,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Id</text>
+        <text>TestConfig</text>
       </register>
       <register name="-" type="4">
-        <text>Id</text>
+        <text>TestConfig</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWxcPg==</text>
@@ -1043,31 +1049,31 @@
         <text encoding="base64">ICAgICAgICAjY29sdW1uSWQsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxpbnNlcnQgaWQ9InJlcGxhY2UiPgogICAgICAgIHJlcGxhY2UgaW50byAke3RhYmxlX25hbWV9KGV4dGVuZF9pZCwgdGFibGVfY29kZSwgZGF0YV9pZCwgY29sdW1uX2NvZGUsIGNvbHVtbl92YWx1ZSwgbWQ1KQogICAgICAgIFZBTFVFUyAoI3tleHRlbmRJZH0sICN7dGFibGVDb2RlfSwgI3tkYXRhSWR9LCAje2NvbHVtbkNvZGV9LCAje2NvbHVtblZhbHVlfSwgI3ttZDV9KQoKICAgIDwvaW5zZXJ0Pgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEBJbnNlcnQoImluc2VydCBpbnRvIHRfY29tbW9uX2V4dGVuZF9jb2x1bW4oY29sdW1uX2lkLCB0Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDxpbnNlcnQgaWQ9InJlcGxhY2UiPgogICAgICAgIHJlcGxhY2UgaW50byAke3RhYmxlX25hbWV9KGV4dGVuZF9pZCwgdGFibGVfY29kZSwgZGF0YV9pZCwgY29sdW1uX2NvZGUsIGNvbHVtbl92YWx1ZSwgbWQ1KQogICAgICAgIFZBTFVFUyAoI3tleHRlbmRJZH0sICN7dGFibGVDb2RlfSwgI3tkYXRhSWR9LCAje2NvbHVtbkNvZGV9LCAje2NvbHVtblZhbHVlfSwgI3ttZDV9KQoKICAgIDwvaW5zZXJ0Pgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBJbnNlcnQoImluc2VydCBpbnRvIHRfY29tbW9uX2V4dGVuZF9jb2x1bW4oY29sdW1uX2lkLCB0Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIExvZ2dlciBsb2dnZXIgPSBMb2dnZXJGYWN0b3J5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBzbXNDbGllbnQgPSBuZXcgU21zQ2xpZW50KCIwMDAxNDkiLCAiYmU5ZGE4NTQ2ZWQ5MjMiLCAiNjI5ZWVkZWI1M2JlZmM4NjdlMmZhZDYwMDU1M2RjMmUiKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIExvZ2dlciBsb2dnZXIgPSBMb2dnZXJGYWN0b3J5Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewovLyAgICAgICAgICAgIHNtc0NsaWVudCA9IG5ldyBTbXNDbGllbnQoIjAwMDE0OSIsICJiZTlkYTg1NDZlZDkyMyIsICI2MjllZWRlYjUzYmVmYzg2N2UyZmFkNjAwNTUzZGMyZSIpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBzbXNDbGllbnQgPSBuZXcgU21zQ2xpZW50KCIwMDAxNDkiLCAiYmU5ZGE4NTQ2ZWQ5MjMiLCAiNjI5ZWVkZWI1M2JlZmM4NjdlMmZhZDYwMDU1M2RjMmUiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKGV4LmdldE1lc3NhZ2UoKSxleC5nZXRTdGFja1RyYWNlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewovLyAgICAgICAgICAgIHNtc0NsaWVudCA9IG5ldyBTbXNDbGllbnQoIjAwMDE0OSIsICJiZTlkYTg1NDZlZDkyMyIsICI2MjllZWRlYjUzYmVmYzg2N2UyZmFkNjAwNTUzZGMyZSIpOwo=</text>
       </register>
     </registers>
     <search>
