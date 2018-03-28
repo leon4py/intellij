@@ -14,14 +14,33 @@
         <mark key="^" line="7" column="4" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="D:/foresee/ftcsp_smscenter/smscentersdk/pom.xml" timestamp="1522141802691">
-        <mark key="[" line="15" column="18" />
-      </file>
       <file name="D:/foresee/oauth/com.foresee.ftcsp.oauth.rest/src/main/java/com/foresee/ftcsp/oauth/rest/OAuthApplication.java" timestamp="1522132030306">
         <mark key="[" line="42" column="17" />
         <mark key="]" line="42" column="40" />
         <mark key="^" line="42" column="40" />
         <mark key="." line="42" column="40" />
+      </file>
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/auth/rest/inner/TokenInnerController.java" timestamp="1522204843171" />
+      <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.model/src/main/resources/generatorCode.bat" timestamp="1522201301957">
+        <mark key="[" line="2" column="0" />
+      </file>
+      <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.service/src/main/java/com/foresee/ftcsp/smscenter/service/impl/AliSmsSupplier.java" timestamp="1522134996988">
+        <mark key="[" line="44" column="66" />
+      </file>
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/auth/rest/back/UnifiedAuthResource.java" timestamp="1522204793607" />
+      <file name="D:/MyProgram/developer/Java/jdk1.8.0_162/src.zip!/java/io/File.java" timestamp="1522202207494" />
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/resources/config/bootstrap.properties" timestamp="1522205520281">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="30" column="44" />
+      </file>
+      <file name="D:/foresee/ftcsp_smscenter/smscentersdk/pom.xml" timestamp="1522141802691">
+        <mark key="[" line="15" column="18" />
+      </file>
+      <file name="D:/foresee/unifiedAuth/pom.xml" timestamp="1522205387447">
+        <mark key="[" line="100" column="26" />
+        <mark key="]" line="22" column="25" />
+        <mark key="^" line="22" column="25" />
+        <mark key="." line="22" column="25" />
       </file>
       <file name="D:/foresee/ftcsp_smscenter/smscentersdk/src/main/java/com/foresee/ftcsp/client/FtcspOutterClient.java" timestamp="1522141732714">
         <mark key="[" line="46" column="41" />
@@ -31,12 +50,6 @@
         <mark key="]" line="57" column="79" />
         <mark key="." line="57" column="79" />
         <mark key="^" line="57" column="74" />
-      </file>
-      <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.model/src/main/resources/generatorCode.bat" timestamp="1522201301957">
-        <mark key="[" line="2" column="0" />
-      </file>
-      <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.service/src/main/java/com/foresee/ftcsp/smscenter/service/impl/AliSmsSupplier.java" timestamp="1522134996988">
-        <mark key="[" line="44" column="66" />
       </file>
       <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.service/src/main/java/com/foresee/ftcsp/smscenter/config/SmsAppConfig.java" timestamp="1522134832524">
         <mark key="[" line="38" column="0" />
@@ -150,6 +163,8 @@
       <jump line="37" column="46" filename="D:/foresee/userCenter/com.foresee.ftcsp.userCenter.rest/src/main/java/com/foresee/ftcsp/userCenter/rest/CommonController.java" />
       <jump line="107" column="8" filename="D:/foresee/userCenter/com.foresee.ftcsp.userCenter.service/src/main/java/com/foresee/ftcsp/userCenter/service/CommonService.java" />
       <jump line="45" column="15" filename="D:/foresee/userCenter/com.foresee.ftcsp.userCenter.service/src/main/java/com/foresee/ftcsp/userCenter/error/ErrorEnum.java" />
+      <jump line="28" column="34" filename="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/resources/config/bootstrap.properties" />
+      <jump line="14" column="0" filename="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/resources/config/bootstrap.properties" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
