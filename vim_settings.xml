@@ -24,6 +24,7 @@
         <mark key="^" line="8" column="12" />
         <mark key="." line="8" column="12" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.dynamicdb/0.0.2/com.foresee.ftcsp.public.dynamicdb-0.0.2.jar!/com/foresee/ftcsp/common/dynamicdb/DBRouter.class" timestamp="1523414509093" />
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.api/src/main/java/com/foresee/ftcsp/auth/vo/AppUserTokenIn.java" timestamp="1523351944442">
         <mark key="[" line="17" column="22" />
         <mark key="]" line="13" column="33" />
@@ -47,7 +48,7 @@
         <mark key="^" line="18" column="13" />
         <mark key="." line="18" column="13" />
       </file>
-      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/OpenAppService.java" timestamp="1523409646034">
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/OpenAppService.java" timestamp="1523414033548">
         <mark key="[" line="26" column="9" />
         <mark key="]" line="28" column="25" />
         <mark key="^" line="28" column="25" />
@@ -139,11 +140,11 @@
         <mark key="^" line="55" column="60" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/test/resources/openapi.properties" timestamp="1523353412258">
-        <mark key="[" line="2" column="60" />
-        <mark key="]" line="2" column="60" />
-        <mark key="." line="2" column="60" />
-        <mark key="^" line="4" column="40" />
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/test/resources/openapi.properties" timestamp="1523414236936">
+        <mark key="[" line="104" column="64" />
+        <mark key="]" line="104" column="64" />
+        <mark key="." line="104" column="64" />
+        <mark key="^" line="104" column="64" />
       </file>
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.model/src/main/java/com/foresee/ftcsp/security/config/DataSourceConfiguration.java" timestamp="1523351188720">
         <mark key="[" line="26" column="27" />
@@ -283,7 +284,7 @@
         <mark key="^" line="756" column="90" />
         <mark key="." line="756" column="90" />
       </file>
-      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.model/src/main/java/com/foresee/ftcsp/security/manual/dao/OpenAppExtMapper.java" timestamp="1523354065920">
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.model/src/main/java/com/foresee/ftcsp/security/manual/dao/OpenAppExtMapper.java" timestamp="1523414533526">
         <mark key="[" line="14" column="3" />
         <mark key="]" line="16" column="16" />
         <mark key="^" line="16" column="16" />
@@ -338,6 +339,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.dynamicdb/0.0.2/com.foresee.ftcsp.public.dynamicdb-0.0.2.jar!/com/foresee/ftcsp/common/dynamicdb/DynamicDataSource.class" timestamp="1523414370441" />
       <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.service/src/test/java/com/foresee/ftcsp/kit/DatetimeKitTest.java" timestamp="1523324632033">
         <mark key="[" line="23" column="62" />
         <mark key="]" line="23" column="62" />
@@ -350,6 +352,7 @@
         <mark key="." line="42" column="54" />
         <mark key="^" line="42" column="54" />
       </file>
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.model/src/main/java/com/foresee/ftcsp/security/manual/dao/ApiAppMapper.java" timestamp="1523414543268" />
       <file name="/fragment.java" timestamp="1523409400407">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
@@ -462,11 +465,11 @@
       <jump line="65" column="46" filename="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/OpenUserService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzZWxlY3QgdXNlcl9hY2Nlc3NfdG9rZW5fdGltZW91dCBmcm9tIHRfb3Blbl9hcHAgd2hlcmUgYXBwX2lkPSN7YXBwSWR9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>gateway</text>
       </register>
       <register name="-" type="4">
-        <text>openAppExtMapper.selectByAppId(appId);</text>
+        <text>gateway</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWxcPg==</text>
@@ -475,31 +478,31 @@
         <text encoding="base64">ICAgICAgICBpZiAoYXBpQXBwID09IG51bGwpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IEZ0Y3NwUnVudGltZUV4Y2VwdGlvbigiMSIsICKyu7Tm1NrV4tH5tcRhcHBJZDoiK2FwcElkKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzZWxlY3QgdXNlcl9hY2Nlc3NfdG9rZW5fdGltZW91dCBmcm9tIHRfb3Blbl9hcHAgd2hlcmUgYXBwX2lkPSN7YXBwSWR9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAob3BlbkFwcERUTyA9PSBudWxsKSB7CiAgICAgICAgICAgIHRocm93IEVycm9yRW51bS5BUFBfTk9UX0VYSVNUUy50b0Z0Y3NwUnVudGltZUV4Y2VwdGlvbihhcHBJZCk7CiAgICAgICAgfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBBc3BlY3QK</text>
+        <text encoding="base64">ICAgICAgICAvLyBzZWxlY3QgdXNlcl9hY2Nlc3NfdG9rZW5fdGltZW91dCBmcm9tIHRfb3Blbl9hcHAgd2hlcmUgYXBwX2lkPSN7YXBwSWR9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBPcGVuQXBwRFRPIG9wZW5BcHBEVE8gPSBvcGVuQXBwRXh0TWFwcGVyLnNlbGVjdEJ5QXBwSWQoYXBwSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAob3BlbkFwcERUTyA9PSBudWxsKSB7CiAgICAgICAgICAgIHRocm93IEVycm9yRW51bS5BUFBfTk9UX0VYSVNUUy50b0Z0Y3NwUnVudGltZUV4Y2VwdGlvbihhcHBJZCk7CiAgICAgICAgfQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgT3BlblRva2VuU2VydmljZSBvcGVuVG9rZW5TZXJ2aWNlOwogICAgCiAgICAK</text>
+        <text encoding="base64">ICAgIEBBc3BlY3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBBcGlBcHAgYXBpQXBwID0gYXBpQXBwTWFwcGVyLmdldEJ5SWQoYXBwSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBPcGVuQXBwRFRPIG9wZW5BcHBEVE8gPSBvcGVuQXBwRXh0TWFwcGVyLnNlbGVjdEJ5QXBwSWQoYXBwSWQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYXBpQXBwID09IG51bGwpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IEZ0Y3NwUnVudGltZUV4Y2VwdGlvbigiMSIsICKyu7Tm1NrV4tH5tcRhcHBJZDoiK2FwcElkKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgT3BlblRva2VuU2VydmljZSBvcGVuVG9rZW5TZXJ2aWNlOwogICAgCiAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBBcGlBcHAgYXBpQXBwID0gYXBpQXBwTWFwcGVyLmdldEJ5SWQoYXBwSWQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYXBpQXBwID09IG51bGwpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IEZ0Y3NwUnVudGltZUV4Y2VwdGlvbigiMSIsICKyu7Tm1NrV4tH5tcRhcHBJZDoiK2FwcElkKTsKICAgICAgICB9Cg==</text>
       </register>
     </registers>
     <search>
