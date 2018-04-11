@@ -114,12 +114,12 @@
         <mark key="^" line="36" column="70" />
         <mark key="." line="36" column="70" />
       </file>
-      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/OpenUserService.java" timestamp="1523372186062">
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/OpenUserService.java" timestamp="1523408770346">
         <mark key="'" line="61" column="46" />
         <mark key="[" line="55" column="43" />
         <mark key="]" line="55" column="11" />
         <mark key="^" line="55" column="11" />
-        <mark key="." line="55" column="11" />
+        <mark key="." line="41" column="65" />
       </file>
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/test/resources/openapi.properties" timestamp="1523353412258">
         <mark key="[" line="2" column="60" />
@@ -250,7 +250,7 @@
         <mark key="^" line="21" column="38" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523408295624">
+      <file name="/Dummy.txt" timestamp="1523408698334">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/error/ErrorEnum.java" timestamp="1523353789342">
@@ -309,8 +309,11 @@
         <mark key="^" line="43" column="56" />
         <mark key="." line="39" column="36" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5d3a817b-00ee-46da-a3f2-20b036740760/console.sql" timestamp="1523408308560">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5d3a817b-00ee-46da-a3f2-20b036740760/console.sql" timestamp="1523408505519">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.model/src/main/java/com/foresee/ftcsp/openapi/OpenAppDTO.java" timestamp="1523353374528">
         <mark key="[" line="14" column="15" />
@@ -443,7 +446,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSB0X29wZW5fYXBwCg==</text>
       </register>
       <register name="-" type="4">
         <text>runtime</text>
@@ -452,7 +455,7 @@
         <text encoding="base64">XDxpbWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcXVlc3RJZCA9IFVVSUQucmFuZG9tVVVJRCgpLnRvU3RyaW5nKCkucmVwbGFjZSgiLSIsICIiKTsK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSB0X29wZW5fYXBwCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
