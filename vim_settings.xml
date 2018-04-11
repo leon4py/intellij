@@ -36,8 +36,8 @@
         <mark key="^" line="24" column="53" />
         <mark key="." line="24" column="53" />
       </file>
-      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/auth/url/OpenApiURL.java" timestamp="1523436038151">
-        <mark key="[" line="30" column="22" />
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/auth/url/OpenApiURL.java" timestamp="1523438657434">
+        <mark key="[" line="35" column="17" />
         <mark key="]" line="30" column="29" />
         <mark key="^" line="30" column="29" />
         <mark key="." line="30" column="29" />
@@ -88,11 +88,11 @@
         <mark key="^" line="20" column="43" />
         <mark key="." line="20" column="43" />
       </file>
-      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/OpenApiCodeService.java" timestamp="1523180180277">
-        <mark key="[" line="47" column="42" />
-        <mark key="]" line="47" column="54" />
-        <mark key="." line="47" column="54" />
-        <mark key="^" line="47" column="54" />
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/OpenApiCodeService.java" timestamp="1523438885309">
+        <mark key="[" line="48" column="44" />
+        <mark key="]" line="48" column="44" />
+        <mark key="." line="48" column="44" />
+        <mark key="^" line="48" column="42" />
       </file>
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.api/src/main/java/com/foresee/ftcsp/auth/vo/AccessTokenInfo.java" timestamp="1523436905367">
         <mark key="[" line="24" column="14" />
@@ -118,11 +118,12 @@
         <mark key="^" line="17" column="3" />
         <mark key="." line="17" column="3" />
       </file>
-      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.model/src/main/java/com/foresee/ftcsp/security/constant/AuthConstants.java" timestamp="1523430744107">
-        <mark key="[" line="56" column="46" />
-        <mark key="]" line="56" column="95" />
-        <mark key="^" line="56" column="95" />
-        <mark key="." line="56" column="95" />
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.model/src/main/java/com/foresee/ftcsp/security/constant/AuthConstants.java" timestamp="1523438248216">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="56" column="52" />
+        <mark key="]" line="55" column="47" />
+        <mark key="^" line="55" column="47" />
+        <mark key="." line="55" column="47" />
       </file>
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/test/java/com/foresee/ftcsp/auth/service/OpenApiTokenServiceTest.java" timestamp="1523342219852">
         <mark key="[" line="58" column="58" />
@@ -130,12 +131,12 @@
         <mark key="^" line="62" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/OpenApiTokenService.java" timestamp="1523437474958">
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/OpenApiTokenService.java" timestamp="1523438169381">
         <mark key="'" line="60" column="0" />
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="29" />
-        <mark key="." line="138" column="0" />
-        <mark key="^" line="134" column="34" />
+        <mark key="[" line="86" column="34" />
+        <mark key="]" line="86" column="39" />
+        <mark key="." line="86" column="39" />
+        <mark key="^" line="86" column="39" />
       </file>
       <file name="D:/foresee/oauth/com.foresee.ftcsp.oauth.service/src/main/java/com/foresee/ftcsp/oauth/config/ModuleRefreshSchedulerImpl.java" timestamp="1522396582241">
         <mark key="[" line="20" column="0" />
@@ -143,11 +144,11 @@
         <mark key="." line="57" column="79" />
         <mark key="^" line="57" column="74" />
       </file>
-      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/auth/rest/openapi/CodeController.java" timestamp="1523179266925">
-        <mark key="[" line="36" column="58" />
-        <mark key="]" line="36" column="70" />
-        <mark key="^" line="36" column="70" />
-        <mark key="." line="36" column="70" />
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/auth/rest/openapi/CodeController.java" timestamp="1523438673949">
+        <mark key="[" line="29" column="71" />
+        <mark key="]" line="27" column="38" />
+        <mark key="^" line="27" column="38" />
+        <mark key="." line="27" column="38" />
       </file>
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/OpenUserService.java" timestamp="1523426863668">
         <mark key="[" line="45" column="54" />
@@ -341,8 +342,14 @@
         <mark key="^" line="55" column="40" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="D:/foresee/open_gateway/openapi/com.foresee.ftcsp.openapi.model/src/main/java/com/foresee/ftcsp/openapi/auto/model/OpenApp.java" timestamp="1523436402819" />
-      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.model/src/main/java/com/foresee/ftcsp/openapi/manual/dto/OpenAppDTO.java" timestamp="1523437011036">
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.api/src/main/java/com/foresee/ftcsp/auth/vo/CodeIn.java" timestamp="1523438605146">
+        <mark key="[" line="15" column="34" />
+        <mark key="]" line="15" column="43" />
+        <mark key="^" line="15" column="43" />
+        <mark key="." line="15" column="43" />
+      </file>
+      <file name="D:/foresee/open_gateway/openapi/com.foresee.ftcsp.openapi.model/src/main/java/com/foresee/ftcsp/openapi/auto/model/OpenApp.java" timestamp="1523438360985" />
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.model/src/main/java/com/foresee/ftcsp/openapi/manual/dto/OpenAppDTO.java" timestamp="1523437681337">
         <mark key="[" line="66" column="15" />
         <mark key="]" line="305" column="0" />
         <mark key="." line="305" column="0" />
@@ -374,6 +381,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.model/src/main/java/com/foresee/ftcsp/openapi/OpenAppDTO.java" timestamp="1523429296516">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.service/src/test/java/com/foresee/ftcsp/kit/DatetimeKitTest.java" timestamp="1523324632033">
         <mark key="[" line="23" column="62" />
@@ -500,36 +512,44 @@
       <jump line="65" column="46" filename="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/OpenUserService.java" />
       <jump line="114" column="18" filename="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/OpenApiTokenService.java" />
       <jump line="60" column="0" filename="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/OpenApiTokenService.java" />
+      <jump line="56" column="24" filename="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.model/src/main/java/com/foresee/ftcsp/security/constant/AuthConstants.java" />
+      <jump line="58" column="0" filename="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.model/src/main/java/com/foresee/ftcsp/security/constant/AuthConstants.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gYXBwQWNjZXNzVG9rZW4K</text>
+      <register name="&quot;" type="4">
+        <text>targetAppId</text>
       </register>
       <register name="-" type="4">
-        <text>MD5</text>
+        <text>targetAppId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAiMCI6CiAgICAgICAgICAgICAgICByZXR1cm4gIk1ENSI7Cg==</text>
+        <text encoding="base64">ICAgIEBOb3RCbGFuayhtZXNzYWdlID0gInVzZXJUb2tlbrK7xNzOqr/VIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gYXBwQWNjZXNzVG9rZW4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgQFZhciBATm90QmxhbmsobWVzc2FnZSA9ICJ0YXJnZXRBcHBJZLK7xNzOqr/VIikgU3RyaW5nIHRhcmdldEFwcElkLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdXNlckFjY2Vzc1Rva2VuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQFZhciBATm90QmxhbmsobWVzc2FnZSA9ICJ1c2VyVG9rZW6yu8Tczqq/1SIpIFN0cmluZyB1c2VyVG9rZW4sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhwaXJlVGltZXMgPSBjb25zdW1lckFwcERUTy5nZXRVc2VyQWNjZXNzVG9rZW5UaW1lb3V0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gYXBwQWNjZXNzVG9rZW4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdXNlckFjY2Vzc1Rva2VuCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXhwaXJlVGltZXMgPSBjb25zdW1lckFwcERUTy5nZXRVc2VyQWNjZXNzVG9rZW5UaW1lb3V0KCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>switch (this.encryptAlgorithm) {
             case &quot;0&quot;:
                 return &quot;MD5&quot;;
@@ -539,12 +559,6 @@
                 return &quot;SHA-256&quot;;
 
         }</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgU3RyaW5nIGdldFVzZXJVbmlmaWVkKCkgewogICAgICAgIHJldHVybiB1c2VyVW5pZmllZDsKICAgIH0KCiAgICBwdWJsaWMgT3BlbkFwcERUTyBzZXRVc2VyVW5pZmllZChTdHJpbmcgdXNlclVuaWZpZWQpIHsKICAgICAgICB0aGlzLnVzZXJVbmlmaWVkID0gdXNlclVuaWZpZWQ7CiAgICAgICAgcmV0dXJuIHRoaXM7CiAgICB9</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
