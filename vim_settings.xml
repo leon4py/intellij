@@ -123,11 +123,11 @@
         <mark key="." line="57" column="79" />
         <mark key="^" line="57" column="74" />
       </file>
-      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/auth/rest/openapi/CodeController.java" timestamp="1523863536172">
-        <mark key="[" line="56" column="75" />
-        <mark key="]" line="56" column="75" />
-        <mark key="^" line="56" column="34" />
-        <mark key="." line="56" column="75" />
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/auth/rest/openapi/CodeController.java" timestamp="1523864745089">
+        <mark key="[" line="57" column="35" />
+        <mark key="]" line="57" column="34" />
+        <mark key="^" line="57" column="34" />
+        <mark key="." line="57" column="34" />
       </file>
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/test/java/com/foresee/open/auth/service/OpenUserServiceTest.java" timestamp="1523589888823">
         <mark key="[" line="32" column="8" />
@@ -213,7 +213,7 @@
         <mark key="." line="28" column="41" />
         <mark key="^" line="28" column="41" />
       </file>
-      <file name="D:/foresee/open_gateway/opensdk/open.api.client.example/src/test/java/com/foresee/open/sdk/klass/AuthApiTest.java" timestamp="1523863091382">
+      <file name="D:/foresee/open_gateway/opensdk/open.api.client.example/src/test/java/com/foresee/open/sdk/klass/AuthApiTest.java" timestamp="1523864268904">
         <mark key="[" line="45" column="47" />
         <mark key="]" line="48" column="0" />
         <mark key="^" line="45" column="46" />
@@ -777,11 +777,11 @@
       <jump line="73" column="7" filename="D:/foresee/open_gateway/opensdk/open.client/src/main/java/com/foresee/open/sdk/client/ClientHelper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>successMessage</text>
       </register>
       <register name="-" type="4">
-        <text>APP</text>
+        <text>successMessage</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWxcPg==</text>
@@ -790,31 +790,31 @@
         <text encoding="base64">ICAgIEBPcGVuQXBpKGxldmVsID0gT3BlbkFwaUxldmVsLkFQUCkKICAgIHZvaWQgdGVzdEFwcCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzdFJlc3BvbnNlLnN1Y2Nlc3NNZXNzYWdlKHNpZ24pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYXBpUGFyYW1zICkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIFN0cmluZwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoYXBpUGFyYW1zICkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIFN0cmluZwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhZG1pbi5nZXRVCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhZG1pbi5nZXRVCg==</text>
       </register>
     </registers>
     <search>
