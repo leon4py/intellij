@@ -207,11 +207,11 @@
         <mark key="." line="28" column="41" />
         <mark key="^" line="28" column="41" />
       </file>
-      <file name="D:/foresee/open_gateway/opensdk/open.api.client.example/src/test/java/com/foresee/open/sdk/klass/AuthApiTest.java" timestamp="1523846123498">
-        <mark key="[" line="36" column="102" />
-        <mark key="]" line="36" column="101" />
-        <mark key="^" line="36" column="101" />
-        <mark key="." line="36" column="101" />
+      <file name="D:/foresee/open_gateway/opensdk/open.api.client.example/src/test/java/com/foresee/open/sdk/klass/AuthApiTest.java" timestamp="1523858965309">
+        <mark key="[" line="22" column="50" />
+        <mark key="]" line="22" column="53" />
+        <mark key="^" line="37" column="101" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.api/src/main/java/com/foresee/ftcsp/auth/vo/AppUserTokenInfo.java" timestamp="1523436231735">
         <mark key="[" line="8" column="16" />
@@ -225,6 +225,7 @@
         <mark key="^" line="25" column="43" />
         <mark key="." line="25" column="43" />
       </file>
+      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/filter/RepeatableRequestFilter.java" timestamp="1523858659154" />
       <file name="D:/foresee/open_gateway/opensdk/open.client/src/main/java/com/foresee/open/sdk/auth/AccessTokenApi.java" timestamp="1523598578183">
         <mark key="[" line="14" column="23" />
         <mark key="]" line="13" column="23" />
@@ -233,11 +234,6 @@
       </file>
       <file name="D:/foresee/open_gateway/opensdk/open.client/src/main/java/com/foresee/open/sdk/api/ApiParam.java" timestamp="1523598559091">
         <mark key="[" line="21" column="13" />
-      </file>
-      <file name="D:/foresee/open_gateway/opensdk/open.client/src/main/java/com/foresee/open/sdk/api/AccessTokenHelper.java" timestamp="1523808771957">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
       </file>
       <file name="D:/foresee/oauth/com.foresee.ftcsp.oauth.m1/src/main/java/com/foresee/ftcsp/oauth/jarslink/M1.java" timestamp="1522402694696">
         <mark key="[" line="35" column="0" />
@@ -353,13 +349,14 @@
         <mark key="^" line="42" column="40" />
         <mark key="." line="42" column="40" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/druid/1.1.2/druid-1.1.2-sources.jar!/com/alibaba/druid/support/spring/mvc/StatHandlerInterceptor.java" timestamp="1523858895260" />
       <file name="D:/foresee/unifiedAuth/com.foresee.open.auth.sdk/src/main/resources/META-INF/openapi/openapi.properties" timestamp="1523844477412">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/foresee/unifiedAuth/com.foresee.open.auth.sdk/src/main/java/com/foresee/open/auth/sdk/AccessToken.java" timestamp="1523598219241">
         <mark key="[" line="8" column="30" />
       </file>
-      <file name="D:/foresee/open_gateway/opensdk/open.client/src/main/java/com/foresee/open/sdk/client/OpenApiHelper.java" timestamp="1523803512893">
+      <file name="D:/foresee/open_gateway/opensdk/open.client/src/main/java/com/foresee/open/sdk/client/OpenApiHelper.java" timestamp="1523858315238">
         <mark key="[" line="61" column="13" />
         <mark key="]" line="61" column="12" />
         <mark key="^" line="61" column="12" />
@@ -767,8 +764,8 @@
       <jump line="73" column="7" filename="D:/foresee/open_gateway/opensdk/open.client/src/main/java/com/foresee/open/sdk/client/ClientHelper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>username</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBBdXRoSG9zdC5zZXRBdXRoSG9zdCgiaHR0cDovL2RhcGkuamNobC5jb20iKTsK</text>
       </register>
       <register name="-" type="4">
         <text>username</text>
@@ -777,7 +774,7 @@
         <text encoding="base64">XDxpbWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBEYXRlIGV4cGlyZURhdGUoKSB7CiAgICAgICAgcmV0dXJuIHRoaXMuZXhwaXJlRGF0ZTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBBdXRoSG9zdC5zZXRBdXRoSG9zdCgiaHR0cDovL2RhcGkuamNobC5jb20iKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBhZG1pbi5nZXRVCg==</text>
