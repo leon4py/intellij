@@ -134,7 +134,7 @@
         <mark key="." line="17" column="70" />
         <mark key="^" line="17" column="70" />
       </file>
-      <file name="D:/foresee/open_gateway/openapi/com.foresee.open.openapi.dubbo-api/src/main/java/com/foresee/open/openapi/PressApi.java" timestamp="1524039116725">
+      <file name="D:/foresee/open_gateway/openapi/com.foresee.open.openapi.dubbo-api/src/main/java/com/foresee/open/openapi/PressApi.java" timestamp="1524040182680">
         <mark key="[" line="18" column="16" />
         <mark key="]" line="18" column="21" />
         <mark key="^" line="18" column="21" />
@@ -255,9 +255,9 @@
         <mark key="." line="42" column="40" />
       </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/RestControllerInterceptor.java" timestamp="1524035139084">
-        <mark key="[" line="61" column="39" />
-        <mark key="]" line="61" column="39" />
-        <mark key="." line="61" column="39" />
+        <mark key="[" line="22" column="39" />
+        <mark key="]" line="22" column="39" />
+        <mark key="." line="22" column="39" />
       </file>
       <file name="D:/foresee/open_gateway/opensdk/open.client/src/main/java/com/foresee/open/sdk/client/OpenApiHelper.java" timestamp="1523858315238">
         <mark key="[" line="61" column="13" />
@@ -405,7 +405,7 @@
         <mark key="." line="30" column="24" />
       </file>
       <file name="D:/foresee/open_gateway/opensdk/open.client/pom.xml" timestamp="1524032793330" />
-      <file name="/Dummy.txt" timestamp="1523959674543">
+      <file name="/Dummy.txt" timestamp="1524040771143">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/foresee/open_gateway/opensdk/open.client/src/main/java/com/foresee/open/sdk/client/OpenApiRequest.java" timestamp="1523803159601">
@@ -465,7 +465,7 @@
         <mark key="^" line="23" column="62" />
         <mark key="." line="23" column="62" />
       </file>
-      <file name="/fragment.java" timestamp="1524031523878">
+      <file name="/fragment.java" timestamp="1524040771158">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
@@ -671,11 +671,11 @@
         <mark key="^" line="756" column="90" />
         <mark key="." line="756" column="90" />
       </file>
-      <file name="D:/foresee/open_gateway/openapi/com.foresee.open.openapi.dubbo-server/src/main/resources/dubbo-provider.xml" timestamp="1524022713659">
-        <mark key="[" line="7" column="65" />
-        <mark key="]" line="13" column="18" />
+      <file name="D:/foresee/open_gateway/openapi/com.foresee.open.openapi.dubbo-server/src/main/resources/dubbo-provider.xml" timestamp="1524040093792">
+        <mark key="[" line="11" column="64" />
+        <mark key="]" line="13" column="0" />
         <mark key="^" line="13" column="18" />
-        <mark key="." line="13" column="18" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="D:/foresee/ftcsp_smscenter/smscentersdk/src/test/java/com/foresee/ftcsp/smscenter/sdk/client/SmsClientTest.java" timestamp="1523412947737">
         <mark key="[" line="46" column="0" />
@@ -825,9 +825,6 @@
         <mark key="]" line="13" column="30" />
         <mark key="." line="13" column="30" />
         <mark key="^" line="13" column="30" />
-      </file>
-      <file name="D:/MyProgram/developer/Java/jdk1.8.0_162/src.zip!/java/lang/Throwable.java" timestamp="1524033896180">
-        <mark key="'" line="113" column="13" />
       </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.mod/src/main/java/com/foresee/ftcsp/mod/config/JarsLinkConfig.java" timestamp="1523888976225">
         <mark key="[" line="73" column="9" />
@@ -1036,8 +1033,8 @@
       <jump line="113" column="13" filename="D:/MyProgram/developer/Java/jdk1.8.0_162/src.zip!/java/lang/Throwable.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHByb3RvY29sPSIiCg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -1049,31 +1046,31 @@
         <text encoding="base64">ICAgICAgICAvLyDUy9DQyrG85LOsuf3Lr8PfyrG85Ao=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHByb3RvY29sPSIiCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">IEBPdmVycmlkZQogICAgcHVibGljIEFwaVJlc3BvbnNlPFN0cmluZz4gcHJlc3MoU3RyaW5nIHVzZXJJZCkgewogICAgICAgIHJldHVybiBBcGlSZXNwb25zZS5zdWNjZXNzRGF0YShyZXN0RFRPKTsKICAgIH0=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBSZXN0RFRPIHJlc3REVE8gPSBuZXcgUmVzdERUTygpCiAgICAgICAgICAgICAgICAuc2V0QWdlKDE5OSkKICAgICAgICAgICAgICAgIC5zZXROYW1lKCKzws7EwfoiKTsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxwbHVnaW5zPgo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwvcGx1Z2lucz4K</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPC9idWlsZD4K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGJ1aWxkPgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBPcGVuQXBpRmlsdGVyLmNhbGxiYWNrLm9uQ29tcGxldGVkKHJlcXVlc3RXcmFwcGVyLCAoSHR0cFNlcnZsZXRSZXNwb25zZSkgcmVzcG9uc2UsIHN1Y2Nlc3MpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
