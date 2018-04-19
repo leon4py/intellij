@@ -109,11 +109,11 @@
         <mark key="^" line="10" column="44" />
         <mark key="." line="10" column="44" />
       </file>
-      <file name="D:/foresee/open_gateway/opensdk/open.client/src/test/java/com/foresee/open/sdk/client/OpenApiClientTest.java" timestamp="1524131099536">
-        <mark key="[" line="62" column="86" />
-        <mark key="]" line="62" column="86" />
-        <mark key="." line="62" column="86" />
-        <mark key="^" line="70" column="24" />
+      <file name="D:/foresee/open_gateway/opensdk/open.client/src/test/java/com/foresee/open/sdk/client/OpenApiClientTest.java" timestamp="1524134479035">
+        <mark key="[" line="62" column="37" />
+        <mark key="]" line="63" column="31" />
+        <mark key="." line="63" column="31" />
+        <mark key="^" line="63" column="31" />
       </file>
       <file name="D:/foresee/open_gateway/openapi/com.foresee.ftcsp.openapi.model/src/main/java/com/foresee/ftcsp/openapi/manual/dto/RestRequestDTO.java" timestamp="1524013942656" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.13.RELEASE/spring-web-4.3.13.RELEASE-sources.jar!/org/springframework/http/MediaType.java" timestamp="1524044802258" />
@@ -539,7 +539,7 @@
         <mark key="." line="5" column="23" />
       </file>
       <file name="D:/foresee/open_scheduler/scheduler-dubbo/scheduler-provider/src/main/java/com/foresee/ftcsp/scheduler/dubbo/provider/SchedulerDubboApplication.java" timestamp="1523933060402" />
-      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/OpenApiCodeService.java" timestamp="1523590651780">
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/OpenApiCodeService.java" timestamp="1524132623147">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="69" column="55" />
@@ -577,6 +577,10 @@
         <mark key="]" line="10" column="27" />
         <mark key="^" line="10" column="27" />
         <mark key="." line="10" column="27" />
+      </file>
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/OpenApiTokenService.java" timestamp="1524132717217">
+        <mark key="[" line="107" column="79" />
+        <mark key="." line="107" column="21" />
       </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.mod/src/main/java/com/foresee/ftcsp/mod/rest/ModController.java" timestamp="1523888129486">
         <mark key="[" line="22" column="84" />
@@ -820,6 +824,7 @@
         <mark key="." line="104" column="64" />
         <mark key="^" line="104" column="64" />
       </file>
+      <file name="/OpenApiClientTest.java" timestamp="1524133229257" />
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/constant/ValueLocation.java" timestamp="1523458079171">
         <mark key="[" line="2" column="15" />
         <mark key="]" line="3" column="22" />
@@ -1053,8 +1058,8 @@
       <jump line="113" column="13" filename="D:/MyProgram/developer/Java/jdk1.8.0_162/src.zip!/java/lang/Throwable.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mb3Jlc2VlLmZ0Y3NwLm9wZW5hcGkuYXBpLkFwaVJlc3BvbnNlOwo=</text>
+      <register name="&quot;" type="4">
+        <text>App</text>
       </register>
       <register name="-" type="4">
         <text>App</text>
@@ -1063,7 +1068,7 @@
         <text encoding="base64">XDxpbWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbGVuZ3RoID0ganNvbk5vZGUuZ2V0KCJsZW5naHQiKS5hc0ludCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wZW5BcGlDbGllbnQucmVxdWVzdEFwcCgiaHR0cDovLzEwLjEwLjE0LjE4MDo5OTk5L3YxL2R1YmJvL3ByZXNzL3ByZXNzMiIsCiAgICAgICAgICAgICAgICAgICAgICAgIGJvZHksICIxMDAwMDAwMiIpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5mb3Jlc2VlLmZ0Y3NwLm9wZW5hcGkuYXBpLkFwaVJlc3BvbnNlOwo=</text>
