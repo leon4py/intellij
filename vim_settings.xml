@@ -572,11 +572,11 @@
         <mark key="." line="57" column="79" />
         <mark key="^" line="57" column="74" />
       </file>
-      <file name="D:/foresee/open_gateway/opensdk/open.client/src/main/java/com/foresee/open/sdk/filter/OpenApiFilter.java" timestamp="1524043732221">
-        <mark key="[" line="76" column="37" />
-        <mark key="]" line="77" column="45" />
-        <mark key="^" line="77" column="45" />
-        <mark key="." line="77" column="45" />
+      <file name="D:/foresee/open_gateway/opensdk/open.client/src/main/java/com/foresee/open/sdk/filter/OpenApiFilter.java" timestamp="1524100720146">
+        <mark key="[" line="83" column="60" />
+        <mark key="]" line="83" column="60" />
+        <mark key="^" line="82" column="61" />
+        <mark key="." line="83" column="60" />
       </file>
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/test/java/com/foresee/open/auth/service/OpenUserServiceTest.java" timestamp="1523589888823">
         <mark key="[" line="32" column="8" />
@@ -1035,11 +1035,11 @@
       <jump line="113" column="13" filename="D:/MyProgram/developer/Java/jdk1.8.0_162/src.zip!/java/lang/Throwable.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigi0LTI67W9v827p7bLyqew3CIsIGUpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>body</text>
       </register>
       <register name="-" type="4">
-        <text>MediaType.APPLICATION_JSON_UTF8_VALUE)</text>
+        <text>body</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWxcPg==</text>
