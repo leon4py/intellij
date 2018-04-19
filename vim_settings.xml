@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/lab/jarslink/jarslink-springmvc/src/main/java/com/alipay/jarslink/support/SpringModuleRequestMappingHandlerMapping.java" timestamp="1524118236486" />
+      <file name="D:/lab/jarslink/jarslink-springmvc/src/main/java/com/alipay/jarslink/support/SpringModuleRequestMappingHandlerMapping.java" timestamp="1524124988733" />
       <file name="D:/foresee/open_gateway/opensdk/open.client/src/test/java/com/foresee/open/sdk/api/AccessTokenHelperTest.java" timestamp="1524016241598">
         <mark key="[" line="65" column="11" />
         <mark key="]" line="65" column="21" />
@@ -13,17 +13,23 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.10.RELEASE/spring-boot-autoconfigure-1.5.10.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/validation/ValidationAutoConfiguration.java" timestamp="1523936081991" />
       <file name="D:/foresee/edf-component/edf-component-service/src/main/java/com/ttk/edf/component/oid/impl/ZKSnowflakeIDGenerator.java" timestamp="1524038981323" />
       <file name="D:/foresee/edf-component/edf-component-service/src/main/java/com/ttk/edf/component/oid/impl/OidService.java" timestamp="1524038678528" />
-      <file name="D:/foresee/open_gateway/opensdk/open.client/src/main/java/com/foresee/open/sdk/client/OpenHttpClient.java" timestamp="1524113232203">
+      <file name="D:/foresee/open_gateway/opensdk/open.client/src/main/java/com/foresee/open/sdk/client/OpenHttpClient.java" timestamp="1524126546942">
         <mark key="[" line="129" column="23" />
         <mark key="]" line="129" column="23" />
         <mark key="^" line="129" column="18" />
         <mark key="." line="129" column="23" />
       </file>
-      <file name="D:/foresee/open_gateway/opensdk/open.client/src/test/java/com/foresee/open/sdk/client/ClientHelperTest.java" timestamp="1524122487611">
+      <file name="D:/foresee/open_gateway/opensdk/open.client/src/test/java/com/foresee/open/sdk/client/ClientHelperTest.java" timestamp="1524123324687">
         <mark key="[" line="23" column="5" />
         <mark key="]" line="21" column="79" />
         <mark key="^" line="21" column="79" />
         <mark key="." line="21" column="79" />
+      </file>
+      <file name="D:/foresee/open_gateway/opensdk/open.client/src/test/java/com/foresee/open/sdk/client/OpenApiClientTest.java" timestamp="1524126520395">
+        <mark key="[" line="46" column="61" />
+        <mark key="]" line="46" column="65" />
+        <mark key="." line="46" column="65" />
+        <mark key="^" line="46" column="65" />
       </file>
       <file name="D:/foresee/open_gateway/openapi/com.foresee.ftcsp.openapi.model/src/main/java/com/foresee/ftcsp/openapi/manual/dto/RestRequestDTO.java" timestamp="1524013942656" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.13.RELEASE/spring-web-4.3.13.RELEASE-sources.jar!/org/springframework/http/MediaType.java" timestamp="1524044802258" />
@@ -43,7 +49,7 @@
       <file name="D:/foresee/open_gateway/opensdk/open.client/src/main/java/com/foresee/open/sdk/api/AccessTokenHelper.java" timestamp="1524015748408" />
       <file name="D:/foresee/open_gateway/openapi/com.foresee.ftcsp.openapi.rest/src/main/java/com/foresee/ftcsp/openapi/OpenApiApplication.java" timestamp="1524013294049" />
       <file name="D:/lab/jarslink/jarslink-api/src/main/java/com/alipay/jarslink/api/JarslinkAware.java" timestamp="1524117316073" />
-      <file name="D:/foresee/open_gateway/openapi/com.foresee.open.openapi.dubbo-client/src/main/java/Consumer.java" timestamp="1524032320378">
+      <file name="D:/foresee/open_gateway/openapi/com.foresee.open.openapi.dubbo-client/src/main/java/Consumer.java" timestamp="1524126014843">
         <mark key="[" line="13" column="59" />
         <mark key="]" line="13" column="60" />
         <mark key="." line="13" column="60" />
@@ -54,6 +60,22 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="D:/foresee/open_gateway/openapi/com.foresee.open.openapi.dubbo-api/src/main/java/com/foresee/open/openapi/RestApi.java" timestamp="1524031557600">
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="10" column="7" />
+        <mark key="." line="10" column="7" />
+      </file>
+      <file name="D:/foresee/open_gateway/opensdk/open.client/src/test/java/com/foresee/open/sdk/client/PressKit.java" timestamp="1524126394306">
+        <mark key="[" line="28" column="39" />
+        <mark key="]" line="28" column="39" />
+        <mark key="." line="28" column="39" />
+        <mark key="^" line="28" column="35" />
+      </file>
+      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/RestControllerInterceptor.java" timestamp="1524035139084">
+        <mark key="[" line="22" column="39" />
+        <mark key="]" line="22" column="39" />
+        <mark key="." line="22" column="39" />
+      </file>
       <file name="D:/foresee/open_gateway/opensdk/open.client/src/main/java/com/foresee/open/sdk/client/OpenApiHelper.java" timestamp="1524113390214">
         <mark key="[" line="61" column="13" />
         <mark key="]" line="61" column="12" />
@@ -61,6 +83,7 @@
         <mark key="." line="61" column="12" />
       </file>
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.open.auth.sdk/0.0.1/com.foresee.open.auth.sdk-0.0.1-sources.jar!/com/foresee/open/auth/sdk/UserApi.java" timestamp="1523961189632" />
+      <file name="D:/lab/jarslink/jarslink-springmvc/src/test/java/com/alipay/jarslink/support/SpringMvcRequestMappingTest.java" timestamp="1524125015888" />
       <file name="D:/foresee/open_gateway/opensdk/pom.xml" timestamp="1524014903969">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="27" column="0" />
@@ -109,7 +132,7 @@
         <mark key="^" line="35" column="73" />
         <mark key="." line="58" column="73" />
       </file>
-      <file name="D:/foresee/open_gateway/opensdk/open.client/pom.xml" timestamp="1524032793330" />
+      <file name="D:/foresee/open_gateway/opensdk/open.client/pom.xml" timestamp="1524125317603" />
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.ftcspmvc/0.1.6/com.foresee.ftcsp.public.ftcspmvc-0.1.6-sources.jar!/com/foresee/ftcsp/ftcspmvc/cache/CacheGet.java" timestamp="1523957379694" />
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.mod/src/main/java/com/foresee/ftcsp/mod/action/BaseService.java" timestamp="1523888400789">
         <mark key="[" line="2" column="0" />
@@ -124,6 +147,11 @@
         <mark key="^" line="12" column="3" />
       </file>
       <file name="D:/lab/jarslink/jarslink-api/src/main/java/com/alipay/jarslink/api/impl/RuntimeModule.java" timestamp="1524114710740" />
+      <file name="D:/foresee/open_gateway/openapi/com.foresee.open.openapi.dubbo-api/src/main/java/com/foresee/open/openapi/Consumer.java" timestamp="1524031374730">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="D:/lab/project/ckshop/apiserver/pom.xml" timestamp="1524035780280" />
       <file name="D:/lab/project/ckshop/apiserver/package.xml" timestamp="1524038533513" />
       <file name="D:/foresee/open_scheduler/scheduler-dubbo/scheduler-provider/src/main/java/com/foresee/ftcsp/scheduler/dubbo/provider/SchedulerDubboApplication.java" timestamp="1523933060402" />
@@ -159,17 +187,27 @@
         <mark key="." line="95" column="0" />
       </file>
       <file name="D:/lab/jarslink/jarslink-springmvc/src/test/resources/META-INF/spring/jarslink-springmvc.xml" timestamp="1524118233843" />
-      <file name="D:/foresee/open_gateway/opensdk/open.api.client.example/src/test/java/com/foresee/open/sdk/klass/AuthApiTest.java" timestamp="1523961617670">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="D:/foresee/open_gateway/opensdk/open.api.client.example/src/test/java/com/foresee/open/sdk/klass/AuthApiTest.java" timestamp="1524126663527">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.core/0.2.7/com.foresee.ftcsp.public.core-0.2.7.jar!/com/foresee/ftcsp/common/core/rest/RestResponse.class" timestamp="1523937177143" />
+      <file name="D:/foresee/open_gateway/openapi/com.foresee.open.openapi.dubbo-server/src/main/java/com/foresee/open/openapi/Provider.java" timestamp="1524125600797">
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="7" column="31" />
+        <mark key="." line="7" column="31" />
+      </file>
       <file name="D:/foresee/open_gateway/openapi/com.foresee.open.openapi.dubbo-server/src/main/resources/dubbo-provider.xml" timestamp="1524040093792">
         <mark key="[" line="11" column="64" />
         <mark key="]" line="13" column="0" />
         <mark key="^" line="13" column="18" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/config/FtcspRestControllerAspect.java" timestamp="1524035126070">
+        <mark key="[" line="47" column="38" />
+        <mark key="]" line="47" column="38" />
+        <mark key="." line="47" column="38" />
       </file>
       <file name="D:/lab/jarslink/jarslink-api/src/main/java/com/alipay/jarslink/api/impl/ActionProxy.java" timestamp="1524114603018" />
       <file name="D:/foresee/open_gateway/openapi/com.foresee.ftcsp.openapi.api/src/main/java/com/foresee/ftcsp/openapi/api/RestResponseHead.java" timestamp="1523936147437">
@@ -338,43 +376,47 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQ29sbGVjdGlvbnMuc2luZ2xldG9uTWFwKCJoZWFkIiwsIGhlYWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>body</text>
+        <text>9999</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyBzaWduS2V5Owo=</text>
+        <text encoding="base64">ICAgICAgICBtYXAucHV0KCJsb2dpbk5hbWUiLCAiYWRtaW4iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQ29sbGVjdGlvbnMuc2luZ2xldG9uTWFwKCJoZWFkIiwsIGhlYWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkLnB1dCgiZXJyb3JNc2ciLCAix6nD+7TtzvMiKTsK</text>
+      <register name="3" type="4">
+        <text>TestApi testApi = openApiFactory.create(TestApi.class);
+
+        testApi.testUser(admin.getUserToken());
+
+        testApi.testApp();</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkLnB1dCgiZXJyb3JDb2RlIiwgU0lHTl9FUlJPUik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IGhlYWQgPSBuZXcgSGFzaE1hcDw+KDIpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTWFwPFN0cmluZywgPz4gYnVpbGRFcnJvcigpIHsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWdpdmVuUXVlcnlNYXAuY29udGFpbnNLZXkoYWNjZXNzVG9rZW5LZXkpKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWdpdmVuUXVlcnlNYXAuY29udGFpbnNLZXkodGltZXN0YW1wS2V5KSkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigi0LTI67W9v827p7bLyqew3CIsIGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
     </registers>
     <search>
