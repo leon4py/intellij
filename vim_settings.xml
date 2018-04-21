@@ -48,11 +48,11 @@
         <mark key="^" line="47" column="31" />
       </file>
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.security.model/0.0.1/com.foresee.ftcsp.security.model-0.0.1-sources.jar!/com/foresee/ftcsp/security/manual/mapper/SecInnerAccountExtMapper.xml" timestamp="1524296809419" />
-      <file name="D:/foresee/open_gateway/opensdk/open.api.client.example/src/test/java/com/foresee/open/sdk/klass/AuthApiTest.java" timestamp="1524299864779">
+      <file name="D:/foresee/open_gateway/opensdk/open.api.client.example/src/test/java/com/foresee/open/sdk/klass/AuthApiTest.java" timestamp="1524300949311">
         <mark key="[" line="51" column="45" />
-        <mark key="]" line="51" column="45" />
-        <mark key="." line="51" column="45" />
-        <mark key="^" line="51" column="43" />
+        <mark key="]" line="49" column="44" />
+        <mark key="." line="49" column="44" />
+        <mark key="^" line="49" column="44" />
       </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/filter/ByteArrayPrintWriter.java" timestamp="1524293312810">
         <mark key="[" line="24" column="4" />
@@ -71,7 +71,7 @@
         <mark key="^" line="756" column="90" />
         <mark key="." line="756" column="90" />
       </file>
-      <file name="D:/foresee/open_gateway/openapi/com.foresee.open.openapi.dubbo-client/src/main/java/Consumer.java" timestamp="1524295658344">
+      <file name="D:/foresee/open_gateway/openapi/com.foresee.open.openapi.dubbo-client/src/main/java/Consumer.java" timestamp="1524300791634">
         <mark key="[" line="20" column="71" />
         <mark key="]" line="19" column="26" />
         <mark key="^" line="19" column="26" />
@@ -124,8 +124,13 @@
         <mark key="." line="133" column="39" />
         <mark key="^" line="133" column="39" />
       </file>
-      <file name="D:/foresee/oauth/com.foresee.ftcsp.oauth.rest/src/main/resources/logback-spring.xml" timestamp="1524296200355" />
+      <file name="D:/foresee/oauth/com.foresee.ftcsp.oauth.rest/src/main/resources/logback-spring.xml" timestamp="1524300941613" />
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.core/0.2.7/com.foresee.ftcsp.public.core-0.2.7.jar!/com/foresee/ftcsp/common/core/rest/RestControllerInterceptor.class" timestamp="1524287062280" />
+      <file name="D:/foresee/open_gateway/opensdk/open.api.client.example/src/test/resources/loginNames" timestamp="1524300961337">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1524299506780">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
@@ -242,8 +247,8 @@
       <jump line="23" column="18" filename="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.model/src/main/java/com/foresee/ftcsp/openapi/manual/dto/OpenAppDTO.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>loginName</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LS0tLS0tLS0tLS0tLQo=</text>
       </register>
       <register name="-" type="4">
         <text>loginName</text>
@@ -255,28 +260,28 @@
         <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0KCkgdGhyb3dzIEV4Y2VwdGlvbiB7Ci8vICAgICAgICBBdXRoSG9zdC5zZXRBdXRoSG9zdCgiaHR0cDovL2RhcGkuamNobC5jb20iKTsKICAgICAgICBBdXRoSG9zdC5zZXRBdXRoSG9zdCgiaHR0cDovLzEwLjEwLjAuNzg6ODg4OCIpOwogICAgICAgIE9wZW5BcGlGYWN0b3J5IG9wZW5BcGlGYWN0b3J5ID0gbmV3IE9wZW5BcGlGYWN0b3J5KCIwMDAxMDYiLCAiMSIpOwogICAgICAgIExvZ2luVk8gYWRtaW4gPSBvcGVuQXBpRmFjdG9yeS5jcmVhdGUoVXNlckFwaS5jbGFzcykubG9naW4oImFkbWluIiwgIjExMTExMSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvcGVuQXBpRmFjdG9yeS5jcmVhdGUK</text>
+        <text encoding="base64">LS0tLS0tLS0tLS0tLQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihsb2dpbk5hbWUgKyAiLCIgKyB1c2VyVm8uZ2V0VXNlclRva2VuKCkpOwo=</text>
+        <text encoding="base64">bG9naW5fbmFtZSAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFjY2Vzc1Rva2VuIHVzZXJBY2Nlc3NUb2tlbiA9IGFjY2Vzc1Rva2VuQXBpLmdldEJ5VXNlclRva2VuKGFkbWluLmdldFVzZXJUb2tlbigpLCAiMDAwMDEwMDIiKTsK</text>
+        <text encoding="base64">ICAgICAgICBvcGVuQXBpRmFjdG9yeS5jcmVhdGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHVzZXJWby5nZXRVc2VyVG9rZW4oKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihsb2dpbk5hbWUgKyAiLCIgKyB1c2VyVm8uZ2V0VXNlclRva2VuKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYWRtaW4uZ2V0VXNlclRva2VuKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFjY2Vzc1Rva2VuIHVzZXJBY2Nlc3NUb2tlbiA9IGFjY2Vzc1Rva2VuQXBpLmdldEJ5VXNlclRva2VuKGFkbWluLmdldFVzZXJUb2tlbigpLCAiMDAwMDEwMDIiKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dpblZPIGFkbWluID0gdXNlckFwaS5sb2dpbigibHF0ZXN0MSIsICIxMTExMTEiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHVzZXJWby5nZXRVc2VyVG9rZW4oKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBJT1V0aWwK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYWRtaW4uZ2V0VXNlclRva2VuKCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBJT1V0aWxzCg==</text>
+        <text encoding="base64">ICAgICAgICBMb2dpblZPIGFkbWluID0gdXNlckFwaS5sb2dpbigibHF0ZXN0MSIsICIxMTExMTEiKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBJT1V0aWwK</text>
