@@ -65,6 +65,11 @@
         <mark key="." line="30" column="27" />
       </file>
       <file name="D:/foresee/open_gateway/openapi/com.foresee.open.gateway.rest/src/main/java/com/foresee/open/gateway/request/chain/RequestHandlerChain.java" timestamp="1524448810135" />
+      <file name="D:/foresee/open_gateway/openapi/com.foresee.open.gateway.model/src/main/java/com/foresee/open/gateway/manual/dto/OpenAuthAppApiDTO.java" timestamp="1524460197934">
+        <mark key="[" line="11" column="31" />
+        <mark key="]" line="13" column="24" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="D:/foresee/open_gateway/opensdk/open.api.client.example/src/test/resources/loginNames" timestamp="1524300961337">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -188,7 +193,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8cGx1Z2lucz4K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGFwaXM7Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -200,31 +205,31 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgYnl0ZVtdIHNoYTI1NihTdHJpbmcgdGV4dCkgewogICAgICAgIHRyeSB7CiAgICAgICAgICAgIE1lc3NhZ2VEaWdlc3QgZGlnZXN0ID0gTWVzc2FnZURpZ2VzdC5nZXRJbnN0YW5jZSgiU0hBLTI1NiIpOwogICAgICAgICAgICByZXR1cm4gZGlnZXN0LmRpZ2VzdCh0ZXh0LmdldEJ5dGVzKENoYXJzZXQuZm9yTmFtZSgiVVRGLTgiKSkpOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKGUpOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8cGx1Z2lucz4K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGFwaXM7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWVzc2FnZURpZ2VzdCBkaWdlc3QgPSBNZXNzYWdlRGlnZXN0LmdldEluc3RhbmNlKCJNRDUiKTsK</text>
+        <text encoding="base64">ICAgICAgICA8cGx1Z2lucz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LS0tLS0tLS0tLS0tLQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWVzc2FnZURpZ2VzdCBkaWdlc3QgPSBNZXNzYWdlRGlnZXN0LmdldEluc3RhbmNlKCJNRDUiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bG9naW5fbmFtZSAgIAo=</text>
+        <text encoding="base64">LS0tLS0tLS0tLS0tLQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvcGVuQXBpRmFjdG9yeS5jcmVhdGUK</text>
+        <text encoding="base64">bG9naW5fbmFtZSAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihsb2dpbk5hbWUgKyAiLCIgKyB1c2VyVm8uZ2V0VXNlclRva2VuKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBvcGVuQXBpRmFjdG9yeS5jcmVhdGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFjY2Vzc1Rva2VuIHVzZXJBY2Nlc3NUb2tlbiA9IGFjY2Vzc1Rva2VuQXBpLmdldEJ5VXNlclRva2VuKGFkbWluLmdldFVzZXJUb2tlbigpLCAiMDAwMDEwMDIiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihsb2dpbk5hbWUgKyAiLCIgKyB1c2VyVm8uZ2V0VXNlclRva2VuKCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHVzZXJWby5nZXRVc2VyVG9rZW4oKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFjY2Vzc1Rva2VuIHVzZXJBY2Nlc3NUb2tlbiA9IGFjY2Vzc1Rva2VuQXBpLmdldEJ5VXNlclRva2VuKGFkbWluLmdldFVzZXJUb2tlbigpLCAiMDAwMDEwMDIiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYWRtaW4uZ2V0VXNlclRva2VuKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHVzZXJWby5nZXRVc2VyVG9rZW4oKSk7Cg==</text>
       </register>
     </registers>
     <search>
