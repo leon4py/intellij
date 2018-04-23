@@ -9,11 +9,15 @@
         <mark key="^" line="30" column="32" />
         <mark key="." line="30" column="32" />
       </file>
-      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/filter/AsyncFilter.java" timestamp="1524496908260">
-        <mark key="[" line="44" column="19" />
-        <mark key="]" line="44" column="26" />
-        <mark key="." line="44" column="26" />
-        <mark key="^" line="44" column="26" />
+      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/filter/AsyncFilter.java" timestamp="1524499382177">
+        <mark key="[" line="97" column="24" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
+      </file>
+      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/test/java/com/foresee/ftcsp/ftcspmvc/utils/ExceptionUtilTest.java" timestamp="1524498410100">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/isolation/DefaultExecutors.java" timestamp="1524495955495" />
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/resources/config/bootstrap.properties" timestamp="1524496976252">
@@ -22,13 +26,17 @@
         <mark key="^" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/isolation/ExecutorFactory.java" timestamp="1524496671749" />
-      <file name="D:/foresee/open_gateway/openapi/com.foresee.open.gateway.model/src/main/java/com/foresee/open/gateway/manual/dto/OpenAuthAppApiDTO.java" timestamp="1524464096383">
-        <mark key="[" line="26" column="43" />
-        <mark key="]" line="13" column="24" />
-        <mark key="." line="13" column="0" />
+      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/isolation/ExecutorFactory.java" timestamp="1524498301146" />
+      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/utils/ExceptionUtil.java" timestamp="1524499207966">
+        <mark key="[" line="40" column="75" />
+        <mark key="]" line="61" column="34" />
+        <mark key="." line="61" column="34" />
+        <mark key="^" line="61" column="34" />
       </file>
-      <file name="D:/MyProgram/developer/Java/jdk1.8.0_162/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1524496637989" />
+      <file name="D:/MyProgram/developer/Java/jdk1.8.0_162/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1524498704958" />
+      <file name="/fragment.java" timestamp="1524497577492">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/pom.xml" timestamp="1524495741069">
         <mark key="[" line="8" column="18" />
       </file>
@@ -137,43 +145,57 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>else if (line.startsWith(&quot;\tat com.&quot;)) {
+            traceLines.add(line);
+        } else if (line.startsWith(&quot;Caused&quot;)) {
+            traceLines.add(line);
+        } else if (!line.startsWith(&quot;\t&quot;)) {
+            traceLines.add(line);
+        }</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgYnl0ZVtdIHNoYTI1NihTdHJpbmcgdGV4dCkgewogICAgICAgIHRyeSB7CiAgICAgICAgICAgIE1lc3NhZ2VEaWdlc3QgZGlnZXN0ID0gTWVzc2FnZURpZ2VzdC5nZXRJbnN0YW5jZSgiU0hBLTI1NiIpOwogICAgICAgICAgICByZXR1cm4gZGlnZXN0LmRpZ2VzdCh0ZXh0LmdldEJ5dGVzKENoYXJzZXQuZm9yTmFtZSgiVVRGLTgiKSkpOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKGUpOwogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoMTAwKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGFwaXM7Cg==</text>
+      <register name="1" type="4">
+        <text>else if (line.startsWith(&quot;\tat com.&quot;)) {
+            traceLines.add(line);
+        } else if (line.startsWith(&quot;Caused&quot;)) {
+            traceLines.add(line);
+        } else if (!line.startsWith(&quot;\t&quot;)) {
+            traceLines.add(line);
+        }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8cGx1Z2lucz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWVzc2FnZURpZ2VzdCBkaWdlc3QgPSBNZXNzYWdlRGlnZXN0LmdldEluc3RhbmNlKCJNRDUiKTsK</text>
+        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMDApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LS0tLS0tLS0tLS0tLQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bG9naW5fbmFtZSAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvcGVuQXBpRmFjdG9yeS5jcmVhdGUK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImhlbG8iKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihsb2dpbk5hbWUgKyAiLCIgKyB1c2VyVm8uZ2V0VXNlclRva2VuKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFjY2Vzc1Rva2VuIHVzZXJBY2Nlc3NUb2tlbiA9IGFjY2Vzc1Rva2VuQXBpLmdldEJ5VXNlclRva2VuKGFkbWluLmdldFVzZXJUb2tlbigpLCAiMDAwMDEwMDIiKTsK</text>
+      <register name="8" type="4">
+        <text>if (executionThread != null) {
+                    logger.error();
+                }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHVzZXJWby5nZXRVc2VyVG9rZW4oKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
