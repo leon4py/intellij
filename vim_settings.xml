@@ -41,6 +41,12 @@
         <mark key="[" line="100" column="26" />
       </file>
       <file name="D:/foresee/oauth/com.foresee.ftcsp.oauth.service/src/main/java/com/foresee/ftcsp/oauth/config/JarsLinkConfig.java" timestamp="1524534295521" />
+      <file name="D:/foresee/open_gateway/opensdk/open.api.client.example/src/test/java/com/foresee/open/sdk/klass/AuthApiTest.java" timestamp="1524550712847">
+        <mark key="[" line="25" column="68" />
+        <mark key="]" line="25" column="61" />
+        <mark key="." line="25" column="61" />
+        <mark key="^" line="25" column="63" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.ftcspmvc/0.2.0/com.foresee.ftcsp.public.ftcspmvc-0.2.0-sources.jar!/com/foresee/ftcsp/ftcspmvc/filter/AsyncFilter.java" timestamp="1524532918221" />
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.ftcspmvc/0.2.1/com.foresee.ftcsp.public.ftcspmvc-0.2.1-sources.jar!/com/foresee/ftcsp/ftcspmvc/isolation/ThreadGroup.java" timestamp="1524542268194" />
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/support/EnvKit.java" timestamp="1524534127407">
@@ -114,6 +120,7 @@
         <mark key="." line="34" column="39" />
       </file>
       <file name="D:/MyProgram/developer/Java/jdk1.8.0_162/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1524533839913" />
+      <file name="D:/foresee/open_gateway/opensdk/open.client/src/test/java/com/foresee/open/sdk/client/ClientHelperTest.java" timestamp="1524550598897" />
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.ftcspmvc/0.2.1/com.foresee.ftcsp.public.ftcspmvc-0.2.1-sources.jar!/com/foresee/ftcsp/ftcspmvc/cache/PropsKit.java" timestamp="1524543042493" />
       <file name="/fragment.java" timestamp="1524543043690">
         <mark key="[" line="0" column="0" />
@@ -228,16 +235,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>convert</text>
+        <text>106</text>
       </register>
       <register name="-" type="4">
-        <text>convert</text>
+        <text>106</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdmFsdWUgPSBkZWZhdWx0QmVhbkZhY3RvcnkucmVzb2x2ZUVtYmVkZGVkVmFsdWUoZXhwcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBBdXRoSG9zdC5zZXRBdXRoSG9zdCgiaHR0cDovLzEwLjEwLjE0LjE4MDo5OTk5Iik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBiZWFuRmFjdG9yeS5nZXRUeXBlQ29udmVydGVyKCkuY29udmVyCg==</text>
