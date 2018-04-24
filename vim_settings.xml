@@ -12,6 +12,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.13.RELEASE/spring-beans-4.3.13.RELEASE-sources.jar!/org/springframework/beans/factory/config/PlaceholderConfigurerSupport.java" timestamp="1524539768179" />
+      <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.open.sdk.client/0.0.1/com.foresee.open.sdk.client-0.0.1-sources.jar!/com/foresee/open/sdk/client/OpenApiHelper.java" timestamp="1524566621758" />
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.ftcspmvc/0.2.1/com.foresee.ftcsp.public.ftcspmvc-0.2.1-sources.jar!/com/foresee/ftcsp/ftcspmvc/isolation/ExecutorFactory.java" timestamp="1524541220814" />
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/support/ThreadPool.java" timestamp="1524536972575">
         <mark key="[" line="32" column="4" />
@@ -20,12 +21,13 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.ftcspmvc/0.2.0/com.foresee.ftcsp.public.ftcspmvc-0.2.0-sources.jar!/com/foresee/ftcsp/ftcspmvc/filter/AsyncFilter.java" timestamp="1524532918221" />
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/auth/url/OpenApiURL.java" timestamp="1524532772194" />
-      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/OpenAppService.java" timestamp="1524563502370">
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/OpenAppService.java" timestamp="1524565595331">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/config/FtcspAspectConfiguration.java" timestamp="1524562143924" />
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/TokenService.java" timestamp="1524565105075" />
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/isolation/ThreadGroup.java" timestamp="1524537118356">
         <mark key="[" line="29" column="31" />
         <mark key="]" line="29" column="9" />
@@ -53,8 +55,17 @@
         <mark key="^" line="59" column="25" />
         <mark key="." line="59" column="25" />
       </file>
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/OpenUserService.java" timestamp="1524565420815">
+        <mark key="[" line="32" column="50" />
+      </file>
       <file name="D:/MyProgram/developer/Java/jdk1.8.0_162/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1524533839913" />
       <file name="D:/foresee/open_gateway/opensdk/open.client/src/test/java/com/foresee/open/sdk/client/ClientHelperTest.java" timestamp="1524550598897" />
+      <file name="D:/foresee/open_gateway/opensdk/open.client/src/test/java/com/foresee/open/sdk/client/OpenHttpClientTest.java" timestamp="1524566256840">
+        <mark key="[" line="32" column="39" />
+        <mark key="]" line="32" column="38" />
+        <mark key="^" line="32" column="38" />
+        <mark key="." line="32" column="38" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.ftcspmvc/0.2.1/com.foresee.ftcsp.public.ftcspmvc-0.2.1-sources.jar!/com/foresee/ftcsp/ftcspmvc/cache/PropsKit.java" timestamp="1524543042493" />
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/pom.xml" timestamp="1524558181317">
         <mark key="[" line="8" column="18" />
@@ -71,7 +82,7 @@
         <mark key="[" line="100" column="24" />
       </file>
       <file name="D:/foresee/oauth/com.foresee.ftcsp.oauth.service/src/main/java/com/foresee/ftcsp/oauth/config/JarsLinkConfig.java" timestamp="1524534295521" />
-      <file name="D:/foresee/open_gateway/opensdk/open.api.client.example/src/test/java/com/foresee/open/sdk/klass/AuthApiTest.java" timestamp="1524551772823" />
+      <file name="D:/foresee/open_gateway/opensdk/open.api.client.example/src/test/java/com/foresee/open/sdk/klass/AuthApiTest.java" timestamp="1524566123341" />
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.ftcspmvc/0.2.1/com.foresee.ftcsp.public.ftcspmvc-0.2.1-sources.jar!/com/foresee/ftcsp/ftcspmvc/isolation/ThreadGroup.java" timestamp="1524542268194" />
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.ftcspmvc/0.2.1/com.foresee.ftcsp.public.ftcspmvc-0.2.1-sources.jar!/com/foresee/ftcsp/ftcspmvc/filter/AsyncFilter.java" timestamp="1524542867252" />
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/cache/PropsKit.java" timestamp="1524543115473">
@@ -81,6 +92,9 @@
         <mark key="^" line="51" column="35" />
       </file>
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.ftcspmvc/0.3.0/com.foresee.ftcsp.public.ftcspmvc-0.3.0-sources.jar!/com/foresee/ftcsp/ftcspmvc/isolation/ExecutorCfg.java" timestamp="1524558366932" />
+      <file name="/Dummy.txt" timestamp="1524566277883">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.ftcspmvc/0.2.1/com.foresee.ftcsp.public.ftcspmvc-0.2.1-sources.jar!/com/foresee/ftcsp/ftcspmvc/isolation/ExecutorCfg.java" timestamp="1524543641875" />
       <file name="D:/foresee/open_gateway/openapi/com.foresee.open.openapi.dubbo-server/src/main/java/com/foresee/open/openapi/RestApiImpl.java" timestamp="1524536531055" />
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/error/ErrorEnum.java" timestamp="1524546115130">
@@ -99,7 +113,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.core/0.2.7/com.foresee.ftcsp.public.core-0.2.7.jar!/com/foresee/ftcsp/common/core/rest/RestControllerInterceptor.class" timestamp="1524539841710" />
       <file name="D:/MyProgram/developer/Java/jdk1.8.0_162/src.zip!/java/util/concurrent/DelayQueue.java" timestamp="1524559250172" />
-      <file name="/fragment.java" timestamp="1524543043690">
+      <file name="/fragment.java" timestamp="1524566277893">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="60" />
         <mark key="." line="0" column="60" />
@@ -208,8 +222,8 @@
       <jump line="23" column="18" filename="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.model/src/main/java/com/foresee/ftcsp/openapi/manual/dto/OpenAppDTO.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IE9wZW5IdHRwQ2xpZW50IGh0dHBDbGllbnQgPSBuZXcgT3Blbkh0dHBDbGllbnQoIjAwMDEwNiIsICIwMDAwIik7CiAgICAgICAgU3RyaW5nIHVybCA9ICJodHRwczovL29wZW4uamNobC5jb20vb3BlbmFwaS92MS91c2VyL2xvZ2luIjsKICAgICAgICBPcGVuQXBpUmVxdWVzdCByZXF1ZXN0ID0gbmV3IE9wZW5BcGlSZXF1ZXN0KHVybCkKICAgICAgICAgICAgICAgIC5zZXRBY2Nlc3NUb2tlbigiMTExMSIpCiAgICAgICAgICAgICAgICAuc2V0U2lnbktleSgiOTk5OTk5Iik7CgogICAgICAgIFN0cmluZyBib2R5ID0gaHR0cENsaWVudC5wb3N0KHJlcXVlc3QpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihib2R5KTs=</text>
       </register>
       <register name="-" type="4">
         <text>Servlet</text>
@@ -220,29 +234,29 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBBdXRoSG9zdC5zZXRBdXRoSG9zdCgiaHR0cDovLzEwLjEwLjE0LjE4MDo5OTk5Iik7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IE9wZW5IdHRwQ2xpZW50IGh0dHBDbGllbnQgPSBuZXcgT3Blbkh0dHBDbGllbnQoIjAwMDEwNiIsICIwMDAwIik7CiAgICAgICAgU3RyaW5nIHVybCA9ICJodHRwczovL29wZW4uamNobC5jb20vb3BlbmFwaS92MS91c2VyL2xvZ2luIjsKICAgICAgICBPcGVuQXBpUmVxdWVzdCByZXF1ZXN0ID0gbmV3IE9wZW5BcGlSZXF1ZXN0KHVybCkKICAgICAgICAgICAgICAgIC5zZXRBY2Nlc3NUb2tlbigiMTExMSIpCiAgICAgICAgICAgICAgICAuc2V0U2lnbktleSgiOTk5OTk5Iik7CgogICAgICAgIFN0cmluZyBib2R5ID0gaHR0cENsaWVudC5wb3N0KHJlcXVlc3QpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihib2R5KTs=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZWRpc0NsaWVudC5leHBpcmUob2xkQWNjZXNzVG9rZW5LZXksIGFjY2Vzc1RpbWVvdXQpOwogICAgICAgICAgICAgICAgICAgIHJldHVybiBhY2Nlc3NUb2tlbkluZm8KICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5zZXRQcm92aWRlckFwcFVSTChhY2Nlc3NUb2tlbikKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5zZXRBY2Nlc3NUb2tlbihvbGRVc2VyQWNjZXNzVG9rZW4pCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAuc2V0RXhwaXJlVGltZXMoYWNjZXNzVGltZW91dCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5zZXRQcm92aWRlckFwcFVSTChvcGVuQXV0aEFwcERUTy5nZXRQcm92aWRlckFwcFVybCgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBvcGVuQXBwRFRPOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZWRpc0NsaWVudC5leHBpcmUob2xkQWNjZXNzVG9rZW5LZXksIGFjY2Vzc1RpbWVvdXQpOwogICAgICAgICAgICAgICAgICAgIHJldHVybiBhY2Nlc3NUb2tlbkluZm8KICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5zZXRQcm92aWRlckFwcFVSTChhY2Nlc3NUb2tlbikKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5zZXRBY2Nlc3NUb2tlbihvbGRVc2VyQWNjZXNzVG9rZW4pCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAuc2V0RXhwaXJlVGltZXMoYWNjZXNzVGltZW91dCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5zZXRQcm92aWRlckFwcFVSTChvcGVuQXV0aEFwcERUTy5nZXRQcm92aWRlckFwcFVybCgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBiZWFuRmFjdG9yeS5nZXRUeXBlQ29udmVydGVyKCkuY29udmVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBvcGVuQXBwRFRPOwo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBiZWFuRmFjdG9yeS5nZXRUeXBlQ29udmVydGVyKCkuY29udmVyCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBiZWFuRmFjdG9yeS5nZXRDb252ZXJzaW9uU2VydmljZSgpLgo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiMg0uyyvXNlcnZsZXSzrMqxMTBzCmFzeW5jLnNlcnZsZXQudGltZW91dD0x</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50LmdldEFzeW5jQ29udGV4dCgpLmdldFRpbWVvdXQoKQo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50LmdldEFzeW5jQ29udGV4dCgpLmdldFRpbWVvdXQoKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
