@@ -62,13 +62,13 @@
         <mark key="^" line="121" column="36" />
         <mark key="." line="122" column="0" />
       </file>
-      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/auth/rest/openapi/CodeController.java" timestamp="1524558231796">
-        <mark key="[" line="58" column="84" />
-        <mark key="]" line="59" column="25" />
-        <mark key="^" line="59" column="25" />
-        <mark key="." line="59" column="25" />
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/auth/rest/openapi/CodeController.java" timestamp="1524660277298">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="40" />
+        <mark key="^" line="33" column="39" />
+        <mark key="." line="44" column="0" />
       </file>
-      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/OpenUserService.java" timestamp="1524658612910">
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/OpenUserService.java" timestamp="1524660182551">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
@@ -99,7 +99,7 @@
       <file name="D:/foresee/unifiedAuth/pom.xml" timestamp="1524634820899">
         <mark key="[" line="22" column="26" />
       </file>
-      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/auth/rest/openapi/OpenUserController.java" timestamp="1524621317977">
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/auth/rest/openapi/OpenUserController.java" timestamp="1524660257582">
         <mark key="[" line="29" column="35" />
         <mark key="]" line="29" column="35" />
         <mark key="." line="29" column="35" />
@@ -135,12 +135,6 @@
         <mark key="[" line="439" column="5" />
       </file>
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.model/src/main/java/com/foresee/ftcsp/security/manual/dto/SecInnerAccountDTO.java" timestamp="1524636265322" />
-      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/resources/config/bootstrap.properties" timestamp="1524655521494">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="39" column="31" />
-        <mark key="^" line="39" column="31" />
-        <mark key="." line="39" column="31" />
-      </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/isolation/ExecutorFactory.java" timestamp="1524646380375">
         <mark key="[" line="126" column="46" />
         <mark key="]" line="126" column="45" />
@@ -148,7 +142,11 @@
         <mark key="." line="126" column="45" />
       </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/client/RestTemplateConfig.java" timestamp="1524653506824" />
-      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/auth/rest/openapi/TokenController.java" timestamp="1524621112868" />
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/auth/rest/openapi/TokenController.java" timestamp="1524660310203">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
       <file name="D:/foresee/ftcsp_security/com.foresee.ftcsp.security.model/src/main/resources/com/foresee/ftcsp/security/manual/mapper/SecInnerAccountExtMapper.xml" timestamp="1524658434447">
         <mark key="[" line="161" column="33" />
       </file>
@@ -266,7 +264,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBUaHJlYWRHcm91cChEZWZhdWx0RXhlY3V0b3JzLkNPUkUpCg==</text>
       </register>
       <register name="-" type="4">
         <text>4</text>
@@ -275,34 +273,34 @@
         <text encoding="base64">XDxpbWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWluVGhyZWFkcyA9IFJ1bnRpbWUuZ2V0UnVudGltZSgpLmF2YWlsYWJsZVByb2Nlc3NvcnMoKSArIDE7Cg==</text>
+        <text encoding="base64">ICAgIEBUaHJlYWRHcm91cChPcGVuQXV0aEV4ZWN1dG9ycy5PUEVOKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBUaHJlYWRHcm91cChEZWZhdWx0RXhlY3V0b3JzLkNPUkUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl0aGlzLnNldElubmVycGFzc0ZhaWxUaW1lcyhsb2dpbk5hbWUsIG51bGwsICIwIik7Cg==</text>
+        <text encoding="base64">ICAgIEBUaHJlYWRHcm91cChEZWZhdWx0RXhlY3V0b3JzLkNPUkUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBUaHJlYWRHcm91cChEZWZhdWx0RXhlY3V0b3JzLkNPUkUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZXRNYXhUb3RhbCgyMDApOwo=</text>
+        <text encoding="base64">ICAgIEBUaHJlYWRHcm91cChEZWZhdWx0RXhlY3V0b3JzLkNPUkUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBUaHJlYWRHcm91cChEZWZhdWx0RXhlY3V0b3JzLkNPUkUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIEBUaHJlYWRHcm91cChEZWZhdWx0RXhlY3V0b3JzLkNPUkUpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZXF1ZXN0RmFjdG9yeShuZXcgSHR0cENvbXBvbmVudHNDbGllbnRIdHRwUmVxdWVzdEZhY3RvcnkoKSB7CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB9KQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnBvb2xOYW1lID0gcG9vbE5hbWU7Cg==</text>
+        <text encoding="base64">CQl0aGlzLnNldElubmVycGFzc0ZhaWxUaW1lcyhsb2dpbk5hbWUsIG51bGwsICIwIik7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIlRocmVhZFBvb2x7IiArCiAgICAgICAgICAgICAgICAidGltZW91dD0iICsgdGltZW91dCArCiAgICAgICAgICAgICAgICAiLCBwb29sTmFtZT0nIiArIHBvb2xOYW1lICsgJ1wnJyArCiAgICAgICAgICAgICAgICAnfSc7</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
