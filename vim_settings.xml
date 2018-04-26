@@ -30,24 +30,13 @@
         <mark key="." line="50" column="15" />
         <mark key="^" line="50" column="15" />
       </file>
-      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/isolation/ExecutorCfg.java" timestamp="1524724363283">
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-      </file>
-      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/resources/logback-spring.xml" timestamp="1524654405884" />
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/resources/logback-spring.xml" timestamp="1524740381933" />
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.10/jackson-databind-2.8.10-sources.jar!/com/fasterxml/jackson/databind/annotation/JsonDeserialize.java" timestamp="1524711299393" />
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/isolation/support/DumpThreadTask.java" timestamp="1524727447136">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
         <mark key="^" line="19" column="45" />
-      </file>
-      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/OpenApiTokenService.java" timestamp="1524739166265">
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="0" />
-        <mark key="^" line="115" column="38" />
-        <mark key="." line="125" column="0" />
       </file>
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/auth/rest/openapi/CodeController.java" timestamp="1524660277298">
         <mark key="[" line="44" column="0" />
@@ -107,16 +96,16 @@
         <mark key="[" line="439" column="5" />
       </file>
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.model/src/main/java/com/foresee/ftcsp/security/manual/dto/SecInnerAccountDTO.java" timestamp="1524636265322" />
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/resources/config/bootstrap.properties" timestamp="1524740759041">
+        <mark key="[" line="21" column="34" />
+        <mark key="]" line="21" column="34" />
+        <mark key="." line="21" column="34" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.8.0/jackson-annotations-2.8.0-sources.jar!/com/fasterxml/jackson/annotation/JacksonAnnotationsInside.java" timestamp="1524711233551" />
       <file name="D:/foresee/open_gateway/openapi/com.foresee.open.gateway.rest/src/main/java/com/foresee/open/gateway/invoke/impl/DubboInvokeImpl.java" timestamp="1524712004068" />
       <file name="D:/foresee/open_gateway/opensdk/open.client/src/test/resources/userAccessToken.csv" timestamp="1524723836584" />
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.model/pom.xml" timestamp="1524658454722">
         <mark key="[" line="20" column="26" />
-      </file>
-      <file name="D:/foresee/oauth/com.foresee.ftcsp.oauth.rest/src/main/java/com/foresee/ftcsp/oauth/rest/OAuthApplication.java" timestamp="1524705642794">
-        <mark key="]" line="5" column="36" />
-        <mark key="^" line="5" column="36" />
-        <mark key="." line="5" column="36" />
       </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/support/ThreadPool.java" timestamp="1524724346981">
         <mark key="[" line="15" column="28" />
@@ -162,11 +151,6 @@
       <file name="D:/foresee/unifiedAuth/com.foresee.open.auth.sdk/src/main/java/com/foresee/open/auth/vo/AccessTokenInfo.java" timestamp="1524737331036" />
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/test/java/com/foresee/ftcsp/ftcspmvc/utils/MaskFieldSerializer.java" timestamp="1524710075874">
         <mark key="[" line="8" column="23" />
-      </file>
-      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/test/java/com/foresee/ftcsp/ftcspmvc/utils/MaskFieldDeserializer.java" timestamp="1524710132628">
-        <mark key="]" line="18" column="7" />
-        <mark key="^" line="18" column="7" />
-        <mark key="." line="18" column="7" />
       </file>
       <file name="D:/foresee/oauth/com.foresee.ftcsp.oauth.rest/src/main/java/com/foresee/ftcsp/oauth/rest/OAuthController.java" timestamp="1524638331199" />
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/AccessTokenParams.java" timestamp="1524735201629" />
@@ -312,11 +296,11 @@
       <jump line="23" column="18" filename="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.model/src/main/java/com/foresee/ftcsp/openapi/manual/dto/OpenAppDTO.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>DEBUG</text>
       </register>
       <register name="-" type="4">
-        <text>8888</text>
+        <text>DEBUG</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWxcPg==</text>
