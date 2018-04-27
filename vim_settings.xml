@@ -20,7 +20,13 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3-sources.jar!/org/apache/http/impl/conn/CPool.java" timestamp="1524650324453" />
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/resources/logback-spring.xml" timestamp="1524740381933" />
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.10/jackson-databind-2.8.10-sources.jar!/com/fasterxml/jackson/databind/annotation/JsonDeserialize.java" timestamp="1524711299393" />
-      <file name="D:/foresee/open_gateway/opensdk/open.client/src/test/java/com/foresee/open/sdk/client/OpenApiClientTest.java" timestamp="1524820126091">
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/OpenApiTokenService.java" timestamp="1524824935320">
+        <mark key="[" line="120" column="65" />
+        <mark key="]" line="120" column="51" />
+        <mark key="^" line="120" column="51" />
+        <mark key="." line="120" column="51" />
+      </file>
+      <file name="D:/foresee/open_gateway/opensdk/open.client/src/test/java/com/foresee/open/sdk/client/OpenApiClientTest.java" timestamp="1524824436588">
         <mark key="[" line="64" column="57" />
         <mark key="]" line="64" column="57" />
         <mark key="^" line="64" column="64" />
@@ -93,6 +99,7 @@
         <mark key="^" line="37" column="41" />
         <mark key="." line="37" column="76" />
       </file>
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/TokenService.java" timestamp="1524823317981" />
       <file name="D:/foresee/core/apollo-archetype/src/main/resources/archetype-resources/pom.xml" timestamp="1524641635904" />
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.database/0.0.2/com.foresee.ftcsp.public.database-0.0.2-sources.jar!/com/foresee/ftcsp/common/database/redis/RedisClientImpl.java" timestamp="1524737126874" />
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.ftcspmvc/0.2.1/com.foresee.ftcsp.public.ftcspmvc-0.2.1-sources.jar!/com/foresee/ftcsp/ftcspmvc/isolation/DefaultExecutors.java" timestamp="1524621146353" />
@@ -129,6 +136,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.ftcspmvc/0.2.1/com.foresee.ftcsp.public.ftcspmvc-0.2.1-sources.jar!/com/foresee/ftcsp/ftcspmvc/cache/CacheGet.java" timestamp="1524619743397" />
+      <file name="D:/foresee/open_gateway/openapi/com.foresee.open.openapi.dubbo-server/src/main/java/com/foresee/open/openapi/RestApiImpl.java" timestamp="1524824012349" />
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.10/jackson-databind-2.8.10-sources.jar!/com/fasterxml/jackson/databind/node/ObjectNode.java" timestamp="1524725485539" />
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/dict/FtcspDictLoader.java" timestamp="1524643930705" />
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/filter/AsyncFilter.java" timestamp="1524798894119">
@@ -257,44 +265,44 @@
       <jump line="23" column="18" filename="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.model/src/main/java/com/foresee/ftcsp/openapi/manual/dto/OpenAppDTO.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IGFjY2Vzc1Rva2VuLCAiTlgiLCAiRVgiLCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWxcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>DumpThreadTask dumpThreadTask</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHN0YXR1cyA9IGplZGlzLnNldChjcHUsIGFjY2Vzc1Rva2VuLCAiTlgiLCAiRVgiLCBhY2Nlc3NUb2tlblBhcmFtcy5nZXRFeHBpcmVUaW1lcygpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBSRVNQT05TRV9CT0RZID0gQXN5bmNGaWx0ZXIuY2xhc3MuZ2V0TmFtZSgpICsgIi5SRVNQIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0LnNldEF0dHJpYnV0ZShSRVNQT05TRV9CT0RZLCBib2R5KTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IHJlZGlzQ2xpZW50LnB1dChhY2Nlc3NUb2tlbktleSwgb2JqZWN0TWFwKTsKCiAgICAgICAgICAgIHJlZGlzQ2xpZW50LmV4cGlyZShhY2Nlc3NUb2tlbktleSwgYWNjZXNzVGltZW91dCk7CiAgICAgICAgICAgIHJlZGlzQ2xpZW50LnNldChjcHUsIGFjY2Vzc1Rva2VuLCAzMCwgVGltZVVuaXQuREFZUyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGR1bXBSZXF1ZXN0KGh0dHBTZXJ2bGV0UmVxdWVzdCwgZXhlY3V0b3IpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkdW1wUmVxdWVzdChodHRwU2VydmxldFJlcXVlc3QsIGV4ZWN1dG9yKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">IAo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBSRVNQT05TRV9CT0RZID0gQXN5bmNGaWx0ZXIuY2xhc3MuZ2V0TmFtZSgpICsgIi5SRVNQIjsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgLyogICAgIFN0cmluZyBvbGRVc2VyQWNjZXNzVG9rZW4gPSByZWRpc0NsaWVudC5nZXQodG9rZW5LZXlCeVVzZXJJZCk7CiAgICAgICAgICAgIGlmIChTdHJpbmdVdGlscy5pc05vdEJsYW5rKG9sZFVzZXJBY2Nlc3NUb2tlbikgJiYgIW5ld09uZSkgewogICAgICAgICAgICAgICAgU3RyaW5nIG9sZEFjY2Vzc1Rva2VuS2V5ID0gYWNjZXNzUmVkaXNQcmVmaXggKyBvbGRVc2VyQWNjZXNzVG9rZW47CgogICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICBBY2Nlc3NUb2tlbiBhY2Nlc3NUb2tlbkluZm8gPQogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5nZXRBY2Nlc3NUb2tlbkluZm8oYWNjZXNzUmVkaXNQcmVmaXgsIG9sZFVzZXJBY2Nlc3NUb2tlbiwgQWNjZXNzVG9rZW4uY2xhc3MpOwogICAgICAgICAgICAgICAgICAgIGlmIChhY2Nlc3NUb2tlbkluZm8gPT0gbnVsbCAmJiBTdHJpbmdVdGlscy5pc0JsYW5rKGFjY2Vzc1Rva2VuUGFyYW1zLmdldFVzZXJJZCgpKSkgewogICAgICAgICAgICAgICAgICAgICAgICB0aHJvdyBFcnJvckVudW0uQUNDRVNTX1RPS0VOX0VYUElSRS50b0Z0Y3NwUnVudGltZUV4Y2VwdGlvbihhY2Nlc3NUb2tlbik7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIGlmIChhY2Nlc3NUb2tlbkluZm8gIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICByZWRpc0NsaWVudC5leHBpcmUob2xkQWNjZXNzVG9rZW5LZXksIGFjY2Vzc1RpbWVvdXQpOwogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gYWNjZXNzVG9rZW5JbmZvCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLnNldFByb3ZpZGVyQXBwVVJMKGFjY2Vzc1Rva2VuKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5zZXRBY2Nlc3NUb2tlbihvbGRVc2VyQWNjZXNzVG9rZW4pCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLnNldEV4cGlyZVRpbWVzKGFjY2Vzc1RpbWVvdXQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLnNldFByb3ZpZGVyQXBwVVJMKG9wZW5BdXRoQXBwRFRPLmdldFByb3ZpZGVyQXBwVXJsKCkpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEZ0Y3NwUnVudGltZUV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKEVycm9yRW51bS5BQ0NFU1NfVE9LRU5fRVhQSVJFX0JZX1VTRVJfVE9LRU4uZ2V0RXJyb3JDb2RlKCkuZXF1YWxzKGUuZ2V0RXJyb3JDb2RlKCkpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIC8vINStwLS1xHVzZXJUb2tlbtLRvq3Kp9CnLCDL+dLU1K3AtHVzZXJUb2tlbsn6s8m1xGFjY2Vzc1Rva2Vu0rLKp9CnCiAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuZGVsZXRlKGFjY2Vzc1JlZGlzUHJlZml4ICsgb2xkVXNlckFjY2Vzc1Rva2VuKTsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgdGhyb3cgZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSov</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0LnNldEF0dHJpYnV0ZShSRVNQT05TRV9CT0RZLCBib2R5KTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGR1bXBSZXF1ZXN0KGh0dHBTZXJ2bGV0UmVxdWVzdCwgZXhlY3V0b3IpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkdW1wUmVxdWVzdChodHRwU2VydmxldFJlcXVlc3QsIGV4ZWN1dG9yKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbG9ja0tleSA9IGdlbkFjY2Vzc1Rva2VuS2V5KGNvbnN1bWVyQXBwSWQsIHByb3ZpZGVyQXBwSWQsIGFjY2Vzc1Rva2VuUGFyYW1zLmdldFVzZXJJZCgpKTsK</text>
+        <text encoding="base64">IAo=</text>
       </register>
     </registers>
     <search>
