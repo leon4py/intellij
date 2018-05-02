@@ -43,11 +43,11 @@
         <mark key="." line="38" column="106" />
         <mark key="^" line="38" column="106" />
       </file>
-      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/open/service/SmsService.java" timestamp="1525272786313">
-        <mark key="[" line="36" column="12" />
-        <mark key="]" line="36" column="12" />
-        <mark key="." line="36" column="12" />
-        <mark key="^" line="78" column="15" />
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/open/service/SmsService.java" timestamp="1525275462255">
+        <mark key="[" line="80" column="52" />
+        <mark key="]" line="80" column="87" />
+        <mark key="." line="80" column="87" />
+        <mark key="^" line="80" column="87" />
       </file>
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/OpenApiTokenService.java" timestamp="1525272798921">
         <mark key="[" line="38" column="12" />
@@ -100,13 +100,17 @@
         <mark key="." line="70" column="21" />
         <mark key="^" line="70" column="21" />
       </file>
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/test/resources/app.properties" timestamp="1525273935972">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="32" column="53" />
+      </file>
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/impl/UnifiedAuthServiceImpl.java" timestamp="1524707436770">
         <mark key="[" line="1065" column="88" />
         <mark key="]" line="1066" column="0" />
         <mark key="^" line="1066" column="8" />
         <mark key="." line="1066" column="0" />
       </file>
-      <file name="D:/foresee/ftcsp_smscenter/smscentersdk/src/test/java/com/foresee/ftcsp/smscenter/sdk/client/SmsClientTest.java" timestamp="1525264769307">
+      <file name="D:/foresee/ftcsp_smscenter/smscentersdk/src/test/java/com/foresee/ftcsp/smscenter/sdk/client/SmsClientTest.java" timestamp="1525275223620">
         <mark key="[" line="46" column="35" />
         <mark key="]" line="46" column="36" />
         <mark key="." line="46" column="36" />
@@ -132,13 +136,14 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/net/logstash/logback/logstash-logback-encoder/5.1/logstash-logback-encoder-5.1.jar!/net/logstash/logback/appender/AsyncDisruptorAppender.class" timestamp="1525230000953" />
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/open/service/Strs.java" timestamp="1525270741754" />
-      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/test/java/com/foresee/open/service/SmsServiceTest.java" timestamp="1525273841074">
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/test/java/com/foresee/open/service/SmsServiceTest.java" timestamp="1525274100678">
         <mark key="[" line="42" column="35" />
         <mark key="]" line="42" column="49" />
         <mark key="." line="42" column="49" />
         <mark key="^" line="42" column="49" />
       </file>
       <file name="D:/foresee/userCenter/com.foresee.ftcsp.user.api/src/main/java/com/foresee/ftcsp/user/url/RestURL.java" timestamp="1525266112888" />
+      <file name="D:/foresee/core/public/com.foresee.ftcsp.public.test/src/main/java/com/foresee/ftcsp/test/RedisMockConfig.java" timestamp="1525275295656" />
       <file name="D:/foresee/unifiedAuth/pom.xml" timestamp="1525254351571">
         <mark key="[" line="127" column="0" />
         <mark key="]" line="132" column="20" />
@@ -158,11 +163,11 @@
         <mark key="^" line="28" column="3" />
         <mark key="." line="29" column="13" />
       </file>
-      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/test/java/com/foresee/open/service/OpenSmsTestConfig.java" timestamp="1525272968581">
-        <mark key="[" line="50" column="5" />
-        <mark key="]" line="50" column="4" />
-        <mark key="." line="50" column="4" />
-        <mark key="^" line="50" column="4" />
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/test/java/com/foresee/open/service/OpenSmsTestConfig.java" timestamp="1525274007520">
+        <mark key="[" line="20" column="1" />
+        <mark key="]" line="20" column="1" />
+        <mark key="." line="20" column="1" />
+        <mark key="^" line="20" column="1" />
       </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/filter/AsyncFilter.java" timestamp="1524798894119">
         <mark key="[" line="240" column="15" />
@@ -183,7 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="4" filename="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/common/WorkFlowDict.java" />
       <jump line="219" column="22" filename="D:/foresee/workflow/com.foresee.ftcsp.workflow.rest/src/main/java/com/foresee/ftcsp/workflow/rest/inner/ProcessController.java" />
       <jump line="53" column="0" filename="D:/foresee/store/com.foresee.ftcsp.store.service/src/main/java/com/foresee/ftcsp/workflow/transaction/invoke/service/impl/MigrationService.java" />
       <jump line="112" column="0" filename="D:/foresee/store/com.foresee.ftcsp.store.service/src/main/java/com/foresee/ftcsp/workflow/transaction/invoke/service/impl/MigrationService.java" />
@@ -283,13 +287,14 @@
       <jump line="24" column="6" filename="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/auth/url/OpenApiURL.java" />
       <jump line="19" column="0" filename="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.model/src/main/java/com/foresee/ftcsp/security/constant/AuthConstants.java" />
       <jump line="10" column="19" filename="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/config/OpenAuthExecutors.java" />
+      <jump line="1" column="0" filename="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/test/resources/app.properties" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWxcPg==</text>
