@@ -15,12 +15,29 @@
         <mark key="." line="2" column="111" />
         <mark key="^" line="2" column="110" />
       </file>
+      <file name="D:/foresee/open_gateway/opensdk/open.client/src/test/java/com/foresee/open/sdk/client/PressKit.java" timestamp="1525337771222">
+        <mark key="[" line="45" column="54" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/auth/AuthApplication.java" timestamp="1525311754065">
+        <mark key="[" line="25" column="57" />
+        <mark key="]" line="25" column="57" />
+        <mark key="." line="25" column="57" />
+      </file>
       <file name="D:/foresee/userCenter/com.foresee.ftcsp.user.service/src/test/java/com/foresee/ftcsp/user/service/ServiceConfig.java" timestamp="1525317083150">
         <mark key="[" line="27" column="5" />
         <mark key="]" line="22" column="12" />
         <mark key="^" line="22" column="12" />
         <mark key="." line="22" column="12" />
       </file>
+      <file name="D:/foresee/open_gateway/opensdk/open.client/src/main/java/com/foresee/open/sdk/client/OpenApiHelper.java" timestamp="1525336883813">
+        <mark key="[" line="85" column="28" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
+        <mark key="^" line="91" column="0" />
+      </file>
+      <file name="D:/foresee/open_gateway/opensdk/open.client/src/main/java/com/foresee/open/sdk/client/PressKit.java" timestamp="1525337806969" />
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/auth/url/OpenApiURL.java" timestamp="1525328607934">
         <mark key="'" line="24" column="6" />
         <mark key="[" line="50" column="39" />
@@ -137,7 +154,7 @@
         <mark key="]" line="21" column="34" />
         <mark key="." line="21" column="34" />
       </file>
-      <file name="/fragment.java" timestamp="1525328800127">
+      <file name="/fragment.java" timestamp="1525337796588">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
@@ -247,7 +264,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIj09PT09PXF1ZXJ5U3RyaW5nPT09PT09W1siICsgcXVlcnlTdHJpbmcgKyJdXSIpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>CannotContainSpacesValidator</text>
@@ -256,31 +273,31 @@
         <text encoding="base64">XDxpbWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIj09PT09PXF1ZXJ5U3RyaW5nPT09PT09W1siICsgcXVlcnlTdHJpbmcgKyJdXSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQm9vbGVhbiBkZWxldGVkOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIj09PT09PT09PT09PXF1ZXJ5U3RyaW5nPT09PT09PSIgKyBxdWVyeSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgdGhpcy5lbnVtcy5hZGQoKWNvbnN0cmFpbnRBbm5vdGF0aW9uLmVudW1zKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocXVlcnlTdHJpbmcpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGVudW1zOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQm9vbGVhbiBkZWxldGVkOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgdGhpcy5lbnVtcy5hZGQoKWNvbnN0cmFpbnRBbm5vdGF0aW9uLmVudW1zKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGVudW1zOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBPcmdJZCBvcmcgPSBuZXcgT3JnSWQoKS5zZXRPcmdJZChvcmdJZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIG9yZ0lkID0gb3JnU2VydmljZS5zYXZlKHNlY09yZ0RUTyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBPcmdJZCBvcmcgPSBuZXcgT3JnSWQoKS5zZXRPcmdJZChvcmdJZCk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
