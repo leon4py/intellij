@@ -82,11 +82,11 @@
         <mark key="^" line="16" column="22" />
         <mark key="." line="16" column="22" />
       </file>
-      <file name="D:/foresee/userCenter/com.foresee.ftcsp.user.model/src/main/java/com/foresee/ftcsp/user/manual/dto/SecOrgDTO.java" timestamp="1525321425237">
-        <mark key="[" line="34" column="27" />
-        <mark key="]" line="34" column="9" />
-        <mark key="." line="34" column="9" />
-        <mark key="^" line="34" column="9" />
+      <file name="D:/foresee/userCenter/com.foresee.ftcsp.user.model/src/main/java/com/foresee/ftcsp/user/manual/dto/SecOrgDTO.java" timestamp="1525323572799">
+        <mark key="[" line="254" column="0" />
+        <mark key="]" line="254" column="15" />
+        <mark key="." line="254" column="0" />
+        <mark key="^" line="240" column="27" />
       </file>
       <file name="D:/foresee/open_gateway/opensdk/open.api.client.example/src/test/java/com/foresee/open/sdk/klass/UserAccessTokenGenerator.java" timestamp="1525251518398">
         <mark key="[" line="38" column="69" />
@@ -242,7 +242,7 @@
         <mark key="^" line="240" column="33" />
         <mark key="." line="240" column="33" />
       </file>
-      <file name="D:/foresee/userCenter/com.foresee.ftcsp.user.service/src/main/java/com/foresee/ftcsp/user/error/ErrorEnum.java" timestamp="1525321133362">
+      <file name="D:/foresee/userCenter/com.foresee.ftcsp.user.service/src/main/java/com/foresee/ftcsp/user/error/ErrorEnum.java" timestamp="1525323641477">
         <mark key="[" line="54" column="8" />
         <mark key="]" line="54" column="8" />
         <mark key="." line="54" column="8" />
@@ -380,8 +380,8 @@
       <jump line="0" column="0" filename="D:/foresee/userCenter/com.foresee.ftcsp.user.service/src/main/java/com/foresee/ftcsp/user/service/OrgService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>CannotContainSpacesValidator</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
       </register>
       <register name="-" type="4">
         <text>CannotContainSpacesValidator</text>
@@ -390,34 +390,34 @@
         <text encoding="base64">XDxpbWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIE9SR19OT1RfRVhJU1RTKCIxMDAzMTAwMDEyMDAiLCLG89K1aWRbJXNdsru05tTaIiksCg==</text>
+        <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgdGhpcy5lbnVtcy5hZGQoKWNvbnN0cmFpbnRBbm5vdGF0aW9uLmVudW1zKCk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQm9vbGVhbiBkZWxldGVkOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGVudW1zOwo=</text>
+        <text encoding="base64">ICAgICAgICAgdGhpcy5lbnVtcy5hZGQoKWNvbnN0cmFpbnRBbm5vdGF0aW9uLmVudW1zKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGVudW1zOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBPcmdJZCBvcmcgPSBuZXcgT3JnSWQoKS5zZXRPcmdJZChvcmdJZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBPcmdJZCBvcmcgPSBuZXcgT3JnSWQoKS5zZXRPcmdJZChvcmdJZCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIG9yZ0lkID0gb3JnU2VydmljZS5zYXZlKHNlY09yZ0RUTyk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBsb25nIG9yZ0lkID0gb3JnU2VydmljZS5zYXZlKHNlY09yZ0RUTyk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0VXNlcklkKCkgewogICAgICAgIHJldHVybiB1c2VySWQ7CiAgICB9CgogICAgcHVibGljIE9yZ0lkIHNldFVzZXJJZChTdHJpbmcgdXNlcklkKSB7CiAgICAgICAgdGhpcy51c2VySWQgPSB1c2VySWQ7CiAgICAgICAgcmV0dXJuIHRoaXM7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
     </registers>
     <search>
