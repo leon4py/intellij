@@ -22,11 +22,12 @@
         <mark key="." line="2" column="52" />
       </file>
       <file name="D:/foresee/userCenter/com.foresee.ftcsp.user.model/src/main/resources/com/foresee/ftcsp/user/auto/dao/SecAppOrgUserMapper.xml" timestamp="1525422591086" />
-      <file name="D:/foresee/userCenter/com.foresee.ftcsp.user.rest/src/test/resources/update.sql" timestamp="1525415217719">
-        <mark key="[" line="16" column="59" />
-        <mark key="]" line="16" column="58" />
-        <mark key="." line="16" column="58" />
-        <mark key="^" line="16" column="58" />
+      <file name="D:/foresee/userCenter/com.foresee.ftcsp.user.rest/src/test/resources/update.sql" timestamp="1525426813049">
+        <mark key="'" line="43" column="45" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="59" column="112" />
+        <mark key="." line="59" column="112" />
+        <mark key="^" line="59" column="112" />
       </file>
       <file name="D:/foresee/open_gateway/opensdk/open.client/src/test/java/com/foresee/open/sdk/client/PressKit.java" timestamp="1525337771222">
         <mark key="[" line="45" column="54" />
@@ -360,7 +361,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="12" filename="D:/foresee/workflow/com.foresee.ftcsp.workflow.service/src/main/java/com/foresee/ftcsp/workflow/impl/TaskServiceImpl.java" />
       <jump line="63" column="71" filename="D:/foresee/workflow/com.foresee.ftcsp.workflow.model/src/main/resources/com/foresee/ftcsp/workflow/manual/mapper/WfcVarExtMapper.xml" />
       <jump line="154" column="44" filename="C:/Users/Alex/.m2/repository/foresee/com.foresee.ftcsp.public.core/0.0.1/com.foresee.ftcsp.public.core-0.0.1-sources.jar!/com/foresee/ftcsp/common/core/rest/client/FtcspInnerRestClient.java" />
       <jump line="66" column="44" filename="D:/foresee/jcdz/security/com.foresee.ftcsp.security.rest/src/test/java/com/foresee/ftcsp/security/druidfilter/PasswordFilterTest.java" />
@@ -460,6 +460,7 @@
       <jump line="143" column="0" filename="D:/foresee/userCenter/com.foresee.ftcsp.user.api/src/main/java/com/foresee/ftcsp/user/url/RestURL.java" />
       <jump line="23" column="3" filename="D:/foresee/userCenter/com.foresee.ftcsp.user.service/src/main/java/com/foresee/ftcsp/user/service/OrgService.java" />
       <jump line="0" column="0" filename="D:/foresee/userCenter/com.foresee.ftcsp.user.service/src/main/java/com/foresee/ftcsp/user/service/OrgService.java" />
+      <jump line="43" column="45" filename="D:/foresee/userCenter/com.foresee.ftcsp.user.rest/src/test/resources/update.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
