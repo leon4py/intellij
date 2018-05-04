@@ -21,11 +21,11 @@
         <mark key="^" line="2" column="52" />
         <mark key="." line="2" column="52" />
       </file>
-      <file name="D:/foresee/userCenter/com.foresee.ftcsp.user.rest/src/test/resources/update.sql" timestamp="1525406720625">
-        <mark key="[" line="21" column="59" />
-        <mark key="]" line="21" column="58" />
-        <mark key="." line="21" column="58" />
-        <mark key="^" line="21" column="58" />
+      <file name="D:/foresee/userCenter/com.foresee.ftcsp.user.rest/src/test/resources/update.sql" timestamp="1525415217719">
+        <mark key="[" line="16" column="59" />
+        <mark key="]" line="16" column="58" />
+        <mark key="." line="16" column="58" />
+        <mark key="^" line="16" column="58" />
       </file>
       <file name="D:/foresee/open_gateway/opensdk/open.client/src/test/java/com/foresee/open/sdk/client/PressKit.java" timestamp="1525337771222">
         <mark key="[" line="45" column="54" />
@@ -88,6 +88,12 @@
         <mark key="]" line="37" column="41" />
         <mark key="^" line="37" column="41" />
         <mark key="." line="37" column="76" />
+      </file>
+      <file name="D:/foresee/userCenter/com.foresee.ftcsp.user.api/src/main/java/com/foresee/ftcsp/user/vo/requestDto/OrgAppUserCreation.java" timestamp="1525415984155">
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="10" column="15" />
+        <mark key="^" line="10" column="15" />
+        <mark key="." line="10" column="15" />
       </file>
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/resources/logback-spring.xml" timestamp="1525265088272">
         <mark key="[" line="12" column="18" />
@@ -182,6 +188,12 @@
         <mark key="]" line="9" column="17" />
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="17" />
+      </file>
+      <file name="D:/foresee/userCenter/com.foresee.ftcsp.user.api/src/main/java/com/foresee/ftcsp/user/url/RestURL.java" timestamp="1525415817416">
+        <mark key="[" line="37" column="24" />
+        <mark key="]" line="17" column="16" />
+        <mark key="^" line="17" column="16" />
+        <mark key="." line="17" column="16" />
       </file>
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/open/service/RedisService.java" timestamp="1525270296617">
         <mark key="[" line="2" column="0" />
@@ -431,10 +443,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>int</text>
+        <text>String</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWxcPg==</text>
