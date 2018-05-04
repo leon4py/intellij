@@ -89,11 +89,10 @@
         <mark key="^" line="37" column="41" />
         <mark key="." line="37" column="76" />
       </file>
-      <file name="D:/foresee/userCenter/com.foresee.ftcsp.user.api/src/main/java/com/foresee/ftcsp/user/vo/requestDto/OrgAppUserCreation.java" timestamp="1525415984155">
-        <mark key="[" line="12" column="11" />
-        <mark key="]" line="10" column="15" />
-        <mark key="^" line="10" column="15" />
-        <mark key="." line="10" column="15" />
+      <file name="D:/foresee/userCenter/com.foresee.ftcsp.user.api/src/main/java/com/foresee/ftcsp/user/vo/requestDto/OrgAppUserCreation.java" timestamp="1525416215535">
+        <mark key="]" line="14" column="17" />
+        <mark key="^" line="14" column="17" />
+        <mark key="." line="14" column="17" />
       </file>
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/resources/logback-spring.xml" timestamp="1525265088272">
         <mark key="[" line="12" column="18" />
@@ -126,11 +125,11 @@
         <mark key="." line="24" column="46" />
         <mark key="^" line="24" column="46" />
       </file>
-      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/open/service/SmsService.java" timestamp="1525406054349">
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/open/service/SmsService.java" timestamp="1525416183820">
         <mark key="[" line="55" column="41" />
-        <mark key="]" line="50" column="12" />
-        <mark key="." line="50" column="12" />
-        <mark key="^" line="50" column="12" />
+        <mark key="]" line="76" column="43" />
+        <mark key="." line="76" column="43" />
+        <mark key="^" line="76" column="43" />
       </file>
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/OpenApiTokenService.java" timestamp="1525345458164">
         <mark key="[" line="131" column="81" />
@@ -443,10 +442,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>String</text>
+        <text>Long</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>Long</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWxcPg==</text>
