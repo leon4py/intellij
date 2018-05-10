@@ -8,7 +8,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/auth/AuthApplication.java" timestamp="1525922534016" />
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/auth/AuthApplication.java" timestamp="1525924666757">
+        <mark key="[" line="32" column="27" />
+        <mark key="]" line="32" column="27" />
+        <mark key="^" line="32" column="41" />
+        <mark key="." line="32" column="27" />
+      </file>
       <file name="D:/foresee/userCenter/com.foresee.ftcsp.user.sdk/src/main/java/com/foresee/open/user/vo/OrgId.java" timestamp="1525837723402">
         <mark key="[" line="8" column="15" />
       </file>
@@ -19,13 +24,13 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/resources/config/bootstrap.properties" timestamp="1525921545058">
-        <mark key="[" line="16" column="28" />
-        <mark key="]" line="16" column="28" />
-        <mark key="." line="16" column="28" />
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/resources/config/bootstrap.properties" timestamp="1525924379841">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
-      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/pom.xml" timestamp="1525920111838">
-        <mark key="[" line="29" column="0" />
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/pom.xml" timestamp="1525924397164">
+        <mark key="[" line="21" column="26" />
         <mark key="]" line="21" column="25" />
         <mark key="^" line="21" column="25" />
         <mark key="." line="21" column="25" />
@@ -33,6 +38,7 @@
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/api/FtcspRestApiBeanScannerConfigurer.java" timestamp="1525922331011" />
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.model/src/main/java/com/foresee/ftcsp/security/constant/AuthConstants.java" timestamp="1525918508765" />
       <file name="D:/foresee/product/com.foresee.ftcsp.goods.api/src/main/java/com/foresee/ftcsp/goods/api/inner/GoodsApi.java" timestamp="1525922270140" />
+      <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.model/src/main/java/com/foresee/ftcsp/security/config/DataSourceConfiguration.java" timestamp="1525924520762" />
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/pom.xml" timestamp="1525843373167">
         <mark key="[" line="8" column="16" />
       </file>
@@ -43,9 +49,10 @@
         <mark key="^" line="33" column="25" />
         <mark key="." line="33" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525922710539">
+      <file name="/Dummy.txt" timestamp="1525924888931">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.database/0.0.4/com.foresee.ftcsp.public.database-0.0.4.jar!/com/foresee/ftcsp/common/database/conf/MybatisDataSource.class" timestamp="1525924540257" />
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/api/FtcspRestApiInvocationHandler.java" timestamp="1525922446643" />
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/resources/auth0-config-dev.properties" timestamp="1525922510510">
         <mark key="[" line="15" column="0" />
@@ -53,7 +60,7 @@
         <mark key="." line="15" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/foresee/com.foresee.ftcsp.public.core/0.2.7/com.foresee.ftcsp.public.core-0.2.7.pom" timestamp="1525918135159" />
-      <file name="/fragment.java" timestamp="1525922710528">
+      <file name="/fragment.java" timestamp="1525924888920">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
@@ -168,11 +175,11 @@
       <jump line="43" column="45" filename="D:/foresee/userCenter/com.foresee.ftcsp.user.rest/src/test/resources/update.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>database</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>database</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWxcPg==</text>
@@ -181,54 +188,28 @@
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgRXJyb3JFbnVtLlVJRF9OT1RfRVhJU1RTLnRvRnRjc3BSdW50aW1lRXhjZXB0aW9uKHVpZC50b1N0cmluZygpKTsK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ZnRjc3AuY3JhcGFwaS5zZXJ2ZXIubmFtZT1BdXRoCmZ0Y3NwLmNyYXBhcGkuc2VydmVyLnR5cGU9MgpmdGNzcC5jcmFwYXBpLnVybD1odHRwOi8vYXBpLmpjaGwuY29tOjgwODAvYXBpCmZ0Y3NwLmNyYXBhcGkubG9naW4udXNlcm5hbWU9YWRtaW4KZnRjc3AuY3JhcGFwaS5sb2dpbi5wYXNzd29yZD1wYXNzQHdvcmQxCmZ0Y3NwLmNyYXBhcGkuc2Nhbi5wYXRocz1jb20uZm9yZXNlZS5mdGNzcC5hdXRoLnJlc3Qvc3JjL21haW4vamF2YSxcCiAgY29tLmZvcmVzZWUuZnRjc3AuYXV0aC5hcGkvc3JjL21haW4vamF2YSxcCiAgY29tLmZvcmVzZWUuZnRjc3AuYXV0aC5tb2RlbC9zcmMvbWFpbi9qYXZhCmRlZmF1bHQuYXBwSWQ9MDAwMTA2Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CiPBrL3TxeTWw9bQ0MQKI3NwcmluZy5jbG91ZC5jb25maWcudXJpPSR7RlRDU1BfQ09ORklHX1NFUlZFUl9VUkx9CiO2wcihxeTWw87EvP4K</text>
+      </register>
+      <register name="3" type="4">
+        <text>spring.application.name=auth${FTCSP_DEVELOPER_NAME:}
+server.port=${config.port:8660}
+#server.port=${random.int[6400,9999]}
+#连接注册中心
+eureka.client.serviceUrl.defaultZone=${FTCSP_EUREKA_SERVER_URL}
+eureka.instance.preferIpAddress=true
+eureka.instance.instance-id=${spring.cloud.client.ipAddress}:${spring.application.name}:${server.port}</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="4">
-        <text>foresee.druid.datasource.driverClassName=com.mysql.jdbc.Driver
-#连接池的配置信息
-foresee.druid.datasource.initialSize=5
-#最小空闲连接数
-foresee.druid.datasource.minIdle=5
-#最大并发连接数
-foresee.druid.datasource.maxActive=20
-#配置获取连接等待超时的时间
-foresee.druid.datasource.maxWait=60000
-#配置间隔多久才进行一次检测，检测需要关闭的空闲连接，单位是毫秒
-foresee.druid.datasource.timeBetweenEvictionRunsMillis=60000
-#配置一个连接在池中最小生存的时间，单位是毫秒
-foresee.druid.datasource.minEvictableIdleTimeMillis=300000
-#用来检测连接是否有效的sql，要求是一个查询语句。
-foresee.druid.datasource.validationQuery=select1
-foresee.druid.datasource.testWhileIdle=true
-#申请连接时执行validationQuery检测连接是否有效，做了这个配置会降低性能
-foresee.druid.datasource.testOnBorrow=false
-#归还连接时执行validationQuery检测连接是否有效，做了这个配置会降低性能
-foresee.druid.datasource.testOnReturn=false
-#打开PSCache，并且指定每个连接上PSCache的大小
-foresee.druid.datasource.poolPreparedStatements=true
-foresee.druid.datasource.maxPoolPreparedStatementPerConnectionSize=20
-foresee.druid.datasource.filters=stat,wall,log4j
-foresee.druid.datasource.connectionProperties=druid.stat.mergeSql=true;druid.stat.slowSqlMillis=5000
-#合并多个DruidDataSource的监控数据
-foresee.druid.datasource.useGlobalDataSourceStat=true</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="4">
-        <text>#Redis配置
-spring.redis.host=10.10.0.76
-spring.redis.port=6379
-spring.redis.pool.max-idle=8
-spring.redis.pool.min-idle=0
-spring.redis.pool.max-active=100
-spring.redis.pool.max-wait=-1</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
