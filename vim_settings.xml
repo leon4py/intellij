@@ -339,6 +339,12 @@
         <mark key="^" line="52" column="31" />
       </file>
       <file name="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.model/src/main/java/com/foresee/ftcsp/security/config/DataSourceConfiguration.java" timestamp="1525924520762" />
+      <file name="D:/foresee/oauth/com.foresee.ftcsp.oauth.rest/src/main/java/com/foresee/ftcsp/oauth/rest/OAuthController.java" timestamp="1525937954376">
+        <mark key="[" line="36" column="43" />
+        <mark key="]" line="37" column="3" />
+        <mark key="." line="37" column="3" />
+        <mark key="^" line="37" column="3" />
+      </file>
       <file name="D:/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/pom.xml" timestamp="1525929880189">
         <mark key="[" line="8" column="18" />
       </file>
@@ -564,11 +570,11 @@
       <jump line="43" column="45" filename="D:/foresee/userCenter/com.foresee.ftcsp.user.rest/src/test/resources/update.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBSZXN0UmVzcG9uc2UuZXJyb3IoZnRjc3BSdW50aW1lRXhjZXB0aW9uLmdldEVycm9yQ29kZSgpLCBmdGNzcFJ1bnRpbWVFeGNlcHRpb24uZ2V0RXJyb3JNc2coKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWxcPg==</text>
@@ -577,37 +583,31 @@
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgRXJyb3JFbnVtLlVJRF9OT1RfRVhJU1RTLnRvRnRjc3BSdW50aW1lRXhjZXB0aW9uKHVpZC50b1N0cmluZygpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBSZXN0UmVzcG9uc2UuZXJyb3IoZnRjc3BSdW50aW1lRXhjZXB0aW9uLmdldEVycm9yQ29kZSgpLCBmdGNzcFJ1bnRpbWVFeGNlcHRpb24uZ2V0RXJyb3JNc2coKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmdGNzcFJ1bnRpbWVFeGNlcHRpb24K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYXBwSWQubGVuZ3RoKCkgPT0gNikK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBSZXN0UmVzcG9uc2UuZXJyb3IoZnRjc3BSdW50aW1lRXhjZXB0aW9uLmdldEVycm9yQ29kZSgpLCBmdGNzcFJ1bnRpbWVFeGNlcHRpb24uZ2V0RXJyb3JNc2coKSk7Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmdGNzcFJ1bnRpbWVFeGNlcHRpb24K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnRjc3AuY3JhcGFwaS5zZXJ2ZXIubmFtZT1BdXRoCmZ0Y3NwLmNyYXBhcGkuc2VydmVyLnR5cGU9MgpmdGNzcC5jcmFwYXBpLnVybD1odHRwOi8vYXBpLmpjaGwuY29tOjgwODAvYXBpCmZ0Y3NwLmNyYXBhcGkubG9naW4udXNlcm5hbWU9YWRtaW4KZnRjc3AuY3JhcGFwaS5sb2dpbi5wYXNzd29yZD1wYXNzQHdvcmQxCmZ0Y3NwLmNyYXBhcGkuc2Nhbi5wYXRocz1jb20uZm9yZXNlZS5mdGNzcC5hdXRoLnJlc3Qvc3JjL21haW4vamF2YSxcCiAgY29tLmZvcmVzZWUuZnRjc3AuYXV0aC5hcGkvc3JjL21haW4vamF2YSxcCiAgY29tLmZvcmVzZWUuZnRjc3AuYXV0aC5tb2RlbC9zcmMvbWFpbi9qYXZhCmRlZmF1bHQuYXBwSWQ9MDAwMTA2Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYXBwSWQubGVuZ3RoKCkgPT0gNikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiPBrL3TxeTWw9bQ0MQKI3NwcmluZy5jbG91ZC5jb25maWcudXJpPSR7RlRDU1BfQ09ORklHX1NFUlZFUl9VUkx9CiO2wcihxeTWw87EvP4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBSZXN0UmVzcG9uc2UuZXJyb3IoZnRjc3BSdW50aW1lRXhjZXB0aW9uLmdldEVycm9yQ29kZSgpLCBmdGNzcFJ1bnRpbWVFeGNlcHRpb24uZ2V0RXJyb3JNc2coKSk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>spring.application.name=auth${FTCSP_DEVELOPER_NAME:}
-server.port=${config.port:8660}
-#server.port=${random.int[6400,9999]}
-#连接注册中心
-eureka.client.serviceUrl.defaultZone=${FTCSP_EUREKA_SERVER_URL}
-eureka.instance.preferIpAddress=true
-eureka.instance.instance-id=${spring.cloud.client.ipAddress}:${spring.application.name}:${server.port}</text>
+      <register name="8" type="2">
+        <text encoding="base64">ZnRjc3AuY3JhcGFwaS5zZXJ2ZXIubmFtZT1BdXRoCmZ0Y3NwLmNyYXBhcGkuc2VydmVyLnR5cGU9MgpmdGNzcC5jcmFwYXBpLnVybD1odHRwOi8vYXBpLmpjaGwuY29tOjgwODAvYXBpCmZ0Y3NwLmNyYXBhcGkubG9naW4udXNlcm5hbWU9YWRtaW4KZnRjc3AuY3JhcGFwaS5sb2dpbi5wYXNzd29yZD1wYXNzQHdvcmQxCmZ0Y3NwLmNyYXBhcGkuc2Nhbi5wYXRocz1jb20uZm9yZXNlZS5mdGNzcC5hdXRoLnJlc3Qvc3JjL21haW4vamF2YSxcCiAgY29tLmZvcmVzZWUuZnRjc3AuYXV0aC5hcGkvc3JjL21haW4vamF2YSxcCiAgY29tLmZvcmVzZWUuZnRjc3AuYXV0aC5tb2RlbC9zcmMvbWFpbi9qYXZhCmRlZmF1bHQuYXBwSWQ9MDAwMTA2Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiPBrL3TxeTWw9bQ0MQKI3NwcmluZy5jbG91ZC5jb25maWcudXJpPSR7RlRDU1BfQ09ORklHX1NFUlZFUl9VUkx9CiO2wcihxeTWw87EvP4K</text>
       </register>
     </registers>
     <search>
