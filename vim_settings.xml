@@ -4,12 +4,13 @@
     <globalmarks />
     <filemarks>
       <file name="D:/code/mchuan/tx_sms4/lib/mcbuild-base-0.2.6-SNAPSHOT-sources.jar!/com/mcbuild/utils/StrUtils.java" timestamp="1527780615792" />
-      <file name="D:/code/mchuan/tx_sms4/src/main/webapp/xmlapi/send.jsp" timestamp="1527780358341" />
-      <file name="D:/code/mchuan/tx_sms4/src/main/java/com/mchuan/sms4/api/UserUtils.java" timestamp="1527781016714">
-        <mark key="[" line="31" column="59" />
-        <mark key="]" line="31" column="98" />
-        <mark key="^" line="31" column="98" />
-        <mark key="." line="31" column="98" />
+      <file name="D:/code/mchuan/tx_sms4/src/main/webapp/WEB-INF/lib/mcbuild-base-0.2.6-SNAPSHOT-sources.jar!/com/mcbuild/utils/OpTime.java" timestamp="1527781813924" />
+      <file name="D:/code/mchuan/tx_sms4/src/main/webapp/xmlapi/send.jsp" timestamp="1527781228171" />
+      <file name="D:/code/mchuan/tx_sms4/src/main/java/com/mchuan/sms4/api/UserUtils.java" timestamp="1527781727828">
+        <mark key="[" line="26" column="24" />
+        <mark key="]" line="2" column="41" />
+        <mark key="." line="2" column="41" />
+        <mark key="^" line="2" column="41" />
       </file>
       <file name="D:/code/mchuan/tx_sms4/.gitignore" timestamp="1527780468180">
         <mark key="[" line="26" column="5" />
@@ -17,16 +18,17 @@
         <mark key="^" line="26" column="4" />
         <mark key="." line="26" column="4" />
       </file>
+      <file name="D:/code/mchuan/tx_sms4/src/main/webapp/WEB-INF/lib/mcbuild-base-0.2.6-SNAPSHOT-sources.jar!/com/mcbuild/db/DBUtils.java" timestamp="1527781481005" />
       <file name="D:/code/mchuan/tx_sms4/src/main/java/com/mchuan/sms4/api/SS.java" timestamp="1527516512202">
         <mark key="[" line="5" column="42" />
         <mark key="]" line="6" column="28" />
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
-      <file name="D:/code/mchuan/tx_sms4/src/main/java/com/mchuan/sms4/work/SendAPI.java" timestamp="1527780684602">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
+      <file name="D:/code/mchuan/tx_sms4/src/main/java/com/mchuan/sms4/work/SendAPI.java" timestamp="1527781828705">
+        <mark key="[" line="269" column="73" />
+        <mark key="]" line="269" column="73" />
+        <mark key="." line="269" column="73" />
       </file>
       <file name="$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.6/commons-lang-2.6-sources.jar!/org/apache/commons/lang/StringUtils.java" timestamp="1527780623032" />
       <file name="/fragment.java" timestamp="1527517820902">
@@ -137,10 +139,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">amF2YS51dGlsLkNvbGxlY3Rpb25zLnN5bmNocm9uaXplZE1hcChuZXcgamF2YS51dGlsLkhhc2hNYXA8U3RyaW5nLCBTdHJpbmc+KCkpOw==</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">amF2YS51dGlsLkNvbGxlY3Rpb25zLnN5bmNocm9uaXplZE1hcChuZXcgamF2YS51dGlsLkhhc2hNYXA8U3RyaW5nLCBTdHJpbmc+KCkpOw==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWxcPg==</text>
@@ -149,31 +151,31 @@
         <text encoding="base64">ICAgICAgICBHYXRld2F5Q29uZmlnLnNldEFkZHJlc3MoImh0dHA6Ly8xMC4xMC4wLjc4Ojg4OTkiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgamF2YS51dGlsLk1hcDxTdHJpbmcsIGludFtdPiBVc2VyTWNvdW50cyA9IGphdmEudXRpbC5Db2xsZWN0aW9ucy5zeW5jaHJvbml6ZWRNYXAobmV3IGphdmEudXRpbC5IYXNoTWFwPFN0cmluZywgaW50W10+KCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkvKgl0cnkgewoJCQkJVGhyZWFkLnNsZWVwKDIwMDApOwoJCQl9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7CgkJCQlsb2cuZXJyb3IoZSk7CgkJCX0qLwo=</text>
+        <text encoding="base64">Ly8JcHVibGljIHN0YXRpYyBqYXZhLnV0aWwuTWFwPFN0cmluZywgVXNlck9iaj4gVXNlck9ianMgPSBuZXcgQ29uY3VycmVudEhhc2hNYXA8U3RyaW5nLCBVc2VyT2JqPigpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxwYXJlbnQ+CiAgICAgICAgPGFydGlmYWN0SWQ+Y29tLmZvcmVzZWUuZnRjc3AucHVibGljPC9hcnRpZmFjdElkPgogICAgICAgIDxncm91cElkPmZvcmVzZWU8L2dyb3VwSWQ+CiAgICAgICAgPHZlcnNpb24+MC4wLjI8L3ZlcnNpb24+CiAgICA8L3BhcmVudD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">CQlVc2VyT2JqIHVpbmZvID0gVXNlck9ianMuZ2V0KGlkKTsKCgkJU3RyaW5nIGxvY2trZXkgPSBsb2Nra2V5cy5nZXQoaWQpOwoJCWlmIChsb2Nra2V5ID09IG51bGwpIHsKCQkJbG9ja2tleSA9IG5ldyBTdHJpbmcoaWQpOwoJCQlsb2Nra2V5cy5wdXQoaWQsIGxvY2trZXkpOwoJCX0KCgkJaWYgKHVpbmZvID09IG51bGwpIHsKCgkJCXN5bmNocm9uaXplZCAobG9ja2tleSkgewoJCQkJdWluZm8gPSBVc2VyT2Jqcy5nZXQoaWQpOwoJCQkJaWYgKHVpbmZvID09IG51bGwpIHsKCQkJCQl1aW5mbyA9IG5ld1VzZXJPYmooaWQpOwoJCQkJCWlmICh1aW5mbyAhPSBudWxsKSB7CgkJCQkJCVVzZXJPYmpzLnB1dChpZCwgdWluZm8pOwoJCQkJCX0gZWxzZSB7CgkJCQkJCVVzZXJPYmpzLnJlbW92ZShpZCk7CgkJCQkJfQoJCQkJfQoJCQl9CgoJCX0KCgkJLy8gMbfW1tO4/NDC0ru0zgoJCWlmICh1aW5mbyAhPSBudWxsICYmIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpIC0gdWluZm8ubG9hZHRpbWUgPiA2MDAwMCkgewoKCQkJc3luY2hyb25pemVkIChsb2Nra2V5KSB7CgkJCQl1aW5mbyA9IFVzZXJPYmpzLmdldChpZCk7CgkJCQlpZiAoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgLSB1aW5mby5sb2FkdGltZSA+IDYwMDAwKSB7CgkJCQkJdWluZm8gPSBuZXdVc2VyT2JqKGlkKTsKCQkJCQlpZiAodWluZm8gIT0gbnVsbCkgewoJCQkJCQlVc2VyT2Jqcy5wdXQoaWQsIHVpbmZvKTsKCQkJCQl9IGVsc2UgewoJCQkJCQlVc2VyT2Jqcy5yZW1vdmUoaWQpOwoJCQkJCX0KCQkJCX0KCQkJfQoJCX0KCgkJcmV0dXJuIHVpbmZvOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vbWF2ZW4uYXBhY2hlLm9yZy9QT00vNC4wLjAgaHR0cDovL21hdmVuLmFwYWNoZS5vcmcveHNkL21hdmVuLTQuMC4wLnhzZCI+CiAgICA8cGFyZW50PgogICAgICAgIDxhcnRpZmFjdElkPmNvbS5mb3Jlc2VlLmZ0Y3NwLnB1YmxpYzwvYXJ0aWZhY3RJZD4KICAgICAgICA8Z3JvdXBJZD5mb3Jlc2VlPC9ncm91cElkPgogICAgICAgIDx2ZXJzaW9uPjAuMC4yPC92ZXJzaW9uPgogICAgPC9wYXJlbnQ+</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQlMb2FkaW5nQ2FjaGU8U3RyaW5nLCBVc2VyT2JqPiB1c2VyT2JqcyA9IENhY2hlQnVpbGRlci5uZXdCdWlsZGVyKCkKCQkJCS5leHBpcmVBZnRlcldyaXRlKDEsIFRpbWVVbml0Lk1JTlVURVMpCgkJCQkuYnVpbGQobmV3IENhY2hlTG9hZGVyPFN0cmluZywgVXNlck9iaj4oKSB7CgkJCQkJQE92ZXJyaWRlCgkJCQkJcHVibGljIFVzZXJPYmogbG9hZChTdHJpbmcgdXNlcmlkKSB0aHJvd3MgRXhjZXB0aW9uIHsKCQkJCQkJcmV0dXJuIG5ld1VzZXJPYmoodXNlcmlkKTsKCQkJCQl9CgkJCQl9KTsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+</text>
+      <register name="7" type="2">
+        <text encoding="base64">CS8qKgoJICogdXNlcmlkID0+IHVzZXJLZXkgKMO/uPbTw7unaWS2vNPQ0ruw0cv4KQoJICovCglwdWJsaWMgc3RhdGljIGphdmEudXRpbC5NYXA8U3RyaW5nLCBTdHJpbmc+IGxvY2trZXlzID0gbmV3IENvbmN1cnJlbnRIYXNoTWFwPFN0cmluZywgU3RyaW5nPigpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWFzc2VtYmx5LXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDxleGVjdXRpb25zPgogICAgICAgICAgICAgICAgICAgIDxleGVjdXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwaGFzZT5wYWNrYWdlPC9waGFzZT4KICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWxzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWw+c2luZ2xlPC9nb2FsPgogICAgICAgICAgICAgICAgICAgICAgICA8L2dvYWxzPgogICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgPC9leGVjdXRpb25zPgogICAgICAgICAgICAgICAgPGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgPGRlc2NyaXB0b3JSZWZzPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGVzY3JpcHRvclJlZj5qYXItd2l0aC1kZXBlbmRlbmNpZXM8L2Rlc2NyaXB0b3JSZWY+CiAgICAgICAgICAgICAgICAgICAgPC9kZXNjcmlwdG9yUmVmcz4KICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4KICAgICAgICAgICAgPC9wbHVnaW4+Cg==</text>
+        <text encoding="base64">CQkvKgl0cnkgewoJCQkJVGhyZWFkLnNsZWVwKDIwMDApOwoJCQl9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7CgkJCQlsb2cuZXJyb3IoZSk7CgkJCX0qLwo=</text>
       </register>
     </registers>
     <search>
