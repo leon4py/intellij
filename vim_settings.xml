@@ -9,32 +9,44 @@
         <mark key="." line="141" column="0" />
         <mark key="^" line="143" column="0" />
       </file>
+      <file name="D:/code/mchuan/tx_sms4/pom.xml" timestamp="1528033720606">
+        <mark key="[" line="34" column="21" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="D:/code/mchuan/tx_sms4/src/main/java/com/mchuan/sms4/alert/BearyChatAlerter.java" timestamp="1528035388706">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="86" />
+        <mark key="^" line="16" column="18" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="D:/code/mchuan/tx_sms4/src/main/java/com/mchuan/sms4/alert/BearyChatIncoming.java" timestamp="1528035437843">
+        <mark key="[" line="54" column="57" />
+        <mark key="]" line="55" column="10" />
+        <mark key="." line="55" column="10" />
+        <mark key="^" line="55" column="10" />
+      </file>
       <file name="D:/code/mchuan/tx_sms4/src/main/java/com/mchuan/sms4/api/UserUtils.java" timestamp="1527783660468">
         <mark key="[" line="39" column="7" />
         <mark key="]" line="39" column="6" />
         <mark key="." line="39" column="6" />
         <mark key="^" line="39" column="6" />
       </file>
-      <file name="D:/code/mchuan/tx_sms4/src/main/java/com/mchuan/sms4/alert/BearyChatIncoming.java" timestamp="1528033823617">
-        <mark key="[" line="2" column="32" />
-      </file>
-      <file name="D:/code/mchuan/tx_sms4/pom.xml" timestamp="1528033720606">
-        <mark key="[" line="34" column="21" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-      </file>
-      <file name="D:/code/mchuan/tx_sms4/src/main/java/com/mchuan/sms4/alert/BearyChatAlerter.java" timestamp="1528033811287" />
       <file name="D:/code/mchuan/tx_sms4/src/doc/fixme.md" timestamp="1527785278285">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/code/mchuan/tx_sms4/src/main/java/com/mchuan/sms4/sendbuf/ThreadRouteSender.java" timestamp="1528033563660" />
       <file name="D:/code/mchuan/tx_sms4/src/main/java/com/mchuan/sms4/work/SendAPI.java" timestamp="1527785904895">
         <mark key="[" line="249" column="32" />
         <mark key="]" line="112" column="0" />
         <mark key="." line="112" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1527517820902">
+      <file name="/fragment.java" timestamp="1528034789899">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/code/mchuan/tx_sms4/src/test/java/com/mchuan/sms4/alert/BearyChatAlerterTest.java" timestamp="1528035254115">
+        <mark key="[" line="15" column="47" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -141,10 +153,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5oZWFkZXJzKENvbGxlY3Rpb25zLnNpbmdsZXRvbk1hcCgiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>RateLimiter</text>
+        <text>getLogger(BearyChatAlerter.class);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWxcPg==</text>
@@ -153,31 +165,31 @@
         <text encoding="base64">CQkJCXJlc3VsdC5hZGRBdHRyaWJ1dGUoInJldHVybiIsICIxMDAxMDA2Iik7CgkJCQlyZXN1bHQuYWRkQXR0cmlidXRlKCJpbmZvIiwgIrKit6LK/bOsz94iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5oZWFkZXJzKENvbGxlY3Rpb25zLnNpbmdsZXRvbk1hcCgiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlNYXA8U3RyaW5nLCBTdHJpbmc+IHN0cmluZ1N0cmluZ01hcCA9IGplZGlzLmhnZXRBbGwoVVNFUl9QQVlJTkdfTUFQKTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXJsID0gImh0dHBzOi8vaG9vay5iZWFyeWNoYXQuY29tLz1id0Q4eC9pbmNvbWluZy81MWNjNzRjOGNjODgxYzMxNGFkNWIxN2FiNjgwNWJiZiI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgICAgICBpbmNvbWluZy5zZXQK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">dHJ5IHsKCgkJCS8vINfUtq/P3svZLi4KCQkJbG9uZyBvcHRpbWUgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSAtIGJ0aW1lOwoKCQkJbG9uZyBzbGVlcHRpbWUgPSAwOwoKCQkJU3lzdGVtLm91dC5wcmludCgiOiIgKyBvcHRpbWUpOwoKCQkJaWYgKChvcHRpbWUgPiA1MDAwKSAmJiAob3B0aW1lIDwgMTAwMDApKSB7CgkJCQlTeXN0ZW0ub3V0LnByaW50bG4oInNsZWVwOiIgKyAoKG9wdGltZSAvIDIpIC0gNTAwKSk7CgkJCQlzbGVlcHRpbWUgKz0gKG9wdGltZSAvIDIpIC0gNTAwOwoJCQl9CgoJCQlpZiAoInRydWUiLmVxdWFscyh1b2JqLm0uZ2V0KCJsYXN0ZXJyb3IiKSkpIHsKCQkJCS8vIMnPtM6xqLTttcS3tbvY0qrNo8j9w+sKCQkJCXNsZWVwdGltZSArPSAzMDAwOwoJCQl9CgoJCQlpZiAoISIwIi5lcXVhbHMocmVzdWx0LmF0dHJpYnV0ZVZhbHVlKCJyZXR1cm4iKSkgfHwgIjEiLmVxdWFscyh1b2JqLmFjY291bnQuZ2V0KCJNT05JVE9SIikpKSB7CgoJCQkJbG9nLmluZm8oIlsiICsgdXNlcmlkICsgIl0iICsgcmVzdWx0LmFzWE1MKCkpOwoJCQkJLy8gsb60zrGotO21xLe1u9jSqs2jwb3D6woJCQkJc2xlZXB0aW1lICs9IDIwMDA7CgoJCQkJdW9iai5tLnB1dCgibGFzdGVycm9yIiwgInRydWUiKTsKCQkJfSBlbHNlIHsKCQkJCXVvYmoubS5wdXQoImxhc3RlcnJvciIsICJmYWxzZSIpOwoJCQl9CgoJCQlpZiAoc2xlZXB0aW1lID4gMCAmJiB1b2JqLmNhY2hlID09IDApIHsKCQkJCVRocmVhZC5zbGVlcChzbGVlcHRpbWUpOwoJCQl9CgoJCX0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CgkJCWxvZy5lcnJvcihlKTsKCQl9</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgMS8wOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBvcmcuanVuaXQuVGVzdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl0cnkgewoJCQlpZiAodW9iai5jYWNoZSA9PSAwKSB7CgkJCQkvLyDJvrP9sb60zgoJCQkJdGhyZWFkX2xpc3QucmVtb3ZlKGxidGltZSk7CgoJCQkJLy8gyb6z/bOsyrExMMPrtcS8x8K8CgkJCQlzeW5jaHJvbml6ZWQgKHRocmVhZF9saXN0KSB7CgkJCQkJTGlzdDxMb25nPiB0ZW1wbGlzdCA9IG5ldyBMaW5rZWRMaXN0PExvbmc+KCk7CgkJCQkJdGVtcGxpc3QuYWRkQWxsKHRocmVhZF9saXN0KTsKCQkJCQl0aHJlYWRfbGlzdC5jbGVhcigpOwoKCQkJCQlmb3IgKExvbmcgbCA6IHRlbXBsaXN0KSB7CgkJCQkJCWlmIChTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSAtIGwubG9uZ1ZhbHVlKCkgPCAxMDAwMCkgewoJCQkJCQkJdGhyZWFkX2xpc3QuYWRkKGwpOwoJCQkJCQl9CgkJCQkJfQoJCQkJfQoJCQl9CgoJCX0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CgkJCWxvZy5lcnJvcihlKTsKCQl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN0YXR1c0NvZGUgIT0gMjAwKSB7CiAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgIH0K</text>
       </register>
     </registers>
     <search>
