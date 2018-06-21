@@ -3,27 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/code/lab/SMSGate/src/main/java/com/zx/sms/common/queue/BdbQueueMap.java" timestamp="1529516689876" />
-      <file name="D:/code/lab/SMSGate/src/main/java/com/zx/sms/codec/cmpp/packet/CmppConnectRequest.java" timestamp="1529516435751" />
-      <file name="D:/code/lab/SMSGate/src/main/resources/logback.xml" timestamp="1529516047669" />
-      <file name="D:/code/lab/SMSGate/src/main/java/com/zx/sms/handler/cmpp/BlackHoleHandler.java" timestamp="1529517078773" />
-      <file name="D:/code/lab/SMSGate/src/main/java/com/zx/sms/handler/api/BusinessHandlerInterface.java" timestamp="1529516729462" />
+      <file name="D:/code/mchuan/a/client/WebRoot/page/common/validateCode.jsp" timestamp="1529544562025" />
       <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/ApiServer.java" timestamp="1529513796075">
         <mark key="[" line="41" column="41" />
         <mark key="]" line="40" column="25" />
         <mark key="." line="40" column="25" />
         <mark key="^" line="40" column="25" />
       </file>
-      <file name="D:/code/lab/SMSGate/src/main/java/com/zx/sms/common/storedMap/BDBStoredMapFactoryImpl.java" timestamp="1529516896494" />
-      <file name="D:/code/lab/SMSGate/src/main/java/com/zx/sms/connect/manager/AbstractEndpointConnector.java" timestamp="1529517262832" />
-      <file name="D:/code/lab/SMSGate/src/main/resources/global.properties" timestamp="1529515957162" />
-      <file name="D:/code/lab/SMSGate/src/main/java/com/zx/sms/handler/api/AbstractBusinessHandler.java" timestamp="1529516722302" />
-      <file name="/fragment.java" timestamp="1529513678216">
+      <file name="D:/code/mchuan/a/client/src/main/com/mchuan/system/utils/HttpUtils.java" timestamp="1529543837469" />
+      <file name="D:/code/mchuan/a/client/src/main/com/mchuan/mcloud/client/job/SyncProductAttributeJob.java" timestamp="1529545184156" />
+      <file name="D:/code/mchuan/a/client/src/main/com/mchuan/mcloud/client/utils/HuafeiApiUtils.java" timestamp="1529543896846" />
+      <file name="D:/code/mchuan/a/client/src/main/com/mchuan/mcloud/client/listener/WebAppContextListener.java" timestamp="1529543971480" />
+      <file name="/fragment.java" timestamp="1529543981622">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="D:/code/lab/SMSGate/src/main/java/com/zx/sms/codec/cmpp/CmppSubmitRequestMessageCodec.java" timestamp="1529516570977" />
+      <file name="D:/code/mchuan/a/client/src/resources/log4j.properties" timestamp="1529543699717" />
+      <file name="D:/code/mchuan/a/client/src/resources/log4j_online.properties" timestamp="1529544157455" />
     </filemarks>
     <jumps>
       <jump line="63" column="71" filename="D:/foresee/workflow/com.foresee.ftcsp.workflow.model/src/main/resources/com/foresee/ftcsp/workflow/manual/mapper/WfcVarExtMapper.xml" />
