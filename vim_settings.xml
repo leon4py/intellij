@@ -57,7 +57,9 @@
         <mark key="^" line="178" column="34" />
         <mark key="." line="178" column="110" />
       </file>
-      <file name="D:/code/mchuan/ll/lcll/src/main/java/com/mchuan/db/DBTools.java" timestamp="1530092249071" />
+      <file name="D:/code/mchuan/ll/lcll/src/main/java/com/mchuan/db/DBTools.java" timestamp="1530093112132">
+        <mark key="[" line="28" column="48" />
+      </file>
       <file name="D:/code/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/util/NetworkUtil.java" timestamp="1530088655326" />
       <file name="D:/code/mchuan/ll/lcll/src/main/resources/config/bootstrap.properties" timestamp="1530088098618" />
       <file name="D:/code/mchuan/ll/lcll/WebRoot/xml/api.jsp" timestamp="1530007383931">
@@ -81,11 +83,11 @@
         <mark key="." line="34" column="35" />
         <mark key="^" line="34" column="35" />
       </file>
-      <file name="D:/code/lab/base/pom.xml" timestamp="1530089021332">
-        <mark key="[" line="9" column="17" />
-        <mark key="]" line="9" column="18" />
-        <mark key="." line="9" column="18" />
-        <mark key="^" line="9" column="15" />
+      <file name="D:/code/lab/base/pom.xml" timestamp="1530093434711">
+        <mark key="[" line="59" column="21" />
+        <mark key="]" line="88" column="26" />
+        <mark key="." line="88" column="26" />
+        <mark key="^" line="88" column="26" />
       </file>
       <file name="D:/code/lab/base/logging/src/test/resources/log4j2.xml" timestamp="1529861040497">
         <mark key="[" line="8" column="48" />
@@ -122,6 +124,12 @@
         <mark key="]" line="90" column="38" />
         <mark key="." line="90" column="38" />
         <mark key="^" line="90" column="38" />
+      </file>
+      <file name="D:/code/lab/base/core/src/main/java/com/mchuan/core/spring/AppKit.java" timestamp="1530093493184">
+        <mark key="[" line="11" column="8" />
+        <mark key="]" line="13" column="103" />
+        <mark key="^" line="13" column="103" />
+        <mark key="." line="13" column="103" />
       </file>
       <file name="D:/code/mchuan/ll/lcll/WebRoot/WEB-INF/classes/com/ccell/lcll/api/TableUtils.java" timestamp="1529995983634">
         <mark key="[" line="9" column="32" />
@@ -321,6 +329,7 @@
         <mark key="^" line="64" column="20" />
         <mark key="." line="64" column="20" />
       </file>
+      <file name="D:/program/developer/Java/jdk1.8.0_172/src.zip!/javax/naming/InitialContext.java" timestamp="1530092953923" />
       <file name="D:/code/mchuan/a/new/lcll/branches/1.0.0/WebRoot/WEB-INF/classes/com/ccell/lcll/task/TaskGetStatus.java" timestamp="1529553767321">
         <mark key="[" line="8" column="38" />
         <mark key="]" line="8" column="44" />
@@ -399,8 +408,8 @@
         <mark key="." line="9" column="37" />
       </file>
       <file name="D:/code/lab/base/logging/pom.xml" timestamp="1530088792902" />
-      <file name="D:/code/lab/base/example/pom.xml" timestamp="1530086605239">
-        <mark key="[" line="40" column="21" />
+      <file name="D:/code/lab/base/example/pom.xml" timestamp="1530093422237">
+        <mark key="[" line="25" column="21" />
       </file>
       <file name="D:/code/mchuan/ll/lcll/.gitignore" timestamp="1529995796256">
         <mark key="[" line="135" column="5" />
@@ -509,7 +518,7 @@
         <mark key="^" line="32" column="28" />
         <mark key="." line="32" column="28" />
       </file>
-      <file name="/fragment.java" timestamp="1530089527962">
+      <file name="/fragment.java" timestamp="1530093469395">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -617,7 +626,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBvdXQuZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>APPLICATION_XML_VALUE</text>
@@ -629,31 +638,31 @@
         <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20ubWNodWFuPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5sb2dnaW5nPC9hcnRpZmFjdElkPgogICAgICA8dmVyc2lvbj4xLjAuMDwvdmVyc2lvbj4KICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvdXQuZQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTZXJ2bGV0T3V0cHV0U3RyZWFtIG91dCA9IHJlc3BvbnNlLmdldE91dHB1dFN0cmVhbSgpOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIC8vCiAgICAgICAgICAgIC8vIGxvZy5pbmZvKHJldFhNTC5hc1hNTCgpKTsKCiAgICAgICAgICAgIC8vWG1sVXRpbHMuZG9jdW1lbnRXcml0ZShyZXRkb2MsIHJlc3BvbnNlLmdldE91dHB1dFN0cmVhbSgpLCAidXRmLTgiLCAoU3RyaW5nKSByZXF1ZXN0LmdldFNlc3Npb24oKS5nZXRBdHRyaWJ1dGUoInNtLnhzbCIpKTs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBvdXQuZQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXIgbG9nZ2VyID0gTG9nTWFuYWdlci5nZXRMb2dnZXIoImFwaS5qc3AiKTsK</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBTZXJ2bGV0T3V0cHV0U3RyZWFtIG91dCA9IHJlc3BvbnNlLmdldE91dHB1dFN0cmVhbSgpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIC8vCiAgICAgICAgICAgIC8vIGxvZy5pbmZvKHJldFhNTC5hc1hNTCgpKTsKCiAgICAgICAgICAgIC8vWG1sVXRpbHMuZG9jdW1lbnRXcml0ZShyZXRkb2MsIHJlc3BvbnNlLmdldE91dHB1dFN0cmVhbSgpLCAidXRmLTgiLCAoU3RyaW5nKSByZXF1ZXN0LmdldFNlc3Npb24oKS5nZXRBdHRyaWJ1dGUoInNtLnhzbCIpKTs=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBMb2dnZXIgbG9nZ2VyID0gTG9nTWFuYWdlci5nZXRMb2dnZXIoImFwaS5qc3AiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tY2h1YW4uY29yZS5uZXR3b3JrLk5ldHdvcmtVdGlsOwo=</text>
+        <text encoding="base64">ICAgICAgICBMb2dnZXIgbG9nZ2VyID0gTG9nTWFuYWdlci5nZXRMb2dnZXIoImFwaS5qc3AiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tY2h1YW4uY29yZS5uZXR3b3JrLk5ldHdvcmtVdGlsOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICoK</text>
       </register>
     </registers>
     <search>
