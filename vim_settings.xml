@@ -75,11 +75,11 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="D:/code/mchuan/ll/lcll/WebRoot/WEB-INF/classes/com/ccell/lcll/api/Cubeluzr.java" timestamp="1530268089332" />
-      <file name="D:/code/lab/base/logging/src/main/java/com/mchuan/logging/servlet/HttpServletDumper.java" timestamp="1530268921740">
-        <mark key="[" line="42" column="34" />
-        <mark key="]" line="42" column="34" />
-        <mark key="." line="42" column="34" />
-        <mark key="^" line="40" column="43" />
+      <file name="D:/code/lab/base/logging/src/main/java/com/mchuan/logging/servlet/HttpServletDumper.java" timestamp="1530269871915">
+        <mark key="[" line="42" column="48" />
+        <mark key="]" line="42" column="62" />
+        <mark key="." line="42" column="62" />
+        <mark key="^" line="42" column="62" />
       </file>
       <file name="/Class.txt.ft" timestamp="1529857189193">
         <mark key="[" line="0" column="0" />
@@ -207,8 +207,8 @@
       <jump line="9" column="16" filename="D:/code/mchuan/ll/lcll/WebRoot/WEB-INF/web.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>wrapResponse</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>wrapResponse</text>
@@ -220,31 +220,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8dmVyc2lvbj4xLjAuMDwvdmVyc2lvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBSZXF1ZXN0Q29udGV4dEhvbGRlci5jdXJyZW50UmVxdWVzdEF0dHJpYnV0ZXMoKS5nZXQK</text>
+        <text encoding="base64">ICAgICAgICA8dmVyc2lvbj4xLjAuMDwvdmVyc2lvbj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBXZWJBcHBsaWNhdGlvbkNvbnRleHRVdGlscy4K</text>
+        <text encoding="base64">ICAgICAgICBSZXF1ZXN0Q29udGV4dEhvbGRlci5jdXJyZW50UmVxdWVzdEF0dHJpYnV0ZXMoKS5nZXQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBXZWJBcHBsaWNhdGlvbkNvbnRleHRVdGlscy4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvdXQuZQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTZXJ2bGV0T3V0cHV0U3RyZWFtIG91dCA9IHJlc3BvbnNlLmdldE91dHB1dFN0cmVhbSgpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIC8vCiAgICAgICAgICAgIC8vIGxvZy5pbmZvKHJldFhNTC5hc1hNTCgpKTsKCiAgICAgICAgICAgIC8vWG1sVXRpbHMuZG9jdW1lbnRXcml0ZShyZXRkb2MsIHJlc3BvbnNlLmdldE91dHB1dFN0cmVhbSgpLCAidXRmLTgiLCAoU3RyaW5nKSByZXF1ZXN0LmdldFNlc3Npb24oKS5nZXRBdHRyaWJ1dGUoInNtLnhzbCIpKTs=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBvdXQuZQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXIgbG9nZ2VyID0gTG9nTWFuYWdlci5nZXRMb2dnZXIoImFwaS5qc3AiKTsK</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBTZXJ2bGV0T3V0cHV0U3RyZWFtIG91dCA9IHJlc3BvbnNlLmdldE91dHB1dFN0cmVhbSgpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIC8vCiAgICAgICAgICAgIC8vIGxvZy5pbmZvKHJldFhNTC5hc1hNTCgpKTsKCiAgICAgICAgICAgIC8vWG1sVXRpbHMuZG9jdW1lbnRXcml0ZShyZXRkb2MsIHJlc3BvbnNlLmdldE91dHB1dFN0cmVhbSgpLCAidXRmLTgiLCAoU3RyaW5nKSByZXF1ZXN0LmdldFNlc3Npb24oKS5nZXRBdHRyaWJ1dGUoInNtLnhzbCIpKTs=</text>
       </register>
     </registers>
     <search>
