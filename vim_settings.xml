@@ -20,7 +20,7 @@
         <mark key="." line="8" column="0" />
       </file>
       <file name="D:/code/mchuan/ll/lcll/WebRoot/WEB-INF/classes/com/mchuan/db/DBTools.java" timestamp="1530268108276" />
-      <file name="D:/code/lab/base/logging/pom.xml" timestamp="1530151924181">
+      <file name="D:/code/lab/base/logging/pom.xml" timestamp="1530268906847">
         <mark key="[" line="7" column="21" />
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
@@ -63,7 +63,7 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="D:/code/lab/base/pom.xml" timestamp="1530152010192">
+      <file name="D:/code/lab/base/pom.xml" timestamp="1530268897412">
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="35" />
         <mark key="." line="70" column="26" />
@@ -75,6 +75,12 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="D:/code/mchuan/ll/lcll/WebRoot/WEB-INF/classes/com/ccell/lcll/api/Cubeluzr.java" timestamp="1530268089332" />
+      <file name="D:/code/lab/base/logging/src/main/java/com/mchuan/logging/servlet/HttpServletDumper.java" timestamp="1530268921740">
+        <mark key="[" line="42" column="34" />
+        <mark key="]" line="42" column="34" />
+        <mark key="." line="42" column="34" />
+        <mark key="^" line="40" column="43" />
+      </file>
       <file name="/Class.txt.ft" timestamp="1529857189193">
         <mark key="[" line="0" column="0" />
       </file>
@@ -89,7 +95,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="D:/code/mchuan/ll/lcll/WebRoot/WEB-INF/lib/logging-1.0.2-jar-with-dependencies.jar!/com/mchuan/logging/servlet/HttpServletDumper.class" timestamp="1530268798144" />
+      <file name="D:/code/mchuan/ll/lcll/WebRoot/WEB-INF/lib/logging-1.0.2-jar-with-dependencies.jar!/com/mchuan/logging/servlet/HttpServletDumper.class" timestamp="1530269065807" />
       <file name="D:/code/mchuan/ll/lcll/WebRoot/WEB-INF/classes/com/mchuan/task/JavaTaskDaemon.java" timestamp="1530267287550" />
       <file name="D:/code/mchuan/lcll/WebRoot/META-INF/context.xml" timestamp="1529575836157">
         <mark key="[" line="7" column="39" />
@@ -202,10 +208,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>lcll</text>
+        <text>wrapResponse</text>
       </register>
       <register name="-" type="4">
-        <text>lcll</text>
+        <text>wrapResponse</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJRFw+</text>
