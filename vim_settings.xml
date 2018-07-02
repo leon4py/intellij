@@ -3,25 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/code/mchuan/ll/lcll/WebRoot/WEB-INF/lib/logging-1.0.2-jar-with-dependencies.jar!/com/mchuan/logging/log4j2/AlertAppender.class" timestamp="1530501855036" />
-      <file name="D:/code/mchuan/ll/lcll/out/artifacts/lcll_war_exploded/WEB-INF/classes/log4j2.xml" timestamp="1530266068495" />
+      <file name="D:/code/foresee/core/public/com.foresee.ftcsp.public.ftcspmvc/src/main/java/com/foresee/ftcsp/ftcspmvc/filter/RepeatableRequestFilter.java" timestamp="1530503902663" />
       <file name="D:/code/mchuan/ll/lcll/WebRoot/WEB-INF/classes/com/mchuan/rmi/ScpUtils.java" timestamp="1530266138321" />
       <file name="D:/code/mchuan/ll/lcll/WebRoot/WEB-INF/lib/log4j-core-2.11.0.jar!/org/apache/logging/log4j/core/appender/RollingRandomAccessFileAppender.class" timestamp="1530271363022" />
-      <file name="D:/code/mchuan/ll/lcll/WebRoot/WEB-INF/classes/com/mchuan/db/DBTools.java" timestamp="1530268108276" />
-      <file name="D:/code/lab/base/logging/pom.xml" timestamp="1530268906847">
-        <mark key="[" line="7" column="21" />
-        <mark key="]" line="7" column="22" />
-        <mark key="." line="7" column="22" />
-      </file>
-      <file name="D:/code/mchuan/ll/lcll/WebRoot/check_user.jsp" timestamp="1530496469222" />
-      <file name="D:/code/mchuan/ll/lcll/WebRoot/WEB-INF/lib/logging-1.0.2-jar-with-dependencies.jar!/com/mchuan/logging/servlet/RepeatableRequestFilter.class" timestamp="1530500876915" />
-      <file name="D:/code/mchuan/ll/lcll/pom.xml" timestamp="1530089091061">
-        <mark key="[" line="194" column="20" />
-        <mark key="]" line="193" column="21" />
-        <mark key="^" line="193" column="21" />
-        <mark key="." line="193" column="21" />
-      </file>
-      <file name="D:/code/mchuan/ll/lcll/WebRoot/xml/api.jsp" timestamp="1530499823694">
+      <file name="D:/code/mchuan/ll/lcll/WebRoot/xml/api.jsp" timestamp="1530504758245">
         <mark key="[" line="242" column="35" />
         <mark key="]" line="242" column="37" />
         <mark key="." line="242" column="37" />
@@ -33,20 +18,12 @@
         <mark key="." line="42" column="7" />
         <mark key="^" line="42" column="7" />
       </file>
-      <file name="D:/code/mchuan/ll/lcll/WebRoot/my/api.jsp" timestamp="1530498648623" />
-      <file name="D:/code/lab/base/logging/src/main/java/com/mchuan/logging/servlet/RepeatableRequestFilter.java" timestamp="1530500980262">
-        <mark key="[" line="82" column="49" />
-        <mark key="]" line="82" column="18" />
-        <mark key="^" line="82" column="18" />
-        <mark key="." line="82" column="18" />
-      </file>
       <file name="D:/code/lab/base/pom.xml" timestamp="1530268897412">
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="35" />
         <mark key="." line="70" column="26" />
         <mark key="^" line="70" column="26" />
       </file>
-      <file name="D:/code/mchuan/ll/lcll/WebRoot/WEB-INF/classes/com/ccell/lcll/api/Cubeluzr.java" timestamp="1530268089332" />
       <file name="D:/code/lab/base/logging/src/main/java/com/mchuan/logging/servlet/HttpServletDumper.java" timestamp="1530269871915">
         <mark key="[" line="42" column="48" />
         <mark key="]" line="42" column="62" />
@@ -60,9 +37,48 @@
         <mark key="." line="15" column="20" />
         <mark key="^" line="15" column="20" />
       </file>
-      <file name="D:/code/mchuan/ll/lcll/WebRoot/WEB-INF/lib/logging-1.0.2-jar-with-dependencies.jar!/com/mchuan/logging/servlet/HttpServletDumper.class" timestamp="1530269065807" />
+      <file name="D:/code/lab/base/logging/src/main/java/com/mchuan/logging/log4j2/AlertAppender.java" timestamp="1530503123870">
+        <mark key="[" line="70" column="65" />
+        <mark key="]" line="70" column="66" />
+        <mark key="^" line="70" column="66" />
+        <mark key="." line="70" column="66" />
+      </file>
+      <file name="D:/program/developer/Java/apache-tomcat-7.0.88/lib/servlet-api.jar!/javax/servlet/ServletRequestWrapper.class" timestamp="1530503519779" />
+      <file name="D:/code/mchuan/ll/lcll/WebRoot/WEB-INF/lib/logging-1.0.2-jar-with-dependencies.jar!/com/mchuan/logging/log4j2/AlertAppender.class" timestamp="1530503095410" />
+      <file name="D:/code/mchuan/ll/lcll/out/artifacts/lcll_war_exploded/WEB-INF/classes/log4j2.xml" timestamp="1530266068495" />
+      <file name="D:/code/mchuan/ll/lcll/WebRoot/WEB-INF/web.xml" timestamp="1530503698694" />
+      <file name="D:/code/mchuan/ll/lcll/WebRoot/WEB-INF/classes/com/mchuan/db/DBTools.java" timestamp="1530268108276" />
+      <file name="D:/code/lab/base/logging/pom.xml" timestamp="1530268906847">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
+      </file>
+      <file name="D:/code/mchuan/ll/lcll/WebRoot/check_user.jsp" timestamp="1530496469222" />
+      <file name="E:/360Downloads/apache-tomcat-7.0.88-src.zip!/apache-tomcat-7.0.88-src/java/org/apache/catalina/connector/Request.java" timestamp="1530505243146" />
+      <file name="D:/code/mchuan/ll/lcll/WebRoot/WEB-INF/lib/logging-1.0.2-jar-with-dependencies.jar!/com/mchuan/logging/servlet/RepeatableRequestFilter.class" timestamp="1530504018979" />
+      <file name="D:/code/mchuan/ll/lcll/WebRoot/WEB-INF/classes/rmi.properties" timestamp="1530504668541">
+        <mark key="[" line="1" column="45" />
+        <mark key="]" line="2" column="45" />
+        <mark key="^" line="2" column="45" />
+        <mark key="." line="2" column="45" />
+      </file>
+      <file name="D:/code/mchuan/ll/lcll/pom.xml" timestamp="1530089091061">
+        <mark key="[" line="194" column="20" />
+        <mark key="]" line="193" column="21" />
+        <mark key="^" line="193" column="21" />
+        <mark key="." line="193" column="21" />
+      </file>
+      <file name="D:/code/mchuan/ll/lcll/WebRoot/my/api.jsp" timestamp="1530498648623" />
+      <file name="D:/code/lab/base/logging/src/main/java/com/mchuan/logging/servlet/RepeatableRequestFilter.java" timestamp="1530504255089">
+        <mark key="[" line="40" column="75" />
+        <mark key="]" line="40" column="75" />
+        <mark key="." line="40" column="75" />
+      </file>
+      <file name="D:/code/mchuan/ll/lcll/WebRoot/WEB-INF/classes/com/ccell/lcll/api/Cubeluzr.java" timestamp="1530268089332" />
+      <file name="D:/code/mchuan/ll/lcll/WebRoot/WEB-INF/lib/logging-1.0.2-jar-with-dependencies.jar!/com/mchuan/logging/servlet/HttpServletDumper.class" timestamp="1530504812066" />
       <file name="D:/code/mchuan/ll/lcll/WebRoot/WEB-INF/classes/com/mchuan/task/JavaTaskDaemon.java" timestamp="1530267287550" />
-      <file name="/fragment.java" timestamp="1530500886634">
+      <file name="$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0-sources.jar!/javax/servlet/ServletRequestWrapper.java" timestamp="1530503788678" />
+      <file name="/fragment.java" timestamp="1530504774442">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -169,44 +185,46 @@
       <jump line="9" column="16" filename="D:/code/mchuan/ll/lcll/WebRoot/WEB-INF/web.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>wrapResponse</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJRFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGJ5dGVJbiA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICBieXRlSW4gPSBCeXRlU3RyZWFtcy50b0J5dGVBcnJheShnZXRSZXF1ZXN0KCkuZ2V0SW5wdXRTdHJlYW0oKSk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8dmVyc2lvbj4xLjAuMDwvdmVyc2lvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBSZXF1ZXN0Q29udGV4dEhvbGRlci5jdXJyZW50UmVxdWVzdEF0dHJpYnV0ZXMoKS5nZXQK</text>
+      <register name="3" type="4">
+        <text>if (byteIn == null) {
+                byteIn = ByteStreams.toByteArray(getRequest().getInputStream());
+            }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBXZWJBcHBsaWNhdGlvbkNvbnRleHRVdGlscy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5pdCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJvd24gPSAodGhyb3duID09IG51bGwgPyBldmVudC5nZXRTb3VyY2UoKTogdGhyb3duKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvdXQuZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTZXJ2bGV0T3V0cHV0U3RyZWFtIG91dCA9IHJlc3BvbnNlLmdldE91dHB1dFN0cmVhbSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8dmVyc2lvbj4xLjAuMDwvdmVyc2lvbj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBSZXF1ZXN0Q29udGV4dEhvbGRlci5jdXJyZW50UmVxdWVzdEF0dHJpYnV0ZXMoKS5nZXQK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIC8vCiAgICAgICAgICAgIC8vIGxvZy5pbmZvKHJldFhNTC5hc1hNTCgpKTsKCiAgICAgICAgICAgIC8vWG1sVXRpbHMuZG9jdW1lbnRXcml0ZShyZXRkb2MsIHJlc3BvbnNlLmdldE91dHB1dFN0cmVhbSgpLCAidXRmLTgiLCAoU3RyaW5nKSByZXF1ZXN0LmdldFNlc3Npb24oKS5nZXRBdHRyaWJ1dGUoInNtLnhzbCIpKTs=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBXZWJBcHBsaWNhdGlvbkNvbnRleHRVdGlscy4K</text>
       </register>
     </registers>
     <search>
