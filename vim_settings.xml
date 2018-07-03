@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/dao/master/CityDao.java" timestamp="1530636872871">
+        <mark key="[" line="5" column="7" />
+        <mark key="]" line="5" column="7" />
+        <mark key="." line="5" column="7" />
+      </file>
       <file name="/a.dummy" timestamp="1530635943032">
         <mark key="[" line="0" column="0" />
       </file>
@@ -70,16 +75,25 @@
         <mark key="^" line="10" column="55" />
         <mark key="." line="10" column="55" />
       </file>
+      <file name="D:/code/mchuan/sb2/api-server/src/main/resources/mapper/cluster/UserDao.xml" timestamp="1530636798649">
+        <mark key="[" line="3" column="80" />
+      </file>
+      <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/dao/cluster/UserDao.java" timestamp="1530636761942">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="32" />
+      </file>
       <file name="D:/code/lab/base/logging/src/main/java/com/mchuan/logging/servlet/HttpServletDumper.java" timestamp="1530269871915">
         <mark key="[" line="42" column="48" />
         <mark key="]" line="42" column="62" />
         <mark key="." line="42" column="62" />
         <mark key="^" line="42" column="62" />
       </file>
-      <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/service/UserService.java" timestamp="1530635946071">
-        <mark key="]" line="6" column="23" />
-        <mark key="^" line="6" column="23" />
-        <mark key="." line="6" column="23" />
+      <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/service/UserService.java" timestamp="1530636741635">
+        <mark key="]" line="8" column="23" />
+        <mark key="^" line="8" column="23" />
+        <mark key="." line="8" column="23" />
       </file>
       <file name="D:/code/lab/base/core/src/main/java/com/mchuan/core/spring/AppKit.java" timestamp="1530097535157">
         <mark key="[" line="18" column="10" />
@@ -213,10 +227,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aW1wbGVtZW50cyA=</text>
+        <text>class</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW1wbGVtZW50cyA=</text>
+        <text>class</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJRFw+</text>
@@ -225,33 +239,33 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGJ5dGVJbiA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICBieXRlSW4gPSBCeXRlU3RyZWFtcy50b0J5dGVBcnJheShnZXRSZXF1ZXN0KCkuZ2V0SW5wdXRTdHJlYW0oKSk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gyajD6CBNYXBwZXIgvdO/2rKiyN3G97ncwO0K</text>
+        <text encoding="base64">ICAgIEBTZWxlY3QoIiIpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Ly8gyajD6CBNYXBwZXIgvdO/2rKiyN3G97ncwO0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbXNnID0gIjFhztIiOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihtc2cuZ2V0Qnl0ZXMoKS5sZW5ndGgpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihtc2cuZ2V0Qnl0ZXMoU3RhbmRhcmRDaGFyc2V0cy5VVEZfMTZCRSkubGVuZ3RoKTsK</text>
+        <text encoding="base64">Ly8gyajD6CBNYXBwZXIgvdO/2rKiyN3G97ncwO0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlyZXR1cm4gRGlnZXN0VXRpbHMubWQ1SGV4KHMpLnN1YnN0cmluZyg4LCAyNCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgbXNnID0gIjFhztIiOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihtc2cuZ2V0Qnl0ZXMoKS5sZW5ndGgpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihtc2cuZ2V0Qnl0ZXMoU3RhbmRhcmRDaGFyc2V0cy5VVEZfMTZCRSkubGVuZ3RoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlyZXR1cm4gRGlnZXN0VXRpbHMubWQ1SGV4KHMpLnN1YnN0cmluZyg4LCAyNCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>if (byteIn == null) {
                 byteIn = ByteStreams.toByteArray(getRequest().getInputStream());
             }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5pdCgpCg==</text>
       </register>
     </registers>
     <search>
