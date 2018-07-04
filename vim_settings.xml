@@ -8,32 +8,23 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1530635943032">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/service/UserServiceImpl.java" timestamp="1530635942132">
         <mark key="[" line="6" column="24" />
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/1.3.2/mybatis-spring-boot-autoconfigure-1.3.2-sources.jar!/org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.java" timestamp="1530640604758" />
       <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/conf/ClusterDataSourceConfig.java" timestamp="1530640237671">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
+      <file name="D:/code/mchuan/sb2/api-server/src/main/resources/mapper/cluster/UserMapper.xml" timestamp="1530671805185" />
       <file name="D:/code/lab/base/logging/pom.xml" timestamp="1530268906847">
         <mark key="[" line="7" column="21" />
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/dao/master/City.java" timestamp="1530639304785">
-        <mark key="[" line="5" column="19" />
-        <mark key="]" line="8" column="27" />
-        <mark key="^" line="8" column="27" />
-        <mark key="." line="8" column="27" />
-      </file>
-      <file name="D:/code/foresee/core/public/com.foresee.ftcsp.public.database/src/main/java/com/foresee/ftcsp/common/database/conf/CustomSqlSessionFactory.java" timestamp="1530639748825" />
+      <file name="D:/code/mchuan/sb2/api-server/src/main/resources/generatorConfig.xml" timestamp="1530673395483" />
       <file name="D:/code/mchuan/ll/lcll/WebRoot/WEB-INF/classes/rmi.properties" timestamp="1530504668541">
         <mark key="[" line="1" column="45" />
         <mark key="]" line="2" column="45" />
@@ -75,7 +66,12 @@
         <mark key="^" line="20" column="43" />
         <mark key="." line="20" column="43" />
       </file>
-      <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/rest/ErrorHandlerController.java" timestamp="1530638836990" />
+      <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/dao/cluster/UserMapper.java" timestamp="1530672802838">
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="20" column="4" />
+        <mark key="^" line="20" column="3" />
+        <mark key="." line="20" column="4" />
+      </file>
       <file name="D:/code/lab/base/logging/src/main/java/com/mchuan/logging/servlet/RepeatableRequestFilter.java" timestamp="1530636654025">
         <mark key="[" line="40" column="75" />
         <mark key="]" line="40" column="75" />
@@ -92,21 +88,21 @@
         <mark key="." line="70" column="26" />
         <mark key="^" line="70" column="26" />
       </file>
-      <file name="D:/code/mchuan/sb2/api-server/src/main/resources/application.properties" timestamp="1530640383450">
+      <file name="D:/code/mchuan/sb2/api-server/src/main/resources/application.properties" timestamp="1530670767646">
         <mark key="[" line="12" column="47" />
         <mark key="]" line="12" column="47" />
         <mark key="^" line="10" column="55" />
         <mark key="." line="12" column="47" />
       </file>
-      <file name="D:/code/mchuan/sb2/api-server/src/main/resources/mapper/cluster/UserDao.xml" timestamp="1530638156292">
-        <mark key="[" line="3" column="80" />
-      </file>
-      <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/dao/cluster/UserDao.java" timestamp="1530639236021">
+      <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/po/cluster/User.java" timestamp="1530673139530" />
+      <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/dao/master/packageModel/city.java" timestamp="1530670290584" />
+      <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/dao/cluster/UserDao.java" timestamp="1530672648475">
         <mark key="[" line="12" column="21" />
         <mark key="]" line="12" column="19" />
         <mark key="." line="12" column="19" />
         <mark key="^" line="12" column="19" />
       </file>
+      <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/dao/master/base/CityBaseMapper.java" timestamp="1530670370659" />
       <file name="D:/code/lab/base/logging/src/main/java/com/mchuan/logging/servlet/HttpServletDumper.java" timestamp="1530269871915">
         <mark key="[" line="42" column="48" />
         <mark key="]" line="42" column="62" />
@@ -125,7 +121,6 @@
         <mark key="^" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="D:/code/mchuan/sb2/api-server/src/main/resources/mapper/master/CityDao.xml" timestamp="1530638221007" />
       <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/dao/cluster/User.java" timestamp="1530640283373">
         <mark key="[" line="10" column="23" />
         <mark key="]" line="11" column="3" />
@@ -138,31 +133,23 @@
         <mark key="." line="15" column="20" />
         <mark key="^" line="15" column="20" />
       </file>
-      <file name="D:/code/mchuan/sb2/api-server/src/main/resources/mapper/cluster/CityDao.xml" timestamp="1530637754881">
-        <mark key="[" line="3" column="79" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/1.3.2/mybatis-spring-boot-autoconfigure-1.3.2-sources.jar!/org/mybatis/spring/boot/autoconfigure/MybatisProperties.java" timestamp="1530640492731" />
       <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/conf/MasterDataSourceConfig.java" timestamp="1530639111011">
         <mark key="[" line="22" column="55" />
         <mark key="]" line="22" column="55" />
         <mark key="." line="22" column="55" />
         <mark key="^" line="22" column="55" />
       </file>
-      <file name="D:/code/mchuan/sb2/api-server/pom.xml" timestamp="1530635768366">
-        <mark key="[" line="15" column="21" />
-        <mark key="]" line="15" column="20" />
-        <mark key="^" line="15" column="20" />
-        <mark key="." line="15" column="20" />
+      <file name="D:/code/mchuan/sb2/api-server/pom.xml" timestamp="1530673484622">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
+      <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/po/cluster/City.java" timestamp="1530671179005" />
       <file name="D:/code/lab/base/logging/src/main/java/com/mchuan/logging/log4j2/AlertAppender.java" timestamp="1530503123870">
         <mark key="[" line="70" column="65" />
         <mark key="]" line="70" column="66" />
         <mark key="^" line="70" column="66" />
         <mark key="." line="70" column="66" />
-      </file>
-      <file name="D:/code/foresee/core/public/com.foresee.ftcsp.public.database/src/main/java/com/foresee/ftcsp/common/database/conf/MybatisDataSource.java" timestamp="1530639511302" />
-      <file name="/fragment.java" timestamp="1530639281229">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -268,35 +255,35 @@
       <jump line="9" column="16" filename="D:/code/mchuan/ll/lcll/WebRoot/WEB-INF/web.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJRFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFVzZXIgZmluZEJ5TmFtZShAUGFyYW0oIm5hbWUiKSBTdHJpbmcgbmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtteXNxbC1jb25uZWN0b3J9PC92ZXJzaW9uPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICDX99Xfo7rftbahwMe9zNP9CiAgICAgICAgwbS906O6aHR0cHM6Ly93d3cuamlhbnNodS5jb20vcC9lMDlkMjM3MGI3OTYKICAgICAgICCB7dS0o7q88srpCiAgICAgICAgvPLK6db41/fIqLnp1/fV38v509CjrMjOus7Qzsq9tcTXqtTYtrzH68Gqz7XX99Xfu/G1w8rayKiyoteiw/ez9rSmoaMK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWcuc2V0Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICA8IS0tILjxyr27r2phdmG0+sLrIC0tPgogICAgICAgIDxwcm9wZXJ0eSBuYW1lPSJqYXZhRm9ybWF0dGVyIiB2YWx1ZT0ib3JnLm15YmF0aXMuZ2VuZXJhdG9yLmFwaS5kb20uRGVmYXVsdEphdmFGb3JtYXR0ZXIiLz4KICAgICAgICA8IS0tILjxyr27r1hNTLT6wusgLS0+CiAgICAgICAgPHByb3BlcnR5IG5hbWU9InhtbEZvcm1hdHRlciIgdmFsdWU9Im9yZy5teWJhdGlzLmdlbmVyYXRvci5hcGkuZG9tLkRlZmF1bHRYbWxGb3JtYXR0ZXIiLz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZXNzaW9uRmFjdG9yeS5nZXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZXNzaW9uRmFjdG9yeS5zZXRTcWxTZXNzaW9uRmFjdG9yeUJ1aWxkZXIobmV3IFNxbFNlc3Npb25GYWN0b3J5QnVpbGRlcigpIHt9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZXNzaW9uRmFjdG9yeS5zcWxTZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBTZWxlY3QoInNlbGVjdCAqIGZyb20gY2l0eSB3aGVyZSBjaXR5X25hbWU9I3tuYW1lfSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -305,7 +292,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+NS4xLjM4PC92ZXJzaW9uPgo=</text>
       </register>
     </registers>
     <search>
