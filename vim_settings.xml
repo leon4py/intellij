@@ -4,6 +4,15 @@
     <globalmarks />
     <filemarks>
       <file name="D:/code/mchuan/a/sms3_api8002/WebRoot/META-INF/context.xml" timestamp="1530674695054" />
+      <file name="/a.dummy" timestamp="1530635943032">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/code/mchuan/a/ResourceCenterPlatform/src/com/mchuan/rcp/global/properties/Properties.java" timestamp="1530688710794">
+        <mark key="[" line="33" column="53" />
+        <mark key="]" line="33" column="55" />
+        <mark key="^" line="33" column="55" />
+        <mark key="." line="33" column="55" />
+      </file>
       <file name="D:/code/mchuan/a/sms3_api8002/WebRoot/WEB-INF/classes/AdminConfig.properties" timestamp="1530675248993">
         <mark key="[" line="4" column="27" />
         <mark key="]" line="4" column="23" />
@@ -19,6 +28,7 @@
         <mark key="^" line="20" column="3" />
         <mark key="." line="20" column="4" />
       </file>
+      <file name="D:/code/mchuan/a/ResourceCenterPlatform/src/com/mchuan/rcp/global/log/Log.java" timestamp="1530688209774" />
       <file name="D:/code/mchuan/sb2/api-server/src/main/resources/application.properties" timestamp="1530670767646">
         <mark key="[" line="12" column="47" />
         <mark key="]" line="12" column="47" />
@@ -27,12 +37,18 @@
       </file>
       <file name="D:/code/mchuan/a/sendmsgbufIII_backutils/src/listener/SendBufListener.java" timestamp="1530674505898" />
       <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/po/cluster/User.java" timestamp="1530673139530" />
+      <file name="D:/code/mchuan/sb2/api-server/src/main/resources/mapper/cluster/UserDao.xml" timestamp="1530638156292">
+        <mark key="[" line="3" column="80" />
+      </file>
       <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/dao/master/packageModel/city.java" timestamp="1530670290584" />
       <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/dao/cluster/UserDao.java" timestamp="1530672648475">
         <mark key="[" line="12" column="21" />
         <mark key="]" line="12" column="19" />
         <mark key="." line="12" column="19" />
         <mark key="^" line="12" column="19" />
+      </file>
+      <file name="D:/code/mchuan/sb2/api-server/src/main/resources/mapper/cluster/CityDao.xml" timestamp="1530637754881">
+        <mark key="[" line="3" column="79" />
       </file>
       <file name="D:/code/mchuan/sb2/api-server/src/main/resources/mapper/cluster/UserMapper.xml" timestamp="1530671805185" />
       <file name="D:/code/mchuan/sb2/api-server/src/main/resources/generatorConfig.xml" timestamp="1530673395483" />
@@ -46,6 +62,9 @@
         <mark key="." line="74" column="0" />
       </file>
       <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/po/cluster/City.java" timestamp="1530671179005" />
+      <file name="/fragment.java" timestamp="1530688657619">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="67" column="46" filename="D:/foresee/product/com.foresee.ftcsp.goods.rest/src/test/java/com/foresee/ftcsp/goods/rest/ui/back/ProductResourceTest.java" />
