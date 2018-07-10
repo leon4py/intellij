@@ -3,15 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/code/mchuan/sb2/api-server/src/test/java/com/mchuan/api/server/service/UserServiceTest.java" timestamp="1531201885149">
+      <file name="D:/code/mchuan/sb2/api-server/src/test/java/com/mchuan/api/server/service/UserServiceTest.java" timestamp="1531206292132">
         <mark key="'" line="28" column="13" />
         <mark key="[" line="28" column="50" />
         <mark key="]" line="30" column="0" />
         <mark key="^" line="28" column="41" />
         <mark key="." line="30" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1530773903539">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/code/mchuan/a/ResourceCenterPlatform/src/com/mchuan/rcp/global/properties/Properties.java" timestamp="1530688710794">
         <mark key="[" line="33" column="53" />
@@ -56,20 +53,17 @@
         <mark key="^" line="46" column="22" />
         <mark key="." line="46" column="22" />
       </file>
-      <file name="D:/code/mchuan/sb2/api-server/src/main/resources/mapper/cluster/UserDao.xml" timestamp="1530638156292">
-        <mark key="[" line="3" column="80" />
+      <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/dao/cluster/UserDao.java" timestamp="1531206406362">
+        <mark key="[" line="16" column="71" />
+        <mark key="]" line="16" column="52" />
+        <mark key="." line="16" column="52" />
+        <mark key="^" line="16" column="52" />
       </file>
-      <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/dao/cluster/UserDao.java" timestamp="1530672648475">
-        <mark key="[" line="12" column="21" />
-        <mark key="]" line="12" column="19" />
-        <mark key="." line="12" column="19" />
-        <mark key="^" line="12" column="19" />
-      </file>
-      <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/service/UserService.java" timestamp="1531201915122">
-        <mark key="[" line="23" column="5" />
-        <mark key="]" line="25" column="22" />
-        <mark key="^" line="25" column="22" />
-        <mark key="." line="25" column="22" />
+      <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/service/UserService.java" timestamp="1531206333825">
+        <mark key="[" line="35" column="22" />
+        <mark key="]" line="35" column="21" />
+        <mark key="." line="35" column="21" />
+        <mark key="^" line="35" column="21" />
       </file>
       <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/dao/cluster/User.java" timestamp="1531191879085">
         <mark key="[" line="34" column="0" />
@@ -77,16 +71,30 @@
         <mark key="." line="35" column="17" />
         <mark key="^" line="35" column="17" />
       </file>
-      <file name="D:/code/mchuan/sb2/api-server/src/main/resources/mapper/cluster/CityDao.xml" timestamp="1530637754881">
-        <mark key="[" line="3" column="79" />
-      </file>
       <file name="D:/code/mchuan/a/new/ll_sendbuf/trunk/WebRoot/request.jsp" timestamp="1531191252093" />
+      <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/dao/master/CityDao.java" timestamp="1531206420865">
+        <mark key="[" line="11" column="71" />
+        <mark key="]" line="11" column="52" />
+        <mark key="." line="11" column="52" />
+        <mark key="^" line="11" column="52" />
+      </file>
+      <file name="D:/code/mchuan/sb2/api-server/src/test/java/com/mchuan/api/server/service/CompositiveServiceTest.java" timestamp="1531206309766">
+        <mark key="[" line="22" column="26" />
+        <mark key="]" line="19" column="49" />
+        <mark key="^" line="19" column="49" />
+        <mark key="." line="19" column="49" />
+      </file>
       <file name="D:/code/mchuan/a/new/ll_sendbuf/trunk/WebRoot/manyunsend.jsp" timestamp="1531191485939" />
-      <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/conf/RestConf.java" timestamp="1531201676603">
-        <mark key="[" line="24" column="5" />
-        <mark key="]" line="23" column="32" />
-        <mark key="^" line="23" column="32" />
-        <mark key="." line="23" column="32" />
+      <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/service/CityService.java" timestamp="1531206238056">
+        <mark key="[" line="27" column="22" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/conf/RestConf.java" timestamp="1531206257477">
+        <mark key="[" line="26" column="5" />
+        <mark key="]" line="25" column="39" />
+        <mark key="^" line="25" column="39" />
+        <mark key="." line="25" column="39" />
       </file>
       <file name="D:/code/mchuan/ll/lcll/WebRoot/WEB-INF/classes/com/mchuan/rmi/RmiJson.java" timestamp="1530841451956">
         <mark key="[" line="93" column="47" />
@@ -94,11 +102,23 @@
         <mark key="." line="93" column="48" />
         <mark key="^" line="93" column="48" />
       </file>
+      <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/ApiServer.java" timestamp="1531206586222">
+        <mark key="[" line="39" column="23" />
+        <mark key="]" line="38" column="22" />
+        <mark key="^" line="38" column="22" />
+        <mark key="." line="38" column="22" />
+      </file>
       <file name="D:/code/mchuan/a/new/ll_sendbuf/trunk/src/http/HttpAccess.java" timestamp="1531201293920">
         <mark key="[" line="53" column="68" />
         <mark key="]" line="53" column="0" />
         <mark key="^" line="52" column="37" />
         <mark key="." line="53" column="0" />
+      </file>
+      <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/service/CompositiveService.java" timestamp="1531206332329">
+        <mark key="[" line="21" column="8" />
+        <mark key="]" line="21" column="18" />
+        <mark key="." line="21" column="18" />
+        <mark key="^" line="21" column="18" />
       </file>
       <file name="D:/code/mchuan/a/sms3_api8002/WebRoot/inspect.jsp" timestamp="1530783852047">
         <mark key="[" line="11" column="34" />
@@ -107,7 +127,7 @@
         <mark key="^" line="13" column="43" />
       </file>
       <file name="D:/code/mchuan/a/new/ll_sendbuf/trunk/WebRoot/WEB-INF/lib/ahtmlunit-2.18-OSGi.jar!/org/apache/http/impl/io/DefaultHttpRequestWriterFactory.class" timestamp="1531188784160" />
-      <file name="/fragment.java" timestamp="1531191746353">
+      <file name="/fragment.java" timestamp="1531206508532">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -215,43 +235,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odXNlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB1c2VyRGFvLmluc2VydCh1c2VyMSk7CiAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>RestConf</text>
+        <text>cityName</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJRFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtteXNxbC1jb25uZWN0b3J9PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICB1c2VyRGFvLmluc2VydCh1c2VyMSk7CiAgICAgICAgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odXNlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJbG9nZ2VyLndhcm4oc2IudG9TdHJpbmcoKSwgZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QENvbmZpZ3VyYXRpb24oUmVzdENvbmYuY2xhc3MpCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgaW5zZXJ0Q2l0aWVzKCkgewogICAgICAgIAogICAgfQo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgICByZXR1cm4gc3VwZXIudG9TdHJpbmcoKTsKICAgIH0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJcmVxdWVzdENvbmZpZy5zCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihmYWlsd29yZHMuZ2V0KG51bGwpKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgaW5zZXJ0UmFuZG9tCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlmYWlsd29yZHMuCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odXNlcik7Cg==</text>
       </register>
     </registers>
     <search>
