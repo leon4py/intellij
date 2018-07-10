@@ -41,7 +41,7 @@
         <mark key="." line="20" column="4" />
       </file>
       <file name="D:/code/mchuan/a/new/ll_sendbuf/trunk/WebRoot/WEB-INF/lib/httpcore-4.3.2.jar!/org/apache/http/impl/io/DefaultHttpRequestWriterFactory.class" timestamp="1531190102413" />
-      <file name="D:/code/mchuan/sb2/api-server/src/main/resources/application.properties" timestamp="1530670767646">
+      <file name="D:/code/mchuan/sb2/api-server/src/main/resources/application.properties" timestamp="1531209088126">
         <mark key="[" line="12" column="47" />
         <mark key="]" line="12" column="47" />
         <mark key="^" line="10" column="55" />
@@ -59,11 +59,11 @@
         <mark key="." line="16" column="52" />
         <mark key="^" line="16" column="52" />
       </file>
-      <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/service/UserService.java" timestamp="1531206333825">
-        <mark key="[" line="35" column="22" />
-        <mark key="]" line="35" column="21" />
-        <mark key="." line="35" column="21" />
-        <mark key="^" line="35" column="21" />
+      <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/service/UserService.java" timestamp="1531208693580">
+        <mark key="[" line="27" column="40" />
+        <mark key="]" line="27" column="40" />
+        <mark key="." line="27" column="40" />
+        <mark key="^" line="36" column="21" />
       </file>
       <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/dao/cluster/User.java" timestamp="1531191879085">
         <mark key="[" line="34" column="0" />
@@ -84,17 +84,23 @@
         <mark key="^" line="19" column="49" />
         <mark key="." line="19" column="49" />
       </file>
+      <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/conf/ClusterDataSourceConfig.java" timestamp="1531209146656">
+        <mark key="[" line="28" column="45" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="28" column="45" />
+      </file>
       <file name="D:/code/mchuan/a/new/ll_sendbuf/trunk/WebRoot/manyunsend.jsp" timestamp="1531191485939" />
       <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/service/CityService.java" timestamp="1531206238056">
         <mark key="[" line="27" column="22" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/conf/RestConf.java" timestamp="1531206257477">
-        <mark key="[" line="26" column="5" />
-        <mark key="]" line="25" column="39" />
-        <mark key="^" line="25" column="39" />
-        <mark key="." line="25" column="39" />
+      <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/conf/RestConf.java" timestamp="1531207541450">
+        <mark key="[" line="27" column="5" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="D:/code/mchuan/ll/lcll/WebRoot/WEB-INF/classes/com/mchuan/rmi/RmiJson.java" timestamp="1530841451956">
         <mark key="[" line="93" column="47" />
@@ -102,11 +108,11 @@
         <mark key="." line="93" column="48" />
         <mark key="^" line="93" column="48" />
       </file>
-      <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/ApiServer.java" timestamp="1531206586222">
-        <mark key="[" line="39" column="23" />
-        <mark key="]" line="38" column="22" />
-        <mark key="^" line="38" column="22" />
-        <mark key="." line="38" column="22" />
+      <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/ApiServer.java" timestamp="1531209256951">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="41" column="21" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="D:/code/mchuan/a/new/ll_sendbuf/trunk/src/http/HttpAccess.java" timestamp="1531201293920">
         <mark key="[" line="53" column="68" />
@@ -114,11 +120,10 @@
         <mark key="^" line="52" column="37" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/service/CompositiveService.java" timestamp="1531206332329">
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="21" column="18" />
-        <mark key="." line="21" column="18" />
-        <mark key="^" line="21" column="18" />
+      <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/service/CompositiveService.java" timestamp="1531208479446">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="29" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="D:/code/mchuan/a/sms3_api8002/WebRoot/inspect.jsp" timestamp="1530783852047">
         <mark key="[" line="11" column="34" />
@@ -126,8 +131,14 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="43" />
       </file>
+      <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/conf/MasterDataSourceConfig.java" timestamp="1531209132178">
+        <mark key="[" line="28" column="12" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="28" column="46" />
+      </file>
       <file name="D:/code/mchuan/a/new/ll_sendbuf/trunk/WebRoot/WEB-INF/lib/ahtmlunit-2.18-OSGi.jar!/org/apache/http/impl/io/DefaultHttpRequestWriterFactory.class" timestamp="1531188784160" />
-      <file name="/fragment.java" timestamp="1531206508532">
+      <file name="/fragment.java" timestamp="1531208028020">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -235,10 +246,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyRGFvLmluc2VydCh1c2VyMSk7CiAgICAgICAgCg==</text>
+        <text encoding="base64">QEVuYWJsZVRyYW5zYWN0aW9uTWFuYWdlbWVudAo=</text>
       </register>
       <register name="-" type="4">
-        <text>cityName</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJRFw+</text>
@@ -247,31 +258,31 @@
         <text encoding="base64">ICAgICAgICB1c2VyRGFvLmluc2VydCh1c2VyMSk7CiAgICAgICAgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">QEVuYWJsZVRyYW5zYWN0aW9uTWFuYWdlbWVudAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkYXRhU291cmNlLnNldERyaXZlckNsYXNzTmFtZShkcml2ZXJDbGFzcyk7CiAgICAgICAgZGF0YVNvdXJjZS5zZXRVcmwodXJsKTsKICAgICAgICBkYXRhU291cmNlLnNldFVzZXJuYW1lKHVzZXIpOwogICAgICAgIGRhdGFTb3VyY2Uuc2V0UGFzc3dvcmQocGFzc3dvcmQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgaW5zZXJ0Q2l0aWVzKCkgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBkYXRhU291cmNlLnNldERyaXZlckNsYXNzTmFtZShkcml2ZXJDbGFzcyk7CiAgICAgICAgZGF0YVNvdXJjZS5zZXRVcmwodXJsKTsKICAgICAgICBkYXRhU291cmNlLnNldFVzZXJuYW1lKHVzZXIpOwogICAgICAgIGRhdGFTb3VyY2Uuc2V0UGFzc3dvcmQocGFzc3dvcmQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBWYWx1ZSgiJHtjbHVzdGVyLmRhdGFzb3VyY2UudXJsfSIpCiAgICBwcml2YXRlIFN0cmluZyB1cmw7CiAKICAgIEBWYWx1ZSgiJHtjbHVzdGVyLmRhdGFzb3VyY2UudXNlcm5hbWV9IikKICAgIHByaXZhdGUgU3RyaW5nIHVzZXI7CiAKICAgIEBWYWx1ZSgiJHtjbHVzdGVyLmRhdGFzb3VyY2UucGFzc3dvcmR9IikKICAgIHByaXZhdGUgU3RyaW5nIHBhc3N3b3JkOwogCiAgICBAVmFsdWUoIiR7Y2x1c3Rlci5kYXRhc291cmNlLmRyaXZlckNsYXNzTmFtZX0iKQogICAgcHJpdmF0ZSBTdHJpbmcgZHJpdmVyQ2xhc3M7CiAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkYXRhU291cmNlLnNldERyaXZlckNsYXNzTmFtZShkcml2ZXJDbGFzcyk7CiAgICAgICAgZGF0YVNvdXJjZS5zZXRVcmwodXJsKTsKICAgICAgICBkYXRhU291cmNlLnNldFVzZXJuYW1lKHVzZXIpOwogICAgICAgIGRhdGFTb3VyY2Uuc2V0UGFzc3dvcmQocGFzc3dvcmQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBWYWx1ZSgiJHttYXN0ZXIuZGF0YXNvdXJjZS51cmx9IikKICAgIHByaXZhdGUgU3RyaW5nIHVybDsKIAogICAgQFZhbHVlKCIke21hc3Rlci5kYXRhc291cmNlLnVzZXJuYW1lfSIpCiAgICBwcml2YXRlIFN0cmluZyB1c2VyOwogCiAgICBAVmFsdWUoIiR7bWFzdGVyLmRhdGFzb3VyY2UucGFzc3dvcmR9IikKICAgIHByaXZhdGUgU3RyaW5nIHBhc3N3b3JkOwogCiAgICBAVmFsdWUoIiR7bWFzdGVyLmRhdGFzb3VyY2UuZHJpdmVyQ2xhc3NOYW1lfSIpCiAgICBwcml2YXRlIFN0cmluZyBkcml2ZXJDbGFzczsKIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgaW5zZXJ0UmFuZG9tCg==</text>
+        <text encoding="base64">ICAgICAgICBjaXR5U2VydmljZS5pbnNlcnQoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odXNlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
     </registers>
     <search>
