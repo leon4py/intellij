@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/code/mchuan/sb2/api-server/src/test/java/com/mchuan/api/server/service/UserServiceTest.java" timestamp="1531192104834">
-        <mark key="'" line="25" column="13" />
-        <mark key="[" line="17" column="47" />
-        <mark key="]" line="17" column="31" />
-        <mark key="^" line="17" column="31" />
-        <mark key="." line="17" column="31" />
+      <file name="D:/code/mchuan/sb2/api-server/src/test/java/com/mchuan/api/server/service/UserServiceTest.java" timestamp="1531201885149">
+        <mark key="'" line="28" column="13" />
+        <mark key="[" line="28" column="50" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="28" column="41" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1530773903539">
         <mark key="[" line="0" column="0" />
@@ -65,7 +65,12 @@
         <mark key="." line="12" column="19" />
         <mark key="^" line="12" column="19" />
       </file>
-      <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/service/UserService.java" timestamp="1531191743230" />
+      <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/service/UserService.java" timestamp="1531201915122">
+        <mark key="[" line="23" column="5" />
+        <mark key="]" line="25" column="22" />
+        <mark key="^" line="25" column="22" />
+        <mark key="." line="25" column="22" />
+      </file>
       <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/dao/cluster/User.java" timestamp="1531191879085">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="35" column="17" />
@@ -77,7 +82,7 @@
       </file>
       <file name="D:/code/mchuan/a/new/ll_sendbuf/trunk/WebRoot/request.jsp" timestamp="1531191252093" />
       <file name="D:/code/mchuan/a/new/ll_sendbuf/trunk/WebRoot/manyunsend.jsp" timestamp="1531191485939" />
-      <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/conf/RestConf.java" timestamp="1531192160041">
+      <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/conf/RestConf.java" timestamp="1531201676603">
         <mark key="[" line="24" column="5" />
         <mark key="]" line="23" column="32" />
         <mark key="^" line="23" column="32" />
@@ -89,7 +94,12 @@
         <mark key="." line="93" column="48" />
         <mark key="^" line="93" column="48" />
       </file>
-      <file name="D:/code/mchuan/a/new/ll_sendbuf/trunk/src/http/HttpAccess.java" timestamp="1531192622843" />
+      <file name="D:/code/mchuan/a/new/ll_sendbuf/trunk/src/http/HttpAccess.java" timestamp="1531201293920">
+        <mark key="[" line="53" column="68" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="52" column="37" />
+        <mark key="." line="53" column="0" />
+      </file>
       <file name="D:/code/mchuan/a/sms3_api8002/WebRoot/inspect.jsp" timestamp="1530783852047">
         <mark key="[" line="11" column="34" />
         <mark key="]" line="13" column="0" />
@@ -205,10 +215,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QENvbmZpZ3VyYXRpb24oUmVzdENvbmYuY2xhc3MpCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odXNlcik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>RestConf</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJRFw+</text>
@@ -217,31 +227,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtteXNxbC1jb25uZWN0b3J9PC92ZXJzaW9uPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QENvbmZpZ3VyYXRpb24oUmVzdENvbmYuY2xhc3MpCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odXNlcik7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgICByZXR1cm4gc3VwZXIudG9TdHJpbmcoKTsKICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJbG9nZ2VyLndhcm4oc2IudG9TdHJpbmcoKSwgZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJcmVxdWVzdENvbmZpZy5zCg==</text>
+        <text encoding="base64">QENvbmZpZ3VyYXRpb24oUmVzdENvbmYuY2xhc3MpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgICByZXR1cm4gc3VwZXIudG9TdHJpbmcoKTsKICAgIH0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CQkJcmVxdWVzdENvbmZpZy5zCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihmYWlsd29yZHMuZ2V0KG51bGwpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlmYWlsd29yZHMuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PGh0bWw+CjxoZWFkPgogICAgPHRpdGxlPlRpdGxlPC90aXRsZT4KPC9oZWFkPgo8Ym9keT4KCjwvYm9keT4KPC9odG1sPg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihmYWlsd29yZHMuZ2V0KG51bGwpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlmYWlsd29yZHMuCg==</text>
       </register>
     </registers>
     <search>
