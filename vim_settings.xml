@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$MAVEN_REPOSITORY$/com/mchuan/base/1.0.0/base-1.0.0.pom" timestamp="1531281080898" />
       <file name="D:/code/mchuan/a/ResourceCenterPlatform/src/com/mchuan/rcp/global/properties/Properties.java" timestamp="1530688710794">
         <mark key="[" line="33" column="53" />
         <mark key="]" line="33" column="55" />
@@ -41,6 +42,12 @@
         <mark key="]" line="46" column="22" />
         <mark key="^" line="46" column="22" />
         <mark key="." line="46" column="22" />
+      </file>
+      <file name="D:/code/lab/base/pom.xml" timestamp="1531281137991">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="73" column="3" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/dao/cluster/UserDao.java" timestamp="1531206406362">
         <mark key="[" line="16" column="71" />
@@ -82,11 +89,22 @@
         <mark key="." line="39" column="73" />
         <mark key="^" line="27" column="45" />
       </file>
+      <file name="D:/code/lab/base/logging/pom.xml" timestamp="1531280969927">
+        <mark key="[" line="81" column="39" />
+        <mark key="]" line="84" column="0" />
+        <mark key="^" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+      </file>
       <file name="D:/code/mchuan/a/new/ll_sendbuf/trunk/WebRoot/manyunsend.jsp" timestamp="1531191485939" />
       <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/service/CityService.java" timestamp="1531206238056">
         <mark key="[" line="27" column="22" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
+      </file>
+      <file name="D:/code/lab/base/example/pom.xml" timestamp="1531281164002">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/conf/RestConf.java" timestamp="1531217055667">
         <mark key="[" line="80" column="36" />
@@ -106,7 +124,7 @@
         <mark key="^" line="9" column="98" />
         <mark key="." line="9" column="98" />
       </file>
-      <file name="D:/code/lab/base/logging/src/main/java/com/mchuan/logging/servlet/RepeatableRequestFilter.java" timestamp="1531219172527" />
+      <file name="D:/code/lab/base/logging/src/main/java/com/mchuan/logging/servlet/RepeatableRequestFilter.java" timestamp="1531281044873" />
       <file name="D:/code/mchuan/a/new/ll_sendbuf/trunk/src/http/HttpAccess.java" timestamp="1531201293920">
         <mark key="[" line="53" column="68" />
         <mark key="]" line="53" column="0" />
@@ -244,7 +262,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DataSource</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5TWFuYWdlbWVudD4KICAgICAgICA8ZGVwZW5kZW5jaWVzPgogICAgICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LWRlcGVuZGVuY2llczwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjIuMC4zLlJFTEVBU0U8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8dHlwZT5wb208L3R5cGU+CiAgICAgICAgICAgICAgICA8c2NvcGU+aW1wb3J0PC9zY29wZT4KICAgICAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDwvZGVwZW5kZW5jaWVzPgogICAgPC9kZXBlbmRlbmN5TWFuYWdlbWVudD4=</text>
       </register>
       <register name="-" type="4">
         <text>DataSource</text>
@@ -255,32 +273,32 @@
       <register name="0" type="2">
         <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UuZHJ1aWQuc3RhdC12aWV3LXNlcnZsZXQubG9naW4tdXNlcm5hbWU9YWRtaW4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxEYXRhU291cmNlPgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5TWFuYWdlbWVudD4KICAgICAgICA8ZGVwZW5kZW5jaWVzPgogICAgICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LWRlcGVuZGVuY2llczwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjIuMC4zLlJFTEVBU0U8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8dHlwZT5wb208L3R5cGU+CiAgICAgICAgICAgICAgICA8c2NvcGU+aW1wb3J0PC9zY29wZT4KICAgICAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDwvZGVwZW5kZW5jaWVzPgogICAgPC9kZXBlbmRlbmN5TWFuYWdlbWVudD4=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBQb3N0Q29uc3RydWN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UuZHJ1aWQud2ViLXN0YXQuCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmphdmF4LnNlcnZsZXQ8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmphdmF4LnNlcnZsZXQtYXBpPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4ke3NlcnZsZXQudmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgICAgIDxzY29wZT5wcm92aWRlZDwvc2NvcGU+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxEYXRhU291cmNlPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBQb3N0Q29uc3RydWN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UuZHJ1aWQud2ViLXN0YXQuCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">I21hc3Rlci5kYXRhc291cmNlLnVybD1qZGJjOm15c3FsOi8vbG9jYWxob3N0OjMzMDYvc3ByaW5nYm9vdGRiP3VzZVVuaWNvZGU9dHJ1ZSZjaGFyYWN0ZXJFbmNvZGluZz11dGY4CiNtYXN0ZXIuZGF0YXNvdXJjZS51c2VybmFtZT1yb290CiNtYXN0ZXIuZGF0YXNvdXJjZS5wYXNzd29yZD0xMjM0NTYKI21hc3Rlci5kYXRhc291cmNlLmZpbHRlcnM9c3RhdCxzbGY0agojbWFzdGVyLmRhdGFzb3VyY2UuZHJpdmVyQ2xhc3NOYW1lPWNvbS5teXNxbC5qZGJjLkRyaXZlcgoKIyMgY2x1c3RlciDK/b7d1LTF5NbDCmNsdXN0ZXIuZGF0YXNvdXJjZS51cmw9amRiYzpteXNxbDovL2xvY2FsaG9zdDozMzA2L3NwcmluZ2Jvb3RkYl9jbHVzdGVyP3VzZVVuaWNvZGU9dHJ1ZSZjaGFyYWN0ZXJFbmNvZGluZz11dGY4CmNsdXN0ZXIuZGF0YXNvdXJjZS51c2VybmFtZT1yb290CmNsdXN0ZXIuZGF0YXNvdXJjZS5wYXNzd29yZD0xMjM0NTYKY2x1c3Rlci5kYXRhc291cmNlLmZpbHRlcnM9c3RhdCxzbGY0agpjbHVzdGVyLmRhdGFzb3VyY2UuZHJpdmVyQ2xhc3NOYW1lPWNvbS5teXNxbC5qZGJjLkRyaXZlcg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
