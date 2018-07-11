@@ -3,14 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/com/mchuan/base/1.0.0/base-1.0.0.pom" timestamp="1531281080898" />
       <file name="D:/code/mchuan/a/ResourceCenterPlatform/src/com/mchuan/rcp/global/properties/Properties.java" timestamp="1530688710794">
         <mark key="[" line="33" column="53" />
         <mark key="]" line="33" column="55" />
         <mark key="^" line="33" column="55" />
         <mark key="." line="33" column="55" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/github/drtrang/druid-spring-boot2-autoconfigure/1.1.10/druid-spring-boot2-autoconfigure-1.1.10.jar!/com/github/trang/druid/autoconfigure/datasource/AbstractDruidDataSource2.class" timestamp="1531217426722" />
+      <file name="D:/code/lab/base/logging/src/test/java/com/mchuan/logging/log4j2/AlertAppenderTest.java" timestamp="1531282198242" />
       <file name="D:/code/mchuan/a/sms3_api8002/WebRoot/WEB-INF/classes/AdminConfig.properties" timestamp="1530675248993">
         <mark key="[" line="4" column="27" />
         <mark key="]" line="4" column="23" />
@@ -29,25 +28,24 @@
         <mark key="." line="42" column="7" />
         <mark key="^" line="42" column="7" />
       </file>
-      <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/rest/UserController.java" timestamp="1531212163207" />
       <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/dao/cluster/UserMapper.java" timestamp="1530672802838">
         <mark key="[" line="18" column="4" />
         <mark key="]" line="20" column="4" />
         <mark key="^" line="20" column="3" />
         <mark key="." line="20" column="4" />
       </file>
-      <file name="D:/code/mchuan/a/new/ll_sendbuf/trunk/WebRoot/WEB-INF/lib/httpcore-4.3.2.jar!/org/apache/http/impl/io/DefaultHttpRequestWriterFactory.class" timestamp="1531190102413" />
       <file name="D:/code/mchuan/ll/lcll/WebRoot/WEB-INF/classes/com/ccell/lcll/task/ThreadTaskSender.java" timestamp="1531130957848">
         <mark key="[" line="46" column="22" />
         <mark key="]" line="46" column="22" />
         <mark key="^" line="46" column="22" />
         <mark key="." line="46" column="22" />
       </file>
-      <file name="D:/code/lab/base/pom.xml" timestamp="1531281137991">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="^" line="73" column="3" />
-        <mark key="." line="73" column="0" />
+      <file name="D:/code/lab/base/pom.xml" timestamp="1531284738554" />
+      <file name="D:/code/lab/base/logging/src/test/resources/log4j2.xml" timestamp="1531281704061">
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="10" column="31" />
+        <mark key="^" line="10" column="31" />
+        <mark key="." line="10" column="31" />
       </file>
       <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/dao/cluster/UserDao.java" timestamp="1531206406362">
         <mark key="[" line="16" column="71" />
@@ -67,9 +65,17 @@
         <mark key="." line="35" column="17" />
         <mark key="^" line="35" column="17" />
       </file>
-      <file name="D:/code/lab/base/core/src/main/java/com/mchuan/core/spring/AppKit.java" timestamp="1531219049615" />
-      <file name="$MAVEN_REPOSITORY$/com/github/drtrang/druid-spring-boot2-autoconfigure/1.1.10/druid-spring-boot2-autoconfigure-1.1.10-sources.jar!/com/github/trang/druid/autoconfigure/datasource/AbstractDruidDataSource2.java" timestamp="1531218554417" />
-      <file name="D:/code/mchuan/a/new/ll_sendbuf/trunk/WebRoot/request.jsp" timestamp="1531191252093" />
+      <file name="D:/code/lab/base/logging/src/main/java/com/mchuan/logging/log4j2/AlertAppender.java" timestamp="1531282566671">
+        <mark key="[" line="126" column="24" />
+        <mark key="]" line="126" column="24" />
+        <mark key="." line="126" column="24" />
+        <mark key="^" line="127" column="18" />
+      </file>
+      <file name="D:/code/lab/base/example/src/main/java/com/mchuan/example/conf/AppConf.java" timestamp="1531284973753">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/dao/master/CityDao.java" timestamp="1531206420865">
         <mark key="[" line="11" column="71" />
         <mark key="]" line="11" column="52" />
@@ -82,34 +88,42 @@
         <mark key="^" line="19" column="49" />
         <mark key="." line="19" column="49" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/github/drtrang/druid-spring-boot2-autoconfigure/1.1.10/druid-spring-boot2-autoconfigure-1.1.10-sources.jar!/META-INF/spring.factories" timestamp="1531218572497" />
+      <file name="D:/code/lab/base/example/src/main/java/com/mchuan/example/rest/ExampleController.java" timestamp="1531283664677">
+        <mark key="[" line="46" column="23" />
+        <mark key="]" line="46" column="23" />
+        <mark key="^" line="52" column="18" />
+        <mark key="." line="46" column="23" />
+      </file>
       <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/conf/ClusterDataSourceConfig.java" timestamp="1531218391562">
         <mark key="[" line="39" column="73" />
         <mark key="]" line="39" column="73" />
         <mark key="." line="39" column="73" />
         <mark key="^" line="27" column="45" />
       </file>
-      <file name="D:/code/lab/base/logging/pom.xml" timestamp="1531280969927">
-        <mark key="[" line="81" column="39" />
-        <mark key="]" line="84" column="0" />
-        <mark key="^" line="84" column="0" />
-        <mark key="." line="84" column="0" />
+      <file name="D:/code/lab/base/logging/pom.xml" timestamp="1531282260680">
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="7" column="22" />
+        <mark key="^" line="85" column="0" />
+        <mark key="." line="7" column="22" />
       </file>
-      <file name="D:/code/mchuan/a/new/ll_sendbuf/trunk/WebRoot/manyunsend.jsp" timestamp="1531191485939" />
-      <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/service/CityService.java" timestamp="1531206238056">
-        <mark key="[" line="27" column="22" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="D:/code/lab/base/logging/src/main/java/com/mchuan/logging/alert/impl/bearychat/BearyChatAlerter.java" timestamp="1531282778863">
+        <mark key="[" line="18" column="22" />
+        <mark key="]" line="18" column="22" />
+        <mark key="." line="18" column="22" />
       </file>
-      <file name="D:/code/lab/base/example/pom.xml" timestamp="1531281164002">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="D:/code/lab/base/example/pom.xml" timestamp="1531284935663">
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
-      <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/conf/RestConf.java" timestamp="1531217055667">
-        <mark key="[" line="80" column="36" />
-        <mark key="]" line="80" column="37" />
-        <mark key="." line="80" column="37" />
+      <file name="D:/code/lab/base/example/src/main/resources/application.properties" timestamp="1531282918376">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/code/lab/base/example/src/main/resources/log4j2.xml" timestamp="1531284321325">
+        <mark key="[" line="4" column="46" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+        <mark key="^" line="2" column="13" />
       </file>
       <file name="D:/code/mchuan/ll/lcll/WebRoot/WEB-INF/classes/com/mchuan/rmi/RmiJson.java" timestamp="1530841451956">
         <mark key="[" line="93" column="47" />
@@ -117,24 +131,21 @@
         <mark key="." line="93" column="48" />
         <mark key="^" line="93" column="48" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/druid/1.1.10/druid-1.1.10-sources.jar!/com/alibaba/druid/support/http/StatViewServlet.java" timestamp="1531211955089" />
       <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/ApiServer.java" timestamp="1531218957038">
         <mark key="[" line="9" column="55" />
         <mark key="]" line="9" column="98" />
         <mark key="^" line="9" column="98" />
         <mark key="." line="9" column="98" />
       </file>
-      <file name="D:/code/lab/base/logging/src/main/java/com/mchuan/logging/servlet/RepeatableRequestFilter.java" timestamp="1531281044873" />
+      <file name="/Dummy.txt" timestamp="1531281904024">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/code/mchuan/sb2/pom.xml" timestamp="1531284376039" />
       <file name="D:/code/mchuan/a/new/ll_sendbuf/trunk/src/http/HttpAccess.java" timestamp="1531201293920">
         <mark key="[" line="53" column="68" />
         <mark key="]" line="53" column="0" />
         <mark key="^" line="52" column="37" />
         <mark key="." line="53" column="0" />
-      </file>
-      <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/service/CompositiveService.java" timestamp="1531208479446">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="29" />
-        <mark key="." line="20" column="0" />
       </file>
       <file name="D:/code/mchuan/a/sms3_api8002/WebRoot/inspect.jsp" timestamp="1530783852047">
         <mark key="[" line="11" column="34" />
@@ -142,20 +153,31 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="43" />
       </file>
+      <file name="D:/code/lab/base/example/src/main/java/com/mchuan/example/ExampleServer.java" timestamp="1531283226990">
+        <mark key="[" line="35" column="22" />
+        <mark key="]" line="35" column="21" />
+        <mark key="^" line="35" column="21" />
+        <mark key="." line="35" column="21" />
+      </file>
       <file name="D:/code/mchuan/sb2/api-server/src/main/java/com/mchuan/api/server/conf/MasterDataSourceConfig.java" timestamp="1531218371435">
         <mark key="[" line="6" column="71" />
         <mark key="]" line="6" column="71" />
         <mark key="." line="6" column="71" />
         <mark key="^" line="6" column="70" />
       </file>
-      <file name="D:/code/mchuan/sb2/api-server/pom.xml" timestamp="1531217352088">
+      <file name="D:/code/mchuan/sb2/api-server/pom.xml" timestamp="1531284362164">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="D:/code/mchuan/a/new/ll_sendbuf/trunk/WebRoot/WEB-INF/lib/ahtmlunit-2.18-OSGi.jar!/org/apache/http/impl/io/DefaultHttpRequestWriterFactory.class" timestamp="1531188784160" />
-      <file name="/fragment.java" timestamp="1531217865103">
+      <file name="/fragment.java" timestamp="1531282880594">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/code/lab/base/mchuan-boot/pom.xml" timestamp="1531284927303">
+        <mark key="[" line="29" column="21" />
+        <mark key="]" line="30" column="7" />
+        <mark key="." line="30" column="7" />
+        <mark key="^" line="30" column="7" />
       </file>
     </filemarks>
     <jumps>
@@ -261,41 +283,41 @@
       <jump line="16" column="125" filename="D:/code/mchuan/sb2/api-server/src/main/resources/application.properties" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5TWFuYWdlbWVudD4KICAgICAgICA8ZGVwZW5kZW5jaWVzPgogICAgICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LWRlcGVuZGVuY2llczwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjIuMC4zLlJFTEVBU0U8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8dHlwZT5wb208L3R5cGU+CiAgICAgICAgICAgICAgICA8c2NvcGU+aW1wb3J0PC9zY29wZT4KICAgICAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDwvZGVwZW5kZW5jaWVzPgogICAgPC9kZXBlbmRlbmN5TWFuYWdlbWVudD4=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY2F0YWxpbmEuZmlsdGVycy5SZXF1ZXN0RHVtcGVyRmlsdGVyOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>DataSource</text>
+        <text encoding="base64">c3ByaW5nLWJvb3Qtc3RhcnRlci1wYXJlbnQ8</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJRFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UuZHJ1aWQuc3RhdC12aWV3LXNlcnZsZXQubG9naW4tdXNlcm5hbWU9YWRtaW4K</text>
+        <text encoding="base64">ICAgIDxQcm9wZXJ0eSBuYW1lPSJMT0dfUEFUSCI+JHtzeXM6TE9HX1BBVEg6LWU6XGxvZ3NcfTwvUHJvcGVydHk+Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5TWFuYWdlbWVudD4KICAgICAgICA8ZGVwZW5kZW5jaWVzPgogICAgICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LWRlcGVuZGVuY2llczwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjIuMC4zLlJFTEVBU0U8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8dHlwZT5wb208L3R5cGU+CiAgICAgICAgICAgICAgICA8c2NvcGU+aW1wb3J0PC9zY29wZT4KICAgICAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDwvZGVwZW5kZW5jaWVzPgogICAgPC9kZXBlbmRlbmN5TWFuYWdlbWVudD4=</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY2F0YWxpbmEuZmlsdGVycy5SZXF1ZXN0RHVtcGVyRmlsdGVyOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLWxvZzRqMjwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmphdmF4LnNlcnZsZXQ8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmphdmF4LnNlcnZsZXQtYXBpPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4ke3NlcnZsZXQudmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgICAgIDxzY29wZT5wcm92aWRlZDwvc2NvcGU+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxEYXRhU291cmNlPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBQb3N0Q29uc3RydWN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UuZHJ1aWQud2ViLXN0YXQuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
