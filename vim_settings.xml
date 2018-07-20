@@ -273,6 +273,11 @@
         <mark key="^" line="65" column="20" />
         <mark key="." line="65" column="20" />
       </file>
+      <file name="D:/code/mchuan/a/sendmsgbufIII_backutils/src/conf/Configure.java" timestamp="1532088156429">
+        <mark key="[" line="48" column="18" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="D:/code/mchuan/s3tool/s3monitor/src/test/java/com/mchuan/s3monitor/dao/backup/SendedMapperTest.java" timestamp="1531895276761">
         <mark key="[" line="32" column="45" />
         <mark key="]" line="32" column="44" />
@@ -366,7 +371,7 @@
         <mark key="^" line="10" column="30" />
         <mark key="." line="10" column="30" />
       </file>
-      <file name="/fragment.java" timestamp="1531905015923">
+      <file name="/fragment.java" timestamp="1532087770353">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -493,7 +498,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="-" type="4">
         <text>equest</text>
@@ -505,31 +510,39 @@
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLm1jaHVhbjwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+bWNodWFuLWJvb3Q8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjEuMC42PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CQkK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXBvcnRzTGF0ZW5jeVNlY29uZHMudGltZSgoKSAtPiB7CiAgICAgICAgICAgIGZvciAoU2VuZGVkRXh0IHNlbmRlZEV4dCA6IHNlbmRlZExpc3QpIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9CiAgICAgICAgfSk7Cg==</text>
+      <register name="2" type="4">
+        <text>String path = Configure.class.getResource(&quot;&quot;).getPath();
+		path = path.substring(1, path.lastIndexOf(&quot;co&quot;));
+		path = path.replace(&quot;%20&quot;, &quot; &quot;);</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CQlGaWxlIGlucHV0WG1sID0gbmV3IEZpbGUocGF0aCArICJjb25mL2NvbmYueG1sIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXBvcnRzTGF0ZW5jeVNlY29uZHMuCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXBvcnRzTGF0ZW5jeVNlY29uZHMuY29sbGVjdCgpLmdldCgwKS5zYW1wbGVzLmdldCgwKS4K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="6" type="4">
+        <text>String path = Configure.class.getResource(&quot;&quot;).getPath();
+		path = path.substring(1, path.lastIndexOf(&quot;co&quot;));
+		path = path.replace(&quot;%20&quot;, &quot; &quot;);
+
+		File inputXml = new File(path + &quot;conf/conf.xml&quot;);
+		SAXReader saxReader = new SAXReader();
+		Document documentForRead = null;</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByZXBvcnRzTGF0ZW5jeVNlY29uZHMudGltZSgoKSAtPiB7CiAgICAgICAgICAgIGZvciAoU2VuZGVkRXh0IHNlbmRlZEV4dCA6IHNlbmRlZExpc3QpIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9CiAgICAgICAgfSk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0TGF0ZW5jeS5zdGFydFRpbWVyKCkuCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
     </registers>
     <search>
