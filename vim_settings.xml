@@ -347,14 +347,20 @@
         <mark key="^" line="16" column="67" />
         <mark key="." line="16" column="67" />
       </file>
+      <file name="D:/code/lab/base/mchuan-boot/src/main/java/com/mchuan/code/SysCode.java" timestamp="1534303689753">
+        <mark key="[" line="12" column="25" />
+        <mark key="]" line="12" column="26" />
+        <mark key="^" line="12" column="26" />
+        <mark key="." line="12" column="26" />
+      </file>
       <file name="D:/code/mchuan/sms3_api8002/WebRoot/zlink/recvreport.jsp" timestamp="1533000614187">
         <mark key="[" line="213" column="0" />
         <mark key="]" line="213" column="0" />
         <mark key="." line="213" column="0" />
       </file>
-      <file name="D:/code/lab/base/mchuan-boot/src/main/java/com/mchuan/boot/model/Api.java" timestamp="1534298901560">
+      <file name="D:/code/lab/base/mchuan-boot/src/main/java/com/mchuan/boot/model/Api.java" timestamp="1534304119891">
         <mark key="'" line="10" column="68" />
-        <mark key="[" line="10" column="69" />
+        <mark key="[" line="57" column="17" />
         <mark key="]" line="37" column="3" />
         <mark key="." line="37" column="3" />
         <mark key="^" line="37" column="3" />
@@ -653,12 +659,12 @@
         <mark key="^" line="21" column="4" />
         <mark key="." line="21" column="4" />
       </file>
-      <file name="D:/code/lab/base/mchuan-boot/src/main/java/com/mchuan/boot/handler/ApiErrorHandler.java" timestamp="1534302812747">
-        <mark key="'" line="50" column="44" />
-        <mark key="[" line="59" column="45" />
-        <mark key="]" line="60" column="25" />
-        <mark key="." line="60" column="25" />
-        <mark key="^" line="60" column="25" />
+      <file name="D:/code/lab/base/mchuan-boot/src/main/java/com/mchuan/boot/handler/ApiErrorHandler.java" timestamp="1534304333583">
+        <mark key="'" line="47" column="44" />
+        <mark key="[" line="50" column="8" />
+        <mark key="]" line="51" column="40" />
+        <mark key="." line="51" column="40" />
+        <mark key="^" line="51" column="40" />
       </file>
       <file name="D:/code/mchuan/ll/lcll/WebRoot/WEB-INF/classes/com/mchuan/rmi/RmiJson.java" timestamp="1530841451956">
         <mark key="[" line="93" column="47" />
@@ -683,7 +689,7 @@
         <mark key="^" line="9" column="98" />
         <mark key="." line="9" column="98" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534213528553">
+      <file name="/Dummy.txt" timestamp="1534304291124">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/code/mchuan/a/new/ll_sendbuf/trunk/src/http/HttpAccess.java" timestamp="1531201293920">
@@ -704,11 +710,11 @@
         <mark key="." line="262" column="47" />
         <mark key="^" line="262" column="45" />
       </file>
-      <file name="D:/code/lab/base/mchuan-boot/src/main/java/com/mchuan/code/BaseApiCode.java" timestamp="1534302989318">
-        <mark key="[" line="8" column="7" />
-        <mark key="]" line="8" column="11" />
-        <mark key="^" line="8" column="11" />
-        <mark key="." line="8" column="11" />
+      <file name="D:/code/lab/base/mchuan-boot/src/main/java/com/mchuan/code/BaseApiCode.java" timestamp="1534303426426">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="26" column="21" />
+        <mark key="^" line="26" column="21" />
+        <mark key="." line="26" column="21" />
       </file>
       <file name="D:/code/lab/base/core/src/main/java/com/mchuan/core/jackson/PercentFieldSerializer.java" timestamp="1531795555142">
         <mark key="[" line="18" column="0" />
@@ -907,44 +913,44 @@
       <jump line="20" column="30" filename="D:/code/lab/base/core/src/main/java/com/mchuan/core/model/FormatedResponse.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>interface</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBBcGlSZXNwb25zZS5IZWFkIGhlYWQgPSBhcGlSZXNwb25zZS5nZXRIZWFkKCk7CiAgICAgICAgaGVhZC5zZXRFbGFwc2VkVGltZShBcGkuZ2V0QXBpKCkuZ2V0RWxhcHNlVGltZSgpKTsKICAgICAgICBoZWFkLnNldFJlcXVlc3RJZChBcGkuZ2V0QXBpKCkuZ2V0UmVxdWVzdElkKCkpOwoK</text>
       </register>
       <register name="-" type="4">
-        <text>interface</text>
+        <text>head</text>
       </register>
       <register name="/" type="4">
         <text>sleep</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhcGlSZXNwb25zZS5nZXRIZWFkKCkuc2V0Q29kZShjb2RlKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBBcGlSZXNwb25zZSB0b1Jlc3BvbnNlKE9iamVjdC4uLiBhcmdzKSB7CiAgICAgICAgdGhpcy5tZXNzYWdlID0gdGhpcy5tZXNzYWdlID09IG51bGwgPyAiIiA6IHRoaXMubWVzc2FnZTsKICAgICAgICBTdHJpbmcgbWVzc2FnZSA9IFN0cmluZy5mb3JtYXQodGhpcy5tZXNzYWdlLCBhcmdzKTsKICAgICAgICByZXR1cm4gQXBpUmVzcG9uc2VLaXQub2YodGhpcy5jb2RlLCBtZXNzYWdlKTsKICAgIH0KICAgIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBBcGlSZXNwb25zZS5IZWFkIGhlYWQgPSBhcGlSZXNwb25zZS5nZXRIZWFkKCk7CiAgICAgICAgaGVhZC5zZXRFbGFwc2VkVGltZShBcGkuZ2V0QXBpKCkuZ2V0RWxhcHNlVGltZSgpKTsKICAgICAgICBoZWFkLnNldFJlcXVlc3RJZChBcGkuZ2V0QXBpKCkuZ2V0UmVxdWVzdElkKCkpOwoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBBcGlSZXNwb25zZUtpdC5vZigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBoZWFkLnNldENvZGUoY29kZSk7CiAgICAgICAgaGVhZC5zZXRNZXNzYWdlKG1lc3NhZ2UpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmJvZHkgPSBib2R5OwogICAgICAgIHRoaXMuY29udGVudFR5cGUgPSBjb250ZW50VHlwZTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29kZSA9IGFwaUV4Y2VwdGlvbi5nZXRDb2RlKCk7CiAgICAgICAgU3RyaW5nIG1lc3NhZ2UgPSBhcGlFeGNlcHRpb24uZ2V0TWVzc2FnZSgpOwogICAgICAgIGhlYWQuc2V0Q29kZShjb2RlKTsKICAgICAgICBoZWFkLnNldE1lc3NhZ2UobWVzc2FnZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGJvZHk7CgogICAgcHJpdmF0ZSBTdHJpbmcgY29udGVudFR5cGU7Cgo=</text>
+        <text encoding="base64">ICAgICAgICBBcGkuZ2V0QXBpKCkuaW5pdEVsYXBzZWRUaW1lKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGVhZC5zZXRNZXNzYWdlKGRlZmF1bHRNZXNzYWdlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGVhZC5zZXRDb2RlKFN5c0NvZGUuVkFMSURBVEVEX0VSUk9SKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBoZWFkLnNldE1lc3NhZ2UoIs+1zbOz9sHLtePQoc7KzOIsx+vJ1Lrz1NnK1CEiICsgZGV0YWlsKTsKICAgICAgICBoZWFkLnNldENvZGUoU3lzQ29kZS5VTktOT1dOKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
     </registers>
     <search>
