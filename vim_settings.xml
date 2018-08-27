@@ -297,6 +297,11 @@
         <mark key="^" line="32" column="44" />
         <mark key="." line="32" column="44" />
       </file>
+      <file name="D:/code/mchuan/huafei/pom.xml" timestamp="1535359514316">
+        <mark key="[" line="26" column="25" />
+        <mark key="]" line="26" column="26" />
+        <mark key="." line="26" column="26" />
+      </file>
       <file name="D:/code/mchuan/s3tool/s3monitor/src/main/resources/application.properties" timestamp="1531450740599">
         <mark key="[" line="3" column="36" />
         <mark key="]" line="3" column="0" />
@@ -490,7 +495,7 @@
         <mark key="." line="54" column="20" />
         <mark key="^" line="54" column="20" />
       </file>
-      <file name="D:/code/mchuan/huafei/JieyangMchuan/src/main/java/com/mchuan/huafei/jieyang/JieyangApp.java" timestamp="1534232235970">
+      <file name="D:/code/mchuan/huafei/JieyangMchuan/src/main/java/com/mchuan/huafei/jieyang/JieyangApp.java" timestamp="1535359218256">
         <mark key="[" line="13" column="56" />
         <mark key="]" line="13" column="134" />
         <mark key="^" line="13" column="134" />
@@ -653,6 +658,7 @@
         <mark key="]" line="673" column="2" />
         <mark key="." line="673" column="2" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/mchuan/mchuan-boot/1.2.2/mchuan-boot-1.2.2-sources.jar!/com/mchuan/support/sched/SchedConfig.java" timestamp="1535359361418" />
       <file name="D:/code/lab/mm7/WebRoot/WEB-INF/lib/mm7api.jar!/com/cmcc/mm7/vasp/common/ConnectionPool.class" timestamp="1534846739026" />
       <file name="D:/code/lab/base/core/src/main/java/com/mchuan/core/model/StringResponse.java" timestamp="1534302567205">
         <mark key="[" line="17" column="5" />
@@ -690,11 +696,11 @@
         <mark key="." line="12" column="18" />
         <mark key="^" line="12" column="17" />
       </file>
-      <file name="D:/code/lab/base/mchuan-boot/src/main/java/com/mchuan/support/sched/SchedConfig.java" timestamp="1535357920895">
-        <mark key="[" line="15" column="15" />
-        <mark key="]" line="14" column="17" />
-        <mark key="^" line="14" column="17" />
-        <mark key="." line="14" column="17" />
+      <file name="D:/code/lab/base/mchuan-boot/src/main/java/com/mchuan/support/sched/SchedConfig.java" timestamp="1535359423043">
+        <mark key="[" line="14" column="11" />
+        <mark key="]" line="14" column="11" />
+        <mark key="^" line="15" column="18" />
+        <mark key="." line="14" column="11" />
       </file>
       <file name="D:/code/mchuan/s3tool/pom.xml" timestamp="1531903498074">
         <mark key="[" line="37" column="21" />
@@ -779,6 +785,7 @@
         <mark key="^" line="8" column="15" />
         <mark key="." line="8" column="15" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/mchuan/mchuan-boot/1.2.2/mchuan-boot-1.2.2-sources.jar!/com/mchuan/support/sched/SystemSched.java" timestamp="1535359394626" />
       <file name="D:/code/mchuan/s3tool/s3monitor/pom.xml" timestamp="1531903521297">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -864,7 +871,7 @@
         <mark key="]" line="0" column="44" />
         <mark key="." line="0" column="44" />
       </file>
-      <file name="D:/code/lab/base/mchuan-boot/pom.xml" timestamp="1535358000960">
+      <file name="D:/code/lab/base/mchuan-boot/pom.xml" timestamp="1535359453384">
         <mark key="[" line="19" column="17" />
         <mark key="]" line="19" column="18" />
         <mark key="." line="19" column="18" />
@@ -981,10 +988,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>cpuMonitor</text>
+        <text>Monitor</text>
       </register>
       <register name="-" type="4">
-        <text>cpuMonitor</text>
+        <text>Monitor</text>
       </register>
       <register name="/" type="4">
         <text>sleep</text>
