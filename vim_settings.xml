@@ -195,6 +195,12 @@
         <mark key="^" line="85" column="26" />
         <mark key="." line="85" column="26" />
       </file>
+      <file name="D:/code/lab/base/core/src/main/java/com/mchuan/core/id/IdService.java" timestamp="1535626622371">
+        <mark key="[" line="11" column="54" />
+        <mark key="]" line="11" column="51" />
+        <mark key="." line="11" column="51" />
+        <mark key="^" line="11" column="51" />
+      </file>
       <file name="D:/code/lab/base/apisdk/src/main/java/com/mchuan/apisdk/model/ApiResponse.java" timestamp="1534314680496">
         <mark key="[" line="26" column="34" />
         <mark key="]" line="26" column="31" />
@@ -261,7 +267,7 @@
         <mark key="." line="39" column="73" />
         <mark key="^" line="27" column="45" />
       </file>
-      <file name="D:/code/mchuan/SMS4/sms-service/src/main/java/com/mchuan/sms4/kit/IdKit.java" timestamp="1535625560385">
+      <file name="D:/code/mchuan/SMS4/sms-service/src/main/java/com/mchuan/sms4/kit/IdKit.java" timestamp="1535626482275">
         <mark key="[" line="48" column="16" />
         <mark key="]" line="48" column="16" />
         <mark key="." line="48" column="16" />
@@ -1000,17 +1006,17 @@
       <jump line="3" column="0" filename="D:/code/lab/base/core/src/main/java/com/mchuan/core/monitor/CpuMonitor.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>sequence</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGxvbmcgbWFrZUlkKGxvbmcgdGltZXN0YW1wLCBpbnQgc2VxKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>sequence</text>
+        <text>class</text>
       </register>
       <register name="/" type="4">
         <text>sleep</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvbmcgc2VxdWVuY2UgPSBuZXh0U2VxKCk7Cg==</text>
+        <text encoding="base64">ICAgIGxvbmcgbWFrZUlkKGxvbmcgdGltZXN0YW1wLCBpbnQgc2VxKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsYXRjaC5jb3VudERvd24oKTsK</text>
