@@ -3,9 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/code/mchuan/sms3_zlbuf/pom.xml" timestamp="1535713375536" />
-      <file name="/a.dummy" timestamp="1535621213765">
+      <file name="D:/code/lab/base/mc-mq/src/main/java/com/mchuan/mq/RocketProducer.java" timestamp="1535783973144">
+        <mark key="[" line="35" column="45" />
+        <mark key="]" line="37" column="3" />
+        <mark key="^" line="37" column="3" />
+        <mark key="." line="37" column="3" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/rocketmq/rocketmq-client/4.3.0/rocketmq-client-4.3.0-sources.jar!/org/apache/rocketmq/client/producer/MQProducer.java" timestamp="1535782781819" />
+      <file name="/a.dummy" timestamp="1535783146514">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms-service/src/main/java/com/mchuan/sms4/kit/IdKit.java" timestamp="1535678673877">
+        <mark key="[" line="48" column="16" />
+        <mark key="]" line="48" column="16" />
+        <mark key="." line="48" column="16" />
+        <mark key="^" line="48" column="28" />
       </file>
       <file name="D:/code/mchuan/SMS4/report-rescuer/src/main/java/com/mchuan/report/rescuer/ReportRescuerApp.java" timestamp="1535736342488">
         <mark key="[" line="6" column="3" />
@@ -13,48 +25,39 @@
         <mark key="^" line="7" column="52" />
         <mark key="." line="7" column="52" />
       </file>
-      <file name="D:/code/mchuan/sms3_zlbuf/.gitignore" timestamp="1535713195664">
-        <mark key="[" line="108" column="0" />
-      </file>
-      <file name="D:/code/mchuan/sendmsgbufIII_backutils/src/database/KernelDatabase.java" timestamp="1535698670707" />
-      <file name="D:/code/mchuan/SMS4/pom.xml" timestamp="1535735115850" />
-      <file name="D:/code/mchuan/sms3_9002/WebRoot/WEB-INF/classes/com/ccell/sms3/api/IdWorker.java" timestamp="1535615988824" />
-      <file name="D:/code/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/id/impl/SnowflakeIdWorker.java" timestamp="1535627465410">
-        <mark key="[" line="199" column="72" />
-        <mark key="]" line="205" column="0" />
-        <mark key="^" line="204" column="23" />
-        <mark key="." line="205" column="0" />
-      </file>
-      <file name="D:/code/mchuan/sms3_9002/WebRoot/WEB-INF/classes/com/ccell/sms3/api/RouteUtils.java" timestamp="1535618001269" />
-      <file name="D:/code/mchuan/sms3_api8002/WebRoot/WEB-INF/classes/com/ccell/sms3/api/SmsUtils.java" timestamp="1535618604886" />
-      <file name="D:/code/mchuan/SMS4/sms-service/src/main/java/com/mchuan/sms4/kit/IdKit.java" timestamp="1535678673877">
-        <mark key="[" line="48" column="16" />
-        <mark key="]" line="48" column="16" />
-        <mark key="." line="48" column="16" />
-        <mark key="^" line="48" column="28" />
-      </file>
-      <file name="D:/code/mchuan/sendmsgbufIII_backutils/src/thread/RecvReportThread.java" timestamp="1535699779212" />
-      <file name="D:/code/mchuan/huafei/pom.xml" timestamp="1535442760887">
-        <mark key="[" line="26" column="26" />
-      </file>
-      <file name="D:/code/lab/base/core/src/main/java/com/mchuan/core/id/Id.java" timestamp="1535627500841">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="13" column="23" />
-        <mark key="." line="13" column="23" />
-        <mark key="^" line="13" column="23" />
-      </file>
-      <file name="D:/code/mchuan/zt_routes/WebRoot/longju_report.jsp" timestamp="1535690483933" />
-      <file name="D:/code/mchuan/sendmsgbufIII_backutils/src/database/MsgBufDatabase.java" timestamp="1535696577564" />
-      <file name="D:/code/mchuan/sendmsgbufIII_backutils/src/thread/SendThread.java" timestamp="1535687352540" />
-      <file name="D:/code/mchuan/sms3_api8002/WebRoot/WEB-INF/classes/com/ccell/sms3/api/Cubeluzr.java" timestamp="1535618434269" />
-      <file name="D:/code/mchuan/sendmsgbufIII_backutils/src/database/BackupDatabase.java" timestamp="1535699034322" />
       <file name="D:/code/mchuan/zt_routes/test/src/com/mchuan/ztroutes/Longju.java" timestamp="1535733085156">
         <mark key="[" line="26" column="12" />
         <mark key="]" line="26" column="17" />
         <mark key="." line="26" column="17" />
         <mark key="^" line="26" column="17" />
       </file>
-      <file name="D:/code/mchuan/sendmsgbufIII_backutils/src/thread/MarkReportThread.java" timestamp="1535699698322" />
+      <file name="D:/code/mchuan/zt_routes/.gitignore" timestamp="1535687175226">
+        <mark key="[" line="54" column="10" />
+      </file>
+      <file name="D:/code/mchuan/huafei/pom.xml" timestamp="1535442760887">
+        <mark key="[" line="26" column="26" />
+      </file>
+      <file name="D:/code/lab/base/mc-mq/src/main/java/com/mchuan/mq/Producer.java" timestamp="1535782683625">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="18" />
+        <mark key="." line="5" column="18" />
+        <mark key="^" line="5" column="18" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/rocketmq/rocketmq-common/4.3.0/rocketmq-common-4.3.0-sources.jar!/org/apache/rocketmq/common/MixAll.java" timestamp="1535782836454" />
+      <file name="D:/code/lab/base/mc-mq/src/test/resources/application.properties" timestamp="1535784512033" />
+      <file name="D:/code/lab/base/core/src/main/java/com/mchuan/core/id/Id.java" timestamp="1535627500841">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="13" column="23" />
+        <mark key="." line="13" column="23" />
+        <mark key="^" line="13" column="23" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/rocketmq/rocketmq-common/4.3.0/rocketmq-common-4.3.0-sources.jar!/org/apache/rocketmq/common/message/Message.java" timestamp="1535784009178" />
+      <file name="D:/code/mchuan/sms3_zlbuf/.gitignore" timestamp="1535713195664">
+        <mark key="[" line="108" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1535442903310">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/code/mchuan/mcbuild/.gitignore" timestamp="1535429402281">
         <mark key="[" line="24" column="11" />
       </file>
@@ -63,37 +66,46 @@
         <mark key="]" line="134" column="94" />
         <mark key="." line="21" column="229" />
       </file>
+      <file name="D:/code/lab/base/mc-mq/pom.xml" timestamp="1535783197458">
+        <mark key="[" line="30" column="36" />
+        <mark key="]" line="32" column="20" />
+        <mark key="^" line="32" column="20" />
+        <mark key="." line="32" column="20" />
+      </file>
+      <file name="D:/code/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/id/impl/SnowflakeIdWorker.java" timestamp="1535627465410">
+        <mark key="[" line="199" column="72" />
+        <mark key="]" line="205" column="0" />
+        <mark key="^" line="204" column="23" />
+        <mark key="." line="205" column="0" />
+      </file>
       <file name="D:/code/mchuan/sms3_9002/WebRoot/WEB-INF/classes/com/ccell/sms3/api/SendAPI.java" timestamp="1535613496359">
         <mark key="[" line="209" column="0" />
         <mark key="]" line="209" column="0" />
         <mark key="^" line="417" column="28" />
         <mark key="." line="209" column="0" />
       </file>
-      <file name="D:/code/mchuan/sms3_zlbuf/src/main/java/testJSON.java" timestamp="1535713384023" />
+      <file name="D:/code/lab/base/mc-mq/src/test/java/com/mchuan/mq/RocketProducerTest.java" timestamp="1535784481308">
+        <mark key="[" line="40" column="26" />
+        <mark key="]" line="40" column="27" />
+        <mark key="." line="40" column="27" />
+        <mark key="^" line="40" column="27" />
+      </file>
       <file name="D:/code/mchuan/sms3_api8002/WebRoot/WEB-INF/classes/com/ccell/sms3/api/SendAPI.java" timestamp="1535687446131">
         <mark key="[" line="372" column="35" />
         <mark key="]" line="372" column="31" />
         <mark key="^" line="372" column="31" />
         <mark key="." line="372" column="31" />
       </file>
-      <file name="D:/code/mchuan/zt_routes/WebRoot/yidaozhengtong_deliver.jsp" timestamp="1535687137917" />
-      <file name="D:/code/mchuan/sms3_9002/WebRoot/WEB-INF/classes/com/ccell/sms3/api/SmsUtils.java" timestamp="1535618198925" />
-      <file name="D:/code/lab/base/example/src/main/java/com/mchuan/example/rest/ExampleController.java" timestamp="1535612250610" />
-      <file name="D:/code/mchuan/sendmsgbufIII_backutils/src/mchuan/MchuanTestAccess.java" timestamp="1535696222896" />
-      <file name="D:/code/mchuan/zt_routes/.gitignore" timestamp="1535687175226">
-        <mark key="[" line="54" column="10" />
-      </file>
-      <file name="D:/code/mchuan/sendmsgbufIII_backutils/src/utils/DatabaseUtils.java" timestamp="1535691364894" />
-      <file name="/Dummy.txt" timestamp="1535442903310">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/code/mchuan/sendmsgbufIII_backutils/src/utils/TimeUtils.java" timestamp="1535691284353" />
-      <file name="/fragment.java" timestamp="1535695978375">
+      <file name="/fragment.java" timestamp="1535783135038">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/program/developer/Java/jdk1.8.0_172/src.zip!/java/lang/StringBuffer.java" timestamp="1535687382707" />
+      <file name="D:/code/lab/base/mc-mq/src/test/java/com/mchuan/mq/ExampleServer.java" timestamp="1535783145549">
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="117" column="0" filename="D:/foresee/case/cases/com.foresee.ftcsp.cases.rest/src/main/java/com/foresee/ftcsp/cases/rest/inner/UserController.java" />
@@ -198,44 +210,44 @@
       <jump line="3" column="0" filename="D:/code/lab/base/core/src/main/java/com/mchuan/core/monitor/CpuMonitor.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmV0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>report</text>
       </register>
       <register name="-" type="4">
-        <text>O</text>
+        <text>report</text>
       </register>
       <register name="/" type="4">
         <text>sleep</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvbmcgbWFrZUlkKGxvbmcgdGltZXN0YW1wLCBpbnQgc2VxKTsK</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBzZW5kUmVwb3J0KCkgewogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgMTA7IGkrKykgewogICAgICAgICAgICBpbnQgbnVtID0gUmFuZG9tVXRpbHMubmV4dEludCgzMDAwLCA5MDAwKTsKICAgICAgICAgICAgU2VuZFJlc3VsdCByZXN1bHQgPSBwcm9kdWNlci5zZW5kKCJzbXMzX3JlcG9ydCIsCiAgICAgICAgICAgICAgICAgICAgIsT6tcTR6dakwuvKxyIgKyBudW0gKyAiW8P7tKvO3s/fXSIpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzdWx0KTsKICAgICAgICB9CgogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmV0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXRYTUwgPSBEb2N1bWVudEhlbHBlci5jcmVhdGVFbGVtZW50KCI8P3htbCB2ZXJzaW9uPVwiMS4wXCIgZW5jb2Rpbmc9XCJ1dGYtOFwiPz4iKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzdWx0KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBTZW5kUmVzdWx0IHJlc3VsdCA9IHByb2R1Y2VyLnNlbmQoInNtczNfcmVwb3J0IiwgIsT6tcTR6dakwuvKxzExOThbw/u0q87ez99dIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgKGJ1ZmZlcmVkUmVhZGVyCg==</text>
+        <text encoding="base64">ICAgICAgICBNZXNzYWdlIG1lc3NhZ2UgPSBuZXcgTWVzc2FnZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIElPVXRpbHMuCg==</text>
+        <text encoding="base64">LyoKQENvbmZpZ3VyYXRpb24KQEltcG9ydCh7CiAgICAgICAgQXBwQ29uZi5jbGFzcywgLy8gvavG5LfF1Nq12tK7zrssIMi7uvO+zbvhz8jT2sbky/u1xEF1dG9Db25maWd1cmF0aW9uyfrQpwogICAgICAgIEFvcEF1dG9Db25maWd1cmF0aW9uLmNsYXNzLAogICAgICAgIFdlYk12Y0F1dG9Db25maWd1cmF0aW9uLmNsYXNzLAogICAgICAgIERpc3BhdGNoZXJTZXJ2bGV0QXV0b0NvbmZpZ3VyYXRpb24uY2xhc3MsCiAgICAgICAgRW1iZWRkZWRXZWJTZXJ2ZXJGYWN0b3J5Q3VzdG9taXplckF1dG9Db25maWd1cmF0aW9uLmNsYXNzLAogICAgICAgIEVycm9yTXZjQXV0b0NvbmZpZ3VyYXRpb24uY2xhc3MsCiAgICAgICAgSHR0cEVuY29kaW5nQXV0b0NvbmZpZ3VyYXRpb24uY2xhc3MsCiAgICAgICAgSHR0cE1lc3NhZ2VDb252ZXJ0ZXJzQXV0b0NvbmZpZ3VyYXRpb24uY2xhc3MsCiAgICAgICAgSmFja3NvbkF1dG9Db25maWd1cmF0aW9uLmNsYXNzLAogICAgICAgIFByb3BlcnR5UGxhY2Vob2xkZXJBdXRvQ29uZmlndXJhdGlvbi5jbGFzcywKICAgICAgICBTZXJ2bGV0V2ViU2VydmVyRmFjdG9yeUF1dG9Db25maWd1cmF0aW9uLmNsYXNzLAogICAgICAgIFZhbGlkYXRpb25BdXRvQ29uZmlndXJhdGlvbi5jbGFzcywKCn0pKi8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LnNldHRpbmdzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvbmcgdHJhbnNUaW1lKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsYXRjaC5jb3VudERvd24oKTsK</text>
+        <text encoding="base64">aW1wb3J0IGxvbWJvay5WYWx1ZTsK</text>
       </register>
     </registers>
     <search>
