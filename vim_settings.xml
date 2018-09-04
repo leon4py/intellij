@@ -11,10 +11,11 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/rocketmq/rocketmq-client/4.3.0/rocketmq-client-4.3.0-sources.jar!/org/apache/rocketmq/client/producer/DefaultMQProducer.java" timestamp="1535942355307" />
       <file name="D:/code/mchuan/sendmsgbufIII_backutils/src/mchuan/MchuanTestAccess.java" timestamp="1535942149485" />
-      <file name="D:/code/lab/base/mc-mq/src/main/java/com/mchuan/mq/consumer/RocketConsumer.java" timestamp="1535967123668">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="D:/code/lab/base/mc-mq/src/main/java/com/mchuan/mq/consumer/RocketConsumer.java" timestamp="1535967858723">
+        <mark key="[" line="70" column="88" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="72" column="46" />
       </file>
       <file name="D:/code/mchuan/sendmsgbufIII_backutils/src/thread/RecvMessageThread.java" timestamp="1535942252532" />
       <file name="D:/code/mchuan/SMS4/sms-service/src/main/java/com/mchuan/sms4/kit/IdKit.java" timestamp="1535678673877">
@@ -31,11 +32,11 @@
         <mark key="." line="7" column="52" />
       </file>
       <file name="D:/code/mchuan/sendmsgbufIII_backutils/src/thread/RecvReportThread.java" timestamp="1535942215879" />
-      <file name="D:/code/lab/base/mc-mq/src/main/java/com/mchuan/mq/consumer/ConsumerCallback.java" timestamp="1535967081078">
+      <file name="D:/code/lab/base/mc-mq/src/main/java/com/mchuan/mq/consumer/ConsumerCallback.java" timestamp="1535967683713">
         <mark key="[" line="26" column="26" />
-        <mark key="]" line="24" column="34" />
-        <mark key="^" line="24" column="34" />
-        <mark key="." line="24" column="34" />
+        <mark key="]" line="14" column="17" />
+        <mark key="^" line="14" column="17" />
+        <mark key="." line="14" column="17" />
       </file>
       <file name="D:/code/mchuan/zt_routes/test/src/com/mchuan/ztroutes/Longju.java" timestamp="1535733085156">
         <mark key="[" line="26" column="12" />
@@ -66,7 +67,7 @@
       <file name="D:/code/lab/base/mc-mq/src/main/java/com/mchuan/mq/RocketConsumer.java" timestamp="1535966351737">
         <mark key="[" line="25" column="25" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/rocketmq/rocketmq-client/4.3.0/rocketmq-client-4.3.0-sources.jar!/org/apache/rocketmq/client/consumer/listener/ConsumeConcurrentlyStatus.java" timestamp="1535967214005" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/rocketmq/rocketmq-client/4.3.0/rocketmq-client-4.3.0-sources.jar!/org/apache/rocketmq/client/consumer/listener/ConsumeConcurrentlyStatus.java" timestamp="1535967788118" />
       <file name="$MAVEN_REPOSITORY$/org/apache/rocketmq/rocketmq-client/4.3.0/rocketmq-client-4.3.0-sources.jar!/org/apache/rocketmq/client/impl/MQClientAPIImpl.java" timestamp="1535957618106" />
       <file name="$MAVEN_REPOSITORY$/org/apache/rocketmq/rocketmq-client/4.3.0/rocketmq-client-4.3.0-sources.jar!/org/apache/rocketmq/client/MQAdmin.java" timestamp="1535954464829" />
       <file name="$MAVEN_REPOSITORY$/org/apache/rocketmq/rocketmq-client/4.3.0/rocketmq-client-4.3.0-sources.jar!/org/apache/rocketmq/client/impl/producer/DefaultMQProducerImpl.java" timestamp="1535955339071" />
@@ -209,43 +210,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdW1lci5zZXRDb25zdW1lVGhyZWFkTWluKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKG87Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ConsumerCallback</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>sleep</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGludCBjb25zdW1lVGhyZWFkTWluIDIwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN1bWVyLnNldENvbnN1bWVUaHJlYWRNaW4oY2FsbGJhY2suY29uc3VtZVRocmVhZE1pbigpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdW1lci5zZXRDb25zdW1lVGhyZWFkTWluKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKG87Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdW1lci5zZXRDb25zdW1lTWVzc2FnZUJhdGNoTWF4U2l6ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbXNncy5nZXQoMCkuZ2V0S2V5cygpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdW1lci5zZXRQdWxsQmF0Y2hTaXplKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN1bWVyLnN0YXJ0KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdW1lci5zZXRDb25zdW1lckdyb3VwKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdW1lci5zdGFydCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdW1lci5zZXRNZXNzYWdlTW9kZWwoKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdW1lci5zZXRNZXNzYWdlTGlzdGVuZXIobmV3IE1lc3NhZ2VMaXN0ZW5lckNvbmN1cnJlbnRseSgpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBDb25zdW1lQ29uY3VycmVudGx5U3RhdHVzIGNvbnN1bWVNZXNzYWdlKExpc3Q8TWVzc2FnZUV4dD4gbXNncywgQ29uc3VtZUNvbmN1cnJlbnRseUNvbnRleHQgY29udGV4dCkgewogICAgICAgICAgICAgICAgbXNncy5nZXQoMCkuZ2V0S2V5cygpOwogICAgICAgICAgICB9CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1zZ3MuZ2V0KDApLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRleHQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN1bWVyLnNldENvbnN1bWVyR3JvdXAoY2FsbGJhY2suY29uc3VtZXJHcm91cCgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdW1lci5nZXRNZXNzYWdlTW9kZWwoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN1bWVyLnNldAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbgo=</text>
       </register>
     </registers>
     <search>
