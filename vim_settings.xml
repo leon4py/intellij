@@ -3,36 +3,22 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/code/mchuan/sms3_9002/WebRoot/WEB-INF/classes/com/ccell/sms3/api/SmsUtils.java" timestamp="1536219877521">
-        <mark key="[" line="179" column="25" />
-        <mark key="]" line="179" column="25" />
-        <mark key="." line="179" column="25" />
-        <mark key="^" line="179" column="25" />
-      </file>
-      <file name="D:/code/mchuan/SMS4/sms-model/src/test/resources/application.properties" timestamp="1536225241534">
-        <mark key="[" line="7" column="24" />
-        <mark key="]" line="7" column="24" />
-        <mark key="^" line="7" column="37" />
-        <mark key="." line="7" column="24" />
-      </file>
-      <file name="D:/code/mchuan/SMS4/sms3-model/src/test/java/com/mchuan/sms3/dao/sendbuf/SendbufSendedMapperTest.java" timestamp="1536225459681">
-        <mark key="[" line="28" column="5" />
-        <mark key="]" line="38" column="4" />
-        <mark key="^" line="38" column="4" />
-        <mark key="." line="38" column="4" />
-      </file>
       <file name="D:/code/mchuan/SMS4/report-service/src/main/java/com/mchuan/report/model/Sms3Reports.java" timestamp="1536308161939">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="D:/code/mchuan/SMS4/sms-model/src/test/java/com/mchuan/sms4/dao/main/RouteAbMapperTest.java" timestamp="1536223425717">
-        <mark key="[" line="29" column="34" />
-        <mark key="]" line="32" column="35" />
-        <mark key="^" line="32" column="35" />
-        <mark key="." line="32" column="35" />
+      <file name="D:/code/mchuan/s3tool/s3monitor/src/main/java/com/mchuan/s3monitor/po/backup/SendedStatusRate.java" timestamp="1536336716910">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
-      <file name="D:/code/mchuan/zt_routes/WebRoot/mddx_report.jsp" timestamp="1536309493832" />
+      <file name="D:/code/mchuan/s3tool/s3monitor/src/main/java/com/mchuan/s3monitor/dao/backup/SendedMapper.java" timestamp="1536337888028">
+        <mark key="[" line="21" column="49" />
+        <mark key="]" line="21" column="40" />
+        <mark key="." line="21" column="40" />
+        <mark key="^" line="21" column="40" />
+      </file>
       <file name="D:/code/mchuan/SMS4/sms3-model/src/main/java/com/mchuan/sms3/conf/BackupDataSourceConfig.java" timestamp="1536302365041">
         <mark key="[" line="23" column="39" />
         <mark key="]" line="37" column="0" />
@@ -41,21 +27,25 @@
       <file name="D:/code/lab/base/core/pom.xml" timestamp="1536227588178">
         <mark key="[" line="10" column="16" />
       </file>
-      <file name="D:/code/mchuan/ll/lcll/WebRoot/WEB-INF/classes/com/mchuan/db/DBTools.java" timestamp="1536307524489" />
-      <file name="D:/code/lab/base/core/src/main/java/com/mchuan/core/kit/DatetimeKit.java" timestamp="1536225966021">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="35" />
-        <mark key="." line="15" column="35" />
-        <mark key="^" line="15" column="35" />
+      <file name="D:/code/mchuan/s3tool/s3monitor/src/main/java/com/mchuan/s3monitor/service/SignStatistics.java" timestamp="1536339257100">
+        <mark key="[" line="26" column="4" />
+        <mark key="]" line="30" column="29" />
+        <mark key="." line="30" column="29" />
+        <mark key="^" line="30" column="29" />
       </file>
-      <file name="D:/code/mchuan/sendmsgbufIII_backutils/src/thread/RecvReportThread.java" timestamp="1536302841079" />
-      <file name="D:/code/mchuan/SMS4/sms-model/src/main/resources/mapper/main/RouteAbMapper.xml" timestamp="1536223247977">
-        <mark key="[" line="141" column="28" />
-        <mark key="]" line="141" column="46" />
-        <mark key="^" line="141" column="46" />
-        <mark key="." line="141" column="46" />
+      <file name="D:/code/mchuan/s3tool/pom.xml" timestamp="1536336761059">
+        <mark key="[" line="21" column="26" />
       </file>
-      <file name="D:/code/mchuan/ll/lcll/WebRoot/WEB-INF/classes/com/ccell/lcll/task/TaskQueryStatus_thread.java" timestamp="1536307054093" />
+      <file name="D:/code/mchuan/s3tool/s3monitor/src/main/java/com/mchuan/s3monitor/timing/SmsStatusChecker.java" timestamp="1536336820136">
+        <mark key="[" line="41" column="64" />
+        <mark key="]" line="41" column="64" />
+        <mark key="." line="41" column="64" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms3-model/src/main/java/com/mchuan/sms3/conf/SendbufDataSourceConfig.java" timestamp="1536225175007">
+        <mark key="[" line="37" column="44" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="D:/code/mchuan/SMS4/sms3-model/src/main/java/com/mchuan/sms3/dao/sendbuf/SendbufSendedMapper.java" timestamp="1536225315509">
         <mark key="[" line="18" column="49" />
       </file>
@@ -66,54 +56,41 @@
         <mark key="^" line="91" column="104" />
         <mark key="." line="91" column="104" />
       </file>
-      <file name="D:/code/mchuan/sms3_9002/WebRoot/WEB-INF/classes/com/ccell/sms3/api/RedisUtil.java" timestamp="1536196853423">
-        <mark key="[" line="93" column="30" />
-        <mark key="]" line="93" column="30" />
-        <mark key="." line="93" column="30" />
-        <mark key="^" line="94" column="67" />
+      <file name="D:/code/mchuan/sms3_zlbuf/.gitignore" timestamp="1536220705300">
+        <mark key="[" line="110" column="10" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
       </file>
-      <file name="/MchuanAccess.java" timestamp="1536312450127" />
       <file name="D:/code/mchuan/ll/lcll/WebRoot/WEB-INF/classes/log4j2.xml" timestamp="1536306740273">
         <mark key="[" line="11" column="69" />
         <mark key="]" line="31" column="52" />
         <mark key="^" line="31" column="52" />
         <mark key="." line="31" column="52" />
       </file>
-      <file name="D:/code/mchuan/SMS4/sms3-model/src/main/resources/mapper/sendbuf/SendbufSendedMapper.xml" timestamp="1536300460573">
-        <mark key="[" line="387" column="11" />
+      <file name="D:/code/mchuan/s3tool/s3monitor/pom.xml" timestamp="1536338957937">
+        <mark key="[" line="26" column="26" />
+        <mark key="]" line="26" column="25" />
+        <mark key="^" line="26" column="25" />
+        <mark key="." line="26" column="25" />
       </file>
-      <file name="D:/code/mchuan/SMS4/report-service/src/main/java/com/mchuan/report/kit/XmlUtil.java" timestamp="1536308153493" />
-      <file name="D:/code/mchuan/SMS4/sms3-model/src/test/resources/application.properties" timestamp="1536225278824">
-        <mark key="[" line="8" column="97" />
-        <mark key="]" line="8" column="120" />
-        <mark key="." line="8" column="97" />
-        <mark key="^" line="1" column="119" />
-      </file>
-      <file name="D:/code/mchuan/zt_routes/WebRoot/longju_report.jsp" timestamp="1536310518648" />
-      <file name="D:/code/mchuan/ll/lcll/WebRoot/WEB-INF/classes/com/ccell/lcll/api/InsideAPI.java" timestamp="1536307798939" />
       <file name="D:/code/mchuan/SMS4/report-service/src/main/java/com/mchuan/report/mq/SmsReportHandler.java" timestamp="1536308419088">
         <mark key="[" line="36" column="110" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
         <mark key="^" line="38" column="13" />
       </file>
-      <file name="D:/code/mchuan/SMS4/pom.xml" timestamp="1536227650303">
-        <mark key="[" line="29" column="21" />
-        <mark key="]" line="30" column="27" />
-        <mark key="^" line="30" column="27" />
-        <mark key="." line="30" column="27" />
+      <file name="D:/code/mchuan/s3tool/.gitignore" timestamp="1536336866639">
+        <mark key="[" line="81" column="5" />
       </file>
-      <file name="$USER_HOME$/Desktop/MchuanAccess.class" timestamp="1536312194172" />
-      <file name="D:/code/mchuan/sendmsgbufIII_backutils/src/thread/SendThread.java" timestamp="1536313548354" />
-      <file name="D:/code/mchuan/SMS4/sms-model/src/main/java/com/mchuan/sms4/dao/main/RouteAbMapper.java" timestamp="1536223477510">
-        <mark key="[" line="24" column="19" />
-        <mark key="]" line="24" column="30" />
-        <mark key="^" line="24" column="30" />
-        <mark key="." line="24" column="30" />
-      </file>
-      <file name="D:/code/mchuan/ll/lcll/WebRoot/WEB-INF/classes/com/mchuan/http/HttpAccess.java" timestamp="1536306984218" />
+      <file name="D:/code/mchuan/s3tool/s3monitor/src/main/java/com/mchuan/s3monitor/po/backup/Sended.java" timestamp="1536337755533" />
       <file name="/fragment.java" timestamp="1536224984646">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/code/mchuan/s3tool/s3monitor/src/main/resources/mapper/backup/SendedMapper.xml" timestamp="1536337810662">
+        <mark key="[" line="68" column="18" />
+        <mark key="]" line="68" column="17" />
+        <mark key="^" line="68" column="17" />
+        <mark key="." line="68" column="17" />
       </file>
     </filemarks>
     <jumps>
@@ -220,43 +197,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQmFzaWNIZWFkZXIgaGVhZGVyID0gbmV3IEJhc2ljSGVhZGVyKCJYLVJvdXRlSWQiLCBTdHJpbmcudmFsdWVPZihtc2dyb3V0ZS5yb3V0ZWlkKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>找不到签名</text>
       </register>
       <register name="/" type="4">
         <text>sleep</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBIRUFERVJfUk9VVEVfSUQgPSAiWC1Sb3V0ZUlkIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIud2Fybigi1dKyu7W9x6nD+yIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQmFzaWNIZWFkZXIgaGVhZGVyID0gbmV3IEJhc2ljSGVhZGVyKCJYLVJvdXRlSWQiLCBTdHJpbmcudmFsdWVPZihtc2dyb3V0ZS5yb3V0ZWlkKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQmFzaWNIZWFkZXIgaGVhZGVyID0gbmV3IEJhc2ljSGVhZGVyKCJYLVJvdXRlSWQiLCBTdHJpbmcudmFsdWVPZihtc2dyb3V0ZS5yb3V0ZWlkKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oZCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQmFzaWNIZWFkZXIgaGVhZGVyID0gbmV3IEJhc2ljSGVhZGVyKCJYLVJvdXRlSWQiLCBTdHJpbmcudmFsdWVPZihtc2dyb3V0ZS5yb3V0ZWlkKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQmFzaWNIZWFkZXIgaGVhZGVyID0gbmV3IEJhc2ljSGVhZGVyKCJYLVJvdXRlSWQiLCBTdHJpbmcudmFsdWVPZihtc2dyb3V0ZS5yb3V0ZWlkKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIud2FybigiIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIFN0cmluZyByb3V0ZVNlbmRQYWNrcyhmaW5hbCBBcnJheUxpc3Q8TnVtYmVycz4gbnVtYmVyc2xpc3QsIGZpbmFsIEFycmF5TGlzdDxTdHJpbmc+IGNvbnRlbnRzLCBmaW5hbCBBcnJheUxpc3Q8U3RyaW5nPiBzcG51bWJlcnMsIGZpbmFsIEFycmF5TGlzdDxOdW1iZXJzPiBpZG51bWJlcnNsaXN0LCBmaW5hbCBSb3V0ZSBtc2dyb3V0ZSkgewogICAgICAgIGZpbmFsIERvY3VtZW50IGRvYyA9IERvY3VtZW50SGVscGVyLmNyZWF0ZURvY3VtZW50KCk7CiAgICAgICAgZmluYWwgRWxlbWVudCByb290ID0gZG9jLmFkZEVsZW1lbnQoInJvb3QiKTsKICAgICAgICBmaW5hbCBFbGVtZW50IHBhcmFtcyA9IHJvb3QuYWRkRWxlbWVudCgicGFyYW1zIik7CiAgICAgICAgcGFyYW1zLmFkZENEQVRBKG1zZ3JvdXRlLmFwaV9wYXJhbXMpOwogICAgICAgIGZpbmFsIEVsZW1lbnQgZGF0YSA9IHJvb3QuYWRkRWxlbWVudCgiZGF0YSIpOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgbnVtYmVyc2xpc3Quc2l6ZSgpOyArK2kpIHsKICAgICAgICAgICAgZmluYWwgRWxlbWVudCBzdWJtaXQgPSBkYXRhLmFkZEVsZW1lbnQoInN1Ym1pdCIpOwogICAgICAgICAgICBzdWJtaXQuYWRkQXR0cmlidXRlKCJzcG51bWJlciIsIHNwbnVtYmVycy5nZXQoaSkpOwogICAgICAgICAgICBzdWJtaXQuYWRkQXR0cmlidXRlKCJwaG9uZSIsIG51bWJlcnNsaXN0LmdldChpKS5udW1iZXJzLnRvU3RyaW5nKCkpOwogICAgICAgICAgICBzdWJtaXQuYWRkQXR0cmlidXRlKCJjb250ZW50IiwgY29udGVudHMuZ2V0KGkpKTsKICAgICAgICAgICAgc3VibWl0LmFkZEF0dHJpYnV0ZSgiaWQiLCBpZG51bWJlcnNsaXN0LmdldChpKS5udW1iZXJzLnRvU3RyaW5nKCkpOwogICAgICAgIH0KICAgICAgICBmaW5hbCBTdHJpbmcgYmFjVHh0ID0gcm9vdC5hc1hNTCgpOwogICAgICAgIGlmIChDb25maWd1cmUudmlzdWFscm91dGUpIHsKICAgICAgICAgICAgcmV0dXJuIHBvc3RYbWwoYmFjVHh0LCBtc2dyb3V0ZS5tdF91cmwsICJTZW5kTXNzYWdlIik7CiAgICAgICAgfQogICAgICAgIHJldHVybiBNY2h1YW5UZXN0QWNjZXNzLnJvdXRlU2VuZFBhY2tzKGlkbnVtYmVyc2xpc3QsIGNvbnRlbnRzLCBzcG51bWJlcnMsIG1zZ3JvdXRlKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbmYuKjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IEh0dHBIZWFkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChtc2djb250ZW50LmNvbnRhaW5zKCJbIikgJiYgbXNnY29udGVudC5jb250YWlucygiXSIpKSB7CgogICAgICAgICAgICAgICAgfQ==</text>
       </register>
     </registers>
     <search>
