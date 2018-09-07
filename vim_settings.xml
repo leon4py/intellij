@@ -59,13 +59,20 @@
       <file name="D:/code/mchuan/SMS4/sms3-model/src/main/java/com/mchuan/sms3/dao/sendbuf/SendbufSendedMapper.java" timestamp="1536225315509">
         <mark key="[" line="18" column="49" />
       </file>
-      <file name="D:/code/mchuan/sendmsgbufIII_backutils/src/mchuan/MchuanAccess.java" timestamp="1536310024025" />
+      <file name="D:/code/mchuan/sendmsgbufIII_backutils/src/mchuan/MchuanAccess.java" timestamp="1536313814575">
+        <mark key="'" line="50" column="72" />
+        <mark key="[" line="58" column="58" />
+        <mark key="]" line="58" column="52" />
+        <mark key="^" line="58" column="52" />
+        <mark key="." line="58" column="52" />
+      </file>
       <file name="D:/code/mchuan/sms3_9002/WebRoot/WEB-INF/classes/com/ccell/sms3/api/RedisUtil.java" timestamp="1536196853423">
         <mark key="[" line="93" column="30" />
         <mark key="]" line="93" column="30" />
         <mark key="." line="93" column="30" />
         <mark key="^" line="94" column="67" />
       </file>
+      <file name="/MchuanAccess.java" timestamp="1536312450127" />
       <file name="D:/code/mchuan/ll/lcll/WebRoot/WEB-INF/classes/log4j2.xml" timestamp="1536306740273">
         <mark key="[" line="11" column="69" />
         <mark key="]" line="31" column="52" />
@@ -96,6 +103,8 @@
         <mark key="^" line="30" column="27" />
         <mark key="." line="30" column="27" />
       </file>
+      <file name="$USER_HOME$/Desktop/MchuanAccess.class" timestamp="1536312194172" />
+      <file name="D:/code/mchuan/sendmsgbufIII_backutils/src/thread/SendThread.java" timestamp="1536313548354" />
       <file name="D:/code/mchuan/SMS4/sms-model/src/main/java/com/mchuan/sms4/dao/main/RouteAbMapper.java" timestamp="1536223477510">
         <mark key="[" line="24" column="19" />
         <mark key="]" line="24" column="30" />
@@ -108,8 +117,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="0" filename="D:/foresee/case/cases/com.foresee.ftcsp.cases.rest/src/main/java/com/foresee/ftcsp/cases/rest/inner/UserController.java" />
-      <jump line="87" column="6" filename="D:/foresee/case/cases/com.foresee.ftcsp.cases.rest/src/main/java/com/foresee/ftcsp/cases/rest/inner/UserController.java" />
       <jump line="64" column="53" filename="D:/foresee/product/com.foresee.ftcsp.goods.model/src/main/java/com/foresee/ftcsp/goods/manual/dao/PdtGoodsExtMapper.java" />
       <jump line="2" column="21" filename="D:/lab/plugin/mvc-generator/src/main/java/com/foresee/plugin/mvc/generator/MapperGenerator.kt" />
       <jump line="24" column="12" filename="D:/lab/plugin/mvc-generator/src/main/java/com/foresee/plugin/mvc/generator/util/DBHelper.kt" />
@@ -208,46 +215,48 @@
       <jump line="20" column="30" filename="D:/code/lab/base/core/src/main/java/com/mchuan/core/model/FormatedResponse.java" />
       <jump line="56" column="31" filename="D:/code/lab/base/core/src/main/java/com/mchuan/core/monitor/CpuMonitor.java" />
       <jump line="3" column="0" filename="D:/code/lab/base/core/src/main/java/com/mchuan/core/monitor/CpuMonitor.java" />
+      <jump line="22" column="0" filename="D:/code/mchuan/sendmsgbufIII_backutils/src/mchuan/MchuanAccess.java" />
+      <jump line="50" column="72" filename="D:/code/mchuan/sendmsgbufIII_backutils/src/mchuan/MchuanAccess.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBNREMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQmFzaWNIZWFkZXIgaGVhZGVyID0gbmV3IEJhc2ljSGVhZGVyKCJyb3V0ZWlkIiwgU3RyaW5nLnZhbHVlT2YobXNncm91dGUucm91dGVpZCkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>sms3Report</text>
+        <text>new BasicHeader(&quot;routeid&quot;, msgroute.routeid)</text>
       </register>
       <register name="/" type="4">
         <text>sleep</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgeU1kID0gbmV3IFNpbXBsZURhdGVGb3JtYXQoInl5eXlNTWRkIikuZm9ybWF0KG5ldyBEYXRlKCkpOwogICAgICAgIHJldHVybiB5TWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQmFzaWNIZWFkZXIgaGVhZGVyID0gbmV3IEJhc2ljSGVhZGVyKCJyb3V0ZWlkIiwgU3RyaW5nLnZhbHVlT2YobXNncm91dGUucm91dGVpZCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBNREMK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBNREMucHV0KCJ0cmFjZUlkIiwgKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tY2h1YW4ucmVwb3J0Lm1vZGVsLgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgCg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">IEBEYXRhCiAgICBwdWJsaWMgc3RhdGljIGNsYXNzIFNtczNSZXBvcnQgewogICAgICAgIEBKYWNrc29uWG1sUHJvcGVydHkoaXNBdHRyaWJ1dGUgPSB0cnVlLCBsb2NhbE5hbWUgPSAic2lkIikKICAgICAgICBwcml2YXRlIFN0cmluZyByZXBvcnRJZDsKICAgICAgICBASmFja3NvblhtbFByb3BlcnR5KGlzQXR0cmlidXRlID0gdHJ1ZSkKICAgICAgICBwcml2YXRlIFN0cmluZyBzdGF0dXM7CiAgICAgICAgQEphY2tzb25YbWxQcm9wZXJ0eShpc0F0dHJpYnV0ZSA9IHRydWUpCiAgICAgICAgcHJpdmF0ZSBTdHJpbmcgaW5mbzsKCiAgICAgICAgQEphY2tzb25YbWxQcm9wZXJ0eShpc0F0dHJpYnV0ZSA9IHRydWUsIGxvY2FsTmFtZSA9ICJyZWN2dGltZSIpCiAgICAgICAgQEpzb25Gb3JtYXQocGF0dGVybiA9ICJ5eXl5LU1NLWRkIEhIOm1tOnNzIiwgdGltZXpvbmUgPSAiR01UKzgiKQogICAgICAgIHByaXZhdGUgRGF0ZSByZWN2VGltZTsKCiAgICAgICAgcHVibGljIGJvb2xlYW4gaXNTdWNjZXNzKCkgewogICAgICAgICAgICByZXR1cm4gIjAiLmVxdWFscyhzdGF0dXMpOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIGJvb2xlYW4gaXNGYWlsKCkgewogICAgICAgICAgICByZXR1cm4gIWlzU3VjY2VzcygpOwogICAgICAgIH0KCiAgICB9</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRldGltZUtpdC55eXl5TU1kZCgpCg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgeU1kID0gbmV3IFNpbXBsZURhdGVGb3JtYXQoInl5eXlNTWRkIikuZm9ybWF0KG5ldyBEYXRlKCkpOwogICAgICAgIHJldHVybiB5TWQ7</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIFN0cmluZyByb3V0ZVNlbmRQYWNrcyhmaW5hbCBBcnJheUxpc3Q8TnVtYmVycz4gbnVtYmVyc2xpc3QsIGZpbmFsIEFycmF5TGlzdDxTdHJpbmc+IGNvbnRlbnRzLCBmaW5hbCBBcnJheUxpc3Q8U3RyaW5nPiBzcG51bWJlcnMsIGZpbmFsIEFycmF5TGlzdDxOdW1iZXJzPiBpZG51bWJlcnNsaXN0LCBmaW5hbCBSb3V0ZSBtc2dyb3V0ZSkgewogICAgICAgIGZpbmFsIERvY3VtZW50IGRvYyA9IERvY3VtZW50SGVscGVyLmNyZWF0ZURvY3VtZW50KCk7CiAgICAgICAgZmluYWwgRWxlbWVudCByb290ID0gZG9jLmFkZEVsZW1lbnQoInJvb3QiKTsKICAgICAgICBmaW5hbCBFbGVtZW50IHBhcmFtcyA9IHJvb3QuYWRkRWxlbWVudCgicGFyYW1zIik7CiAgICAgICAgcGFyYW1zLmFkZENEQVRBKG1zZ3JvdXRlLmFwaV9wYXJhbXMpOwogICAgICAgIGZpbmFsIEVsZW1lbnQgZGF0YSA9IHJvb3QuYWRkRWxlbWVudCgiZGF0YSIpOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgbnVtYmVyc2xpc3Quc2l6ZSgpOyArK2kpIHsKICAgICAgICAgICAgZmluYWwgRWxlbWVudCBzdWJtaXQgPSBkYXRhLmFkZEVsZW1lbnQoInN1Ym1pdCIpOwogICAgICAgICAgICBzdWJtaXQuYWRkQXR0cmlidXRlKCJzcG51bWJlciIsIHNwbnVtYmVycy5nZXQoaSkpOwogICAgICAgICAgICBzdWJtaXQuYWRkQXR0cmlidXRlKCJwaG9uZSIsIG51bWJlcnNsaXN0LmdldChpKS5udW1iZXJzLnRvU3RyaW5nKCkpOwogICAgICAgICAgICBzdWJtaXQuYWRkQXR0cmlidXRlKCJjb250ZW50IiwgY29udGVudHMuZ2V0KGkpKTsKICAgICAgICAgICAgc3VibWl0LmFkZEF0dHJpYnV0ZSgiaWQiLCBpZG51bWJlcnNsaXN0LmdldChpKS5udW1iZXJzLnRvU3RyaW5nKCkpOwogICAgICAgIH0KICAgICAgICBmaW5hbCBTdHJpbmcgYmFjVHh0ID0gcm9vdC5hc1hNTCgpOwogICAgICAgIGlmIChDb25maWd1cmUudmlzdWFscm91dGUpIHsKICAgICAgICAgICAgcmV0dXJuIHBvc3RYbWwoYmFjVHh0LCBtc2dyb3V0ZS5tdF91cmwsICJTZW5kTXNzYWdlIik7CiAgICAgICAgfQogICAgICAgIHJldHVybiBNY2h1YW5UZXN0QWNjZXNzLnJvdXRlU2VuZFBhY2tzKGlkbnVtYmVyc2xpc3QsIGNvbnRlbnRzLCBzcG51bWJlcnMsIG1zZ3JvdXRlKTsKICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbmYuKjsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IEh0dHBIZWFkCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaHR0cHBvc3Quc2V0SGVhZGVycyhoZWFkZXJzKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHN0YXRpYyB7CiAgICAgICAgTWNodWFuQWNjZXNzLmxvZ2dlciA9IExvZ01hbmFnZXIuZ2V0TG9nZ2VyKE1jaHVhbkFjY2Vzcy5jbGFzcy5nZXROYW1lKCkpOwogICAgfQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRldGltZUtpdAo=</text>
+        <text encoding="base64">aW1wb3J0IG1jaHVhbi5NY2h1YW5BY2Nlc3MuMTsK</text>
       </register>
     </registers>
     <search>
