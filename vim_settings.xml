@@ -115,11 +115,11 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="D:/code/mchuan/SMS4/sms3-model/src/main/resources/generatorConfig.xml" timestamp="1536567993178">
-        <mark key="[" line="42" column="33" />
-        <mark key="]" line="42" column="33" />
-        <mark key="." line="42" column="33" />
-        <mark key="^" line="41" column="35" />
+      <file name="D:/code/mchuan/SMS4/sms3-model/src/main/resources/generatorConfig.xml" timestamp="1536573189981">
+        <mark key="[" line="42" column="37" />
+        <mark key="]" line="42" column="37" />
+        <mark key="." line="42" column="37" />
+        <mark key="^" line="41" column="37" />
       </file>
       <file name="D:/code/mchuan/SMS4/sms-model/src/main/resources/mapper/s4main/Sms4RouteMapper.xml" timestamp="1536549244195">
         <mark key="[" line="55" column="41" />
@@ -494,10 +494,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cmVzdWx0VHlwZT0iaW50IiBwYXJhbWV0ZXJUeXBlPSJjb20ubWNodWFuLnNtczMubW9kZWwuc2VuZGJ1Zi5TZW5kYnVmU2VuZGVkIj4=</text>
+        <text>Route</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmVzdWx0VHlwZT0iaW50IiBwYXJhbWV0ZXJUeXBlPSJjb20ubWNodWFuLnNtczMubW9kZWwuc2VuZGJ1Zi5TZW5kYnVmU2VuZGVkIj4=</text>
+        <text>Route</text>
       </register>
       <register name="/" type="4">
         <text>sleep</text>
