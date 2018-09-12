@@ -134,11 +134,10 @@
         <mark key="^" line="60" column="53" />
         <mark key="." line="60" column="53" />
       </file>
-      <file name="D:/code/mchuan/mc_ngx/conf/sites/8101.conf" timestamp="1536736357158">
-        <mark key="[" line="16" column="23" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="D:/code/mchuan/mc_ngx/conf/sites/8101.conf" timestamp="1536739440913">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="D:/code/lab/base/mc-test/src/main/java/com/mchuan/test/app/NoneDBTestApp.java" timestamp="1536584961119">
         <mark key="[" line="10" column="55" />
@@ -330,11 +329,11 @@
         <mark key="." line="324" column="0" />
       </file>
       <file name="D:/code/mchuan/mc_ngx/conf/stream/tcp.conf" timestamp="1536731693101" />
-      <file name="D:/code/mchuan/mc_ngx/resty_modules/lua/router.lua" timestamp="1536737581415">
-        <mark key="[" line="41" column="22" />
-        <mark key="]" line="41" column="50" />
+      <file name="D:/code/mchuan/mc_ngx/resty_modules/lua/router.lua" timestamp="1536739213741">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
         <mark key="^" line="41" column="50" />
-        <mark key="." line="41" column="50" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="D:/code/mchuan/SMS4/report-service/src/test/java/com/mchuan/report/mq/SmsReportHandlerTest.java" timestamp="1536662236530">
         <mark key="[" line="32" column="64" />
@@ -526,7 +525,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBuZ3guZXhpdChuZ3guT0spCg==</text>
+        <text encoding="base64">ICAgIGxvY2F0aW9uIC9vayB7CiAgICAgICAgYWNjZXNzX2J5X2x1YV9maWxlIHJlc3R5X21vZHVsZXMvbHVhL3JvdXRlci5sdWE7CiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">bmQg</text>
@@ -538,31 +537,31 @@
         <text encoding="base64">ICAgICAgICBuZ3guZXhpdChuZ3guT0spCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvY2F0aW9uIC9vayB7CiAgICAgICAgYWNjZXNzX2J5X2x1YV9maWxlIHJlc3R5X21vZHVsZXMvbHVhL3JvdXRlci5sdWE7CiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aGFuZGxlX3JlcXVlc3QoKQo=</text>
+        <text encoding="base64">CiAgICAgICAgY29udGVudF9ieV9sdWFfYmxvY2sgewogICAgICAgICAgICBuZ3guc2F5KCdvayBjb250ZW50JykKICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvY2FsIHhtbCA9IFtbCiAgICAgICAgPHJvb3QgcmV0dXJuPSIwIiBpbmZvPSKzybmmIi8+CiAgICBdXQogICAgbmd4LnNheSh4bWwpCiAgICBuZ3guZXhpdCgyMDApCg==</text>
+        <text encoding="base64">ICAgICAgICBwcm94eV9wYXNzIGh0dHA6Ly9zODEwMTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIG5neC5sb2cobmd4LkVSUiwgcm91dGVfaWQsIHJlcXVlc3RfdHlwZSwgdmVyc2lvbiwgbmd4LnJlcS5yYXdfaGVhZGVyKCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aGFuZGxlX3JlcXVlc3QoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5neC5sb2cobmd4LkVSUiwgJ2FjY2VzcycpCg==</text>
+        <text encoding="base64">ICAgIGxvY2FsIHhtbCA9IFtbCiAgICAgICAgPHJvb3QgcmV0dXJuPSIwIiBpbmZvPSKzybmmIi8+CiAgICBdXQogICAgbmd4LnNheSh4bWwpCiAgICBuZ3guZXhpdCgyMDApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVsc2UK</text>
       </register>
     </registers>
     <search>
