@@ -3,14 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/code/mchuan/SMS4/report-service/src/test/resources/longju-parsed.xml" timestamp="1536765745113" />
       <file name="D:/code/mchuan/SMS4/sms3-model/src/main/java/com/mchuan/sms3/dao/backup/BackupSendedMapper.java" timestamp="1536562914777">
         <mark key="[" line="13" column="21" />
         <mark key="]" line="14" column="11" />
         <mark key="^" line="14" column="11" />
         <mark key="." line="14" column="11" />
-      </file>
-      <file name="/a.dummy" timestamp="1536746953217">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/code/mchuan/SMS4/report-service/src/main/java/com/mchuan/report/service/BackupSendedService.java" timestamp="1536567489423">
         <mark key="[" line="14" column="47" />
@@ -60,11 +58,11 @@
         <mark key="^" line="14" column="33" />
         <mark key="." line="14" column="33" />
       </file>
-      <file name="D:/code/mchuan/SMS4/sms3-model/src/main/java/com/mchuan/sms3/model/Sms3Report.java" timestamp="1536561615151">
-        <mark key="[" line="20" column="12" />
-        <mark key="]" line="10" column="15" />
-        <mark key="." line="10" column="15" />
-        <mark key="^" line="10" column="15" />
+      <file name="D:/code/mchuan/SMS4/sms3-model/src/main/java/com/mchuan/sms3/model/Sms3Report.java" timestamp="1536765237760">
+        <mark key="[" line="35" column="130" />
+        <mark key="]" line="35" column="129" />
+        <mark key="." line="35" column="129" />
+        <mark key="^" line="35" column="129" />
       </file>
       <file name="D:/code/mchuan/SMS4/report-service/src/main/java/com/mchuan/report/service/HttpService.java" timestamp="1536550861232">
         <mark key="[" line="20" column="60" />
@@ -120,6 +118,7 @@
         <mark key="^" line="55" column="25" />
         <mark key="." line="55" column="25" />
       </file>
+      <file name="D:/code/mchuan/SMS4/sms3-service/src/main/java/com/mchuan/s3service/service/SendbufSendedService.java" timestamp="1536765470852" />
       <file name="D:/code/mchuan/mc_ngx/.gitignore" timestamp="1536731270460">
         <mark key="[" line="43" column="5" />
         <mark key="]" line="43" column="4" />
@@ -174,6 +173,12 @@
         <mark key="." line="48" column="14" />
         <mark key="^" line="48" column="14" />
       </file>
+      <file name="D:/code/lab/base/mc-mq/src/main/java/com/mchuan/mq/consumer/BatchConsumerHandler.java" timestamp="1536764325182">
+        <mark key="[" line="24" column="104" />
+        <mark key="]" line="24" column="106" />
+        <mark key="." line="24" column="106" />
+        <mark key="^" line="24" column="106" />
+      </file>
       <file name="D:/code/lab/base/pom.xml" timestamp="1536558986572">
         <mark key="[" line="14" column="22" />
         <mark key="]" line="14" column="17" />
@@ -203,6 +208,11 @@
         <mark key="]" line="19" column="49" />
         <mark key="^" line="19" column="48" />
         <mark key="." line="19" column="49" />
+      </file>
+      <file name="D:/code/lab/base/mc-mq/pom.xml" timestamp="1536764229334">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="18" />
       </file>
       <file name="D:/code/lab/base/mc-lettuce/src/test/resources/applicaiton.properties" timestamp="1536584666124">
         <mark key="[" line="0" column="0" />
@@ -313,17 +323,17 @@
         <mark key="^" line="616" column="40" />
         <mark key="." line="616" column="40" />
       </file>
-      <file name="D:/code/lab/base/mc-mq/src/main/java/com/mchuan/mq/consumer/SingleConsumerHandler.java" timestamp="1536554873523">
-        <mark key="[" line="29" column="45" />
-        <mark key="]" line="29" column="40" />
-        <mark key="^" line="29" column="40" />
-        <mark key="." line="29" column="40" />
+      <file name="D:/code/lab/base/mc-mq/src/main/java/com/mchuan/mq/consumer/SingleConsumerHandler.java" timestamp="1536764315603">
+        <mark key="'" line="30" column="30" />
+        <mark key="[" line="30" column="83" />
+        <mark key="]" line="30" column="85" />
+        <mark key="^" line="30" column="85" />
+        <mark key="." line="30" column="85" />
       </file>
-      <file name="D:/code/mchuan/SMS4/sms3-service/src/main/java/com/mchuan/s3service/constants/Constants.java" timestamp="1536750052971">
-        <mark key="[" line="10" column="31" />
-        <mark key="]" line="10" column="29" />
-        <mark key="^" line="10" column="29" />
-        <mark key="." line="10" column="29" />
+      <file name="D:/code/mchuan/SMS4/sms3-service/pom.xml" timestamp="1536764377839">
+        <mark key="[" line="18" column="25" />
+        <mark key="]" line="18" column="26" />
+        <mark key="." line="18" column="26" />
       </file>
       <file name="D:/code/mchuan/SMS4/sms3-model/src/main/resources/mapper/backup/BackupSendedMapper.xml" timestamp="1536567508357">
         <mark key="[" line="257" column="28" />
@@ -331,11 +341,11 @@
         <mark key="^" line="257" column="8" />
         <mark key="." line="257" column="28" />
       </file>
-      <file name="D:/code/mchuan/SMS4/sms3-model/src/main/resources/mapper/sendbuf/SendbufSendedMapper.xml" timestamp="1536716810911">
-        <mark key="[" line="51" column="37" />
-        <mark key="]" line="51" column="36" />
+      <file name="D:/code/mchuan/SMS4/sms3-model/src/main/resources/mapper/sendbuf/SendbufSendedMapper.xml" timestamp="1536765567925">
+        <mark key="[" line="401" column="33" />
+        <mark key="]" line="401" column="33" />
         <mark key="^" line="51" column="36" />
-        <mark key="." line="51" column="36" />
+        <mark key="." line="401" column="33" />
       </file>
       <file name="D:/code/mchuan/SMS4/report-rescuer/src/main/java/com/mchuan/report/rescuer/event/ReportFetcher.java" timestamp="1536549612198">
         <mark key="[" line="12" column="65" />
@@ -465,7 +475,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="0" filename="D:/lab/plugin/mvc-generator/resources/template/java/a.xml" />
       <jump line="81" column="12" filename="D:/lab/plugin/mvc-generator/src/main/java/com/foresee/plugin/mvc/generator/util/DBHelper.kt" />
       <jump line="15" column="50" filename="D:/lab/project/ckshop/apiserver/src/main/java/cn/kkicc/ckshop/apiserver/Application2.java" />
       <jump line="89" column="1" filename="D:/lab/project/blade/.gitignore" />
@@ -565,19 +574,20 @@
       <jump line="9" column="0" filename="D:/code/mchuan/SMS4/report-service/src/main/java/com/mchuan/report/service/CmppService.java" />
       <jump line="12" column="39" filename="D:/code/mchuan/SMS4/sms3-service/src/main/java/com/mchuan/s3service/constants/S3Constants.java" />
       <jump line="12" column="31" filename="D:/code/mchuan/SMS4/report-rescuer/src/main/resources/application.properties" />
+      <jump line="30" column="30" filename="D:/code/lab/base/mc-mq/src/main/java/com/mchuan/mq/consumer/SingleConsumerHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">czRtYWluLmRhdGFzb3VyY2UubG9nLXNsb3ctc3FsPXRydWUK</text>
+      <register name="&quot;" type="4">
+        <text>status</text>
       </register>
       <register name="-" type="4">
-        <text>driverClassName</text>
+        <text>status</text>
       </register>
       <register name="/" type="4">
         <text>sleep</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">czRtYWluLmRhdGFzb3VyY2UubG9nLXNsb3ctc3FsPXRydWUK</text>
+        <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">czRtYWluLmRhdGFzb3VyY2UubWF4LXdhaXQ9NjAwMDAK</text>
