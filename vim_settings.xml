@@ -4,7 +4,19 @@
     <globalmarks />
     <filemarks>
       <file name="D:/code/mchuan/sendmsgbufIII_backutils/WebRoot/cachedata.jsp" timestamp="1536908020102" />
-      <file name="D:/code/mchuan/SMS4/report-service/src/main/resources/mc_ngx/resty_modules/lua/router.lua" timestamp="1536910055327" />
+      <file name="D:/code/mchuan/SMS4/report-service/src/main/resources/mc_ngx/conf/sites/9007.conf" timestamp="1536911592777">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="19" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="2" column="19" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/report-service/src/main/resources/mc_ngx/resty_modules/lua/router.lua" timestamp="1536912600384">
+        <mark key="'" line="32" column="38" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="22" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="34" column="21" />
+      </file>
       <file name="D:/code/mchuan/s3tool/s3monitor/doc/监控的需求.md" timestamp="1536908476994">
         <mark key="[" line="16" column="21" />
       </file>
@@ -132,7 +144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="12" filename="D:/lab/plugin/mvc-generator/src/main/java/com/foresee/plugin/mvc/generator/util/DBHelper.kt" />
       <jump line="15" column="50" filename="D:/lab/project/ckshop/apiserver/src/main/java/cn/kkicc/ckshop/apiserver/Application2.java" />
       <jump line="89" column="1" filename="D:/lab/project/blade/.gitignore" />
       <jump line="58" column="18" filename="D:/lab/project/ckshop/data-syncer/src/main/java/cn/kkicc/ckshop/datasyncer/Syncer.kt" />
@@ -232,46 +243,47 @@
       <jump line="12" column="39" filename="D:/code/mchuan/SMS4/sms3-service/src/main/java/com/mchuan/s3service/constants/S3Constants.java" />
       <jump line="12" column="31" filename="D:/code/mchuan/SMS4/report-rescuer/src/main/resources/application.properties" />
       <jump line="30" column="30" filename="D:/code/lab/base/mc-mq/src/main/java/com/mchuan/mq/consumer/SingleConsumerHandler.java" />
+      <jump line="34" column="38" filename="D:/code/mchuan/SMS4/report-service/src/main/resources/mc_ngx/resty_modules/lua/router.lua" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>https://hook.bearychat.com/=bwD8x/incoming/51cc74c8cc881c314ad5b17ab6805bbf&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybgo=</text>
       </register>
       <register name="-" type="4">
-        <text>https://hook.bearychat.com/=bwD8x/incoming/51cc74c8cc881c314ad5b17ab6805bbf&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>sleep</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBKYWNrc29uWG1sUHJvcGVydHkoaXNBdHRyaWJ1dGUgPSB0cnVlLCBsb2NhbE5hbWUgPSAic2lkIikKICAgIHByaXZhdGUgU3RyaW5nIHJlcG9ydElkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBKYWNrc29uWG1sUHJvcGVydHkoaXNBdHRyaWJ1dGUgPSB0cnVlLCBsb2NhbE5hbWUgPSAiaWQiKQo=</text>
+        <text encoding="base64">ICAgIG5neC5leGl0KG5neC5PSykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9kdWNlci51c2UK</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMb25nIGlkID0gc21zM1JlcG9ydAo=</text>
+        <text encoding="base64">ZWxzZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc2VuZGVkID09IG51bGwpIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW5kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">ICAgIGVsc2UKICAgICAgICBsb2NhbCB4bWwgPSBbWyA8cm9vdCByZXR1cm49IjAiIGluZm89IrPJuaYiLz4gXV0KICAgICAgICBuZ3gubG9nKG5neC5JTkZPLCAicm91dGVJZDoiLCByb3V0ZV9pZCwgIiByZXF1ZXN0X3R5cGU6IiwgcmVxdWVzdF90eXBlLCAiIHZlcnNpb246IiwgeG1sLCAiIGJvZHk6IiwgYm9keSkKICAgICAgICBuZ3guc2F5KHhtbCkKICAgICAgICBuZ3guZXhpdCgyMDApCiAgICBlbmQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbFN0YXRlRXhjZXB0aW9uKCK4/NDCyqew3DoiICsgc21zM1JlcG9ydCk7Cg==</text>
+        <text encoding="base64">ICAgICNzZXJ2ZXIgbTAzOjkwMDIgYmFja3VwOwogICAgI3NlcnZlciBtMDc6OTAwMiA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9kdWNlci5wdXNoUmVwb3J0KDYyMzQsIElES2l0LnV1aWQoKSwgKTsK</text>
+        <text encoding="base64">ICAgICAgICBuZ3gubG9nKG5neC5JTkZPLCAicm91dGVJZDoiLCByb3V0ZV9pZCwgIiByZXF1ZXN0X3R5cGU6IiwgcmVxdWVzdF90eXBlLCAiIHZlcnNpb246IiwgdmVyc2lvbiwgIiBib2R5OiIsIGJvZHkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">LS0gICAgaWYgbWV0aG9kID09ICdQT1NUJyB0aGVuCi0tICAgICAgICBuZ3gubG9nKG5neC5JTkZPLCAicm91dGVJZDoiLCByb3V0ZV9pZCwgIiByZXF1ZXN0X3R5cGU6IiwgcmVxdWVzdF90eXBlLCAiIHZlcnNpb246IiwgdmVyc2lvbiwgIiBib2R5OiIsIGJvZHkpCi0tICAgIGVuZAo=</text>
       </register>
     </registers>
     <search>
