@@ -129,6 +129,11 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
+      <file name="D:/code/mchuan/SMS4/report-service/src/main/resources/mc_ngx/conf/sites/8101.conf" timestamp="1537257645245">
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="2" column="23" />
+        <mark key="." line="2" column="23" />
+      </file>
       <file name="D:/code/lab/base/mc-boot/src/main/java/com/mchuan/boot/handler/GlobalApiExceptionHandler.java" timestamp="1537239005645" />
       <file name="D:/code/lab/base/mc-lettuce/pom.xml" timestamp="1537084540014">
         <mark key="[" line="47" column="27" />
@@ -671,11 +676,11 @@
       <jump line="34" column="38" filename="D:/code/mchuan/SMS4/report-service/src/main/resources/mc_ngx/resty_modules/lua/router.lua" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0LnNldEF0dHJpYnV0ZShUSFJFQUQsIFRocmVhZC5jdXJyZW50VGhyZWFkKCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>sleep</text>
