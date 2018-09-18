@@ -237,6 +237,12 @@
         <mark key="^" line="26" column="66" />
         <mark key="." line="41" column="26" />
       </file>
+      <file name="D:/code/mchuan/SMS4/db-sync/src/main/java/com/mchuan/dbsync/SyncApp.java" timestamp="1537266710786">
+        <mark key="[" line="26" column="40" />
+        <mark key="]" line="18" column="45" />
+        <mark key="." line="18" column="45" />
+        <mark key="^" line="18" column="45" />
+      </file>
       <file name="D:/code/lab/base/apisdk/src/main/java/com/mchuan/apisdk/kit/JsonKit.java" timestamp="1536579408600">
         <mark key="[" line="34" column="41" />
         <mark key="]" line="34" column="40" />
@@ -309,6 +315,12 @@
         <mark key="." line="27" column="42" />
         <mark key="^" line="27" column="42" />
       </file>
+      <file name="D:/code/mchuan/SMS4/db-sync/pom.xml" timestamp="1537263375456">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="D:/code/mchuan/SMS4/sms3-model/src/main/java/com/mchuan/sms3/model/Sms3Report.java" timestamp="1536920331152">
         <mark key="[" line="39" column="19" />
         <mark key="]" line="38" column="28" />
@@ -345,6 +357,7 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
+      <file name="D:/program/developer/Java/jdk1.8.0_172/src.zip!/java/sql/Types.java" timestamp="1537266574646" />
       <file name="D:/code/mchuan/SMS4/sms4-rest/pom.xml" timestamp="1536922870393">
         <mark key="[" line="21" column="27" />
         <mark key="]" line="21" column="27" />
@@ -362,6 +375,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/otter/canal.protocol/1.1.0/canal.protocol-1.1.0-sources.jar!/com/alibaba/otter/canal/protocol/CanalEntry.java" timestamp="1537266547301" />
       <file name="D:/code/mchuan/mc_ngx/.gitignore" timestamp="1536731270460">
         <mark key="[" line="43" column="5" />
         <mark key="]" line="43" column="4" />
@@ -548,7 +562,7 @@
         <mark key="." line="36" column="10" />
         <mark key="^" line="36" column="10" />
       </file>
-      <file name="/fragment.java" timestamp="1537085675197">
+      <file name="/fragment.java" timestamp="1537266524805">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="9" />
@@ -676,11 +690,11 @@
       <jump line="34" column="38" filename="D:/code/mchuan/SMS4/report-service/src/main/resources/mc_ngx/resty_modules/lua/router.lua" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGUpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>sleep</text>
@@ -689,31 +703,31 @@
         <text encoding="base64">ICAgICAgICAgICAgczRSZWRpc0NvbW1hbmRzLnNhZGQocmVwb3J0S2V5LCBtc2dJZCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0LnNldEF0dHJpYnV0ZShUSFJFQUQsIFRocmVhZC5jdXJyZW50VGhyZWFkKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGUpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0LnNldEF0dHJpYnV0ZShUSFJFQUQsIFRocmVhZC5jdXJyZW50VGhyZWFkKCkpOwogICAgICAgIEh0dHBTZXJ2bGV0UmVxdWVzdCBodHRwUmVxdWVzdCA9IChIdHRwU2VydmxldFJlcXVlc3QpIHJlcXVlc3Q7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgINf31d+jumhvbGx5X3dhbmdfzfXQobfJCiAgICDBtL3To7podHRwczovL3d3dy5qaWFuc2h1LmNvbS9wL2RmNGMxMDlhZGRiYwogICAgge3UtKO6vPLK6QogICAgvPLK6db41/fIqLnp1/fV38v509CjrMjOus7Qzsq9tcTXqtTYtrzH68Gqz7XX99Xfu/G1w8rayKiyoteiw/ez9rSmoaMK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWxheVF1ZXVlLmFkZChuZXcgU2VydmxldERlbGV5ZWQocmVxdWVzdCwgdGhpcy5kdW1wVGltZW91dCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIHNtczpyZXBvcnQ6e82otcC6xX06e3JlcG9ydElkfQovLyAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgUkVQT1JURUQgPSAic21zOnJlcG9ydGVkOiVzOiVzIjsK</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0LnNldEF0dHJpYnV0ZShUSFJFQUQsIFRocmVhZC5jdXJyZW50VGhyZWFkKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIExvbmcgZXhpc3RzID0gczRSZWRpc0NvbW1hbmRzLmV4aXN0cyhyZXBvcnRLZXkpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0LnNldEF0dHJpYnV0ZShUSFJFQUQsIFRocmVhZC5jdXJyZW50VGhyZWFkKCkpOwogICAgICAgIEh0dHBTZXJ2bGV0UmVxdWVzdCBodHRwUmVxdWVzdCA9IChIdHRwU2VydmxldFJlcXVlc3QpIHJlcXVlc3Q7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzNFJlZGlzQ29tbWFuZHMuc2FkZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWxheVF1ZXVlLmFkZChuZXcgU2VydmxldERlbGV5ZWQocmVxdWVzdCwgdGhpcy5kdW1wVGltZW91dCkpOwo=</text>
       </register>
     </registers>
     <search>
