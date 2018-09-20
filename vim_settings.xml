@@ -156,11 +156,11 @@
         <mark key="." line="26" column="43" />
         <mark key="^" line="26" column="43" />
       </file>
-      <file name="D:/code/lab/base/apisdk/src/main/java/com/mchuan/apisdk/kit/JsonKit.java" timestamp="1536579408600">
-        <mark key="[" line="34" column="41" />
-        <mark key="]" line="34" column="40" />
-        <mark key="^" line="34" column="40" />
-        <mark key="." line="34" column="40" />
+      <file name="D:/code/lab/base/apisdk/src/main/java/com/mchuan/apisdk/kit/JsonKit.java" timestamp="1537424639024">
+        <mark key="[" line="49" column="19" />
+        <mark key="]" line="49" column="44" />
+        <mark key="^" line="49" column="44" />
+        <mark key="." line="49" column="44" />
       </file>
       <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/model/XmlSubmit.java" timestamp="1537355081355">
         <mark key="[" line="16" column="0" />
@@ -365,7 +365,7 @@
         <mark key="." line="36" column="10" />
         <mark key="^" line="36" column="10" />
       </file>
-      <file name="/fragment.java" timestamp="1537410402283">
+      <file name="/fragment.java" timestamp="1537424078754">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="9" />
@@ -760,7 +760,6 @@
         <mark key="^" line="11" column="4" />
         <mark key="." line="11" column="4" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/mchuan/apisdk/1.1.0/apisdk-1.1.0-sources.jar!/com/mchuan/apisdk/kit/JsonKit.java" timestamp="1537345197070" />
       <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/constant/ApiCode.java" timestamp="1537354750511">
         <mark key="[" line="37" column="37" />
         <mark key="]" line="37" column="38" />
@@ -856,6 +855,12 @@
         <mark key="]" line="11" column="14" />
         <mark key="^" line="11" column="14" />
         <mark key="." line="11" column="14" />
+      </file>
+      <file name="D:/code/lab/base/apisdk/src/test/java/com/mchuan/apisdk/kit/JsonKitTest.java" timestamp="1537424525442">
+        <mark key="[" line="23" column="35" />
+        <mark key="]" line="23" column="35" />
+        <mark key="^" line="22" column="21" />
+        <mark key="." line="23" column="35" />
       </file>
       <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/model/SmsJsonResps.java" timestamp="1537349179387">
         <mark key="[" line="12" column="19" />
@@ -990,43 +995,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Exception</text>
+        <text>toJson</text>
       </register>
       <register name="-" type="4">
-        <text>Exception</text>
+        <text>toJson</text>
       </register>
       <register name="/" type="4">
         <text>sleep</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IEludGVnZXIuTUFYX1ZBTFVFOyBpKyspIHsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIHRvSnNvbihPYmplY3Qgb2JqZWN0KSB7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgcmV0dXJuIGRlZmF1bHRPYmplY3RNYXBwZXIud3JpdGVWYWx1ZUFzU3RyaW5nKG9iamVjdCk7CiAgICAgICAgfSBjYXRjaCAoSnNvblByb2Nlc3NpbmdFeGNlcHRpb24gZSkgewogICAgICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbFN0YXRlRXhjZXB0aW9uKCLQ8sHQu6/OqkpTT07Kp7DcIiwgZSk7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICBKc29uS2l0LmdldERlZmF1bHRPYmplY3RNYXBwZXIoKS5nZXRGYWN0b3J5KCkuY29uZmlndXJlKEpzb25HZW5lcmF0b3IuRmVhdHVyZS5FU0NBUEVfTk9OX0FTQ0lJLCB0cnVlKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci53YXJuKCK69sLUtO3O8ywgvMzQ+M/C0rvM7GU6e30iLCBlKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0T2JqZWN0TWFwcGVyLmNvbmZpZ3VyZShEZXNlcmlhbGl6YXRpb25GZWF0dXJlLkZBSUxfT05fVU5LTk9XTl9QUk9QRVJUSUVTLCBmYWxzZSk7CiAgICAgICAgZGVmYXVsdE9iamVjdE1hcHBlci5yZWdpc3Rlck1vZHVsZShuZXcgSmF2YVRpbWVNb2R1bGUoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIE9iamVjdE1hcHBlciBkZWZhdWx0T2JqZWN0TWFwcGVyID0gbmV3IE9iamVjdE1hcHBlcigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhdXNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYm9keSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci53YXJuKCK69sLUtO3O8ywgvMzQ+M/C0rvM7GU6e30iLCBlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxQcm9wZXJ0eSBuYW1lPSJMT0dfUEFUSCI+JHtzeXM6TE9HX1BBVEg6LWU6XGxvZ3NcfTwvUHJvcGVydHk+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhdXNlCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgPEZpbHRlcnM+CiAgICA8RXhjZXB0aW9uRmlsdGVyIGxldmVsPSJFUlJPUiIgcHJlZml4PSJjb20ubWNodWFuIj48L0V4Y2VwdGlvbkZpbHRlcj4KICA8L0ZpbHRlcnM+Cg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYm9keSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxQcm9wZXJ0eSBuYW1lPSJMT0dfUEFUSCI+JHtzeXM6TE9HX1BBVEg6LWU6XGxvZ3NcfTwvUHJvcGVydHk+Cg==</text>
       </register>
     </registers>
     <search>
