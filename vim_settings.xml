@@ -30,7 +30,7 @@
         <mark key="^" line="96" column="28" />
         <mark key="." line="96" column="28" />
       </file>
-      <file name="D:/code/mchuan/SMS4/report-service/src/main/resources/mc_ngx/resty_modules/lua/router.lua" timestamp="1537496177546" />
+      <file name="D:/code/mchuan/SMS4/report-service/src/main/resources/mc_ngx/resty_modules/lua/router.lua" timestamp="1537499938050" />
       <file name="/a.dummy" timestamp="1537432609056">
         <mark key="[" line="0" column="0" />
       </file>
@@ -118,7 +118,7 @@
         <mark key="^" line="47" column="50" />
         <mark key="." line="47" column="50" />
       </file>
-      <file name="D:/code/mchuan/SMS4/report-rescuer/src/main/resources/application.properties" timestamp="1537430062115">
+      <file name="D:/code/mchuan/SMS4/report-rescuer/src/main/resources/application.properties" timestamp="1537498929446">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
         <mark key="^" line="51" column="28" />
@@ -272,11 +272,11 @@
         <mark key="." line="85" column="7" />
         <mark key="^" line="85" column="7" />
       </file>
-      <file name="D:/code/mchuan/SMS4/report-service/src/main/resources/mc_ngx/resty_modules/lua/mms.lua" timestamp="1537496618504">
-        <mark key="[" line="7" column="35" />
-        <mark key="]" line="8" column="27" />
-        <mark key="^" line="8" column="27" />
-        <mark key="." line="8" column="27" />
+      <file name="D:/code/mchuan/SMS4/report-service/src/main/resources/mc_ngx/resty_modules/lua/mms.lua" timestamp="1537500900310">
+        <mark key="[" line="15" column="21" />
+        <mark key="]" line="15" column="19" />
+        <mark key="^" line="15" column="19" />
+        <mark key="." line="15" column="19" />
       </file>
       <file name="D:/code/lab/base/mc-test/src/main/java/com/mchuan/test/app/NoneDBTestApp.java" timestamp="1537028091637">
         <mark key="[" line="2" column="0" />
@@ -656,7 +656,7 @@
         <mark key="^" line="29" column="3" />
         <mark key="." line="29" column="3" />
       </file>
-      <file name="D:/code/mchuan/SMS4/report-service/src/main/resources/mc_ngx/conf/sites/8002.conf" timestamp="1537495333533" />
+      <file name="D:/code/mchuan/SMS4/report-service/src/main/resources/mc_ngx/conf/sites/8002.conf" timestamp="1537499637812" />
       <file name="D:/code/lab/base/mc-core/src/main/java/com/mchuan/core/kit/TraceKit.java" timestamp="1536750575681">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -957,10 +957,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LS1sb2NhbCBzdGF0dXMsIGVyciwgcmV0ID0geHBjYWxsKG1ldHJpY3MsIGRlYnVnLnRyYWNlYmFjaykK</text>
+        <text encoding="base64">ICAgICAgICBsb2NhbCB1cmwgPSAiL21tNy9yZXBvcnRzIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>sleep</text>
@@ -969,31 +969,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9yUmVzcExpc3QuYWRkKEpzb25TdWJtaXRSZXNwLm9mKEFwaUNvZGUuUEhPTkVfRVJST1IudG9FeGNlcHRpb24ocGhvbmUpKSk7CiAgICAgICAgICAgICAgICBpdGVyLnJlbW92ZSgpOwogICAgICAgICAgICAgICAgY29udGludWU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LS1sb2NhbCBzdGF0dXMsIGVyciwgcmV0ID0geHBjYWxsKG1ldHJpY3MsIGRlYnVnLnRyYWNlYmFjaykK</text>
+        <text encoding="base64">ICAgICAgICBsb2NhbCB1cmwgPSAiL21tNy9yZXBvcnRzIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bmd4LnJlcS5yZWFkX2JvZHkoKQpsb2NhbCBib2R5ID0gbmd4LnJlcS5nZXRfYm9keV9kYXRhKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gzOa7u2Vtb2pp19a3+wogICAgICAgICAgICBzdWJtaXQuc2V0Q29udGVudChTdHJpbmdLaXQucmVwbGFjZUVtb2ppKGNvbnRlbnQpKTsK</text>
+        <text encoding="base64">LS1sb2NhbCBzdGF0dXMsIGVyciwgcmV0ID0geHBjYWxsKG1ldHJpY3MsIGRlYnVnLnRyYWNlYmFjaykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">bmd4LnJlcS5yZWFkX2JvZHkoKQpsb2NhbCBib2R5ID0gbmd4LnJlcS5nZXRfYm9keV9kYXRhKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gzOa7u2Vtb2pp19a3+wogICAgICAgICAgICBzdWJtaXQuc2V0Q29udGVudChTdHJpbmdLaXQucmVwbGFjZUVtb2ppKGNvbnRlbnQpKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEpzb25TdWJtaXRSZXNwIGVycm9yUmVzcCA9IG5ldyBKc29uU3VibWl0UmVzcCgpOwogICAgICAgICAgICAgICAgQXBpRXhjZXB0aW9uIGUgPSBBcGlDb2RlLlBIT05FX0VSUk9SLnRvRXhjZXB0aW9uKHBob25lKTsKICAgICAgICAgICAgICAgIGVycm9yUmVzcC5zZXRFcnJvcihCYXNlSnNvblJlc3AuRXJyb3Iub2YoZS5nZXRDb2RlKCksIGUuZ2V0TWVzc2FnZSgpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBBcGlFeGNlcHRpb24gZSA9IGFwaUNvZGUudG9FeGNlcHRpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
