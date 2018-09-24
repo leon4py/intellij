@@ -16,11 +16,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/code/mchuan/sms3_9002/WebRoot/WEB-INF/classes/com/ccell/sms3/api/UserUtils.java" timestamp="1537614439442" />
-      <file name="D:/code/mchuan/SMS4/sms3-service/src/main/java/com/mchuan/s3service/service/ReportService.java" timestamp="1537757033699">
-        <mark key="[" line="38" column="27" />
-        <mark key="]" line="38" column="38" />
-        <mark key="." line="38" column="38" />
-        <mark key="^" line="38" column="38" />
+      <file name="D:/code/mchuan/SMS4/sms3-service/src/main/java/com/mchuan/s3service/service/ReportService.java" timestamp="1537758291293">
+        <mark key="[" line="40" column="27" />
+        <mark key="]" line="40" column="38" />
+        <mark key="." line="40" column="38" />
+        <mark key="^" line="40" column="38" />
       </file>
       <file name="D:/code/mchuan/SMS4/report-service/src/main/resources/mc_ngx/conf/sites/9007.conf" timestamp="1536913834810">
         <mark key="[" line="2" column="19" />
@@ -260,10 +260,10 @@
         <mark key="." line="28" column="44" />
       </file>
       <file name="D:/code/mchuan/SMS4/report-service/src/main/java/com/mchuan/report/mq/SmsReportConsumer.java" timestamp="1537757007739">
-        <mark key="[" line="82" column="73" />
-        <mark key="]" line="85" column="7" />
-        <mark key="." line="85" column="7" />
-        <mark key="^" line="85" column="7" />
+        <mark key="[" line="92" column="73" />
+        <mark key="]" line="95" column="7" />
+        <mark key="." line="95" column="7" />
+        <mark key="^" line="95" column="7" />
       </file>
       <file name="D:/code/mchuan/SMS4/report-service/src/main/resources/mc_ngx/resty_modules/lua/mms.lua" timestamp="1537508420936">
         <mark key="[" line="10" column="50" />
@@ -719,10 +719,12 @@
         <mark key="^" line="19" column="24" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="D:/code/mchuan/SMS4/sms3-model/src/main/resources/mapper/backup/BackupSendedMapper.xml" timestamp="1537517191206">
-        <mark key="[" line="257" column="0" />
-        <mark key="]" line="257" column="0" />
-        <mark key="." line="257" column="0" />
+      <file name="D:/code/mchuan/SMS4/sms3-model/src/main/resources/mapper/backup/BackupSendedMapper.xml" timestamp="1537758878236">
+        <mark key="'" line="262" column="43" />
+        <mark key="[" line="263" column="38" />
+        <mark key="]" line="263" column="9" />
+        <mark key="." line="263" column="9" />
+        <mark key="^" line="263" column="9" />
       </file>
       <file name="D:/code/mchuan/SMS4/sms3-model/src/main/resources/mapper/sendbuf/SendbufSendedMapper.xml" timestamp="1537323395019">
         <mark key="[" line="44" column="28" />
@@ -784,7 +786,7 @@
         <mark key="^" line="11" column="19" />
         <mark key="." line="11" column="19" />
       </file>
-      <file name="D:/code/mchuan/SMS4/sms3-service/src/main/java/com/mchuan/s3service/service/BackupSendedService.java" timestamp="1537413311910">
+      <file name="D:/code/mchuan/SMS4/sms3-service/src/main/java/com/mchuan/s3service/service/BackupSendedService.java" timestamp="1537758320506">
         <mark key="[" line="34" column="47" />
         <mark key="]" line="34" column="46" />
         <mark key="." line="34" column="46" />
@@ -852,8 +854,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="18" filename="D:/lab/project/ckshop/data-syncer/src/main/java/cn/kkicc/ckshop/datasyncer/Syncer.kt" />
-      <jump line="20" column="0" filename="D:/lab/project/ckshop/data-syncer/src/main/java/cn/kkicc/ckshop/datasyncer/Syncer.kt" />
       <jump line="73" column="8" filename="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.model/src/main/java/com/foresee/ftcsp/model/MChuanRO.java" />
       <jump line="69" column="31" filename="D:/foresee/core/mvc-generator/src/main/java/com/foresee/plugin/mvc/generator/action/MvcAction.java" />
       <jump line="29" column="21" filename="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.rest/src/main/java/com/foresee/ftcsp/smscenter/rest/config/GlobalSmsExceptionHandler.java" />
@@ -952,6 +952,8 @@
       <jump line="34" column="38" filename="D:/code/mchuan/SMS4/report-service/src/main/resources/mc_ngx/resty_modules/lua/router.lua" />
       <jump line="13" column="8" filename="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/model/SmsSubmits.java" />
       <jump line="40" column="0" filename="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/service/LimitService.java" />
+      <jump line="276" column="0" filename="D:/code/mchuan/SMS4/sms3-model/src/main/resources/mapper/backup/BackupSendedMapper.xml" />
+      <jump line="262" column="43" filename="D:/code/mchuan/SMS4/sms3-model/src/main/resources/mapper/backup/BackupSendedMapper.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
