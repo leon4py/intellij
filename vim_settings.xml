@@ -3,346 +3,39 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.2/lombok-1.18.2-sources.jar!/lombok/experimental/SuperBuilder.java" timestamp="1538023826212" />
-      <file name="D:/code/mchuan/SMS4/sms3-service/src/main/java/com/mchuan/s3service/service/ReportService.java" timestamp="1538019468704">
-        <mark key="[" line="28" column="15" />
-        <mark key="]" line="28" column="15" />
-        <mark key="^" line="28" column="15" />
-        <mark key="." line="28" column="15" />
-      </file>
-      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/service/Sms4Sender.java" timestamp="1538038708584">
-        <mark key="[" line="47" column="52" />
-        <mark key="]" line="47" column="50" />
-        <mark key="^" line="47" column="50" />
-        <mark key="." line="47" column="50" />
-      </file>
-      <file name="/a.dummy" timestamp="1538037798153">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/code/mchuan/SMS4/report-rescuer/src/main/resources/prod/log4j2.xml" timestamp="1537964399625">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="17" column="87" />
-      </file>
-      <file name="D:/code/mchuan/SMS4/sms3-service/src/main/java/com/mchuan/s3service/constants/ApiCode.java" timestamp="1538035303070">
-        <mark key="[" line="45" column="75" />
-        <mark key="]" line="45" column="75" />
-        <mark key="." line="45" column="75" />
-        <mark key="^" line="45" column="75" />
-      </file>
-      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/model/MsgContent.java" timestamp="1538033901922">
-        <mark key="[" line="14" column="14" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="D:/code/lab/base/mc-boot/pom.xml" timestamp="1538023678254">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="D:/code/lab/base/mc-core/src/main/java/com/mchuan/core/kit/ReflectionKit.java" timestamp="1538017734289">
-        <mark key="[" line="28" column="5" />
-        <mark key="]" line="31" column="40" />
-        <mark key="^" line="31" column="40" />
-        <mark key="." line="31" column="40" />
-      </file>
-      <file name="D:/code/mchuan/SMS4/report-rescuer/src/main/resources/log4j2.xml" timestamp="1537964164530">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/kit/SmsKit.java" timestamp="1538038335691">
-        <mark key="[" line="48" column="76" />
-        <mark key="]" line="48" column="75" />
-        <mark key="^" line="48" column="75" />
-        <mark key="." line="48" column="75" />
-      </file>
-      <file name="D:/code/mchuan/SMS4/report-service/src/main/java/com/mchuan/report/mq/SmsReportConsumer.java" timestamp="1538019692829">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-      </file>
-      <file name="D:/code/mchuan/SMS4/sms3-model/src/main/java/com/mchuan/sms3/model/s3main/Sms3Role.java" timestamp="1538036642541">
-        <mark key="[" line="94" column="28" />
-        <mark key="]" line="94" column="28" />
-        <mark key="." line="94" column="28" />
-        <mark key="^" line="82" column="12" />
-      </file>
-      <file name="D:/code/mchuan/SMS4/sms3-model/src/main/java/com/mchuan/sms3/conf/SendbufDataSourceConfig.java" timestamp="1538020158247">
-        <mark key="[" line="29" column="1" />
-        <mark key="]" line="29" column="12" />
-        <mark key="^" line="29" column="11" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="D:/code/lab/base/mc-cache/pom.xml" timestamp="1538017721675">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="35" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="31" column="28" />
-      </file>
-      <file name="D:/code/mchuan/SMS4/report-rescuer/pom.xml" timestamp="1537964333944">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1538023150538">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/model/SmsSubmit.java" timestamp="1538033738631" />
-      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/model/Sms3AccountExt.java" timestamp="1538034500741">
-        <mark key="[" line="351" column="8" />
-        <mark key="]" line="351" column="14" />
-        <mark key="." line="351" column="14" />
-        <mark key="^" line="351" column="14" />
-      </file>
-      <file name="D:/code/mchuan/SMS4/sms3-model/src/main/resources/mapper/backup/BackupSendedMapper.xml" timestamp="1538019819034">
-        <mark key="[" line="254" column="33" />
-        <mark key="]" line="254" column="29" />
-        <mark key="^" line="254" column="29" />
-        <mark key="." line="254" column="29" />
-      </file>
-      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/model/ContentExt.java" timestamp="1538034186940">
-        <mark key="[" line="24" column="15" />
-        <mark key="]" line="27" column="24" />
-        <mark key="^" line="27" column="24" />
-        <mark key="." line="27" column="24" />
-      </file>
-      <file name="D:/code/mchuan/SMS4/report-service/src/main/resources/mc_ngx/resty_modules/lua/routers.lua" timestamp="1537960912378">
-        <mark key="[" line="29" column="31" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-      </file>
-      <file name="D:/code/mchuan/SMS4/sms4-service/src/test/java/com/mchuan/sms4/service/Sms4SenderTest.java" timestamp="1538039388001">
-        <mark key="[" line="38" column="19" />
-        <mark key="]" line="38" column="19" />
-        <mark key="." line="38" column="19" />
-        <mark key="^" line="40" column="16" />
-      </file>
-      <file name="D:/code/lab/base/pom.xml" timestamp="1538023710917">
-        <mark key="[" line="9" column="18" />
-      </file>
-      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/model/ReportResp.java" timestamp="1538021320195">
-        <mark key="[" line="14" column="41" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="D:/code/mchuan/SMS4/pom.xml" timestamp="1538029724493">
-        <mark key="[" line="51" column="21" />
-        <mark key="]" line="7" column="22" />
-        <mark key="." line="7" column="22" />
-      </file>
-      <file name="D:/code/mchuan/SMS4/sms3-model/src/test/java/com/mchuan/sms3/dao/backup/BackupSendedMapperTest.java" timestamp="1538019960977">
-        <mark key="[" line="21" column="74" />
-        <mark key="]" line="21" column="82" />
-        <mark key="^" line="21" column="82" />
-        <mark key="." line="21" column="82" />
-      </file>
-      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/model/SmsResp.java" timestamp="1538029518921">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="D:/code/mchuan/SMS4/report-service/src/main/java/com/mchuan/report/mq/SmsReportProducer.java" timestamp="1538022316449">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-      </file>
-      <file name="D:/code/mchuan/SMS4/report-service/src/main/resources/mc_ngx/conf/sites/8101.conf" timestamp="1537953329782">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="D:/code/lab/base/mc-core/src/main/java/com/mchuan/core/kit/DatetimeKit.java" timestamp="1538018724072">
-        <mark key="[" line="37" column="51" />
-        <mark key="]" line="37" column="49" />
-        <mark key="." line="37" column="49" />
-        <mark key="^" line="37" column="49" />
-      </file>
-      <file name="D:/code/mchuan/SMS4/sms4-service/src/test/java/com/mchuan/sms4/kit/SmsKitTest.java" timestamp="1538038136025">
-        <mark key="[" line="44" column="29" />
-        <mark key="]" line="44" column="51" />
-        <mark key="." line="44" column="51" />
-        <mark key="^" line="44" column="51" />
-      </file>
-      <file name="D:/code/lab/base/mc-core/src/test/java/com/mchuan/core/kit/DatetimeKitTest.java" timestamp="1538019089272">
-        <mark key="[" line="25" column="47" />
-        <mark key="]" line="25" column="44" />
-        <mark key="." line="25" column="44" />
-        <mark key="^" line="25" column="44" />
-      </file>
-      <file name="/fragment.java" timestamp="1538038235031">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/code/mchuan/SMS4/sms4-service/src/test/java/com/mchuan/sms4/service/Sms4SenderTest.java" timestamp="1538043258379">
+        <mark key="[" line="37" column="75" />
+        <mark key="]" line="37" column="73" />
+        <mark key="." line="37" column="73" />
+        <mark key="^" line="37" column="73" />
       </file>
     </filemarks>
-    <jumps>
-      <jump line="129" column="0" filename="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.service/src/main/java/com/foresee/ftcsp/smscenter/service/impl/MChuanSmsSupplier.java" />
-      <jump line="73" column="30" filename="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.service/src/main/java/com/foresee/ftcsp/smscenter/service/impl/MChuanSmsSupplier.java" />
-      <jump line="17" column="5" filename="D:/foresee/ftcsp_smscenter/com.foresee.ftcsp.smscenter.service/src/test/java/com/foresee/ftcsp/smscenter/kit/DesKit.java" />
-      <jump line="47" column="119" filename="D:/foresee/bpmpx/src/com/foresee/ftcsp/awsapi/rest/RestApi.java" />
-      <jump line="32" column="1" filename="D:/foresee/bpmpx/src/com/foresee/ftcsp/awsapi/rest/RestApi.java" />
-      <jump line="2" column="131" filename="D:/foresee/bpmpx/ext/cas.js" />
-      <jump line="93" column="8" filename="D:/foresee/bpmpx/src/com/foresee/ftcsp/awsapi/rest/RestApi.java" />
-      <jump line="0" column="0" filename="D:/foresee/bpmpx/ext/cas.js" />
-      <jump line="29" column="63" filename="D:/foresee/bpmpx/aws62/src/com/foresee/ftcsp/guangdong/TaskState.java" />
-      <jump line="10" column="1" filename="D:/foresee/bpmpx/aws62/src/com/foresee/ftcsp/guangdong/TaskState.java" />
-      <jump line="15" column="3" filename="D:/foresee/core/public/com.foresee.ftcsp.public.core/src/main/java/com/foresee/ftcsp/common/core/rest/client/HystrixConfig.java" />
-      <jump line="20" column="19" filename="D:/foresee/core/public/com.foresee.ftcsp.public.ext/src/main/java/com/foresee/ftcsp/common/ext/exception/ExtInternalException.java" />
-      <jump line="37" column="46" filename="D:/foresee/userCenter/com.foresee.ftcsp.userCenter.rest/src/main/java/com/foresee/ftcsp/userCenter/rest/CommonController.java" />
-      <jump line="107" column="8" filename="D:/foresee/userCenter/com.foresee.ftcsp.userCenter.service/src/main/java/com/foresee/ftcsp/userCenter/service/CommonService.java" />
-      <jump line="45" column="15" filename="D:/foresee/userCenter/com.foresee.ftcsp.userCenter.service/src/main/java/com/foresee/ftcsp/userCenter/error/ErrorEnum.java" />
-      <jump line="28" column="34" filename="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/resources/config/bootstrap.properties" />
-      <jump line="14" column="0" filename="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/resources/config/bootstrap.properties" />
-      <jump line="54" column="19" filename="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.model/src/main/java/com/foresee/ftcsp/security/constant/AuthConstants.java" />
-      <jump line="55" column="0" filename="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.model/src/main/java/com/foresee/ftcsp/security/constant/AuthConstants.java" />
-      <jump line="26" column="59" filename="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/test/java/com/foresee/ftcsp/auth/service/AuthServiceTestConfig.java" />
-      <jump line="17" column="14" filename="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/config/JedisService.java" />
-      <jump line="63" column="3" filename="D:/foresee/oauth/com.foresee.ftcsp.oauth.m1/src/main/java/com/foresee/ftcsp/oauth/jarslink/ActionHelper.java" />
-      <jump line="44" column="8" filename="D:/foresee/oauth/com.foresee.ftcsp.oauth.m1/src/main/java/com/foresee/ftcsp/oauth/jarslink/ActionHelper.java" />
-      <jump line="30" column="3" filename="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/test/java/com/foresee/ftcsp/auth/service/OpenServiceTestConfig.java" />
-      <jump line="65" column="46" filename="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/OpenUserService.java" />
-      <jump line="114" column="18" filename="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/OpenApiTokenService.java" />
-      <jump line="60" column="0" filename="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/main/java/com/foresee/ftcsp/auth/service/OpenApiTokenService.java" />
-      <jump line="56" column="24" filename="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.model/src/main/java/com/foresee/ftcsp/security/constant/AuthConstants.java" />
-      <jump line="58" column="0" filename="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.model/src/main/java/com/foresee/ftcsp/security/constant/AuthConstants.java" />
-      <jump line="24" column="4" filename="D:/foresee/open_gateway/opensdk/open.client/src/main/java/com/foresee/open/sdk/api/ApiParam.java" />
-      <jump line="73" column="7" filename="D:/foresee/open_gateway/opensdk/open.client/src/main/java/com/foresee/open/sdk/client/ClientHelper.java" />
-      <jump line="113" column="13" filename="D:/MyProgram/developer/Java/jdk1.8.0_162/src.zip!/java/lang/Throwable.java" />
-      <jump line="23" column="18" filename="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.model/src/main/java/com/foresee/ftcsp/openapi/manual/dto/OpenAppDTO.java" />
-      <jump line="24" column="6" filename="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/auth/url/OpenApiURL.java" />
-      <jump line="19" column="0" filename="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.model/src/main/java/com/foresee/ftcsp/security/constant/AuthConstants.java" />
-      <jump line="10" column="19" filename="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.rest/src/main/java/com/foresee/ftcsp/config/OpenAuthExecutors.java" />
-      <jump line="1" column="0" filename="D:/foresee/unifiedAuth/com.foresee.ftcsp.auth.service/src/test/resources/app.properties" />
-      <jump line="52" column="6" filename="D:/foresee/userCenter/com.foresee.ftcsp.user.api/src/main/java/com/foresee/ftcsp/user/url/RestURL.java" />
-      <jump line="143" column="0" filename="D:/foresee/userCenter/com.foresee.ftcsp.user.api/src/main/java/com/foresee/ftcsp/user/url/RestURL.java" />
-      <jump line="23" column="3" filename="D:/foresee/userCenter/com.foresee.ftcsp.user.service/src/main/java/com/foresee/ftcsp/user/service/OrgService.java" />
-      <jump line="0" column="0" filename="D:/foresee/userCenter/com.foresee.ftcsp.user.service/src/main/java/com/foresee/ftcsp/user/service/OrgService.java" />
-      <jump line="43" column="45" filename="D:/foresee/userCenter/com.foresee.ftcsp.user.rest/src/test/resources/update.sql" />
-      <jump line="124" column="12" filename="D:/code/mchuan/a/new/lcll/branches/1.0.0/WebRoot/WEB-INF/classes/com/ccell/lcll/api/TaskUtils.java" />
-      <jump line="13" column="49" filename="D:/code/mchuan/sb2/api-server/src/test/java/com/mchuan/jdbctest/JdbcTest.java" />
-      <jump line="35" column="0" filename="D:/code/lab/base/logging/src/test/java/com/mchuan/logging/log4j2/AlertAppenderTest.java" />
-      <jump line="20" column="0" filename="D:/code/lab/base/logging/src/main/java/com/mchuan/logging/servlet/HttpServletDumper.java" />
-      <jump line="23" column="0" filename="D:/code/lab/base/logging/src/main/java/com/mchuan/logging/servlet/HttpServletDumper.java" />
-      <jump line="19" column="4" filename="D:/code/lab/base/logging/src/main/java/com/mchuan/logging/servlet/HttpServletDumper.java" />
-      <jump line="0" column="0" filename="D:/code/lab/base/logging/src/main/java/com/mchuan/logging/servlet/HttpServletDumper.java" />
-      <jump line="18" column="0" filename="D:/code/lab/base/logging/src/main/java/com/mchuan/logging/servlet/HttpServletDumper.java" />
-      <jump line="9" column="16" filename="D:/code/mchuan/ll/lcll/WebRoot/WEB-INF/web.xml" />
-      <jump line="2642" column="27" filename="D:/code/mchuan/a/sms3_api8002/WebRoot/WEB-INF/classes/com/ccell/sms3/api/Cubeluzr.java" />
-      <jump line="2655" column="12" filename="D:/code/mchuan/a/sms3_api8002/WebRoot/WEB-INF/classes/com/ccell/sms3/api/Cubeluzr.java" />
-      <jump line="21" column="13" filename="D:/code/mchuan/sb2/api-server/src/test/java/com/mchuan/api/server/service/UserServiceTest.java" />
-      <jump line="16" column="125" filename="D:/code/mchuan/sb2/api-server/src/main/resources/application.properties" />
-      <jump line="40" column="22" filename="D:/code/mchuan/s3tool/s3monitor/src/main/java/com/mchuan/s3monitor/timing/SmsStatusChecker.java" />
-      <jump line="112" column="13" filename="D:/code/mchuan/sms3_api8002/WebRoot/WEB-INF/classes/com/ccell/sms3/api/SmsUtils.java" />
-      <jump line="129" column="35" filename="D:/code/mchuan/sms3_9005/WebRoot/WEB-INF/classes/com/ccell/sms3/api/SendAPI.java" />
-      <jump line="203" column="72" filename="D:/code/mchuan/sms3_9005/WebRoot/WEB-INF/classes/com/ccell/sms3/api/SendAPI.java" />
-      <jump line="0" column="0" filename="D:/code/mchuan/sms3_9005/WebRoot/WEB-INF/classes/com/ccell/sms3/api/SendAPI.java" />
-      <jump line="59" column="0" filename="D:/code/mchuan/sms3_9005/WebRoot/WEB-INF/classes/com/ccell/sms3/api/SendAPI.java" />
-      <jump line="67" column="0" filename="D:/code/mchuan/sms3_9005/WebRoot/WEB-INF/classes/com/ccell/sms3/api/SendAPI.java" />
-      <jump line="84" column="0" filename="D:/code/mchuan/sms3_9005/WebRoot/WEB-INF/classes/com/ccell/sms3/api/SendAPI.java" />
-      <jump line="107" column="17" filename="D:/code/mchuan/sms3_9005/WebRoot/WEB-INF/classes/com/ccell/sms3/api/SendAPI.java" />
-      <jump line="131" column="29" filename="D:/code/mchuan/sms3_9005/WebRoot/WEB-INF/classes/com/ccell/sms3/api/SendAPI.java" />
-      <jump line="282" column="28" filename="D:/code/mchuan/sms3_9005/WebRoot/WEB-INF/classes/com/ccell/sms3/api/SendAPI.java" />
-      <jump line="303" column="23" filename="D:/code/mchuan/sms3_9005/WebRoot/WEB-INF/classes/com/ccell/sms3/api/SendAPI.java" />
-      <jump line="105" column="17" filename="D:/code/mchuan/sms3_9005/WebRoot/WEB-INF/classes/com/ccell/sms3/api/SendAPI.java" />
-      <jump line="110" column="36" filename="D:/code/mchuan/sms3_9005/WebRoot/WEB-INF/classes/com/ccell/sms3/api/SendAPI.java" />
-      <jump line="111" column="16" filename="D:/code/mchuan/sms3_9005/WebRoot/WEB-INF/classes/com/ccell/sms3/api/SendAPI.java" />
-      <jump line="116" column="16" filename="D:/code/mchuan/sms3_9005/WebRoot/WEB-INF/classes/com/ccell/sms3/api/SendAPI.java" />
-      <jump line="123" column="16" filename="D:/code/mchuan/sms3_9005/WebRoot/WEB-INF/classes/com/ccell/sms3/api/SendAPI.java" />
-      <jump line="130" column="0" filename="D:/code/mchuan/sms3_9005/WebRoot/WEB-INF/classes/com/ccell/sms3/api/SendAPI.java" />
-      <jump line="54" column="11" filename="D:/code/lab/base/mchuan-boot/src/main/java/com/mchuan/boot/model/Api.java" />
-      <jump line="10" column="68" filename="D:/code/lab/base/mchuan-boot/src/main/java/com/mchuan/boot/model/Api.java" />
-      <jump line="48" column="44" filename="D:/code/lab/base/mchuan-boot/src/main/java/com/mchuan/boot/handler/ApiErrorHandler.java" />
-      <jump line="20" column="30" filename="D:/code/lab/base/core/src/main/java/com/mchuan/core/model/FormatedResponse.java" />
-      <jump line="56" column="31" filename="D:/code/lab/base/core/src/main/java/com/mchuan/core/monitor/CpuMonitor.java" />
-      <jump line="3" column="0" filename="D:/code/lab/base/core/src/main/java/com/mchuan/core/monitor/CpuMonitor.java" />
-      <jump line="22" column="0" filename="D:/code/mchuan/sendmsgbufIII_backutils/src/mchuan/MchuanAccess.java" />
-      <jump line="50" column="72" filename="D:/code/mchuan/sendmsgbufIII_backutils/src/mchuan/MchuanAccess.java" />
-      <jump line="24" column="4" filename="D:/code/mchuan/sendmsgbufIII_backutils/src/mchuan/MchuanAccess.java" />
-      <jump line="40" column="52" filename="D:/code/mchuan/s3tool/s3monitor/src/main/java/com/mchuan/s3monitor/service/SignStatistics.java" />
-      <jump line="43" column="34" filename="D:/code/mchuan/SMS4/report-service/src/main/java/com/mchuan/report/service/ReportService.java" />
-      <jump line="9" column="0" filename="D:/code/mchuan/SMS4/report-service/src/main/java/com/mchuan/report/service/CmppService.java" />
-      <jump line="12" column="39" filename="D:/code/mchuan/SMS4/sms3-service/src/main/java/com/mchuan/s3service/constants/S3Constants.java" />
-      <jump line="12" column="31" filename="D:/code/mchuan/SMS4/report-rescuer/src/main/resources/application.properties" />
-      <jump line="30" column="30" filename="D:/code/lab/base/mc-mq/src/main/java/com/mchuan/mq/consumer/SingleConsumerHandler.java" />
-      <jump line="34" column="38" filename="D:/code/mchuan/SMS4/report-service/src/main/resources/mc_ngx/resty_modules/lua/router.lua" />
-      <jump line="13" column="8" filename="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/model/SmsSubmits.java" />
-      <jump line="40" column="0" filename="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/service/LimitService.java" />
-      <jump line="16" column="0" filename="D:/code/lab/base/mc-core/src/main/java/com/mchuan/core/kit/ThreadKit.java" />
-      <jump line="46" column="25" filename="D:/code/mchuan/SMS4/sms3-service/src/main/java/com/mchuan/s3service/service/Sms3CheckRuleService.java" />
-      <jump line="26" column="19" filename="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/kit/SmsKit.java" />
-      <jump line="9" column="10" filename="D:/code/mchuan/SMS4/report-service/src/main/resources/mc_ngx/resty_modules/lua/router.lua" />
-      <jump line="49" column="31" filename="D:/code/mchuan/SMS4/report-rescuer/src/main/resources/application.properties" />
-      <jump line="1" column="0" filename="D:/code/mchuan/SMS4/report-rescuer/src/main/resources/application.properties" />
-      <jump line="106" column="31" filename="D:/code/mchuan/SMS4/report-service/src/main/resources/mc_ngx/resty_modules/lua/router.lua" />
-      <jump line="15" column="18" filename="D:/code/mchuan/SMS4/report-service/src/main/resources/mc_ngx/resty_modules/lua/router.lua" />
-      <jump line="23" column="21" filename="D:/code/mchuan/SMS4/report-service/src/main/resources/mc_ngx/resty_modules/lua/router.lua" />
-    </jumps>
+    <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text>10000</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvdWJsZSBydW50aW1lID0gY29zdCAK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvdWJsZSBydW50aW1lID0gY29zdCAK</text>
       </register>
       <register name="-" type="4">
-        <text>10000</text>
-      </register>
-      <register name="/" type="4">
-        <text>sleep</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBqc29uU3VibWl0LmdldFBhcmFtcygpLnNldFVzZXJJZCgyMDM0MDApOwo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIHN0YXJ0ID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXJ0ID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIGNvc3QgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSAtIHN0YXJ0Owo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJlc3ApOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBleGVjdXRvclNlcnZpY2Uuc2h1dGRvd24oKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleGVjdXRvclNlcnZpY2UuZXhlY3V0ZSgoKSAtPiB7CiAgICAgICAgICAgIEpzb25TdWJtaXQganNvblN1Ym1pdCA9IG5ld0pzb25TdWJtaXQoKTsKICAgICAgICAgICAganNvblN1Ym1pdC5nZXRQYXJhbXMoKS5zZXRVc2VySWQoMjAwMDAwKTsKICAgICAgICAgICAganNvblN1Ym1pdC5nZXRQYXJhbXMoKS5zZXRQYXNzd29yZCgiN2MzNTMzOTQxOTU4MjA3ZmFiYWU5MjhhYjA5MjA3ODkiKTsKICAgICAgICAgICAgSnNvblN1Ym1pdFJlc3AgcmVzcCA9IHNtczRTZW5kZXIuc3VibWl0KGpzb25TdWJtaXQpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzcCk7CiAgICAgICAgfSk7Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>/ 1000 / 1000.0;</text>
       </register>
     </registers>
     <search>
-      <last-search>sleep</last-search>
-      <last-offset />
-      <last-pattern>sleep</last-pattern>
-      <last-dir>1</last-dir>
+      <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-search>
-        <entry encoding="base64">XDxjb21cPg==</entry>
-        <entry>module</entry>
-        <entry encoding="base64">XDxpbWxcPg==</entry>
-        <entry encoding="base64">XDxJRFw+</entry>
-        <entry>sleep</entry>
-      </history-search>
-      <history-cmd />
-      <history-expr />
-      <history-input />
-    </history>
+    <history />
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed U</text>
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
@@ -364,9 +57,6 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>shift ctrl pressed 2</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed D</text>
