@@ -105,8 +105,8 @@
         <mark key="." line="45" column="23" />
         <mark key="^" line="45" column="23" />
       </file>
-      <file name="D:/code/lab/base/mc-core/pom.xml" timestamp="1537596327418">
-        <mark key="[" line="67" column="21" />
+      <file name="D:/code/lab/base/mc-core/pom.xml" timestamp="1539102076544">
+        <mark key="[" line="10" column="18" />
         <mark key="]" line="10" column="18" />
         <mark key="^" line="65" column="23" />
         <mark key="." line="10" column="18" />
@@ -633,6 +633,12 @@
         <mark key="]" line="45" column="14" />
         <mark key="." line="45" column="14" />
         <mark key="^" line="45" column="14" />
+      </file>
+      <file name="D:/code/lab/base/mc-core/src/main/java/com/mchuan/core/kit/ExceptionKit.java" timestamp="1539102560000">
+        <mark key="[" line="44" column="31" />
+        <mark key="]" line="44" column="31" />
+        <mark key="^" line="42" column="26" />
+        <mark key="." line="44" column="31" />
       </file>
       <file name="D:/code/lab/base/mc-database/src/test/java/com/mchuan/database/processor/DatasourceBeanFactoryProcessorTest.java" timestamp="1537084198359">
         <mark key="[" line="30" column="52" />
@@ -1186,44 +1192,44 @@
       <jump line="23" column="21" filename="D:/code/mchuan/SMS4/report-service/src/main/resources/mc_ngx/resty_modules/lua/router.lua" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCWNvbm5fbWFpbiA9IERCVG9vbHMuZ2V0Q29ubkJ5Sk5ESSgibWFpbiIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bm90IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>sleep</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxvY2FsIHIgPSByZXF1aXJlKCJyb3V0ZXIiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJhY2VMaW5lcy5hZGQoIlx0YXQgIiArIGxpbmUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCWNvbm5fbWFpbiA9IERCVG9vbHMuZ2V0Q29ubkJ5Sk5ESSgibWFpbiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWNvbm5fbWFpbiA9IERCVG9vbHMuZ2V0Q29ubkJ5Sk5ESSgibWFpbiIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bG9jYWwgTSA9IHt9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cmV0dXJuIE0K</text>
+        <text encoding="base64">bG9jYWwgTSA9IHt9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2luaXRfd29ya2VyX2J5X2x1YV9maWxlICJyZXN0eV9tb2R1bGVzL2x1YS9yb3V0ZXIubHVhIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">cmV0dXJuIE0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aWYgcGhhc2UgPT0gJ2xvZycgdGhlbgo=</text>
+        <text encoding="base64">I2luaXRfd29ya2VyX2J5X2x1YV9maWxlICJyZXN0eV9tb2R1bGVzL2x1YS9yb3V0ZXIubHVhIjsK</text>
       </register>
     </registers>
     <search>
