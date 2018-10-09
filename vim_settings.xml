@@ -124,7 +124,11 @@
       <file name="D:/code/mchuan/SMS4/sms4-rest/src/main/resources/application.properties" timestamp="1539103806540">
         <mark key="[" line="44" column="29" />
       </file>
-      <file name="D:/code/mchuan/SMS4/sms4-rest/src/main/resources/prod/log4j2.xml" timestamp="1539099366007" />
+      <file name="D:/code/mchuan/SMS4/sms4-rest/src/main/resources/prod/log4j2.xml" timestamp="1539106197112">
+        <mark key="[" line="15" column="7" />
+        <mark key="]" line="15" column="7" />
+        <mark key="." line="15" column="7" />
+      </file>
       <file name="D:/code/lab/base/mc-core/src/test/java/com/mchuan/core/kit/TraceKitTest.java" timestamp="1539054983224">
         <mark key="[" line="14" column="32" />
       </file>
@@ -154,6 +158,11 @@
         <mark key="." line="15" column="12" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/mchuan/mc-boot/1.2.10/mc-boot-1.2.10-sources.jar!/com/mchuan/boot/interceptor/ApiFilter.java" timestamp="1539100031108" />
+      <file name="D:/code/mchuan/SMS4/sms4-rest/src/main/resources/log4j2.xml" timestamp="1539099997486">
+        <mark key="[" line="20" column="58" />
+        <mark key="]" line="20" column="58" />
+        <mark key="." line="20" column="58" />
+      </file>
       <file name="D:/code/mchuan/SMS4/sms3-service/src/main/java/com/mchuan/s3service/service/Sms3AccountService.java" timestamp="1538979451604">
         <mark key="[" line="35" column="60" />
         <mark key="]" line="36" column="53" />
@@ -250,35 +259,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU21zUmVzcCBjcmVhdGVTbXNSZXNwKEFwaVJlc3BvbnNlIGFwaVJlc3BvbnNlKSB7CiAgICAgICAgU21zUmVzcCByZXNwID0gbmV3IFNtc1Jlc3AoKTsKICAgICAgICByZXNwLnNldFN0YXR1cyhhcGlSZXNwb25zZS5nZXRDb2RlKCkpOwogICAgICAgIHJlc3Auc2V0SW5mbyhhcGlSZXNwb25zZS5nZXRNZXNzYWdlKCkpOwogICAgICAgIHJldHVybiByZXNwOwogICAgfQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">IDxDb25zb2xlIG5hbWU9ImNvbnNvbGUiIHRhcmdldD0iU1lTVEVNX09VVCI+CiAgICAgICAgICAgIDxQYXR0ZXJuTGF5b3V0IHBhdHRlcm49IiR7UEFUVEVSTn0iLz4KICAgICAgICA8L0NvbnNvbGU+</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IDxDb25zb2xlIG5hbWU9ImNvbnNvbGUiIHRhcmdldD0iU1lTVEVNX09VVCI+CiAgICAgICAgICAgIDxQYXR0ZXJuTGF5b3V0IHBhdHRlcm49IiR7UEFUVEVSTn0iLz4KICAgICAgICA8L0NvbnNvbGU+</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIEFwaVJlc3BvbnNlIGhhbmRsZVJldHVyblZhbHVlKEFwaVJlc3BvbnNlIHJldFZhbHVlKSB7CiAgICAgICAgcmV0dXJuIHN1cGVyLmhhbmRsZVJldHVyblZhbHVlKHJldFZhbHVlKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEFwcGVuZGVyUmVmIHJlZj0iY29uc29sZSIvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwLnNldE1zZ0lkKGlkV29ya2VyLmZha2VJZDE5KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLSA8QXBwZW5kZXJSZWYgcmVmPSJkYXRhYmFzZSIvPiAtLT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIEFwaVJlc3BvbnNlIGhhbmRsZVJldHVyblZhbHVlKEFwaVJlc3BvbnNlIHJldFZhbHVlKSB7CiAgICAgICAgcmV0dXJuIHN1cGVyLmhhbmRsZVJldHVyblZhbHVlKHJldFZhbHVlKTsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKFNtc1Jlc3Agc21zUmVzcCA6IGZhaWxlZEdyb3VwKSB7CiAgICAgICAgICAgIG5ldyBTbXMKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXNwLnNldE1zZ0lkKGlkV29ya2VyLmZha2VJZDE5KCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKFNtc1Jlc3Agc21zUmVzcCA6IGZhaWxlZEdyb3VwKSB7CiAgICAgICAgICAgIG5ldyBTbXMKICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>SmsResp</text>
