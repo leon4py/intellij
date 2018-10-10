@@ -139,6 +139,11 @@
       <file name="D:/code/mchuan/SMS4/sms4-rest/src/main/resources/application.properties" timestamp="1539103806540">
         <mark key="[" line="44" column="29" />
       </file>
+      <file name="D:/code/mchuan/SMS4/sms4-rest/src/main/resources/prod/log4j2.xml" timestamp="1539106197112">
+        <mark key="[" line="15" column="7" />
+        <mark key="]" line="15" column="7" />
+        <mark key="." line="15" column="7" />
+      </file>
       <file name="D:/code/lab/base/mc-boot/src/main/java/com/mchuan/boot/conf/WebMvcConfig.java" timestamp="1539143344913">
         <mark key="[" line="76" column="23" />
         <mark key="]" line="76" column="23" />
@@ -193,6 +198,11 @@
         <mark key="^" line="31" column="75" />
         <mark key="." line="31" column="68" />
       </file>
+      <file name="D:/code/mchuan/SMS4/sms4-rest/src/main/resources/log4j2.xml" timestamp="1539099997486">
+        <mark key="[" line="20" column="58" />
+        <mark key="]" line="20" column="58" />
+        <mark key="." line="20" column="58" />
+      </file>
       <file name="D:/code/mchuan/SMS4/sms3-service/src/main/java/com/mchuan/s3service/service/Sms3AccountService.java" timestamp="1538979451604">
         <mark key="[" line="35" column="60" />
         <mark key="]" line="36" column="53" />
@@ -200,7 +210,17 @@
         <mark key="." line="36" column="53" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/mchuan/logging/1.0.7/logging-1.0.7-sources.jar!/com/mchuan/logging/servlet/RepeatableRequestFilter.java" timestamp="1539138813176" />
+      <file name="D:/code/lab/base/mc-boot/src/main/java/com/mchuan/boot/interceptor/TimeoutDumpFilter.java" timestamp="1539147185857">
+        <mark key="[" line="104" column="24" />
+        <mark key="]" line="104" column="24" />
+        <mark key="." line="104" column="24" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.7.RELEASE/spring-web-5.0.7.RELEASE-sources.jar!/org/springframework/web/filter/OncePerRequestFilter.java" timestamp="1539139898327" />
+      <file name="D:/code/lab/base/mc-boot/pom.xml" timestamp="1539142884557">
+        <mark key="[" line="83" column="25" />
+        <mark key="]" line="83" column="26" />
+        <mark key="." line="83" column="26" />
+      </file>
       <file name="D:/code/lab/base/mc-core/src/main/java/com/mchuan/core/kit/TraceKit.java" timestamp="1539055131010">
         <mark key="[" line="45" column="47" />
         <mark key="]" line="47" column="0" />
@@ -231,6 +251,7 @@
         <mark key="^" line="17" column="3" />
         <mark key="." line="17" column="3" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/mchuan/mc-boot/1.2.11/mc-boot-1.2.11-sources.jar!/com/mchuan/boot/interceptor/TimeoutDumpFilter.java" timestamp="1539147160539" />
       <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/ContentDeserilizer.java" timestamp="1539098563227">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -321,7 +342,7 @@
         <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Object</text>
+        <text>toNanos</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">IGlmICh0aHJvd2FibGUuZ2V0TWVzc2FnZSgpID09IG51bGwpIHsKICAgICAgICAgICAgcmV0dXJuIG5ldyBBcGlSZXNwb25zZSgpOwogICAgICAgIH0=</text>
@@ -348,7 +369,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>Object</text>
+        <text>toNanos</text>
       </register>
     </registers>
     <search>
