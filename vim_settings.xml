@@ -97,6 +97,7 @@
         <mark key="^" line="52" column="50" />
         <mark key="." line="64" column="0" />
       </file>
+      <file name="D:/code/mchuan/SMS4/sms3-model/src/main/java/com/mchuan/sms3/model/s3main/Sms3Product.java" timestamp="1539419626439" />
       <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/handler/Sms4ApiHandler.java" timestamp="1539144399234">
         <mark key="[" line="26" column="16" />
         <mark key="]" line="27" column="0" />
@@ -145,11 +146,11 @@
         <mark key="^" line="20" column="21" />
         <mark key="." line="20" column="21" />
       </file>
-      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/model/SmsSubmitExt.java" timestamp="1539330250319">
-        <mark key="[" line="19" column="20" />
-        <mark key="]" line="21" column="24" />
-        <mark key="^" line="21" column="24" />
-        <mark key="." line="21" column="24" />
+      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/model/SmsSubmitExt.java" timestamp="1539419646678">
+        <mark key="[" line="23" column="12" />
+        <mark key="]" line="23" column="16" />
+        <mark key="^" line="23" column="16" />
+        <mark key="." line="23" column="16" />
       </file>
       <file name="D:/code/mchuan/SMS4/report-service/src/main/java/com/mchuan/report/mq/SmsReportConsumer.java" timestamp="1539324058308">
         <mark key="[" line="38" column="0" />
@@ -169,11 +170,11 @@
         <mark key="^" line="29" column="21" />
         <mark key="." line="29" column="21" />
       </file>
-      <file name="D:/code/mchuan/SMS4/sms4-sentbuf/src/main/java/com/mchuan/sms4/sentbuf/SmsSubmitConsumer.java" timestamp="1539418242790">
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="0" />
-        <mark key="." line="121" column="0" />
-        <mark key="^" line="121" column="0" />
+      <file name="D:/code/mchuan/SMS4/sms4-sentbuf/src/main/java/com/mchuan/sms4/sentbuf/SmsSubmitConsumer.java" timestamp="1539419887777">
+        <mark key="[" line="178" column="13" />
+        <mark key="]" line="174" column="0" />
+        <mark key="." line="174" column="0" />
+        <mark key="^" line="165" column="11" />
       </file>
       <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms3/service/Sms3BlackSignService.java" timestamp="1539340904530">
         <mark key="[" line="15" column="0" />
@@ -285,40 +286,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdCAKICAgIDxpbmNsdWRlIHJlZmlkPSJCYXNlX0NvbHVtbl9MaXN0IiAvPgogICAgZnJvbSBzbXNfc3VibnVtYmVycwogICAgd2hlcmUgSUQgPSAje2lkLGpkYmNUeXBlPUlOVEVHRVJ9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZXIucmVtb3ZlKCk7CiAgICAgICAgICAgICAgICBjb250aW51ZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKFN0cmluZyByb3V0ZUlkU3RyIDogcm91dGVJZFN0ckxpc3QpIHsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci53YXJuKCIiKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IHJvdXRlSWQ7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICByb3V0ZUlkID0gSW50ZWdlci5wYXJzZUludChTdHJpbmdVdGlscy50cmltKHJvdXRlSWRTdHIpKTsKICAgICAgICAgICAgfSBjYXRjaCAoTnVtYmVyRm9ybWF0RXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiyv3X1rjxyr207c7zOnt9Iiwgcm91dGVJZFN0cik7CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQogICAgICAgICAgICBTbXMzUm91dGUgc21zM1JvdXRlID0gc21zM1JvdXRlU2VydmljZS5xdWVyeUJ5SWQocm91dGVJZCk7CiAgICAgICAgICAgIGlmIChzbXMzUm91dGUgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCLT0NCnzai1wLK7tObU2jp7fSIsIHJvdXRlSWQpOwogICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGlmIChzbXMzUm91dGUuZ2V0U3RhdHVzKCkgIT0gMCkgewogICAgICAgICAgICAgICAgbG9nZ2VyLndhcm4oIs2otcDS0b6tzaPTwzp7fSIsIHNtczNSb3V0ZSk7CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQogICAgICAgICAgICBTZXQ8U21zM1N1Yk51bWJlcj4gc3ViTnVtYmVycyA9IHNtczNTdWJOdW1iZXJTZXJ2aWNlLmdldEFsbChyb3V0ZUlkKTsKICAgICAgICAgICAgYm9vbGVhbiBtYXRjaCA9IGZhbHNlOwogICAgICAgICAgICBmb3IgKFNtczNTdWJOdW1iZXIgc3ViTnVtYmVyIDogc3ViTnVtYmVycykgewogICAgICAgICAgICAgICAgU3RyaW5nIHNpZ24gPSBzdWJOdW1iZXIuZ2V0U2lnbmNvZGUoKTsKCiAgICAgICAgICAgICAgICAvLyC/1cqxsrvHqcP7u/LV38jO0uLHqcP7CiAgICAgICAgICAgICAgICBtYXRjaCA9IFN0cmluZ1V0aWxzLmlzQmxhbmsoc2lnbik7CgogICAgICAgICAgICAgICAgLy8gzqolyrHIztLix6nD+wogICAgICAgICAgICAgICAgbWF0Y2ggPSBtYXRjaCB8fCAiJSIuZXF1YWxzKHNpZ24pOwoKICAgICAgICAgICAgICAgIG1hdGNoID0gbWF0Y2ggfHwgU3RyaW5nVXRpbHMuZXF1YWxzKHN1Ym1pdC5nZXRDb250ZW50KCkuZ2V0U2lnbigpLCBzaWduKTsKCiAgICAgICAgICAgICAgICBpZiAobWF0Y2gpIHsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAoIW1hdGNoKSB7CgogICAgICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFNtczNSb2xlIHJvbGUgPSByb2xlU2VydmljZS5xdWVyeUJ5SWQoc21zM0FjY291bnQuZ2V0Um9sZWlkKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Ym9vbGVhbiA=</text>
+        <text>Yd</text>
       </register>
     </registers>
     <search>
