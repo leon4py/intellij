@@ -65,7 +65,7 @@
         <mark key="." line="42" column="45" />
         <mark key="^" line="42" column="45" />
       </file>
-      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/service/Sms4Reporter.java" timestamp="1539750792803">
+      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/service/Sms4Reporter.java" timestamp="1539789382655">
         <mark key="[" line="111" column="0" />
         <mark key="]" line="111" column="0" />
         <mark key="." line="111" column="0" />
@@ -269,6 +269,12 @@
         <mark key="^" line="16" column="34" />
         <mark key="." line="16" column="34" />
       </file>
+      <file name="D:/code/mchuan/SMS4/report-service/src/main/java/com/mchuan/report/mq/SmsReportConsumer.java" timestamp="1539789932502">
+        <mark key="[" line="32" column="6" />
+        <mark key="]" line="32" column="6" />
+        <mark key="^" line="32" column="5" />
+        <mark key="." line="32" column="6" />
+      </file>
       <file name="D:/code/mchuan/SMS4/sms4-sentbuf/src/main/java/com/mchuan/sms4/sentbuf/SmsReportConsumer.java" timestamp="1539231299866">
         <mark key="[" line="29" column="22" />
         <mark key="]" line="29" column="21" />
@@ -299,11 +305,11 @@
         <mark key="^" line="25" column="27" />
         <mark key="." line="25" column="27" />
       </file>
-      <file name="D:/code/mchuan/SMS4/report-service/src/main/java/com/mchuan/report/mq/Sms4ReportConsumer.java" timestamp="1539787280139">
-        <mark key="[" line="54" column="34" />
-        <mark key="]" line="54" column="33" />
-        <mark key="^" line="54" column="33" />
-        <mark key="." line="54" column="33" />
+      <file name="D:/code/mchuan/SMS4/report-service/src/main/java/com/mchuan/report/mq/Sms4ReportConsumer.java" timestamp="1539790090851">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="53" column="33" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms3/service/Sms3KeyPhoneService.java" timestamp="1539340347435">
         <mark key="[" line="75" column="30" />
@@ -452,37 +458,37 @@
         <text encoding="base64">ICAgIC8vIHJvdXRlSWQ6cmVwb3J0SWQKICAgIHJwdFRvSWQoInJwdFRvSWQ6JXM6JXMiKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAUGFyYW0oInJldHVyblRpbWUiKSBEYXRlIHJldHVyblRpbWUsCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTG9nZ2VyIGxvZ2dlciA9IExvZ0tpdC5nZXRMb2dnZXIoKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIHJvdXRlSWQ6cmVwb3J0SWQKICAgIHJwdFRvSWQoInJwdFRvSWQ6JXM6JXMiKSwK</text>
+      <register name="&quot;" type="4">
+        <text>ivate</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAUGFyYW0oInJldHVyblRpbWUiKSBEYXRlIHJldHVyblRpbWUsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBEYXRlKG1zZy5nZXRCb3JuVGltZXN0YW1wKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBEYXRlKG1zZy5nZXRCb3JuVGltZXN0YW1wKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtc2cuZ2V0VGltZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGJhY2t1cFNlbmRlZE1hcHBlci51cGRhdGVTdGF0dXNCeUlkKGRheSwgcmVwb3J0KTsK</text>
+        <text encoding="base64">ICAgICAgICBtc2cuZ2V0VGltZQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGJhY2t1cFNlbmRlZE1hcHBlci51cGRhdGVTdGF0dXNCeUlkKGRheSwgcmVwb3J0KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGJhY2t1cFNlbmRlZE1hcHBlci51cGRhdGVTdGF0dXNCeUlkKGRheSwgcmVwb3J0KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>ReportId</text>
+        <text>ivate</text>
       </register>
     </registers>
     <search>
