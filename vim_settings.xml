@@ -3,19 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/service/Sms4Sender.java" timestamp="1539793141516">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
-      </file>
       <file name="D:/code/mchuan/SMS4/sms3-model/src/main/java/com/mchuan/sms3/dao/backup/BackupSendedMapper.java" timestamp="1539786343654">
         <mark key="[" line="15" column="61" />
         <mark key="]" line="15" column="71" />
         <mark key="." line="15" column="71" />
         <mark key="^" line="15" column="71" />
       </file>
-      <file name="/a.dummy" timestamp="1539793222120">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/code/mchuan/SMS4/mc_ngx/resty_modules/lua/apiswith.lua" timestamp="1539801355666">
+        <mark key="'" line="20" column="4" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="18" />
+        <mark key="^" line="44" column="17" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="D:/code/mchuan/SMS4/sms4-service/src/test/java/com/mchuan/sms4/model/SmsSubmitExtTest.java" timestamp="1539328319397">
         <mark key="[" line="16" column="22" />
@@ -41,11 +40,6 @@
         <mark key="." line="95" column="36" />
         <mark key="^" line="95" column="36" />
       </file>
-      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/service/RegionService.java" timestamp="1539751167300">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-      </file>
       <file name="D:/code/mchuan/SMS4/sms3-model/src/main/resources/mapper/s3main/Sms3SubNumberMapper.xml" timestamp="1539342073526">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -64,6 +58,12 @@
         <mark key="]" line="194" column="24" />
         <mark key="^" line="194" column="24" />
         <mark key="." line="194" column="24" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/mc_ngx/conf/sites/8002.conf" timestamp="1539802237334">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="8" column="21" />
+        <mark key="^" line="8" column="19" />
+        <mark key="." line="8" column="21" />
       </file>
       <file name="D:/code/mchuan/SMS4/sms3-model/src/main/resources/generatorConfig.xml" timestamp="1539341990735">
         <mark key="[" line="42" column="46" />
@@ -131,9 +131,6 @@
         <mark key="^" line="64" column="48" />
         <mark key="." line="64" column="48" />
       </file>
-      <file name="D:/code/mchuan/SMS4/sms4-service/src/test/java/com/mchuan/sms4/model/SmsJsonSubmitsTest.java" timestamp="1539792725525">
-        <mark key="[" line="24" column="29" />
-      </file>
       <file name="D:/code/mchuan/SMS4/sms4-service/src/test/java/com/mchuan/sms4/model/JsonReportRespTest.java" timestamp="1539792800574">
         <mark key="[" line="19" column="23" />
         <mark key="]" line="19" column="23" />
@@ -158,13 +155,14 @@
         <mark key="^" line="14" column="78" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="D:/code/mchuan/SMS4/mc_ngx/conf/sites/8101-and-9007.conf" timestamp="1539801521935" />
       <file name="D:/code/mchuan/SMS4/sms3-service/src/test/java/com/mchuan/s3service/service/BackupSendedServiceTest.java" timestamp="1539533198733">
         <mark key="[" line="29" column="65" />
         <mark key="]" line="31" column="33" />
         <mark key="^" line="31" column="33" />
         <mark key="." line="31" column="33" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-server/9.4.11.v20180605/jetty-server-9.4.11.v20180605-sources.jar!/org/eclipse/jetty/server/HttpConnectionFactory.java" timestamp="1539794597472" />
+      <file name="D:/code/mchuan/SMS4/mc_ngx/resty_modules/lua/ngx_metrics.lua" timestamp="1539801041560" />
       <file name="D:/code/mchuan/SMS4/sms3-service/src/main/java/com/mchuan/s3service/model/HttpSubmitRequest.java" timestamp="1539528783813">
         <mark key="[" line="16" column="21" />
         <mark key="]" line="36" column="27" />
@@ -195,7 +193,6 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="17" column="91" />
       </file>
-      <file name="D:/code/mchuan/SMS4/report-service/src/main/java/com/mchuan/report/mq/SmsReportProducer.java" timestamp="1539791494996" />
       <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/SmsSubmittDeserilizer.java" timestamp="1539252067679">
         <mark key="[" line="36" column="9" />
         <mark key="]" line="38" column="0" />
@@ -221,6 +218,12 @@
         <mark key="^" line="34" column="96" />
         <mark key="." line="34" column="96" />
       </file>
+      <file name="D:/code/mchuan/SMS4/mc_ngx/resty_modules/lua/apiswitch.lua" timestamp="1539802397857">
+        <mark key="[" line="33" column="20" />
+        <mark key="]" line="33" column="19" />
+        <mark key="." line="33" column="19" />
+        <mark key="^" line="33" column="19" />
+      </file>
       <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/handler/Sms4ApiHandler.java" timestamp="1539144399234">
         <mark key="[" line="26" column="16" />
         <mark key="]" line="27" column="0" />
@@ -238,11 +241,6 @@
         <mark key="]" line="794" column="8" />
         <mark key="^" line="794" column="8" />
         <mark key="." line="794" column="8" />
-      </file>
-      <file name="D:/code/mchuan/SMS4/sms4-rest/src/main/java/com/mchuan/sms4/api/SmsUrl.java" timestamp="1539791673397">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
       </file>
       <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms3/service/Sms3KeywordService.java" timestamp="1539340238158">
         <mark key="[" line="31" column="33" />
@@ -280,11 +278,11 @@
         <mark key="^" line="20" column="16" />
         <mark key="." line="20" column="16" />
       </file>
-      <file name="D:/code/mchuan/SMS4/sms3-service/src/main/java/com/mchuan/s3service/service/Sms3AccountService.java" timestamp="1539797980952">
-        <mark key="[" line="26" column="28" />
-        <mark key="]" line="26" column="7" />
-        <mark key="^" line="26" column="7" />
-        <mark key="." line="26" column="7" />
+      <file name="D:/code/mchuan/SMS4/sms3-service/src/main/java/com/mchuan/s3service/service/Sms3AccountService.java" timestamp="1539803012241">
+        <mark key="[" line="35" column="63" />
+        <mark key="]" line="34" column="98" />
+        <mark key="^" line="34" column="98" />
+        <mark key="." line="34" column="98" />
       </file>
       <file name="D:/code/mchuan/SMS4/sms4-rest/src/main/java/com/mchuan/sms4/api/SmsJettyWebServerCustomerizer.java" timestamp="1539795339392">
         <mark key="[" line="30" column="87" />
@@ -340,7 +338,6 @@
         <mark key="^" line="14" column="104" />
         <mark key="." line="14" column="104" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-util/9.4.11.v20180605/jetty-util-9.4.11.v20180605-sources.jar!/org/eclipse/jetty/util/component/AbstractLifeCycle.java" timestamp="1539794386871" />
       <file name="D:/code/mchuan/SMS4/sms4-service/src/test/java/com/mchuan/sms3/service/Sms3SubNumberServiceTest.java" timestamp="1539660987058">
         <mark key="[" line="26" column="56" />
         <mark key="]" line="25" column="27" />
@@ -353,7 +350,6 @@
         <mark key="^" line="33" column="53" />
         <mark key="." line="33" column="53" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-http/9.4.11.v20180605/jetty-http-9.4.11.v20180605-sources.jar!/org/eclipse/jetty/http/HttpCompliance.java" timestamp="1539795316372" />
       <file name="D:/code/mchuan/SMS4/report-service/src/main/java/com/mchuan/report/mq/Sms4ReportConsumer.java" timestamp="1539791299262">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -372,17 +368,11 @@
         <mark key="^" line="27" column="30" />
         <mark key="." line="27" column="30" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-server/9.4.11.v20180605/jetty-server-9.4.11.v20180605-sources.jar!/org/eclipse/jetty/server/ServerConnector.java" timestamp="1539794683336" />
       <file name="D:/code/mchuan/SMS4/sms3-model/src/main/resources/mapper/backup/BackupSendedMapper.xml" timestamp="1539786486168">
         <mark key="[" line="254" column="25" />
         <mark key="]" line="254" column="26" />
         <mark key="^" line="303" column="33" />
         <mark key="." line="254" column="26" />
-      </file>
-      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/model/XmlSubmit.java" timestamp="1539792975490">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
       </file>
       <file name="D:/code/mchuan/SMS4/sms4-service/src/test/resources/submit.xml" timestamp="1539249811592">
         <mark key="[" line="1" column="29" />
@@ -431,15 +421,6 @@
         <mark key="]" line="109" column="9" />
         <mark key="." line="107" column="0" />
         <mark key="^" line="113" column="8" />
-      </file>
-      <file name="D:/code/mchuan/SMS4/sms4-service/src/test/java/com/mchuan/sms4/model/SmsJsonRespsTest.java" timestamp="1539792790528">
-        <mark key="[" line="20" column="33" />
-      </file>
-      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/service/SmsService.java" timestamp="1539799239793">
-        <mark key="[" line="70" column="76" />
-        <mark key="]" line="72" column="0" />
-        <mark key="^" line="64" column="54" />
-        <mark key="." line="72" column="0" />
       </file>
       <file name="D:/code/mchuan/SMS4/sms3-service/src/main/java/com/mchuan/s3service/service/BackupSendedService.java" timestamp="1539786645905">
         <mark key="[" line="132" column="34" />
@@ -512,43 +493,45 @@
       <jump line="22" column="13" filename="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/kit/SmsKit.java" />
       <jump line="41" column="37" filename="D:/code/mchuan/SMS4/sms4-rest/src/main/java/com/mchuan/sms4/api/JsonApi.java" />
       <jump line="56" column="17" filename="D:/code/mchuan/SMS4/sms4-rest/src/main/java/com/mchuan/sms4/api/JsonApi.java" />
+      <jump line="70" column="13" filename="D:/code/mchuan/SMS4/mc_ngx/resty_modules/lua/apiswith.lua" />
+      <jump line="20" column="4" filename="D:/code/mchuan/SMS4/mc_ngx/resty_modules/lua/apiswith.lua" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBASnNvblByb3BlcnR5KCJzdGF0dXMiKQo=</text>
+        <text encoding="base64">ICAgIHM0X3VzZXJzWycyMDMwNDAnXSA9IHRydWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXBpRXhjZXB0aW9uIGFwaSA9IChBcGlFeGNlcHRpb24pIGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBEaWdlc3RVdGlscy5tZGQK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>status</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBEaWdlc3RVdGlscy5tZGQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICNzZXJ2ZXIgbTA3OjgwMDIgYmFja3VwOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlcnZlciBtMDM6ODAwMiBtYXhfZmFpbHM9MiBmYWlsX3RpbWVvdXQ9MTBzIHdlaWdodD04MDsKICAgIHNlcnZlciBtMDc6ODAwMiBtYXhfZmFpbHM9MiBmYWlsX3RpbWVvdXQ9MTBzIHdlaWdodD0yMDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VibWl0SnNvbihqc29uU3VibWl0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlCiAgICAgICAgICAgIG5neC5leGl0KG5neC5PSykKICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgZW5kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFwaVJlc3BvbnNlIGFwaSA9IEFwaUNvZGUuU1lTVEVNX0VSUk9SLnRvUmVzcG9uc2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9jYWwgdXNlcmlkID0ganNvbl9kYXRhWydwYXJhbXMnXVsndXNlcmlkJ10K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VibWl0UmVzcC5nZXRFcnJvcigpLnNlCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBqc29uX2RhdGEgYW5kIGpzb25fZGF0YVsncGFyYW1zJ10gYW5kIGpzb25fZGF0YVsncGFyYW1zJ11bJ3VzZXJpZCddIHRoZW4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGNvbm5lY3Rvci5nZXRDb24K</text>
+        <text encoding="base64">bmd4LnJlcS5yZWFkX2JvZHkoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBTZXJ2ZXJDb25uZWN0b3IoKQo=</text>
+        <text encoding="base64">ICAgIG5neC5yZXEucmVhZF9ib2R5KCkK</text>
       </register>
       <register name="-" type="4">
-        <text>status</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
