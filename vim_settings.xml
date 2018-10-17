@@ -3,30 +3,486 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/code/mchuan/sms3_9002/WebRoot/WEB-INF/classes/com/ccell/sms3/api/SmsUtils.java" timestamp="1539606221573">
-        <mark key="a" line="443" column="16" />
+      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/service/Sms4Sender.java" timestamp="1539760718560">
+        <mark key="[" line="456" column="55" />
+        <mark key="]" line="456" column="35" />
+        <mark key="." line="456" column="35" />
+        <mark key="^" line="456" column="35" />
       </file>
-      <file name="D:/code/mchuan/a/sendmsgbufIII_backutils/src/thread/SendThread.java" timestamp="1539658527334">
-        <mark key="s" line="225" column="12" />
-        <mark key="[" line="224" column="42" />
-        <mark key="]" line="225" column="0" />
-        <mark key="." line="225" column="0" />
+      <file name="D:/code/mchuan/SMS4/sms3-model/src/main/java/com/mchuan/sms3/dao/backup/BackupSendedMapper.java" timestamp="1539766127323">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="29" column="80" />
       </file>
-      <file name="D:/code/mchuan/a/sendmsgbufIII_backutils/src/cache/Spnumber.java" timestamp="1539660468442">
-        <mark key="[" line="24" column="5" />
+      <file name="D:/code/mchuan/SMS4/sms4-service/src/test/java/com/mchuan/sms4/model/SmsSubmitExtTest.java" timestamp="1539328319397">
+        <mark key="[" line="16" column="22" />
+        <mark key="]" line="16" column="22" />
+        <mark key="^" line="16" column="23" />
+        <mark key="." line="16" column="22" />
       </file>
-      <file name="D:/code/mchuan/sms3_9002/WebRoot/WEB-INF/classes/com/ccell/sms3/api/Cubeluzr.java" timestamp="1539761429464" />
+      <file name="D:/code/mchuan/SMS4/sms4-sentbuf/src/test/java/com/mchuan/sms4/sentbuf/SmsSubmitConsumerTest.java" timestamp="1539663307099">
+        <mark key="[" line="30" column="43" />
+        <mark key="]" line="27" column="49" />
+        <mark key="^" line="27" column="49" />
+        <mark key="." line="27" column="49" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms4-model/src/main/java/com/mchuan/sms4/dao/s4main/Sms4SentMapper.java" timestamp="1539654388083">
+        <mark key="[" line="18" column="59" />
+        <mark key="]" line="18" column="70" />
+        <mark key="." line="18" column="70" />
+        <mark key="^" line="18" column="70" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms3-service/src/main/java/com/mchuan/s3service/model/SupplierSubmits.java" timestamp="1539569380573">
+        <mark key="[" line="96" column="27" />
+        <mark key="]" line="95" column="36" />
+        <mark key="." line="95" column="36" />
+        <mark key="^" line="95" column="36" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/service/RegionService.java" timestamp="1539751167300">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms3-model/src/main/resources/mapper/s3main/Sms3SubNumberMapper.xml" timestamp="1539342073526">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="27" column="5" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="D:/code/lab/base/mc-core/src/main/java/com/mchuan/core/kit/ExceptionKit.java" timestamp="1539140432611">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="25" column="12" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/kit/SmsKit.java" timestamp="1539762185966">
+        <mark key="'" line="25" column="13" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms3-model/src/main/java/com/mchuan/sms3/conf/S3MainDataSourceConfig.java" timestamp="1539764512813" />
+      <file name="D:/code/mchuan/SMS4/sms3-model/src/main/resources/generatorConfig.xml" timestamp="1539341990735">
+        <mark key="[" line="42" column="46" />
+        <mark key="]" line="42" column="45" />
+        <mark key="." line="42" column="45" />
+        <mark key="^" line="42" column="45" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/service/Sms4Reporter.java" timestamp="1539750792803">
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
+        <mark key="^" line="110" column="15" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms4-sentbuf/src/test/resources/application.properties" timestamp="1539568648898">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+        <mark key="^" line="52" column="28" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms4-service/src/test/java/com/mchuan/sms4/service/Sms4SentServiceTest.java" timestamp="1539533315692">
+        <mark key="[" line="23" column="27" />
+        <mark key="]" line="30" column="60" />
+        <mark key="^" line="30" column="60" />
+        <mark key="." line="30" column="60" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms3-model/src/main/java/com/mchuan/sms3/constants/Constants.java" timestamp="1539763043256">
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="16" column="15" />
+        <mark key="." line="16" column="15" />
+        <mark key="^" line="16" column="15" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms3-service/src/main/java/com/mchuan/s3service/model/SupplierSubmit.java" timestamp="1539528800061">
+        <mark key="[" line="16" column="26" />
+        <mark key="]" line="16" column="26" />
+        <mark key="^" line="16" column="26" />
+        <mark key="." line="16" column="26" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/report-rescuer/src/main/resources/application.properties" timestamp="1539749357896" />
+      <file name="D:/code/mchuan/SMS4/report-service/src/main/java/com/mchuan/report/mq/DBSyncer.java" timestamp="1539705213030">
+        <mark key="[" line="90" column="92" />
+        <mark key="]" line="88" column="54" />
+        <mark key="." line="88" column="54" />
+        <mark key="^" line="88" column="54" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms4-model/src/main/java/com/mchuan/sms4/dao/s4main/Sms4UserReportMapper.java" timestamp="1539750800521">
+        <mark key="[" line="26" column="86" />
+        <mark key="]" line="26" column="95" />
+        <mark key="^" line="26" column="95" />
+        <mark key="." line="26" column="95" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/report-rescuer/deploy.sh" timestamp="1539578192706">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="19" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms4-model/src/main/resources/mapper/s4main/Sms4UserReportMapper.xml" timestamp="1539654907055">
+        <mark key="[" line="177" column="27" />
+        <mark key="]" line="178" column="12" />
+        <mark key="^" line="178" column="12" />
+        <mark key="." line="178" column="12" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms3-model/src/main/java/com/mchuan/sms3/dao/s3main/Sms3KeywordMapper.java" timestamp="1539337933664">
+        <mark key="[" line="17" column="13" />
+        <mark key="]" line="17" column="19" />
+        <mark key="." line="17" column="19" />
+        <mark key="^" line="17" column="19" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/service/Sms4SentService.java" timestamp="1539533462545">
+        <mark key="[" line="17" column="42" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="22" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms4-rest/src/test/java/com/mchuan/s3monitor/service/Test.java" timestamp="1539697863245">
+        <mark key="[" line="14" column="79" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="78" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms3-service/src/test/java/com/mchuan/s3service/service/BackupSendedServiceTest.java" timestamp="1539533198733">
+        <mark key="[" line="29" column="65" />
+        <mark key="]" line="31" column="33" />
+        <mark key="^" line="31" column="33" />
+        <mark key="." line="31" column="33" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms3-service/src/main/java/com/mchuan/s3service/model/HttpSubmitRequest.java" timestamp="1539528783813">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="36" column="27" />
+        <mark key="^" line="36" column="27" />
+        <mark key="." line="36" column="27" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/model/SmsResp.java" timestamp="1539655227107">
+        <mark key="[" line="36" column="14" />
+        <mark key="]" line="36" column="17" />
+        <mark key="." line="36" column="17" />
+        <mark key="^" line="36" column="17" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms4-rest/src/main/resources/application.properties" timestamp="1539749837364">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="93" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms4-model/src/main/resources/generatorConfig.xml" timestamp="1539651209331">
+        <mark key="[" line="42" column="47" />
+        <mark key="]" line="41" column="43" />
+        <mark key="." line="41" column="43" />
+        <mark key="^" line="41" column="43" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms3-service/src/test/resources/application.properties" timestamp="1539532726353">
+        <mark key="[" line="17" column="86" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="17" column="91" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/report-service/src/main/java/com/mchuan/report/mq/SmsReportProducer.java" timestamp="1539762449422" />
+      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/SmsSubmittDeserilizer.java" timestamp="1539252067679">
+        <mark key="[" line="36" column="9" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="38" column="23" />
+      </file>
+      <file name="D:/code/lab/base/mc-boot/src/main/java/com/mchuan/boot/conf/WebMvcConfig.java" timestamp="1539143344913">
+        <mark key="[" line="76" column="23" />
+        <mark key="]" line="76" column="23" />
+        <mark key="." line="76" column="23" />
+        <mark key="^" line="78" column="7" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms4-rest/src/main/java/com/mchuan/sms4/api/XmlApi.java" timestamp="1539655536381">
+        <mark key="[" line="76" column="19" />
+        <mark key="]" line="76" column="27" />
+        <mark key="^" line="76" column="27" />
+        <mark key="." line="76" column="27" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/handler/Sms4ApiHandler.java" timestamp="1539144399234">
+        <mark key="[" line="26" column="16" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="26" column="15" />
+      </file>
+      <file name="D:/code/lab/base/mc-boot/src/main/java/com/mchuan/boot/handler/GlobalApiExceptionHandler.java" timestamp="1539145914117">
+        <mark key="[" line="121" column="9" />
+        <mark key="]" line="126" column="0" />
+        <mark key="^" line="126" column="0" />
+        <mark key="." line="126" column="0" />
+      </file>
+      <file name="D:/code/mchuan/sms3_9002/WebRoot/WEB-INF/classes/com/ccell/sms3/api/SmsUtils.java" timestamp="1539162881383">
+        <mark key="[" line="794" column="11" />
+        <mark key="]" line="794" column="8" />
+        <mark key="^" line="794" column="8" />
+        <mark key="." line="794" column="8" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms3/service/Sms3KeywordService.java" timestamp="1539340238158">
+        <mark key="[" line="31" column="33" />
+        <mark key="]" line="31" column="34" />
+        <mark key="." line="31" column="34" />
+        <mark key="^" line="30" column="34" />
+      </file>
+      <file name="D:/code/lab/base/mc-mq/src/main/java/com/mchuan/mq/consumer/RocketConsumerConfiguration.java" timestamp="1539763840172" />
+      <file name="D:/code/mchuan/SMS4/sms3-model/src/main/java/com/mchuan/sms3/dao/s3main/Sms3BlackSignMapper.java" timestamp="1539340847747">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="34" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms4-model/src/main/java/com/mchuan/sms4/model/s4main/Sms4ReportOffset.java" timestamp="1539656343747">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="5" column="12" />
+        <mark key="." line="5" column="12" />
+        <mark key="^" line="5" column="12" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms3-service/src/main/java/com/mchuan/s3service/constants/ApiCode.java" timestamp="1539751693388">
+        <mark key="[" line="31" column="75" />
+        <mark key="]" line="31" column="73" />
+        <mark key="." line="31" column="73" />
+        <mark key="^" line="31" column="73" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms3/service/Sms3BlackSign.java" timestamp="1539340783002">
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="21" column="105" />
+        <mark key="." line="21" column="105" />
+        <mark key="^" line="21" column="105" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms4-model/src/main/java/com/mchuan/sms4/model/s4main/Sms4SrcRegion.java" timestamp="1539590701350">
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="20" column="16" />
+        <mark key="^" line="20" column="16" />
+        <mark key="." line="20" column="16" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms3-service/src/main/java/com/mchuan/s3service/service/Sms3AccountService.java" timestamp="1539652803624">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="23" column="8" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/model/SmsSubmitExt.java" timestamp="1539605691753">
+        <mark key="[" line="46" column="33" />
+        <mark key="]" line="46" column="34" />
+        <mark key="." line="46" column="34" />
+        <mark key="^" line="46" column="34" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/report-service/src/main/java/com/mchuan/report/mq/SmsSendedConsumer.java" timestamp="1539767169551">
+        <mark key="[" line="80" column="40" />
+        <mark key="]" line="82" column="33" />
+        <mark key="." line="82" column="33" />
+        <mark key="^" line="82" column="33" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms3-model/src/main/java/com/mchuan/sms3/dao/s3main/Sms3SubNumberMapper.java" timestamp="1539342034255">
+        <mark key="[" line="16" column="34" />
+        <mark key="]" line="16" column="34" />
+        <mark key="^" line="16" column="34" />
+        <mark key="." line="16" column="34" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/report-service/src/main/java/com/mchuan/report/mq/SmsReportConsumer.java" timestamp="1539767359767" />
+      <file name="D:/code/mchuan/SMS4/sms4-sentbuf/src/main/java/com/mchuan/sms4/sentbuf/SmsReportConsumer.java" timestamp="1539231299866">
+        <mark key="[" line="29" column="22" />
+        <mark key="]" line="29" column="21" />
+        <mark key="^" line="29" column="21" />
+        <mark key="." line="29" column="21" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms3-model/src/main/java/com/mchuan/sms3/model/backup/BackupSended.java" timestamp="1539697995215">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="68" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="10" column="12" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms3/service/Sms3BlackSignService.java" timestamp="1539340904530">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="14" column="104" />
+        <mark key="^" line="14" column="104" />
+        <mark key="." line="14" column="104" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms4-service/src/test/java/com/mchuan/sms3/service/Sms3SubNumberServiceTest.java" timestamp="1539660987058">
+        <mark key="[" line="26" column="56" />
+        <mark key="]" line="25" column="27" />
+        <mark key="^" line="25" column="27" />
+        <mark key="." line="25" column="27" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/report-service/src/main/java/com/mchuan/report/mq/Sms4ReportConsumer.java" timestamp="1539747542305">
+        <mark key="[" line="38" column="38" />
+        <mark key="]" line="38" column="38" />
+        <mark key="^" line="38" column="38" />
+        <mark key="." line="38" column="38" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms3/service/Sms3KeyPhoneService.java" timestamp="1539340347435">
+        <mark key="[" line="75" column="30" />
+        <mark key="]" line="75" column="30" />
+        <mark key="." line="75" column="30" />
+        <mark key="^" line="73" column="31" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/model/SmsSubmit.java" timestamp="1539593346996">
+        <mark key="[" line="40" column="55" />
+        <mark key="]" line="40" column="55" />
+        <mark key="^" line="27" column="30" />
+        <mark key="." line="27" column="30" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms3-model/src/main/resources/mapper/backup/BackupSendedMapper.xml" timestamp="1539766113542">
+        <mark key="[" line="303" column="35" />
+        <mark key="]" line="303" column="33" />
+        <mark key="^" line="303" column="33" />
+        <mark key="." line="303" column="33" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/model/XmlSubmit.java" timestamp="1539315577075">
+        <mark key="[" line="38" column="30" />
+        <mark key="]" line="38" column="26" />
+        <mark key="." line="38" column="26" />
+        <mark key="^" line="38" column="26" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms4-service/src/test/resources/submit.xml" timestamp="1539249811592">
+        <mark key="[" line="1" column="29" />
+        <mark key="]" line="1" column="30" />
+        <mark key="^" line="1" column="42" />
+        <mark key="." line="1" column="30" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms4-model/src/main/resources/mapper/s4main/Sms4SentMapper.xml" timestamp="1539654443927">
+        <mark key="[" line="77" column="78" />
+        <mark key="]" line="78" column="15" />
+        <mark key="." line="78" column="15" />
+        <mark key="^" line="78" column="15" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/ContentSerializer.java" timestamp="1539338254029">
+        <mark key="[" line="22" column="24" />
+        <mark key="]" line="22" column="24" />
+        <mark key="^" line="22" column="28" />
+        <mark key="." line="22" column="24" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/db-syncer/src/main/java/com/mchuan/syncer/DBSyncer.java" timestamp="1539748299972">
+        <mark key="'" line="63" column="7" />
+        <mark key="[" line="135" column="18" />
+        <mark key="]" line="134" column="43" />
+        <mark key="." line="134" column="43" />
+        <mark key="^" line="134" column="43" />
+      </file>
+      <file name="D:/code/lab/base/mc-boot/src/main/java/com/mchuan/boot/interceptor/ApiFilter.java" timestamp="1539164469170">
+        <mark key="[" line="68" column="59" />
+        <mark key="]" line="68" column="47" />
+        <mark key="." line="68" column="47" />
+        <mark key="^" line="68" column="47" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms4-service/src/test/java/com/mchuan/sms4/service/RegionServiceTest.java" timestamp="1539247881802">
+        <mark key="[" line="47" column="22" />
+        <mark key="]" line="47" column="45" />
+        <mark key="." line="47" column="45" />
+        <mark key="^" line="47" column="45" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms3-model/src/main/resources/mapper/s3main/Sms3KeywordMapper.xml" timestamp="1539337964115">
+        <mark key="[" line="25" column="25" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="21" column="3" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms4-service/src/test/java/com/mchuan/sms4/model/SmsSubmitTest.java" timestamp="1539315255104">
+        <mark key="[" line="26" column="48" />
+        <mark key="]" line="26" column="40" />
+        <mark key="^" line="26" column="40" />
+        <mark key="." line="26" column="40" />
+      </file>
+      <file name="D:/code/lab/base/mc-boot/src/main/java/com/mchuan/support/kit/RequestKit.java" timestamp="1539164184736">
+        <mark key="[" line="105" column="38" />
+        <mark key="]" line="109" column="9" />
+        <mark key="." line="107" column="0" />
+        <mark key="^" line="113" column="8" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/service/SmsService.java" timestamp="1539751336999">
+        <mark key="[" line="70" column="76" />
+        <mark key="]" line="72" column="0" />
+        <mark key="^" line="64" column="54" />
+        <mark key="." line="72" column="0" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms3-service/src/main/java/com/mchuan/s3service/service/BackupSendedService.java" timestamp="1539765136053">
+        <mark key="[" line="104" column="33" />
+        <mark key="]" line="127" column="28" />
+        <mark key="^" line="127" column="28" />
+        <mark key="." line="127" column="28" />
+      </file>
+      <file name="D:/code/lab/base/mc-boot/src/main/java/com/mchuan/boot/handler/GlobalApiExceptionAdvice.java" timestamp="1539145080385">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="16" column="45" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms4-model/src/main/java/com/mchuan/sms4/dao/s4main/Sms4ReportOffsetMapper.java" timestamp="1539655938749">
+        <mark key="[" line="25" column="54" />
+        <mark key="]" line="25" column="34" />
+        <mark key="." line="25" column="34" />
+        <mark key="^" line="25" column="34" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms3-model/src/main/resources/mapper/s3main/Sms3BlackSignMapper.xml" timestamp="1539340863419">
+        <mark key="[" line="22" column="29" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="20" column="5" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms3-service/src/main/java/com/mchuan/s3service/service/SmsCacheableService.java" timestamp="1539150649578">
+        <mark key="[" line="20" column="41" />
+        <mark key="]" line="20" column="58" />
+        <mark key="^" line="20" column="58" />
+        <mark key="." line="20" column="58" />
+      </file>
+      <file name="/fragment.java" timestamp="1539762170239">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="30" column="0" filename="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/service/SmsService.java" />
+      <jump line="32" column="0" filename="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/service/SmsService.java" />
+      <jump line="2" column="30" filename="D:/code/mchuan/SMS4/sms4-service/src/test/resources/application.properties" />
+      <jump line="25" column="36" filename="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/service/RegionService.java" />
+      <jump line="25" column="26" filename="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/kit/SmsKit.java" />
+      <jump line="17" column="13" filename="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/model/Content.java" />
+      <jump line="6" column="0" filename="D:/code/mchuan/SMS4/sms3-model/src/main/java/com/mchuan/sms3/constants/Constants.java" />
+      <jump line="8" column="4" filename="D:/code/mchuan/SMS4/sms3-model/src/main/java/com/mchuan/sms3/constants/RedisKey.java" />
+      <jump line="168" column="92" filename="D:/code/mchuan/SMS4/sms4-sentbuf/src/main/java/com/mchuan/sms4/sentbuf/SmsSubmitConsumer.java" />
+      <jump line="110" column="28" filename="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/kit/SmsKit.java" />
+      <jump line="8" column="13" filename="D:/code/mchuan/SMS4/sms3-model/src/main/java/com/mchuan/sms3/model/s3main/Sms3Route.java" />
+      <jump line="41" column="63" filename="D:/code/mchuan/SMS4/sms3-service/src/main/java/com/mchuan/s3service/constants/ApiCode.java" />
+      <jump line="20" column="13" filename="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/kit/SmsKit.java" />
+      <jump line="120" column="0" filename="$MAVEN_REPOSITORY$/com/mchuan/logging/1.0.7/logging-1.0.7-sources.jar!/com/mchuan/logging/log4j2/AlertAppender.java" />
+      <jump line="117" column="53" filename="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/service/SmsService.java" />
+      <jump line="55" column="0" filename="D:/code/mchuan/SMS4/db-syncer/src/main/java/com/mchuan/syncer/DBSyncer.java" />
+      <jump line="62" column="7" filename="D:/code/mchuan/SMS4/db-syncer/src/main/java/com/mchuan/syncer/DBSyncer.java" />
+      <jump line="63" column="7" filename="D:/code/mchuan/SMS4/db-syncer/src/main/java/com/mchuan/syncer/DBSyncer.java" />
+      <jump line="22" column="13" filename="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/kit/SmsKit.java" />
+    </jumps>
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXBvcnQuc2V0SWQoc2VuZGVkLmdldElkKCkgKyAiIik7CiAgICAgICAgICAgICAgICAgICAgTWVzc2FnZSBtZXNzYWdlID0gbmV3TWVzc2FnZShyZXBvcnQsIHJvdXRlSWQsIFRyYWNlS2l0LmdldFJlcXVlc3RJZCgpKTsK</text>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAUGFyYW0oInJldHVyblRpbWUiKSBEYXRlIHJldHVyblRpbWUsCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAUGFyYW0oInJldHVyblRpbWUiKSBEYXRlIHJldHVyblRpbWUsCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBEYXRlKG1zZy5nZXRCb3JuVGltZXN0YW1wKCkpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBtc2cuZ2V0VGltZQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGJhY2t1cFNlbmRlZE1hcHBlci51cGRhdGVTdGF0dXNCeUlkKGRheSwgcmVwb3J0KTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGJhY2t1cFNlbmRlZE1hcHBlci51cGRhdGVTdGF0dXNCeUlkKGRheSwgcmVwb3J0KTsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>ReportId</text>
       </register>
     </registers>
     <search>
@@ -41,19 +497,85 @@
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed N</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
