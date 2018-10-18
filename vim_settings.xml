@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/service/Sms4Sender.java" timestamp="1539846224950" />
       <file name="D:/code/mchuan/SMS4/sms3-model/src/main/java/com/mchuan/sms3/dao/backup/BackupSendedMapper.java" timestamp="1539786343654">
         <mark key="[" line="15" column="61" />
         <mark key="]" line="15" column="71" />
@@ -52,12 +53,12 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="25" column="12" />
       </file>
-      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/kit/SmsKit.java" timestamp="1539792935208">
+      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/kit/SmsKit.java" timestamp="1539845809903">
         <mark key="'" line="29" column="13" />
-        <mark key="[" line="206" column="14" />
-        <mark key="]" line="194" column="24" />
-        <mark key="^" line="194" column="24" />
-        <mark key="." line="194" column="24" />
+        <mark key="[" line="201" column="49" />
+        <mark key="]" line="203" column="0" />
+        <mark key="." line="203" column="0" />
+        <mark key="^" line="201" column="39" />
       </file>
       <file name="D:/code/mchuan/SMS4/mc_ngx/conf/sites/8002.conf" timestamp="1539844117116">
         <mark key="[" line="8" column="21" />
@@ -197,7 +198,7 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="38" column="23" />
       </file>
-      <file name="D:/code/mchuan/SMS4/sms4-rest/src/main/java/com/mchuan/sms4/api/JsonApi.java" timestamp="1539798256635">
+      <file name="D:/code/mchuan/SMS4/sms4-rest/src/main/java/com/mchuan/sms4/api/JsonApi.java" timestamp="1539845892147">
         <mark key="'" line="69" column="17" />
         <mark key="[" line="94" column="90" />
         <mark key="]" line="92" column="32" />
@@ -342,7 +343,7 @@
         <mark key="^" line="25" column="27" />
         <mark key="." line="25" column="27" />
       </file>
-      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/model/JsonSubmit.java" timestamp="1539792965495">
+      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/model/JsonSubmit.java" timestamp="1539845207036">
         <mark key="[" line="33" column="43" />
         <mark key="]" line="33" column="53" />
         <mark key="^" line="33" column="53" />
@@ -499,37 +500,37 @@
         <text encoding="base64">ICAgIHM0X3VzZXJzWycyMDMwNDAnXSA9IHRydWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBEaWdlc3RVdGlscy5tZGQK</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBEaWdlc3RVdGlscy5tZGQK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICNzZXJ2ZXIgbTA3OjgwMDIgYmFja3VwOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHNlcnZlciBtMDM6ODAwMiBtYXhfZmFpbHM9MiBmYWlsX3RpbWVvdXQ9MTBzIHdlaWdodD04MDsKICAgIHNlcnZlciBtMDc6ODAwMiBtYXhfZmFpbHM9MiBmYWlsX3RpbWVvdXQ9MTBzIHdlaWdodD0yMDsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChTdHJpbmdVdGlscy5pc05vdEJsYW5rKHBob25lKSkgewogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBEaWdlc3RVdGlscy5tZGQK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICNzZXJ2ZXIgbTA3OjgwMDIgYmFja3VwOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlCiAgICAgICAgICAgIG5neC5leGl0KG5neC5PSykKICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgIHNlcnZlciBtMDM6ODAwMiBtYXhfZmFpbHM9MiBmYWlsX3RpbWVvdXQ9MTBzIHdlaWdodD04MDsKICAgIHNlcnZlciBtMDc6ODAwMiBtYXhfZmFpbHM9MiBmYWlsX3RpbWVvdXQ9MTBzIHdlaWdodD0yMDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9jYWwgdXNlcmlkID0ganNvbl9kYXRhWydwYXJhbXMnXVsndXNlcmlkJ10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBqc29uX2RhdGEgYW5kIGpzb25fZGF0YVsncGFyYW1zJ10gYW5kIGpzb25fZGF0YVsncGFyYW1zJ11bJ3VzZXJpZCddIHRoZW4K</text>
+        <text encoding="base64">ICAgICAgICBlbHNlCiAgICAgICAgICAgIG5neC5leGl0KG5neC5PSykKICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bmd4LnJlcS5yZWFkX2JvZHkoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9jYWwgdXNlcmlkID0ganNvbl9kYXRhWydwYXJhbXMnXVsndXNlcmlkJ10K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5neC5yZXEucmVhZF9ib2R5KCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBqc29uX2RhdGEgYW5kIGpzb25fZGF0YVsncGFyYW1zJ10gYW5kIGpzb25fZGF0YVsncGFyYW1zJ11bJ3VzZXJpZCddIHRoZW4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>NotBlank</text>
       </register>
     </registers>
     <search>
