@@ -75,10 +75,10 @@
         <mark key="]" line="110" column="0" />
         <mark key="." line="110" column="0" />
       </file>
-      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/service/Sms4Reporter.java" timestamp="1539859333909">
-        <mark key="[" line="63" column="49" />
-        <mark key="]" line="63" column="88" />
-        <mark key="." line="63" column="88" />
+      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/service/Sms4Reporter.java" timestamp="1539920116122">
+        <mark key="[" line="66" column="70" />
+        <mark key="]" line="66" column="70" />
+        <mark key="." line="66" column="70" />
         <mark key="^" line="63" column="88" />
       </file>
       <file name="D:/code/mchuan/SMS4/sms4-sentbuf/src/test/resources/application.properties" timestamp="1539568648898">
@@ -212,6 +212,7 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="38" column="23" />
       </file>
+      <file name="D:/code/mchuan/SMS4/sms4-rest/src/main/java/com/mchuan/sms4/api/JsonApi.java" timestamp="1539920255556" />
       <file name="D:/code/mchuan/SMS4/sms4-rest/src/main/resources/prod/log4j2.xml" timestamp="1539875463489">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -229,11 +230,12 @@
         <mark key="^" line="34" column="96" />
         <mark key="." line="34" column="96" />
       </file>
-      <file name="D:/code/mchuan/SMS4/mc_ngx/resty_modules/lua/apiswitch.lua" timestamp="1539918274390">
+      <file name="D:/code/mchuan/SMS4/mc_ngx/resty_modules/lua/apiswitch.lua" timestamp="1539920043912">
         <mark key="'" line="58" column="10" />
-        <mark key="]" line="50" column="7" />
-        <mark key="." line="50" column="7" />
-        <mark key="^" line="50" column="7" />
+        <mark key="[" line="37" column="21" />
+        <mark key="]" line="37" column="18" />
+        <mark key="." line="37" column="18" />
+        <mark key="^" line="37" column="18" />
       </file>
       <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/handler/Sms4ApiHandler.java" timestamp="1539144399234">
         <mark key="[" line="26" column="16" />
@@ -349,11 +351,11 @@
         <mark key="^" line="25" column="27" />
         <mark key="." line="25" column="27" />
       </file>
-      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/model/JsonSubmit.java" timestamp="1539852985546">
-        <mark key="[" line="27" column="32" />
-        <mark key="]" line="31" column="27" />
+      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/model/JsonSubmit.java" timestamp="1539920051620">
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="16" column="12" />
         <mark key="^" line="31" column="27" />
-        <mark key="." line="31" column="27" />
+        <mark key="." line="16" column="12" />
       </file>
       <file name="D:/code/mchuan/SMS4/report-service/src/main/java/com/mchuan/report/mq/Sms4ReportConsumer.java" timestamp="1539791299262">
         <mark key="[" line="40" column="0" />
@@ -481,10 +483,10 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/model/BaseJsonResp.java" timestamp="1539798948884">
-        <mark key="[" line="27" column="23" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/model/BaseJsonResp.java" timestamp="1539920069761">
+        <mark key="[" line="15" column="14" />
+        <mark key="]" line="15" column="14" />
+        <mark key="." line="15" column="14" />
         <mark key="^" line="38" column="0" />
       </file>
     </filemarks>
@@ -522,8 +524,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIAo=</text>
+      <register name="&quot;" type="4">
+        <text>String</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgPHZhbGlkYXRpb25Qcm9wZXJ0aWVzPgogICAgICAgICAgICAgICAgICAgICAgICA8dmFsaWRhdGlvblByb3BlcnR5PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPG5hbWU+dmFsaWRhdGluZyBwcm9qZWN0IHZlcnNpb248L25hbWU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dmFsdWU+JHtwcm9qZWN0LnZlcnNpb259PC92YWx1ZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzaG91bGRNYXRjaFRvPjwhW0NEQVRBW14uKig/PCEtU05BUFNIT1QpJF1dPjwvc2hvdWxkTWF0Y2hUbz4KICAgICAgICAgICAgICAgICAgICAgICAgPC92YWxpZGF0aW9uUHJvcGVydHk+CiAgICAgICAgICAgICAgICAgICAgPC92YWxpZGF0aW9uUHJvcGVydGllcz4K</text>
@@ -550,7 +552,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPCEtLSB0aGUgbmV4dCB2YWxpZGF0aW9uUHJvcGVydHkgeW91IHdvdWxkIGxpa2UgdG8gdmFsaWRhdGUgLS0+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>sms3Account</text>
+        <text>String</text>
       </register>
     </registers>
     <search>
