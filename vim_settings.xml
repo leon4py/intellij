@@ -229,11 +229,11 @@
         <mark key="^" line="34" column="96" />
         <mark key="." line="34" column="96" />
       </file>
-      <file name="D:/code/mchuan/SMS4/mc_ngx/resty_modules/lua/apiswitch.lua" timestamp="1539844123458">
-        <mark key="[" line="33" column="20" />
-        <mark key="]" line="33" column="19" />
-        <mark key="." line="33" column="19" />
-        <mark key="^" line="33" column="19" />
+      <file name="D:/code/mchuan/SMS4/mc_ngx/resty_modules/lua/apiswitch.lua" timestamp="1539918274390">
+        <mark key="'" line="58" column="10" />
+        <mark key="]" line="50" column="7" />
+        <mark key="." line="50" column="7" />
+        <mark key="^" line="50" column="7" />
       </file>
       <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/handler/Sms4ApiHandler.java" timestamp="1539144399234">
         <mark key="[" line="26" column="16" />
@@ -513,40 +513,41 @@
       <jump line="70" column="13" filename="D:/code/mchuan/SMS4/mc_ngx/resty_modules/lua/apiswith.lua" />
       <jump line="20" column="4" filename="D:/code/mchuan/SMS4/mc_ngx/resty_modules/lua/apiswith.lua" />
       <jump line="33" column="0" filename="D:/code/mchuan/SMS4/sms3-service/src/main/java/com/mchuan/s3service/constants/ApiCode.java" />
+      <jump line="50" column="10" filename="D:/code/mchuan/SMS4/mc_ngx/resty_modules/lua/apiswitch.lua" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8UHJvcGVydHkgbmFtZT0iUEFUVEVSTiI+JWQgW3NtczRhcGldWyR7aG9zdE5hbWV9XVsldF0gJS01bGV2ZWwgJVggJWN7MS59LiVNKCVjezF9OiVMKSAtICVtc2clbjwvUHJvcGVydHk+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgPHZhbGlkYXRpb25Qcm9wZXJ0aWVzPgogICAgICAgICAgICAgICAgICAgICAgICA8dmFsaWRhdGlvblByb3BlcnR5PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPG5hbWU+dmFsaWRhdGluZyBwcm9qZWN0IHZlcnNpb248L25hbWU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dmFsdWU+JHtwcm9qZWN0LnZlcnNpb259PC92YWx1ZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzaG91bGRNYXRjaFRvPjwhW0NEQVRBW14uKig/PCEtU05BUFNIT1QpJF1dPjwvc2hvdWxkTWF0Y2hUbz4KICAgICAgICAgICAgICAgICAgICAgICAgPC92YWxpZGF0aW9uUHJvcGVydHk+CiAgICAgICAgICAgICAgICAgICAgPC92YWxpZGF0aW9uUHJvcGVydGllcz4K</text>
+        <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>sms3Account</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgPHZhbGlkYXRpb25Qcm9wZXJ0aWVzPgogICAgICAgICAgICAgICAgICAgICAgICA8dmFsaWRhdGlvblByb3BlcnR5PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPG5hbWU+dmFsaWRhdGluZyBwcm9qZWN0IHZlcnNpb248L25hbWU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dmFsdWU+JHtwcm9qZWN0LnZlcnNpb259PC92YWx1ZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzaG91bGRNYXRjaFRvPjwhW0NEQVRBW14uKig/PCEtU05BUFNIT1QpJF1dPjwvc2hvdWxkTWF0Y2hUbz4KICAgICAgICAgICAgICAgICAgICAgICAgPC92YWxpZGF0aW9uUHJvcGVydHk+CiAgICAgICAgICAgICAgICAgICAgPC92YWxpZGF0aW9uUHJvcGVydGllcz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgogICAgICAgICAgICAgICAgICAgIDx2YWxpZGF0aW9uUHJvcGVydGllcz4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQSBkZXNjcmlwdGl2ZSBuYW1lIHRoYXQgd2lsbCBiZSB1c2VkIHRvIGJlIGFibGUgdG8gaWRlbnRpZnkgdGhlIHZhbGlkYXRpb24gdGhhdCBkb2VzIG5vdCBtYXRjaCB1cCAod2lsbCBiZSBkaXNwbGF5ZWQgaW4gdGhlIGVycm9yIG1lc3NhZ2UpLgogICAgICAgICAgICAgICAgICAgICAgICAgICAgLS0+Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CgogICAgICAgICAgICAgICAgICAgIDx2YWxpZGF0aW9uUHJvcGVydGllcz4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQSBkZXNjcmlwdGl2ZSBuYW1lIHRoYXQgd2lsbCBiZSB1c2VkIHRvIGJlIGFibGUgdG8gaWRlbnRpZnkgdGhlIHZhbGlkYXRpb24gdGhhdCBkb2VzIG5vdCBtYXRjaCB1cCAod2lsbCBiZSBkaXNwbGF5ZWQgaW4gdGhlIGVycm9yIG1lc3NhZ2UpLgogICAgICAgICAgICAgICAgICAgICAgICAgICAgLS0+Cg==</text>
+      </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhlIHZhbHVlIHRoYXQgbmVlZHMgdGhlIHZhbGlkYXRpb24KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKk5vdGUqIDogSW4gb3JkZXIgdG8gYmUgYWJsZSB0byB2YWxpZGF0ZSB0aGUgZ2VuZXJhdGVkIGdpdC1wcm9wZXJ0aWVzIGluc2lkZSB0aGUgcG9tIGl0c2VsZiB5b3UgbWF5IG5lZWQgdG8gc2V0IHRoZSBjb25maWd1cmF0aW9uIGA8aW5qZWN0QWxsUmVhY3RvclByb2plY3RzPnRydWU8L2luamVjdEFsbFJlYWN0b3JQcm9qZWN0cz5gLgogICAgICAgICAgICAgICAgICAgICAgICAgICAgLS0+Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICA8IS0tCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhlIGV4cGVjdGVkIHZhbHVlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAtLT4=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPCEtLSB0aGUgbmV4dCB2YWxpZGF0aW9uUHJvcGVydHkgeW91IHdvdWxkIGxpa2UgdG8gdmFsaWRhdGUgLS0+Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgPCEtLSBAc2luY2UgMi4yLjIgLS0+CiAgICAgICAgICAgICAgICAgICAgPCEtLQogICAgICAgICAgICAgICAgICAgICAgICB0cnVlIGJ5IGRlZmF1bHQsIGNvbnRyb2xzIHdoZXRoZXIgdGhlIHZhbGlkYXRpb24gd2lsbCBmYWlsIGlmICphdCBsZWFzdCBvbmUqIG9mIHRoZSB2YWxpZGF0aW9uUHJvcGVydGllcyBkb2VzIG5vdCBtYXRjaCB3aXRoIGl0J3MgZXhwZWN0ZWQgdmFsdWVzLgogICAgICAgICAgICAgICAgICAgICAgICBJZiB5b3UgZG9uJ3QgY2FyZSBhYm91dCB0aGlzLCB5b3UgbWF5IHdhbnQgdG8gc2V0IHRoaXMgdmFsdWUgdG8gZmFsc2UgKHRoaXMgbWFrZXMgdGhlIGNvbmZpZ3VyYXRpb24gb2YgdmFsaWRhdGlvblByb3BlcnRpZXMgdXNlbGVzcykuCiAgICAgICAgICAgICAgICAgICAgICAgICpOb3RlKjogVGhpcyBjb25maWd1cmF0aW9uIHdpbGwgb25seSBiZSB0YWtlbiBpbnRvIGFjY291bnQgd2hlbiB0aGUgYWRkaXRpb25hbCBnb2FsIGB2YWxpZGF0ZVJldmlzaW9uYCBpcyBjb25maWd1cmVkIGluc2lkZSBhbiBleGVjdXRpb24gYW5kIGF0IGxlYXN0IG9uZSB2YWxpZGF0aW9uUHJvcGVydHkgaXMgZGVmaW5lZC4KICAgICAgICAgICAgICAgICAgICAtLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPCEtLSB0aGUgbmV4dCB2YWxpZGF0aW9uUHJvcGVydHkgeW91IHdvdWxkIGxpa2UgdG8gdmFsaWRhdGUgLS0+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>sms3Account</text>
