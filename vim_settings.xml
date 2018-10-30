@@ -55,11 +55,11 @@
       <file name="D:/code/mchuan/SMS4/sms4-model/src/main/resources/mapper/s4main/Sms4SentMapper.xml" timestamp="1540610062893">
         <mark key="[" line="508" column="27" />
       </file>
-      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/service/SmsService.java" timestamp="1540866868743">
-        <mark key="[" line="166" column="9" />
-        <mark key="]" line="175" column="0" />
-        <mark key="^" line="170" column="7" />
-        <mark key="." line="175" column="0" />
+      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/service/SmsService.java" timestamp="1540869794253">
+        <mark key="[" line="161" column="44" />
+        <mark key="]" line="161" column="43" />
+        <mark key="^" line="161" column="43" />
+        <mark key="." line="161" column="43" />
       </file>
       <file name="D:/code/mchuan/SMS4/report-service/src/main/java/com/mchuan/report/mq/SmsReportProducer.java" timestamp="1540867123686">
         <mark key="[" line="137" column="49" />
@@ -119,8 +119,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBqc29uU3VibWl0LmdldFBhcmFtcygpLnNldFNlCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBqc29uU3VibWl0LmdldFBhcmFtcygpLnNldFNlCg==</text>
+      <register name="&quot;" type="4">
+        <text>seqid+password</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU21zM0FjY291bnQgc21zM0FjY291bnQgPSBhY2NvdW50U2VydmljZS5xdWVyeUJ5SWQodXNlcklkKTsK</text>
@@ -147,7 +147,7 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U21zM0FjY291bnQg</text>
+        <text>seqid+password</text>
       </register>
     </registers>
     <search>
