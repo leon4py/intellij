@@ -11,6 +11,9 @@
       </file>
       <file name="D:/code/mchuan/s3tool/s3monitor/src/main/java/com/mchuan/s3monitor/dto/ResponseResult.java" timestamp="1541041014813" />
       <file name="D:/code/mchuan/SMS4/sms3-service/src/main/java/com/mchuan/s3service/service/ReportService.java" timestamp="1541035828536" />
+      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/service/Sms4Sender.java" timestamp="1541057588456">
+        <mark key="[" line="297" column="71" />
+      </file>
       <file name="D:/code/mchuan/sms3_zlbuf/src/main/java/com/ccell/sms3/zlbuf/SmsObj.java" timestamp="1541051834933">
         <mark key="'" line="45" column="65" />
         <mark key="[" line="38" column="128" />
@@ -25,12 +28,6 @@
         <mark key="^" line="51" column="26" />
       </file>
       <file name="D:/code/mchuan/SMS4/report-rescuer/src/main/java/com/mchuan/report/rescuer/ReportRescuerApp.java" timestamp="1541045237095" />
-      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/kit/SmsKit.java" timestamp="1541051582972">
-        <mark key="[" line="74" column="57" />
-        <mark key="]" line="74" column="58" />
-        <mark key="." line="74" column="58" />
-        <mark key="^" line="74" column="58" />
-      </file>
       <file name="D:/code/mchuan/SMS4/sms3-service/src/main/java/com/mchuan/s3service/model/CmppReport.java" timestamp="1541040431397" />
       <file name="D:/code/mchuan/SMS4/cmpp-receiver/src/main/java/com/mchuan/cmppreceiver/CmppConnect.java" timestamp="1540623464357">
         <mark key="[" line="16" column="16" />
@@ -85,6 +82,13 @@
         <mark key="^" line="74" column="30" />
       </file>
       <file name="D:/code/mchuan/SMS4/sms3-model/src/main/java/com/mchuan/sms3/model/s3main/Sms3Account.java" timestamp="1541040088358" />
+      <file name="D:/code/mchuan/SMS4/sms3-service/src/main/java/com/mchuan/s3service/constants/ApiCode.java" timestamp="1541057649934">
+        <mark key="'" line="62" column="88" />
+        <mark key="[" line="62" column="93" />
+        <mark key="]" line="62" column="93" />
+        <mark key="." line="62" column="93" />
+        <mark key="^" line="62" column="93" />
+      </file>
       <file name="D:/code/mchuan/SMS4/sms4-gateway/src/main/java/com/mchuan/gateway/SMSGateway.java" timestamp="1540971562314">
         <mark key="[" line="13" column="25" />
         <mark key="]" line="6" column="10" />
@@ -109,11 +113,11 @@
         <mark key="." line="29" column="26" />
         <mark key="^" line="38" column="26" />
       </file>
-      <file name="D:/code/mchuan/SMS4/sms4-gateway/src/main/java/com/mchuan/gateway/cmpp/CmppSubmitRequestHandler.java" timestamp="1540982381989">
-        <mark key="[" line="142" column="57" />
-        <mark key="]" line="142" column="57" />
-        <mark key="." line="142" column="57" />
-        <mark key="^" line="134" column="7" />
+      <file name="D:/code/mchuan/SMS4/sms4-gateway/src/main/java/com/mchuan/gateway/cmpp/CmppSubmitRequestHandler.java" timestamp="1541057035364">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="^" line="72" column="43" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="D:/code/mchuan/SMS4/sms4-sentbuf/src/main/java/com/mchuan/sms4/sentbuf/SmsSubmitConsumer.java" timestamp="1541052473048">
         <mark key="[" line="108" column="22" />
@@ -151,12 +155,6 @@
       </file>
       <file name="D:/code/mchuan/sms3_zlbuf/src/main/java/com/ccell/sms3/zlbuf/BufUtils.java" timestamp="1541050547483" />
       <file name="D:/code/mchuan/s3tool/s3monitor/src/main/java/com/mchuan/s3monitor/dto/OrderSumVO.java" timestamp="1541040822627" />
-      <file name="D:/code/mchuan/SMS4/sms4-service/src/test/java/com/mchuan/sms4/kit/SmsKitTest.java" timestamp="1541051609686">
-        <mark key="[" line="39" column="40" />
-        <mark key="]" line="39" column="41" />
-        <mark key="^" line="35" column="45" />
-        <mark key="." line="39" column="41" />
-      </file>
       <file name="D:/code/mchuan/SMS4/sms4-gateway/src/main/java/com/mchuan/gateway/cmpp/MessageReceiveHandler.java" timestamp="1540972319536">
         <mark key="[" line="25" column="15" />
         <mark key="]" line="24" column="8" />
@@ -220,34 +218,34 @@
         <text encoding="base64">ICAgICAgICAgICAgIsT6usOjrMTjtcS2zNDF0enWpMLro7ozMjE4o6zH683Xycaxo7ncob7GtL/Ny7O357O1ob98IMa0v83Ls7fns7UgfCAyIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyMgYmFja3VwIMr9vt3UtMXk1sMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3BvbnNlTWVzc2FnZS5zZXRNc2dJZCgpOwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyMgYmFja3VwIMr9vt3UtMXk1sMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3BvbnNlTWVzc2FnZS5zZXRNc2dJZCgpOwo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">IyMgYmFja3VwIMr9vt3UtMXk1sMK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">YmFja3VwLmRhdGFzb3VyY2UudXJsPWpkYmM6bXlzcWw6Ly9sb2NhbGhvc3Q6MzMwNi9zNGJhY2t1cD91c2VVbmljb2RlPXRydWUmY2hhcmFjdGVyRW5jb2Rpbmc9dXRmOCZhbGxvd011bHRpUXVlcmllcz10cnVlCmJhY2t1cC5kYXRhc291cmNlLnVzZXJuYW1lPXJvb3QKYmFja3VwLmRhdGFzb3VyY2UucGFzc3dvcmQ9MTIzNDU2CmJhY2t1cC5kYXRhc291cmNlLmZpbHRlcnM9c3RhdCxzbGY0agpiYWNrdXAuZGF0YXNvdXJjZS5kcml2ZXJDbGFzc05hbWU9Y29tLm15c3FsLmpkYmMuRHJpdmVy</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obXNnQ29udGVudCk7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBNYXRjaGVyIG1hdGNoZXIgPSBmaXJzdENuUGF0dGVybi5tYXRjaGVyKGNvbnRlbnQpOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBpZiAobWF0Y2hlci5maW5kKCkpIHsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBtYXRjaGVyID0gbGFzdENuU2lnblBhdHRlcm4ubWF0Y2hlcihjb250ZW50KTsKICAgICAgICAgICAgaWYgKG1hdGNoZXIuZmluZCgpKSB7CiAgICAgICAgICAgICAgICBtc2dDb250ZW50LnNldFBvc2l0aW9uKFNpZ25Qb3NpdGlvbi5MQVNUKTsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1hdGNoZXIuZmluZCgpKSB7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1hdGNoZXIuZmluZCgpKSB7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>(</text>
