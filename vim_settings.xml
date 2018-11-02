@@ -20,7 +20,7 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/service/Sms4Sender.java" timestamp="1541161425437" />
+      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/service/Sms4Sender.java" timestamp="1541164228444" />
       <file name="D:/code/mchuan/SMS4/sms4-sentbuf/src/test/java/com/mchuan/sms4/sentbuf/SmsSubmitConsumerTest.java" timestamp="1541003238881">
         <mark key="[" line="51" column="42" />
         <mark key="]" line="51" column="32" />
@@ -38,6 +38,12 @@
         <mark key="]" line="54" column="55" />
         <mark key="." line="54" column="55" />
         <mark key="^" line="54" column="55" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms3-service/src/main/java/com/mchuan/s3service/service/IdWorker.java" timestamp="1541164179899">
+        <mark key="[" line="70" column="22" />
+        <mark key="]" line="70" column="29" />
+        <mark key="." line="70" column="29" />
+        <mark key="^" line="70" column="29" />
       </file>
       <file name="D:/code/mchuan/SMS4/sms3-model/src/main/java/com/mchuan/sms3/model/s3main/Sms3SrcNet.java" timestamp="1541160676582">
         <mark key="[" line="5" column="23" />
@@ -106,6 +112,12 @@
         <mark key="]" line="95" column="28" />
         <mark key="^" line="95" column="28" />
         <mark key="." line="95" column="28" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms3-service/src/test/resources/application.properties" timestamp="1541163211466">
+        <mark key="[" line="41" column="36" />
+        <mark key="]" line="41" column="22" />
+        <mark key="." line="41" column="22" />
+        <mark key="^" line="41" column="22" />
       </file>
       <file name="D:/code/mchuan/SMS4/sms4-gateway/src/main/resources/application.properties" timestamp="1541065716313">
         <mark key="[" line="0" column="31" />
@@ -231,7 +243,7 @@
         <mark key="^" line="24" column="8" />
         <mark key="." line="24" column="8" />
       </file>
-      <file name="/fragment.java" timestamp="1541159981354">
+      <file name="/fragment.java" timestamp="1541163527838">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -284,44 +296,44 @@
       <jump line="54" column="0" filename="D:/code/mchuan/SMS4/report-rescuer/src/main/resources/application.properties" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGZpbmFsSSA9IGk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>boolean</text>
       </register>
       <register name="/" type="4">
         <text>enab</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgdG90YWwgPSA2MDAwMDA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGZpbmFsSSA9IGk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihmaW5hbEkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0sIEZ1bmN0aW9uLmlkZW50aXR5KCkpKS52YXIK</text>
+        <text encoding="base64">ICAgICAgICBDb25jdXJyZW50TWFwPExvbmcsIEJvb2xlYW4+IHNldCA9IG5ldyBDb25jdXJyZW50SGFzaE1hcDw+KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBuZXcgQ29uY3VTZXQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihmaW5hbEkpOwogICAgICAgICAgICAgICAgbGF0Y2guY291bnREb3duKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBQb3N0Q29uc3RydWN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghc3VjY2VzcykgewogICAgICAgICAgICAgICAgICAgIGZhaWwoKTsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgTWFwPD4=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdDoKICAgICAgICAgICAgICAgIHJldHVybiAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvb2xlYW4gc3VjY2VzcyA9IHNldC5hZGQoaWQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBDb25zdGFudHMuWUQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
     </registers>
     <search>
