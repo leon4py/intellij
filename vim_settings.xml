@@ -108,11 +108,10 @@
         <mark key="^" line="17" column="42" />
         <mark key="." line="17" column="31" />
       </file>
-      <file name="D:/code/mchuan/SMS4/report-rescuer/src/main/java/com/mchuan/report/rescuer/timing/MQChecker.java" timestamp="1541245830164">
-        <mark key="[" line="42" column="46" />
-        <mark key="]" line="42" column="36" />
-        <mark key="^" line="42" column="36" />
-        <mark key="." line="42" column="36" />
+      <file name="D:/code/mchuan/SMS4/report-rescuer/src/main/java/com/mchuan/report/rescuer/timing/MQChecker.java" timestamp="1541248475457">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="D:/code/mchuan/SMS4/report-service/src/main/java/com/mchuan/report/mq/SmsReportProducer.java" timestamp="1541242098779">
         <mark key="[" line="95" column="29" />
@@ -319,44 +318,44 @@
       <jump line="54" column="0" filename="D:/code/mchuan/SMS4/report-rescuer/src/main/resources/application.properties" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>000</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICBAVmFsdWUoIiR7bXEuY2hlY2suZGVsYXk6NTAwMH0iKQogICAgcHJpdmF0ZSBpbnQgY2hlY2tJbnRlcnZhbDsK</text>
       </register>
       <register name="-" type="4">
-        <text>000</text>
+        <text>fixedDelayString = &quot;${mq.check.delay:5000}&quot;</text>
       </register>
       <register name="/" type="4">
         <text>enab</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSgiJHtjb25zdW1lci50cHMudGhyZXNob2xkOjEwMDB9IikKICAgIHByaXZhdGUgaW50IGRlbGF5VGhyZVNob2xkOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgU3RyaW5nIERFTEFZX0lOVEVSVkFMID0gIiR7bXEuY2hlY2suZGVsYXk6NTAwMH0iOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBAVmFsdWUoIiR7bXEuY2hlY2suZGVsYXk6NTAwMH0iKQogICAgcHJpdmF0ZSBpbnQgY2hlY2tJbnRlcnZhbDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY29udGludWVkVGltZTsK</text>
+        <text encoding="base64">ICAgIEBHZXR0ZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIEBWYWx1ZSgiI3tNUUNoZWNrZXIuZGVsYXlUaHJlU2hvbGQrMjAwMH0iKQogICAgcHJpdmF0ZSBpbnQgZGVsYXlUaHJlU2hvbGQwOwoKICAgIEBWYWx1ZSgiI3sgJHtjb25zdW1lci50cHMudGhyZXNob2xkOjEwMH0gKyAxMDAwfSIpCiAgICBwcml2YXRlIGludCBkZWxheVRocmVTaG9sZDE7</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSB0aW1lcyA9IG5ldyBTdHJpbmdbXXsizOwiLCAiyrEiLCAit9YiLCAiw+siLCAiusHD6yJ9Owo=</text>
+        <text encoding="base64">Ly8gICAgQER1cmF0aW9uVW5pdChDaHJvbm9Vbml0LlNFQ09ORFMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgQFZhbHVlKCIke2NvbnN1bWVyLmVycm9yLmRlbGF5OjVzfSIpCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZGlmZiA8IDI0KSB7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICBAVmFsdWUoIiR7Y29uc3VtZXIuZXJyb3IuZGVsYXk6NXN9IikKICAgIEBEdXJhdGlvblVuaXQoQ2hyb25vVW5pdC5NSUxMSVMpCiAgICBwcml2YXRlIER1cmF0aW9uIGVycm9yRGVsYXkwOw==</text>
       </register>
     </registers>
     <search>
