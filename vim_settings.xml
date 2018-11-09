@@ -27,6 +27,12 @@
         <mark key="." line="13" column="36" />
         <mark key="^" line="13" column="41" />
       </file>
+      <file name="D:/code/mchuan/SMS4/sms4-gateway/src/test/java/example/HexDemo.java" timestamp="1541743038081">
+        <mark key="[" line="28" column="31" />
+        <mark key="]" line="19" column="16" />
+        <mark key="^" line="19" column="16" />
+        <mark key="." line="19" column="16" />
+      </file>
       <file name="D:/code/mchuan/SMS4/sms4-model/src/main/java/com/mchuan/sms4/model/s4main/Sms4Sent.java" timestamp="1541730273823">
         <mark key="[" line="70" column="4" />
         <mark key="]" line="70" column="19" />
@@ -207,7 +213,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAtLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgICAgICAgICAgICAgINf31d+jusDLt6gtyPDXyAogICAgICAgIMC01LSjukNTRE4KICAgICAgICDUrc7Eo7podHRwczovL2Jsb2cuY3Nkbi5uZXQvcXFfMjU5NTg0OTcvYXJ0aWNsZS9kZXRhaWxzLzc4ODA0MzM0IAogICAgICAgILDmyKjJ+cP3o7qxvs7Ezqqyqdb31K20tM7E1cKjrNeq1NjH67i9yc+yqc7EwbS906OhCg==</text>
+        <text encoding="base64">ICAgIHNvdXQgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>com.mchuan.report.rescuer.ReportRescuerApp</text>
@@ -219,32 +225,32 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nLndhcm4oItPDu6c6e30gw7vT0MrVtb3XtMysOnt9IiwgbXNnLmdldFRhZ3MoKSwgY21wcFJlcG9ydCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAtLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgICAgICAgICAgICAgINf31d+jusDLt6gtyPDXyAogICAgICAgIMC01LSjukNTRE4KICAgICAgICDUrc7Eo7podHRwczovL2Jsb2cuY3Nkbi5uZXQvcXFfMjU5NTg0OTcvYXJ0aWNsZS9kZXRhaWxzLzc4ODA0MzM0IAogICAgICAgILDmyKjJ+cP3o7qxvs7Ezqqyqdb31K20tM7E1cKjrNeq1NjH67i9yc+yqc7EwbS906OhCg==</text>
+        <text encoding="base64">ICAgIHNvdXQgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgICAgICAgICAgICAgINf31d+jusDLt6gtyPDXyAogICAgICAgIMC01LSjukNTRE4KICAgICAgICDUrc7Eo7podHRwczovL2Jsb2cuY3Nkbi5uZXQvcXFfMjU5NTg0OTcvYXJ0aWNsZS9kZXRhaWxzLzc4ODA0MzM0IAogICAgICAgILDmyKjJ+cP3o7qxvs7Ezqqyqdb31K20tM7E1cKjrNeq1NjH67i9yc+yqc7EwbS906OhCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text># 让9002监听新的db(47)
 s3Cmpp.redis.url=redis://PassRedis@120.79.212.19/47</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBDbXBwUmVwb3J0IGNtcHBSZXBvcnQgPSBDbXBwS2l0LmRlc2VyaWFsaXplKG1zZy5nZXRCb2R5KCkpOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBUcmFjZUtpdC5zZXRJZEZvcmNlbHkobXNnLmdldE1zZ0lkKCkrKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
     </registers>
     <search>
