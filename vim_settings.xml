@@ -134,6 +134,13 @@
         <mark key="^" line="48" column="36" />
         <mark key="." line="57" column="0" />
       </file>
+      <file name="D:/code/mchuan/SMSGate/src/main/java/com/zx/sms/connect/manager/EndpointManager.java" timestamp="1541843410891">
+        <mark key="'" line="19" column="7" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="28" />
+        <mark key="." line="66" column="28" />
+        <mark key="^" line="66" column="28" />
+      </file>
       <file name="D:/code/mchuan/SMS4/sms4-service/src/test/java/com/mchuan/sms4/kit/SmsKitTest.java" timestamp="1541731239423">
         <mark key="[" line="64" column="61" />
         <mark key="]" line="64" column="60" />
@@ -203,47 +210,48 @@
       <jump line="176" column="54" filename="D:/code/mchuan/SMS4/sms4-gateway/src/main/java/com/mchuan/gateway/cmpp/CmppReportHandler.java" />
       <jump line="37" column="13" filename="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/kit/SmsKit.java" />
       <jump line="26" column="51" filename="D:/code/mchuan/SMS4/sms4-gateway/src/main/java/com/mchuan/gateway/cmpp/CmppKit.java" />
+      <jump line="19" column="7" filename="D:/code/mchuan/SMSGate/src/main/java/com/zx/sms/connect/manager/EndpointManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>initializeRequestId</text>
+        <text encoding="base64">CQlFbmRwb2ludENvbm5lY3Rvcjw/PiBjb25uID0gbWFwLmdldChlbnRpdHkuZ2V0SWQoKSk7CgkJaWYgKGNvbm4gPT0gbnVsbCkKCQkJcmV0dXJuOwoJCXRyeSB7CgkJCWNvbm4uY2xvc2UoKTsKCQkJLy8gudix1cv509DBrL3To6yyorDRQ29ubmVjdG9yyb619AoJCQltYXAucmVtb3ZlKGVudGl0eS5nZXRJZCgpKTsKCgkJfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKCQkJbG9nZ2VyLmVycm9yKCJjbG9zZSBFcnJvciIsIGUpOwoJCX0=</text>
       </register>
       <register name="-" type="4">
-        <text>initializeRequestId</text>
+        <text>entity.getId()</text>
       </register>
       <register name="/" type="4">
         <text>enab</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBSZWRpc0NvbW1hbmRzPFN0cmluZywgU3RyaW5nPiBzNFJlZGlzQ29tbWFuZHM7Cg==</text>
+        <text encoding="base64">CXB1YmxpYyBzeW5jaHJvbml6ZWQgdm9pZCBjbG9zZShFbmRwb2ludEVudGl0eSBlbnRpdHkpIHsKCQlFbmRwb2ludENvbm5lY3Rvcjw/PiBjb25uID0gbWFwLmdldChlbnRpdHkuZ2V0SWQoKSk7CgkJaWYgKGNvbm4gPT0gbnVsbCkKCQkJcmV0dXJuOwoJCXRyeSB7CgkJCWNvbm4uY2xvc2UoKTsKCQkJLy8gudix1cv509DBrL3To6yyorDRQ29ubmVjdG9yyb619AoJCQltYXAucmVtb3ZlKGVudGl0eS5nZXRJZCgpKTsKCgkJfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKCQkJbG9nZ2VyLmVycm9yKCJjbG9zZSBFcnJvciIsIGUpOwoJCX0KCX0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHNvdXQgICAgCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CQlFbmRwb2ludENvbm5lY3Rvcjw/PiBjb25uID0gbWFwLmdldChlbnRpdHkuZ2V0SWQoKSk7CgkJaWYgKGNvbm4gPT0gbnVsbCkKCQkJcmV0dXJuOwoJCXRyeSB7CgkJCWNvbm4uY2xvc2UoKTsKCQkJLy8gudix1cv509DBrL3To6yyorDRQ29ubmVjdG9yyb619AoJCQltYXAucmVtb3ZlKGVudGl0eS5nZXRJZCgpKTsKCgkJfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKCQkJbG9nZ2VyLmVycm9yKCJjbG9zZSBFcnJvciIsIGUpOwoJCX0=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAtLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgICAgICAgICAgICAgINf31d+jusDLt6gtyPDXyAogICAgICAgIMC01LSjukNTRE4KICAgICAgICDUrc7Eo7podHRwczovL2Jsb2cuY3Nkbi5uZXQvcXFfMjU5NTg0OTcvYXJ0aWNsZS9kZXRhaWxzLzc4ODA0MzM0IAogICAgICAgILDmyKjJ+cP3o7qxvs7Ezqqyqdb31K20tM7E1cKjrNeq1NjH67i9yc+yqc7EwbS906OhCg==</text>
+        <text encoding="base64">ICAgIHNvdXQgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgICAgICAgICAgICAgINf31d+jusDLt6gtyPDXyAogICAgICAgIMC01LSjukNTRE4KICAgICAgICDUrc7Eo7podHRwczovL2Jsb2cuY3Nkbi5uZXQvcXFfMjU5NTg0OTcvYXJ0aWNsZS9kZXRhaWxzLzc4ODA0MzM0IAogICAgICAgILDmyKjJ+cP3o7qxvs7Ezqqyqdb31K20tM7E1cKjrNeq1NjH67i9yc+yqc7EwbS906OhCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text># 让9002监听新的db(47)
 s3Cmpp.redis.url=redis://PassRedis@120.79.212.19/47</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBDbXBwUmVwb3J0IGNtcHBSZXBvcnQgPSBDbXBwS2l0LmRlc2VyaWFsaXplKG1zZy5nZXRCb2R5KCkpOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBUcmFjZUtpdC5zZXRJZEZvcmNlbHkobXNnLmdldE1zZ0lkKCkrKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
