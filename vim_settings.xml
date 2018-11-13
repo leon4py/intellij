@@ -353,6 +353,12 @@
         <mark key="." line="78" column="15" />
         <mark key="^" line="78" column="15" />
       </file>
+      <file name="D:/code/lab/SMSGate/src/main/java/com/zx/sms/handler/cmpp/CmppActiveTestRequestMessageHandler.java" timestamp="1542082137721">
+        <mark key="[" line="38" column="38" />
+        <mark key="]" line="40" column="25" />
+        <mark key="." line="40" column="25" />
+        <mark key="^" line="40" column="25" />
+      </file>
       <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/ContentSerializer.java" timestamp="1539338254029">
         <mark key="[" line="22" column="24" />
         <mark key="]" line="22" column="24" />
@@ -465,28 +471,28 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cn0K</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKHZhbHVlID0gIi9oZWFsdGgvY2hlY2siLCBwcm9kdWNlcyA9IE1lZGlhVHlwZS5BUFBMSUNBVElPTl9KU09OX1VURjhfVkFMVUUpCiAgICBwdWJsaWMgQXBpUmVzcG9uc2UgaGVhbHRoQ2hlY2soKSB7CiAgICAgICAgTWFwPFN0cmluZywgU3RyaW5nPiBtYXAgPSBDb2xsZWN0aW9ucy5zaW5nbGV0b25NYXAoImNvZGUiLCAiMCIpOwogICAgICAgIHJldHVybiBBcGlSZXNwb25zZS5zdWNjZXNzKG1hcCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5kb0dldChyZXEsIHJlc3ApOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">QFJlc3RDb250cm9sbGVyCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PCEtLSAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5tY2h1YW48L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmxvZ2dpbmc8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjEuMC42PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4tLT4=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cn0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKHZhbHVlID0gIi9oZWFsdGgvY2hlY2siLCBwcm9kdWNlcyA9IE1lZGlhVHlwZS5BUFBMSUNBVElPTl9KU09OX1VURjhfVkFMVUUpCiAgICBwdWJsaWMgQXBpUmVzcG9uc2UgaGVhbHRoQ2hlY2soKSB7CiAgICAgICAgTWFwPFN0cmluZywgU3RyaW5nPiBtYXAgPSBDb2xsZWN0aW9ucy5zaW5nbGV0b25NYXAoImNvZGUiLCAiMCIpOwogICAgICAgIHJldHVybiBBcGlSZXNwb25zZS5zdWNjZXNzKG1hcCk7CiAgICB9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlci5kb0dldChyZXEsIHJlc3ApOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">QFJlc3RDb250cm9sbGVyCg==</text>
       </register>
       <register name="-" type="4">
         <text>return</text>
