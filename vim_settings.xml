@@ -3,8 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/code/mchuan/SMS4/mc_ngx/resty_modules/lua/router.lua" timestamp="1542163914950">
-        <mark key="[" line="45" column="77" />
+      <file name="D:/code/mchuan/SMS4/mc_ngx/resty_modules/lua/router.lua" timestamp="1542165420851">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="D:/code/mchuan/SMS4/sms4-gateway/src/main/java/com/mchuan/gateway/cmpp/UserReportTxListener.java" timestamp="1542120444222">
         <mark key="[" line="55" column="44" />
@@ -28,9 +30,6 @@
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
         <mark key="^" line="78" column="14" />
-      </file>
-      <file name="D:/code/mchuan/SMS4/sms3-service/src/main/java/com/mchuan/s3service/service/CmppService.java" timestamp="1542097233952">
-        <mark key="'" line="39" column="57" />
       </file>
       <file name="D:/code/mchuan/SMS4/sms3-service/src/main/java/com/mchuan/s3service/constants/ApiCode.java" timestamp="1542124322897">
         <mark key="[" line="94" column="9" />
@@ -58,6 +57,12 @@
         <mark key="^" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="D:/code/mchuan/SMS4/mc_ngx/conf/sites/8101-and-9007.conf" timestamp="1542165820440">
+        <mark key="[" line="58" column="52" />
+        <mark key="]" line="58" column="52" />
+        <mark key="." line="58" column="52" />
+        <mark key="^" line="58" column="52" />
+      </file>
       <file name="D:/code/mchuan/SMS4/sms4-gateway/src/main/java/com/mchuan/gateway/cmpp/CmppReportHandler.java" timestamp="1542159347418">
         <mark key="[" line="139" column="119" />
         <mark key="]" line="138" column="65" />
@@ -69,6 +74,12 @@
         <mark key="]" line="55" column="15" />
         <mark key="^" line="54" column="35" />
         <mark key="." line="55" column="15" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/mc_ngx/resty_modules/lua/routerMo.lua" timestamp="1542165615649">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="38" column="53" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1542158491180">
         <mark key="[" line="0" column="0" />
@@ -154,44 +165,44 @@
       <jump line="121" column="43" filename="D:/code/mchuan/SMS4/sms4-gateway/src/main/java/com/mchuan/gateway/cmpp/CmppSubmitHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>parseInt</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LS0gICAgbmd4LnNheShzbXM0X3JvdXRlc1tyb3V0ZV9pZF0pCi0tICAgIG5neC5leGl0KDIwMCkKLS0gICAgcmV0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>parseInt</text>
+        <text>REPORT_TYPE_VALUE</text>
       </register>
       <register name="/" type="4">
         <text>enab</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlckNtcHBTZXJ2aWNlLnNhdmVDbXBwU3RhdChtc2dJZCwgbmV3IENtcHBTdGF0KCkuc2V0UmVjZWl2ZVJlcG9ydFRpbWUoRGF0ZXRpbWVLaXQubm93TG9jYWxEYXRlVGltZSgpKSk7Cg==</text>
+        <text encoding="base64">ICAgIGxvY2F0aW9uIC8gewoKICAgICAgICBhY2Nlc3NfYnlfbHVhX2ZpbGUgcmVzdHlfbW9kdWxlcy9sdWEvcm91dGVyLmx1YTsKICAgICAgICBwcm94eV9wYXNzIGh0dHA6Ly9zOTAwNzsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gVU5LT1dOOwo=</text>
+        <text encoding="base64">LS0gICAgbmd4LnNheShzbXM0X3JvdXRlc1tyb3V0ZV9pZF0pCi0tICAgIG5neC5leGl0KDIwMCkKLS0gICAgcmV0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbnVtYmVyID0gTnVtYmVyVXRpbHMudG9JbnQoYXBpQ29kZSwgMjU2KTsK</text>
+        <text encoding="base64">ICAgIGxvY2F0aW9uIC9tby5qc3AgewoKICAgICAgICBhY2Nlc3NfYnlfbHVhX2ZpbGUgcmVzdHlfbW9kdWxlcy9sdWEvcm91dGVyMi5sdWE7CiAgICAgICAgcHJveHlfcGFzcyBodHRwOi8vczkwMDc7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBOdW1iZXJVCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGlmIHJlcXVlc3RfdHlwZSA9PSBIRUFERVJfUkVRVUVTVF9VUE1TR19UWVBFX1ZBTFVFIGFuZCByb3V0ZV9pZCB+PSAnNjIwOCcgdGhlbgogICAgICAgIG5neC5leGl0KG5neC5PSykKICAgICAgICByZXR1cm4KICAgIGVuZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBzNFJlZGlzQXN5bmNDb21tYW5kcy5zZXRleChrZXksIHRpbWVvdXRTZWNvbmRzLCBDYWNoZWRNaWxsaXNlY29uZENsb2NrLklOUy5ub3coKSArICIiKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gVU5LT1dOOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9uZyB0aW1lb3V0U2Vjb25kcyA9IFRpbWVVbml0LkhPVVJTLnRvU2Vjb25kcygxKTsK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgbnVtYmVyID0gTnVtYmVyVXRpbHMudG9JbnQoYXBpQ29kZSwgMjU2KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBTdHJpbmcga2V5ID0gUmVkaXNLZXkucHVzaFVzZXJSZXBvcnQudG9LZXkobXNnSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBOdW1iZXJVCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBzNFJlZGlzQXN5bmNDb21tYW5kcy5zZXRleChrZXksIHRpbWVvdXRTZWNvbmRzLCBDYWNoZWRNaWxsaXNlY29uZENsb2NrLklOUy5ub3coKSArICIiKTsK</text>
       </register>
     </registers>
     <search>
