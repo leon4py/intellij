@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/code/mchuan/SMS4/sms4-gateway/src/test/java/com/mchuan/gateway/cmpp/CmppKitTest.java" timestamp="1542271814573">
+      <file name="D:/code/mchuan/SMS4/sms4-gateway/src/test/java/com/mchuan/gateway/cmpp/CmppKitTest.java" timestamp="1542273861474">
         <mark key="'" line="33" column="53" />
-        <mark key="[" line="36" column="54" />
-        <mark key="]" line="36" column="54" />
-        <mark key="." line="36" column="54" />
-        <mark key="^" line="36" column="54" />
+        <mark key="[" line="21" column="33" />
+        <mark key="]" line="21" column="33" />
+        <mark key="." line="21" column="33" />
       </file>
       <file name="/a.dummy" timestamp="1542265213461">
         <mark key="[" line="0" column="0" />
@@ -222,11 +221,11 @@
       <jump line="33" column="53" filename="D:/code/mchuan/SMS4/sms4-gateway/src/test/java/com/mchuan/gateway/cmpp/CmppKitTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzb3R1ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>Decoder</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>Decoder</text>
       </register>
       <register name="/" type="4">
         <text>enab</text>
@@ -235,31 +234,31 @@
         <text encoding="base64">ICAgICAgICAgICAgY21wcFJlcG9ydC5zZXRJZChzZW5kZWQuZ2V0SWQoKSk7CiAgICAgICAgICAgIGNtcHBSZXBvcnQuc2V0UnB0U3BudW1iZXIoc2VuZGVkLmdldFJwdFNwbnVtYmVyKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzb3R1ICAgIAo=</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgYnl0ZVtdIGxvbmdUb0J5dGVzKGxvbmcgeCkgewogICAgICAgIEJ5dGVCdWZmZXIgYnVmZmVyID0gQnl0ZUJ1ZmZlci5hbGxvY2F0ZShMb25nLkJZVEVTKTsKICAgICAgICBidWZmZXIucHV0TG9uZyh4KTsKICAgICAgICByZXR1cm4gYnVmZmVyLmFycmF5KCk7CiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFjY2VwdGVkCg==</text>
+        <text encoding="base64">ICAgICAgICBzb3R1ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRvd24gdm90ZQo=</text>
+        <text encoding="base64">ICAgIGFjY2VwdGVkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgSW50ZWdlcigpLgo=</text>
+        <text encoding="base64">ICAgIGRvd24gdm90ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy53YXJuKCLV4rj217TMrLK7yvTT2s7St6LLzbXEIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgSW50ZWdlcigpLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vINe0zKwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy53YXJuKCLV4rj217TMrLK7yvTT2s7St6LLzbXEIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gbXNnSWRMaXN0ID0gTGlzdHMubmV3QXJyYXlMaXN0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vINe0zKwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gbXNnSWRMaXN0ID0gTGlzdHMubmV3QXJyYXlMaXN0KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZGVsaXZlci5nZXRGcmFnbWVudHMoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
     </registers>
     <search>
