@@ -10,19 +10,24 @@
         <mark key="." line="33" column="53" />
         <mark key="^" line="33" column="53" />
       </file>
+      <file name="D:/code/mchuan/SMS4/report-rescuer/pom.xml" timestamp="1542608097036" />
+      <file name="$MAVEN_REPOSITORY$/com/zx/sms/cmpp-core/2.1.3/cmpp-core-2.1.3-sources.jar!/com/zx/sms/connect/manager/cmpp/CMPPServerChildEndpointConnector.java" timestamp="1542609148377" />
+      <file name="D:/code/mchuan/SMS4/sms-common/src/main/java/com/mchuan/sms3/model/Sms3Report.java" timestamp="1542606641497" />
       <file name="D:/code/mchuan/SMS4/sms3-service/src/main/java/com/mchuan/s3service/constants/ApiCode.java" timestamp="1542550770744">
         <mark key="[" line="91" column="49" />
         <mark key="]" line="91" column="50" />
         <mark key="." line="91" column="50" />
         <mark key="^" line="91" column="50" />
       </file>
-      <file name="D:/code/mchuan/SMS4/sms4-model/src/main/resources/mapper/s4main/Sms4SentMapper.xml" timestamp="1542356809067">
+      <file name="D:/code/mchuan/SMS4/sms4-model/src/main/resources/mapper/s4main/Sms4SentMapper.xml" timestamp="1542607192734">
         <mark key="[" line="470" column="0" />
         <mark key="]" line="472" column="16" />
         <mark key="." line="471" column="41" />
         <mark key="^" line="471" column="41" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/zx/sms/cmpp-core/2.1.3/cmpp-core-2.1.3-sources.jar!/com/zx/sms/session/AbstractSessionStateManager.java" timestamp="1542608933600" />
       <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/service/SmsService.java" timestamp="1542597811541" />
+      <file name="D:/code/mchuan/SMS4/report-service/src/main/java/com/mchuan/report/mq/SmsReportConsumer.java" timestamp="1542606741916" />
       <file name="D:/code/mchuan/SMS4/sms4-gateway/src/main/java/com/mchuan/gateway/cmpp/CmppReportHandler.java" timestamp="1542355488556">
         <mark key="[" line="208" column="41" />
         <mark key="]" line="208" column="41" />
@@ -41,6 +46,14 @@
         <mark key="." line="50" column="29" />
         <mark key="^" line="50" column="29" />
       </file>
+      <file name="D:/code/mchuan/SMS4/sms4-sentbuf/src/main/java/com/mchuan/sms4/sentbuf/SmsSubmitConsumer.java" timestamp="1542609975584">
+        <mark key="[" line="390" column="0" />
+        <mark key="]" line="390" column="0" />
+        <mark key="^" line="390" column="20" />
+        <mark key="." line="390" column="0" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms4-rest/pom.xml" timestamp="1542608130025" />
+      <file name="$MAVEN_REPOSITORY$/com/zx/sms/cmpp-core/2.1.3/cmpp-core-2.1.3-sources.jar!/com/zx/sms/connect/manager/AbstractEndpointConnector.java" timestamp="1542609129393" />
       <file name="D:/code/mchuan/SMS4/sms4-transmitter/src/main/java/com/mchuan/transmitter/service/TransmitterService.java" timestamp="1542358525432">
         <mark key="[" line="33" column="28" />
         <mark key="]" line="33" column="33" />
@@ -53,7 +66,7 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/code/mchuan/SMS4/sms4-gateway/src/main/java/com/mchuan/gateway/cmpp/CmppSubmitHandler.java" timestamp="1542550780720">
+      <file name="D:/code/mchuan/SMS4/sms4-gateway/src/main/java/com/mchuan/gateway/cmpp/CmppSubmitHandler.java" timestamp="1542607960558">
         <mark key="'" line="120" column="43" />
         <mark key="[" line="101" column="40" />
         <mark key="]" line="101" column="49" />
@@ -65,6 +78,12 @@
         <mark key="]" line="66" column="63" />
         <mark key="." line="66" column="0" />
         <mark key="^" line="82" column="51" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms4-sentbuf/pom.xml" timestamp="1542608506960">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="^" line="57" column="88" />
+        <mark key="." line="116" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -129,44 +148,44 @@
       <jump line="33" column="53" filename="D:/code/mchuan/SMS4/sms4-gateway/src/test/java/com/mchuan/gateway/cmpp/CmppKitTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>statusCode</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8cGx1Z2lucz4KICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWRlcGVuZGVuY3ktcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPGV4ZWN1dGlvbnM+CiAgICAgICAgICAgICAgICAgICAgPGV4ZWN1dGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgPGlkPmNvcHktZGVwZW5kZW5jaWVzPC9pZD4KICAgICAgICAgICAgICAgICAgICAgICAgPHBoYXNlPnBhY2thZ2U8L3BoYXNlPgogICAgICAgICAgICAgICAgICAgICAgICA8Z29hbHM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Z29hbD5jb3B5LWRlcGVuZGVuY2llczwvZ29hbD4KICAgICAgICAgICAgICAgICAgICAgICAgPC9nb2Fscz4KICAgICAgICAgICAgICAgICAgICAgICAgPGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8b3V0cHV0RGlyZWN0b3J5PiR7cHJvamVjdC5idWlsZC5kaXJlY3Rvcnl9L2xpYi88L291dHB1dERpcmVjdG9yeT4KICAgICAgICAgICAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgPC9leGVjdXRpb25zPgogICAgICAgICAgICA8L3BsdWdpbj4KICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWphci1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgICAgICA8YXJjaGl2ZT4KICAgICAgICAgICAgICAgICAgICAgICAgPG1hbmlmZXN0PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGFkZENsYXNzcGF0aD50cnVlPC9hZGRDbGFzc3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Y2xhc3NwYXRoUHJlZml4PmxpYi88L2NsYXNzcGF0aFByZWZpeD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtYWluQ2xhc3M+Y29tLm1jaHVhbi5zbXM0LnNlbnRidWYuU21zNFNlbnRCdWZBcHA8L21haW5DbGFzcz4KICAgICAgICAgICAgICAgICAgICAgICAgPC9tYW5pZmVzdD4KICAgICAgICAgICAgICAgICAgICA8L2FyY2hpdmU+CiAgICAgICAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgIDwvcGx1Z2luPgoKICAgICAgICA8L3BsdWdpbnM+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>statusCode</text>
+        <text>submit.getMsgId() + &quot;</text>
       </register>
       <register name="/" type="4">
         <text>enab</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5lcnJvcigiaHR0cNe0zKzC67TtzvM6e30iLCBzdGF0dXNDb2RlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIs3Gy83Kp7Dc17TMrDp7fSIsIGJhY2t1cFNlbmRlZCk7CiAgICAgICAgICAgIHJlcG9ydFNlcnZpY2Uuc2F2ZVN0YXR1cyhiYWNrdXBTZW5kZWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGNvdW50ID0gQ29sbGVjdGlvblV0aWxzLnNpemUoZnJhZ21lbnRzKSArIDE7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cGx1Z2lucz4KICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWRlcGVuZGVuY3ktcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPGV4ZWN1dGlvbnM+CiAgICAgICAgICAgICAgICAgICAgPGV4ZWN1dGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgPGlkPmNvcHktZGVwZW5kZW5jaWVzPC9pZD4KICAgICAgICAgICAgICAgICAgICAgICAgPHBoYXNlPnBhY2thZ2U8L3BoYXNlPgogICAgICAgICAgICAgICAgICAgICAgICA8Z29hbHM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Z29hbD5jb3B5LWRlcGVuZGVuY2llczwvZ29hbD4KICAgICAgICAgICAgICAgICAgICAgICAgPC9nb2Fscz4KICAgICAgICAgICAgICAgICAgICAgICAgPGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8b3V0cHV0RGlyZWN0b3J5PiR7cHJvamVjdC5idWlsZC5kaXJlY3Rvcnl9L2xpYi88L291dHB1dERpcmVjdG9yeT4KICAgICAgICAgICAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgPC9leGVjdXRpb25zPgogICAgICAgICAgICA8L3BsdWdpbj4KICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWphci1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgICAgICA8YXJjaGl2ZT4KICAgICAgICAgICAgICAgICAgICAgICAgPG1hbmlmZXN0PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGFkZENsYXNzcGF0aD50cnVlPC9hZGRDbGFzc3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Y2xhc3NwYXRoUHJlZml4PmxpYi88L2NsYXNzcGF0aFByZWZpeD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtYWluQ2xhc3M+Y29tLm1jaHVhbi5zbXM0LnNlbnRidWYuU21zNFNlbnRCdWZBcHA8L21haW5DbGFzcz4KICAgICAgICAgICAgICAgICAgICAgICAgPC9tYW5pZmVzdD4KICAgICAgICAgICAgICAgICAgICA8L2FyY2hpdmU+CiAgICAgICAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgIDwvcGx1Z2luPgoKICAgICAgICA8L3BsdWdpbnM+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3BvbnNlTWVzc2FnZS5zZXRSZXN1bHQoY21wcENvZGUuZ2V0Q29kZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtYWluQ2xhc3M+Y29tLm1jaHVhbi5zbXM0LmFwaS5TbXM0QXBpQXBwPC9tYWluQ2xhc3M+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENtcHBTdWJtaXRSZXNwb25zZU1lc3NhZ2UgcmVzcG9uc2VNZXNzYWdlID0gbmV3IENtcHBTdWJtaXRSZXNwb25zZU1lc3NhZ2UobXNnLmdldEhlYWRlcigpLmdldFNlcXVlbmNlSWQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYWNrdXBTZW5kZWQuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3BvbnNlTWVzc2FnZS5zZXRSZXN1bHQoY21wcENvZGUuZ2V0Q29kZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIs3Gy83Kp7Dc17TMrDp7fSIsIGJhY2t1cFNlbmRlZCk7CiAgICAgICAgICAgIHJlcG9ydFNlcnZpY2Uuc2F2ZVN0YXR1cyhiYWNrdXBTZW5kZWQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdyaXRlRXJyb3JSZXNwb25zZShtc2csIGN0eCwgVHJhY2VLaXQuZ2V0UmVxdWVzdElkKCksIG51bGwsIHJlc3BvbnNlTWVzc2FnZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzbXMzUmVwb3J0LnNldFJlcG9ydElkKHN1Ym1pdC5nZXRNc2dJZCgpICsgIiIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3BvbnNlTWVzc2FnZS5zZXRSZXN1bHQoODYpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGNvdW50ID0gQ29sbGVjdGlvblV0aWxzLnNpemUoZnJhZ21lbnRzKSArIDE7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENtcHBTdWJtaXRSZXNwb25zZU1lc3NhZ2UgcmVzcG9uc2VNZXNzYWdlID0gbmV3IENtcHBTdWJtaXRSZXNwb25zZU1lc3NhZ2UobXNnLmdldEhlYWRlcigpLmdldFNlcXVlbmNlSWQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3BvbnNlTWVzc2FnZS5zZXRSZXN1bHQoY21wcENvZGUuZ2V0Q29kZSgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENtcHBTdWJtaXRSZXNwb25zZU1lc3NhZ2UgcmVzcG9uc2VNZXNzYWdlID0gY3JlYXRlRXJyb3JSZXNwb25zZShtc2csIHVzZXJJZCwgc3RhdHVzQ29kZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENtcHBTdWJtaXRSZXNwb25zZU1lc3NhZ2UgcmVzcG9uc2VNZXNzYWdlID0gbmV3IENtcHBTdWJtaXRSZXNwb25zZU1lc3NhZ2UobXNnLmdldEhlYWRlcigpLmdldFNlcXVlbmNlSWQoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENtcHBTdWJtaXRSZXNwb25zZU1lc3NhZ2UgcmVzcG9uc2VNZXNzYWdlID0gY3JlYXRlRXJyb3JSZXNwb25zZShtc2csIHVzZXJJZCwgc3RhdHVzQ29kZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3BvbnNlTWVzc2FnZS5zZXRSZXN1bHQoY21wcENvZGUuZ2V0Q29kZSgpKTsK</text>
       </register>
     </registers>
     <search>
