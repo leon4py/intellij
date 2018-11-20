@@ -18,6 +18,12 @@
       <file name="D:/code/mchuan/SMSGate/src/main/java/com/zx/sms/common/util/DefaultMsgIdUtil.java" timestamp="1542626626505" />
       <file name="D:/code/mchuan/SMSGate/src/main/java/com/zx/sms/handler/cmpp/CmppActiveTestRequestMessageHandler.java" timestamp="1542700789077" />
       <file name="D:/code/mchuan/SMSGate/src/main/java/com/zx/sms/connect/manager/AbstractEndpointConnector.java" timestamp="1542700744077" />
+      <file name="D:/code/mchuan/SMSGate/src/main/java/com/zx/sms/codec/cmpp/msg/DefaultHeader.java" timestamp="1542702210721">
+        <mark key="[" line="70" column="78" />
+        <mark key="]" line="70" column="101" />
+        <mark key="^" line="70" column="101" />
+        <mark key="." line="70" column="101" />
+      </file>
       <file name="D:/code/mchuan/SMSGate/src/main/java/com/zx/sms/connect/manager/EndpointManager.java" timestamp="1542626696387">
         <mark key="[" line="23" column="44" />
         <mark key="]" line="23" column="44" />
@@ -26,14 +32,17 @@
     </filemarks>
     <jumps />
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">CQlyZXR1cm4gU3RyaW5nLmZvcm1hdCgiRGVmYXVsdEhlYWRlciBbY29tbWFuZElkPSIgKyBjb21tYW5kSWQgKyAiLCBzZXF1ZW5jZUlkPSIgKyBzZXF1ZW5jZUlkICsgIl0iKTsK</text>
+      </register>
       <register name="1" type="2">
         <text encoding="base64">CQkK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="&quot;" type="4">
+        <text>sequenceId</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmluYWwg</text>
+        <text>sequenceId</text>
       </register>
     </registers>
     <search>
