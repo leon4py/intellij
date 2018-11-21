@@ -3,46 +3,63 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/code/mchuan/SMSGate/src/main/java/com/zx/sms/session/AbstractSessionLoginManager.java" timestamp="1542698249804">
-        <mark key="[" line="152" column="85" />
-        <mark key="]" line="151" column="31" />
-        <mark key="." line="151" column="31" />
-        <mark key="^" line="151" column="31" />
+      <file name="D:/code/mchuan/SMSGate/src/main/java/com/zx/sms/session/AbstractSessionLoginManager.java" timestamp="1542788184039" />
+      <file name="D:/code/mchuan/SMSGate/src/main/java/com/zx/sms/session/cmpp/SessionLoginManager.java" timestamp="1542788147665">
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="^" line="143" column="34" />
+        <mark key="." line="144" column="0" />
       </file>
-      <file name="D:/code/mchuan/SMSGate/src/main/java/com/zx/sms/handler/MessageLogHandler.java" timestamp="1542701202247">
-        <mark key="[" line="34" column="8" />
-        <mark key="]" line="34" column="12" />
-        <mark key="^" line="34" column="12" />
-        <mark key="." line="34" column="12" />
+      <file name="D:/code/mchuan/SMSGate/src/main/java/com/zx/sms/codec/cmpp/msg/CmppConnectResponseMessage.java" timestamp="1542788058760">
+        <mark key="[" line="27" column="81" />
+        <mark key="]" line="28" column="37" />
+        <mark key="^" line="28" column="37" />
+        <mark key="." line="28" column="37" />
       </file>
-      <file name="D:/code/mchuan/SMSGate/src/main/java/com/zx/sms/common/util/DefaultMsgIdUtil.java" timestamp="1542626626505" />
-      <file name="D:/code/mchuan/SMSGate/src/main/java/com/zx/sms/handler/cmpp/CmppActiveTestRequestMessageHandler.java" timestamp="1542700789077" />
-      <file name="D:/code/mchuan/SMSGate/src/main/java/com/zx/sms/connect/manager/AbstractEndpointConnector.java" timestamp="1542700744077" />
-      <file name="D:/code/mchuan/SMSGate/src/main/java/com/zx/sms/codec/cmpp/msg/DefaultHeader.java" timestamp="1542702210721">
-        <mark key="[" line="70" column="78" />
-        <mark key="]" line="70" column="101" />
-        <mark key="^" line="70" column="101" />
-        <mark key="." line="70" column="101" />
-      </file>
-      <file name="D:/code/mchuan/SMSGate/src/main/java/com/zx/sms/connect/manager/EndpointManager.java" timestamp="1542626696387">
-        <mark key="[" line="23" column="44" />
-        <mark key="]" line="23" column="44" />
-        <mark key="." line="23" column="44" />
+      <file name="D:/code/mchuan/SMSGate/src/main/java/com/zx/sms/codec/cmpp/msg/DefaultHeader.java" timestamp="1542787875657">
+        <mark key="[" line="68" column="4" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="62" column="0" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">CQlyZXR1cm4gU3RyaW5nLmZvcm1hdCgiRGVmYXVsdEhlYWRlciBbY29tbWFuZElkPSIgKyBjb21tYW5kSWQgKyAiLCBzZXF1ZW5jZUlkPSIgKyBzZXF1ZW5jZUlkICsgIl0iKTsK</text>
+        <text encoding="base64">CQlDbXBwQ29ubmVjdFJlc3BvbnNlTWVzc2FnZSByZXNwID0gbmV3IENtcHBDb25uZWN0UmVzcG9uc2VNZXNzYWdlKG1lc3NhZ2UuZ2V0SGVhZGVyKCkuZ2V0U2VxdWVuY2VJZCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>sequenceId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQl9Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJcmVzcCA9IG5ldyBDbXBwQ29ubmVjdFJlc3BvbnNlTWVzc2FnZShtZXNzYWdlLmdldEhlYWRlcigpLmdldFNlcXVlbmNlSWQoKSk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQl9IGVsc2Ugewo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQlpZiAobXNnIGluc3RhbmNlb2YgQ21wcENvbm5lY3RSZXF1ZXN0TWVzc2FnZSkgewo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJcmVzcCA9IG5ldyBDbXBwQ29ubmVjdFJlc3BvbnNlTWVzc2FnZShtZXNzYWdlKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQlyZXNwID0gbmV3IENtcHBDb25uZWN0UmVzcG9uc2VNZXNzYWdlKG1lc3NhZ2UuZ2V0SGVhZGVyKCkuZ2V0U2VxdWVuY2VJZCgpKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CQlDbXBwQ29ubmVjdFJlc3BvbnNlTWVzc2FnZSByZXNwID0gbmV3IENtcHBDb25uZWN0UmVzcG9uc2VNZXNzYWdlKG1lc3NhZ2UuZ2V0SGVhZGVyKCkuZ2V0U2VxdWVuY2VJZCgpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>sequenceId</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
@@ -54,14 +71,8 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed X</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed V</text>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
