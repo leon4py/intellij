@@ -4,11 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="D:/code/mchuan/SMSGate/src/main/java/com/zx/sms/session/AbstractSessionLoginManager.java" timestamp="1542794433773" />
-      <file name="D:/code/mchuan/SMSGate/src/main/java/com/zx/sms/session/cmpp/SessionLoginManager.java" timestamp="1542788147665">
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
+      <file name="D:/code/mchuan/SMSGate/src/main/java/com/zx/sms/session/cmpp/SessionLoginManager.java" timestamp="1542814181855">
+        <mark key="[" line="159" column="77" />
+        <mark key="]" line="159" column="77" />
         <mark key="^" line="143" column="34" />
-        <mark key="." line="144" column="0" />
+        <mark key="." line="159" column="77" />
       </file>
       <file name="D:/code/mchuan/SMSGate/src/main/java/com/zx/sms/codec/cmpp/msg/CmppConnectResponseMessage.java" timestamp="1542788058760">
         <mark key="[" line="27" column="81" />
@@ -31,8 +31,8 @@
       <register name="1" type="2">
         <text encoding="base64">CQl9Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>message.getHeader().getSequenceId()</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">CQkJcmVzcCA9IG5ldyBDbXBwQ29ubmVjdFJlc3BvbnNlTWVzc2FnZShtZXNzYWdlLmdldEhlYWRlcigpLmdldFNlcXVlbmNlSWQoKSk7Cg==</text>
@@ -59,7 +59,7 @@
         <text encoding="base64">CQlDbXBwQ29ubmVjdFJlc3BvbnNlTWVzc2FnZSByZXNwID0gbmV3IENtcHBDb25uZWN0UmVzcG9uc2VNZXNzYWdlKG1lc3NhZ2UuZ2V0SGVhZGVyKCkuZ2V0U2VxdWVuY2VJZCgpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>message.getHeader().getSequenceId()</text>
       </register>
     </registers>
     <search>
