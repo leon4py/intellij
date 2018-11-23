@@ -9,6 +9,7 @@
         <mark key="." line="38" column="53" />
         <mark key="^" line="38" column="53" />
       </file>
+      <file name="D:/code/mchuan/SMS4/sms4-gateway/src/main/java/com/mchuan/gateway/cmpp/UserReportTxListener.java" timestamp="1542997044081" />
       <file name="D:/code/mchuan/SMS4/sms4-cmpp-common/pom.xml" timestamp="1542819562050">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -38,6 +39,12 @@
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
       </file>
+      <file name="D:/code/mchuan/SMS4/sms4-gateway/src/main/java/com/mchuan/gateway/service/UserCmppService.java" timestamp="1542996305410">
+        <mark key="[" line="53" column="92" />
+        <mark key="]" line="53" column="96" />
+        <mark key="^" line="53" column="96" />
+        <mark key="." line="53" column="96" />
+      </file>
       <file name="D:/code/mchuan/SMS4/sms4-sentbuf/src/test/java/com/mchuan/sms4/sentbuf/SmsSubmitConsumerTest.java" timestamp="1542989858556">
         <mark key="[" line="39" column="65" />
         <mark key="]" line="39" column="64" />
@@ -58,12 +65,11 @@
         <mark key="]" line="45" column="70" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="D:/code/mchuan/SMS4/sms4-gateway/src/main/java/com/mchuan/gateway/cmpp/CmppReportHandler.java" timestamp="1542993630972">
-        <mark key="'" line="236" column="22" />
-        <mark key="[" line="234" column="19" />
-        <mark key="]" line="234" column="22" />
-        <mark key="^" line="234" column="22" />
-        <mark key="." line="234" column="22" />
+      <file name="D:/code/mchuan/SMS4/sms4-gateway/src/main/java/com/mchuan/gateway/cmpp/CmppReportHandler.java" timestamp="1542997163201">
+        <mark key="[" line="262" column="0" />
+        <mark key="]" line="263" column="56" />
+        <mark key="^" line="269" column="89" />
+        <mark key="." line="262" column="0" />
       </file>
       <file name="D:/code/mchuan/SMS4/sms4-sentbuf/src/main/java/com/mchuan/sms4/sentbuf/SmsSubmitConsumer.java" timestamp="1542991623976">
         <mark key="[" line="226" column="32" />
@@ -97,6 +103,11 @@
         <mark key="]" line="53" column="0" />
         <mark key="^" line="52" column="21" />
         <mark key="." line="53" column="0" />
+      </file>
+      <file name="D:/code/mchuan/SMS4/sms3-service/src/main/java/com/mchuan/s3service/service/CmppService.java" timestamp="1542994294625">
+        <mark key="[" line="60" column="5" />
+        <mark key="]" line="60" column="5" />
+        <mark key="." line="60" column="5" />
       </file>
       <file name="D:/code/mchuan/SMS4/sms4-service/src/test/java/com/mchuan/sms4/service/Sms4SenderTest.java" timestamp="1542968807045">
         <mark key="[" line="35" column="48" />
@@ -203,41 +214,47 @@
       <jump line="236" column="22" filename="D:/code/mchuan/SMS4/sms4-gateway/src/main/java/com/mchuan/gateway/cmpp/CmppReportHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8g08O7p9LRvq2908rVtb0sINC0yOvK/b7dv+IKICAgICAgICAgICAgc2F2ZUNtcHBTdGF0VG9EQihtc2csIGNtcHBSZXBvcnQsIGNtcHBTdGF0KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>MINUTES</text>
       </register>
       <register name="/" type="4">
         <text>enab</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG1lc3NhZ2UgPSBTdHJpbmcuZm9ybWF0KCKw/Lqs08XPyLTKKCVzKbXEtszQxda7xNzW2MrU0ru0zjolcyIsIHByaW9yaXR5V29yZHMsIHN1Ym1pdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nLmluZm8oInt9t6LLzcrCzvHP+8+iOnt9LCByZXN1bHQ6e30iLCB1c2VySWQsIGNtcHBSZXBvcnQsIHNlbmRSZXN1bHQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVwZGF0ZUZhaWxTdGF0dXMoc3VibWl0LCBtZXNzYWdlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g08O7p9LRvq2908rVtb0sINC0yOvK/b7dv+IKICAgICAgICAgICAgc2F2ZUNtcHBTdGF0VG9EQihtc2csIGNtcHBSZXBvcnQsIGNtcHBTdGF0KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gsPy6rNPFz8i0yrXEtszQxda7xNzW2MrU0ru0zgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2F2ZUNtcHBTdGF0VG9EQihtc2csIGNtcHBSZXBvcnQsIGNtcHBTdGF0KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENvbnN1bWVyQ29uCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cud2Fybigi08O7pzp7fSDDu9PQytW1vde0zKws1tjNxte0zKw6e30iLCBtc2cuZ2V0VGFncygpLCBjbXBwUmVwb3J0KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="5" type="4">
+        <text>catch (RemotingException e) {
+                    e.printStackTrace();
+                } catch (MQBrokerException e) {
+                    e.printStackTrace();
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5pbmZvKCJ7fbeiy83Kws7xz/vPojp7fSwgcmVzdWx0Ont9IiwgdXNlcklkLCBjbXBwUmVwb3J0LCBzZW5kUmVzdWx0KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJodHRwx+vH89Lss6MsIHJvdXRlSWQ6e30sIGR0bDp7fSIsIHJvdXRlSWQsIHN1Ym1pdCwgZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
