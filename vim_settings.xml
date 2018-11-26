@@ -9,11 +9,11 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="D:/code/lab/base/mc-mq/src/main/java/com/mchuan/mq/consumer/RocketConsumerConfiguration.java" timestamp="1543247836007">
-        <mark key="[" line="122" column="80" />
-        <mark key="]" line="122" column="80" />
-        <mark key="." line="122" column="80" />
-        <mark key="^" line="113" column="65" />
+      <file name="D:/code/lab/base/mc-mq/src/main/java/com/mchuan/mq/consumer/RocketConsumerConfiguration.java" timestamp="1543250174845">
+        <mark key="[" line="126" column="119" />
+        <mark key="]" line="123" column="62" />
+        <mark key="." line="123" column="62" />
+        <mark key="^" line="123" column="62" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/rocketmq/rocketmq-client/4.3.0/rocketmq-client-4.3.0-sources.jar!/org/apache/rocketmq/client/consumer/listener/ConsumeConcurrentlyContext.java" timestamp="1543205547436" />
       <file name="D:/code/lab/base/mc-mq/src/main/java/com/mchuan/mq/consumer/ConsumerCallback.java" timestamp="1543246391291">
@@ -91,37 +91,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigie33G9Lavyqew3CIsIGNvbnN1bWVyLCBlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIENvbnN1bWVySGFuZGxlciBoYW5kbGVyID0gYmVhbkZhY3RvcnkuZ2V0QmVhbihDb25zdW1lckhhbmRsZXIuY2xhc3MsICJyZXBvcnRDb25zdW1lciIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>YPE</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdW1lci5zZXRDbGllbnRJUCgiMTkyLjE2OC4zLjUiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIENvbnN1bWVySGFuZGxlciBoYW5kbGVyID0gYmVhbkZhY3RvcnkuZ2V0QmVhbihDb25zdW1lckhhbmRsZXIuY2xhc3MsICJyZXBvcnRDb25zdW1lciIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdW1lci5zdWIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdW1lci5zZXRDbGllbnRJUCgiMTkyLjE2OC4zLjUiKTsK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdW1lci5zdWIK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IC8qIG5ldyBUaHJlYWQoKCkgLT4gewogICAgICAgICAgICBsb2dnZXIuaW5mbygiuPy4xCIpOwogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDIwKjEwMDApOwogICAgICAgICAgICAgICAgY29uc3VtZXIuc3Vic2NyaWJlKENvbnN0YW50cy5yZXBvcnQsICIqIik7CiAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICB9CiAgICAgICAgfSkuc3RhcnQoKTsqLw==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDIwKjEwMDApOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJ7fcb0tq/Kp7DcIiwgY29uc3VtZXIpOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXJ0Q29uc3VtZXIobGlzdGFibGVCZWFuRmFjdG9yeSwgY29uc3VtZSk7Cg==</text>
-      </register>
       <register name="-" type="4">
-        <text>YPE</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
