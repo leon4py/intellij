@@ -4,21 +4,24 @@
     <globalmarks />
     <filemarks>
       <file name="$MAVEN_REPOSITORY$/org/apache/rocketmq/rocketmq-client/4.3.0/rocketmq-client-4.3.0-sources.jar!/org/apache/rocketmq/client/impl/consumer/DefaultMQPushConsumerImpl.java" timestamp="1543245802466" />
-      <file name="D:/code/lab/base/mc-mq/src/test/java/com/mchuan/mq/consumer/SingleTestConsumer.java" timestamp="1543246254843">
+      <file name="D:/code/lab/base/mc-mq/src/test/java/com/mchuan/mq/consumer/SingleTestConsumer.java" timestamp="1543258553075">
+        <mark key="s" line="35" column="36" />
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="D:/code/lab/base/mc-mq/src/main/java/com/mchuan/mq/consumer/RocketConsumerConfiguration.java" timestamp="1543251766664">
-        <mark key="[" line="133" column="92" />
-        <mark key="]" line="120" column="118" />
-        <mark key="." line="120" column="118" />
-        <mark key="^" line="120" column="118" />
+      <file name="D:/code/lab/base/mc-mq/src/main/java/com/mchuan/mq/consumer/RocketConsumerConfiguration.java" timestamp="1543258102728">
+        <mark key="[" line="139" column="78" />
+        <mark key="]" line="139" column="77" />
+        <mark key="." line="139" column="77" />
+        <mark key="^" line="139" column="77" />
       </file>
       <file name="/a.dummy" timestamp="1543250785726">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/rocketmq/rocketmq-client/4.3.0/rocketmq-client-4.3.0-sources.jar!/org/apache/rocketmq/client/consumer/listener/ConsumeConcurrentlyContext.java" timestamp="1543205547436" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/rocketmq/rocketmq-client/4.3.2/rocketmq-client-4.3.2.jar!/org/apache/rocketmq/client/impl/ClientRemotingProcessor.class" timestamp="1543258264240" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/rocketmq/rocketmq-client/4.3.2/rocketmq-client-4.3.2-sources.jar!/org/apache/rocketmq/client/impl/consumer/ConsumeMessageConcurrentlyService.java" timestamp="1543258477997" />
       <file name="D:/code/lab/base/mc-mq/src/main/java/com/mchuan/mq/consumer/ConsumerCallback.java" timestamp="1543246391291">
         <mark key="[" line="53" column="22" />
         <mark key="]" line="16" column="0" />
@@ -26,6 +29,7 @@
         <mark key="." line="16" column="0" />
       </file>
       <file name="D:/code/lab/base/mc-redis/src/main/java/com/mchuan/lettuce/processor/RedisBeanFactoryProcessor.java" timestamp="1543244158135" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/rocketmq/rocketmq-client/4.3.2/rocketmq-client-4.3.2.jar!/org/apache/rocketmq/client/impl/consumer/ConsumeMessageConcurrentlyService.class" timestamp="1543258333119" />
       <file name="D:/code/lab/base/example/pom.xml" timestamp="1543246551590">
         <mark key="[" line="7" column="21" />
         <mark key="]" line="7" column="22" />
@@ -83,7 +87,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/rocketmq/rocketmq-client/4.3.0/rocketmq-client-4.3.0-sources.jar!/org/apache/rocketmq/client/consumer/listener/MessageListenerConcurrently.java" timestamp="1543205511597" />
       <file name="$MAVEN_REPOSITORY$/org/apache/rocketmq/rocketmq-client/4.3.0/rocketmq-client-4.3.0-sources.jar!/org/apache/rocketmq/client/consumer/DefaultMQPushConsumer.java" timestamp="1543244521957" />
-      <file name="/fragment.java" timestamp="1543246268676">
+      <file name="/fragment.java" timestamp="1543258552208">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
