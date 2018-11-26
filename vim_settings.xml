@@ -13,16 +13,16 @@
       <file name="/Dummy.txt" timestamp="1543209409933">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/code/lab/base/mc-mq/src/test/java/com/mchuan/mq/consumer/SingleTestConsumer.java" timestamp="1543218398313">
+      <file name="D:/code/lab/base/mc-mq/src/test/java/com/mchuan/mq/consumer/SingleTestConsumer.java" timestamp="1543221521947">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="D:/code/lab/base/mc-mq/src/main/java/com/mchuan/mq/consumer/RocketConsumerConfiguration.java" timestamp="1543219076847">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="82" column="44" />
-        <mark key="." line="44" column="0" />
+      <file name="D:/code/lab/base/mc-mq/src/main/java/com/mchuan/mq/consumer/RocketConsumerConfiguration.java" timestamp="1543221634688">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="^" line="55" column="49" />
+        <mark key="." line="139" column="0" />
       </file>
       <file name="D:/code/mchuan/SMSGate/src/main/java/com/zx/sms/session/cmpp/SessionLoginManager.java" timestamp="1542814181855">
         <mark key="[" line="159" column="77" />
@@ -72,40 +72,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3VtZXIuc3Vic2NyaWJlKGNhbGxiYWNrLnRvcGljKCksIGNhbGxiYWNrLnN1YkV4cHJlc3Npb24oKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PENvbnN1bWVySGFuZGxlcj4gaGFuZGxlcnMgPSBuZXcgQXJyYXlMaXN0PD4oYmVhbkZhY3RvcnkuZ2V0QmVhbnNPZlR5cGUoQ29uc3VtZXJIYW5kbGVyLmNsYXNzKS52YWx1ZXMoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IEBTbmVha3lUaHJvd3MKICAgIHB1YmxpYyB2b2lkIHBvc3RQcm9jZXNzQmVhbkZhY3RvcnkoQ29uZmlndXJhYmxlTGlzdGFibGVCZWFuRmFjdG9yeSBiZWFuRmFjdG9yeSkgdGhyb3dzIEJlYW5zRXhjZXB0aW9uIHsKICAgICAgICBpbml0Q29uc3VtZXJDYWxsYmFja3MoKERlZmF1bHRMaXN0YWJsZUJlYW5GYWN0b3J5KSBiZWFuRmFjdG9yeSk7CiAgICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRW52aXJvbm1lbnQgZW52aXJvbm1lbnQ7Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">Ly8gICAgICAgIExpc3Q8Q29uc3VtZXJIYW5kbGVyPiBoYW5kbGVycyA9IG5ldyBBcnJheUxpc3Q8PihiZWFuRmFjdG9yeS5nZXRCZWFuc09mVHlwZShDb25zdW1lckhhbmRsZXIuY2xhc3MpLnZhbHVlcygpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZWdpc3RlckJlYW4oYmVhbkZhY3RvcnksIGNvbnN1bWVyLCBjYWxsYmFjay5iZWFuTmFtZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBiZWFuRmFjdG9yeS5nZXQK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgcmVnaXN0ZXJCZWFuKERlZmF1bHRMaXN0YWJsZUJlYW5GYWN0b3J5IGJlYW5GYWN0b3J5LCBEZWZhdWx0TVFQdXNoQ29uc3VtZXIgY29uc3VtZXIsIFN0cmluZyBiZWFuTmFtZSkgewogICAgICAgIGlmIChTdHJpbmdVdGlscy5pc05vdEJsYW5rKGJlYW5OYW1lKSkgewogICAgICAgICAgICBCZWFuRGVmaW5pdGlvbkJ1aWxkZXIgYnVpbGRlciA9IEJlYW5EZWZpbml0aW9uQnVpbGRlci5nZW5lcmljQmVhbkRlZmluaXRpb24oRGVmYXVsdE1RUHVzaENvbnN1bWVyLmNsYXNzLCAoKSAtPiBjb25zdW1lcik7CiAgICAgICAgICAgIGJ1aWxkZXIuc2V0RGVzdHJveU1ldGhvZE5hbWUoInNodXRkb3duIik7CiAgICAgICAgICAgIGJlYW5GYWN0b3J5LnJlZ2lzdGVyQmVhbkRlZmluaXRpb24oYmVhbk5hbWUsIGJ1aWxkZXIuZ2V0UmF3QmVhbkRlZmluaXRpb24oKSk7CiAgICAgICAgfQogICAgfQ==</text>
-      </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgQFNuZWFreVRocm93cwogICAgcHVibGljIHZvaWQgcG9zdFByb2Nlc3NCZWFuRmFjdG9yeShDb25maWd1cmFibGVMaXN0YWJsZUJlYW5GYWN0b3J5IGJlYW5GYWN0b3J5KSB0aHJvd3MgQmVhbnNFeGNlcHRpb24gewogICAgICAgIGluaXRDb25zdW1lckNhbGxiYWNrcygoRGVmYXVsdExpc3RhYmxlQmVhbkZhY3RvcnkpIGJlYW5GYWN0b3J5KTsKICAgIH0=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgRW52aXJvbm1lbnQgZW52aXJvbm1lbnQ7</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGltcGxlbWVudHMgQmVhbkZhY3RvcnlQb3N0UHJvY2Vzc29y</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
@@ -139,6 +139,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
