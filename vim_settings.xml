@@ -3,8 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/code/mchuan/sms3_9002/WebRoot/WEB-INF/classes/com/ccell/sms3/api/SmsUtils.java" timestamp="1542984199276" />
-      <file name="D:/code/mchuan/SMSGate/src/main/java/com/zx/sms/session/AbstractSessionLoginManager.java" timestamp="1542794433773" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/rocketmq/rocketmq-client/4.3.0/rocketmq-client-4.3.0-sources.jar!/org/apache/rocketmq/client/impl/consumer/DefaultMQPushConsumerImpl.java" timestamp="1543204482031" />
+      <file name="D:/code/lab/base/mc-mq/src/main/java/com/mchuan/mq/consumer/RocketConsumerConfiguration.java" timestamp="1543204099629">
+        <mark key="[" line="122" column="71" />
+        <mark key="]" line="122" column="68" />
+        <mark key="." line="122" column="68" />
+        <mark key="^" line="122" column="68" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/rocketmq/rocketmq-client/4.3.0/rocketmq-client-4.3.0-sources.jar!/org/apache/rocketmq/client/impl/consumer/PullMessageService.java" timestamp="1543204490435" />
       <file name="D:/code/mchuan/SMSGate/src/main/java/com/zx/sms/session/cmpp/SessionLoginManager.java" timestamp="1542814181855">
         <mark key="[" line="159" column="77" />
         <mark key="]" line="159" column="77" />
@@ -17,15 +23,13 @@
         <mark key="^" line="28" column="37" />
         <mark key="." line="28" column="37" />
       </file>
-      <file name="D:/code/mchuan/sms3_9002/WebRoot/WEB-INF/classes/com/ccell/sms3/api/SendAPI.java" timestamp="1542984090532" />
       <file name="D:/code/mchuan/SMSGate/src/main/java/com/zx/sms/codec/cmpp/msg/DefaultHeader.java" timestamp="1542787875657">
         <mark key="[" line="68" column="4" />
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
         <mark key="^" line="62" column="0" />
       </file>
-      <file name="D:/code/mchuan/sms3_9002/WebRoot/WEB-INF/classes/com/ccell/sms3/api/CmppProtectThread.java" timestamp="1542818091157" />
-      <file name="D:/code/mchuan/sms3_9002/WebRoot/WEB-INF/classes/com/ccell/sms3/api/CmppUserSendThread.java" timestamp="1542818286713" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/rocketmq/rocketmq-client/4.3.0/rocketmq-client-4.3.0-sources.jar!/org/apache/rocketmq/client/consumer/DefaultMQPushConsumer.java" timestamp="1543204130164" />
     </filemarks>
     <jumps />
     <registers>
@@ -36,7 +40,7 @@
         <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>message.getHeader().getSequenceId()</text>
+        <text>S</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">CQkJcmVzcCA9IG5ldyBDbXBwQ29ubmVjdFJlc3BvbnNlTWVzc2FnZShtZXNzYWdlLmdldEhlYWRlcigpLmdldFNlcXVlbmNlSWQoKSk7Cg==</text>
@@ -63,20 +67,31 @@
         <text encoding="base64">CQlDbXBwQ29ubmVjdFJlc3BvbnNlTWVzc2FnZSByZXNwID0gbmV3IENtcHBDb25uZWN0UmVzcG9uc2VNZXNzYWdlKG1lc3NhZ2UuZ2V0SGVhZGVyKCkuZ2V0U2VxdWVuY2VJZCgpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>message.getHeader().getSequenceId()</text>
+        <text>S</text>
       </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
