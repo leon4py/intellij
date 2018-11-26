@@ -9,11 +9,14 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="D:/code/lab/base/mc-mq/src/main/java/com/mchuan/mq/consumer/RocketConsumerConfiguration.java" timestamp="1543250174845">
-        <mark key="[" line="126" column="119" />
-        <mark key="]" line="123" column="62" />
-        <mark key="." line="123" column="62" />
-        <mark key="^" line="123" column="62" />
+      <file name="D:/code/lab/base/mc-mq/src/main/java/com/mchuan/mq/consumer/RocketConsumerConfiguration.java" timestamp="1543251766664">
+        <mark key="[" line="133" column="92" />
+        <mark key="]" line="120" column="118" />
+        <mark key="." line="120" column="118" />
+        <mark key="^" line="120" column="118" />
+      </file>
+      <file name="/a.dummy" timestamp="1543250785726">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/rocketmq/rocketmq-client/4.3.0/rocketmq-client-4.3.0-sources.jar!/org/apache/rocketmq/client/consumer/listener/ConsumeConcurrentlyContext.java" timestamp="1543205547436" />
       <file name="D:/code/lab/base/mc-mq/src/main/java/com/mchuan/mq/consumer/ConsumerCallback.java" timestamp="1543246391291">
@@ -41,6 +44,7 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.7.RELEASE/spring-core-5.0.7.RELEASE-sources.jar!/org/springframework/core/annotation/AnnotationUtils.java" timestamp="1543251122289" />
       <file name="D:/code/lab/base/mc-mq/src/main/java/com/mchuan/mq/consumer/SingleConsumerHandler.java" timestamp="1543227678745">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -91,37 +95,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigie33G9Lavyqew3CIsIGNvbnN1bWVyLCBlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>beanName</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIENvbnN1bWVySGFuZGxlciBoYW5kbGVyID0gYmVhbkZhY3RvcnkuZ2V0QmVhbihDb25zdW1lckhhbmRsZXIuY2xhc3MsICJyZXBvcnRDb25zdW1lciIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdW1lci5zZXRDbGllbnRJUCgiMTkyLjE2OC4zLjUiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIENvbnN1bWVySGFuZGxlciBoYW5kbGVyID0gYmVhbkZhY3RvcnkuZ2V0QmVhbihDb25zdW1lckhhbmRsZXIuY2xhc3MsICJyZXBvcnRDb25zdW1lciIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdW1lci5zdWIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdW1lci5zZXRDbGllbnRJUCgiMTkyLjE2OC4zLjUiKTsK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdW1lci5zdWIK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IC8qIG5ldyBUaHJlYWQoKCkgLT4gewogICAgICAgICAgICBsb2dnZXIuaW5mbygiuPy4xCIpOwogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDIwKjEwMDApOwogICAgICAgICAgICAgICAgY29uc3VtZXIuc3Vic2NyaWJlKENvbnN0YW50cy5yZXBvcnQsICIqIik7CiAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICB9CiAgICAgICAgfSkuc3RhcnQoKTsqLw==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDIwKjEwMDApOwo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJ7fcb0tq/Kp7DcIiwgY29uc3VtZXIpOwo=</text>
-      </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>beanName</text>
       </register>
     </registers>
     <search>
