@@ -3,13 +3,39 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/code/mchuan/SMSGate/src/main/java/com/zx/sms/connect/manager/AbstractClientEndpointConnector.java" timestamp="1543466669214" />
+      <file name="D:/code/mchuan/SMSGate/src/test/java/com/zx/sms/connect/manager/cmpp/CMPPChargingDemoTest.java" timestamp="1543466963743" />
+      <file name="D:/code/mchuan/SMSGate/src/main/java/com/zx/sms/codec/cmpp/msg/CmppConnectRequestMessage.java" timestamp="1543466877275" />
       <file name="D:/code/mchuan/sms3_zlbuf/src/main/java/com/ccell/sms3/zlbuf/CheckUtils.java" timestamp="1543461053594" />
       <file name="D:/code/mchuan/sms3_zlbuf/src/main/webapp/mt.jsp" timestamp="1543463046495" />
       <file name="D:/code/mchuan/sms3_zlbuf/src/main/java/com/ccell/sms3/zlbuf/SmsObj.java" timestamp="1543462841561" />
       <file name="D:/code/mchuan/sms3_zlbuf/src/main/java/com/ccell/sms3/zlbuf/BufUtils.java" timestamp="1543463678407" />
+      <file name="D:/code/mchuan/SMSGate/src/main/java/com/zx/sms/connect/manager/EndpointManager.java" timestamp="1543466309591">
+        <mark key="[" line="48" column="63" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="39" column="11" />
+        <mark key="." line="51" column="0" />
+      </file>
+      <file name="D:/code/mchuan/SMSGate/src/test/java/com/zx/sms/handler/api/gate/SessionConnectedHandler.java" timestamp="1543466947412" />
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">CQlyZXR1cm4gbnVsbDsK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlyZXR1cm4gbnVsbDsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQlyZXR1cm4gY29ubi5vcGVuKCk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQlyZXR1cm4gY29ubi5vcGVuKCk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJY29ubi5vcGVuKCk7Cg==</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
@@ -18,6 +44,45 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
