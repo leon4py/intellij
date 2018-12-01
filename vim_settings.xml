@@ -3,22 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/code/mchuan/SMSGate/src/main/java/com/zx/sms/connect/manager/AbstractClientEndpointConnector.java" timestamp="1543466669214" />
-      <file name="D:/code/mchuan/SMSGate/src/test/java/com/zx/sms/connect/manager/cmpp/CMPPChargingDemoTest.java" timestamp="1543472410060" />
-      <file name="D:/code/mchuan/SMSGate/src/main/java/com/zx/sms/codec/cmpp/msg/CmppConnectRequestMessage.java" timestamp="1543466877275" />
-      <file name="D:/code/mchuan/sms3_zlbuf/pom.xml" timestamp="1543486046890" />
-      <file name="D:/code/mchuan/sms3_zlbuf/src/main/java/com/ccell/sms3/zlbuf/CheckUtils.java" timestamp="1543479243336" />
-      <file name="D:/code/mchuan/sms3_zlbuf/src/main/webapp/mt.jsp" timestamp="1543475718546" />
-      <file name="D:/code/mchuan/sms3_zlbuf/src/main/java/com/ccell/sms3/zlbuf/SmsObj.java" timestamp="1543475897735" />
-      <file name="D:/code/mchuan/sms3_zlbuf/src/main/java/com/ccell/sms3/zlbuf/BufUtils.java" timestamp="1543485092373" />
-      <file name="D:/code/mchuan/sms3_zlbuf/src/main/webapp/rp.jsp" timestamp="1543485056043" />
       <file name="D:/code/mchuan/SMSGate/src/main/java/com/zx/sms/connect/manager/EndpointManager.java" timestamp="1543466309591">
         <mark key="[" line="48" column="63" />
         <mark key="]" line="51" column="0" />
         <mark key="^" line="39" column="11" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="D:/code/mchuan/SMSGate/src/test/java/com/zx/sms/handler/api/gate/SessionConnectedHandler.java" timestamp="1543468391310" />
+      <file name="D:/code/mchuan/sms3_9002/WebRoot/cass_route/SendSMS.jsp" timestamp="1543632040792" />
     </filemarks>
     <jumps />
     <registers>
@@ -42,7 +33,12 @@
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
