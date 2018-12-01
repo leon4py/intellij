@@ -10,7 +10,7 @@
         <mark key="." line="18" column="0" />
       </file>
       <file name="D:/code/mchuan/SMS4/mc_ngx/resty_modules/lua/routers.lua" timestamp="1543635481366" />
-      <file name="D:/code/mchuan/SMS4/sms4-rest/src/main/java/com/mchuan/sms4/api/User4Controller.java" timestamp="1543669103154">
+      <file name="D:/code/mchuan/SMS4/sms4-rest/src/main/java/com/mchuan/sms4/api/User4Controller.java" timestamp="1543670331954">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="26" column="37" />
         <mark key="^" line="26" column="37" />
@@ -71,7 +71,7 @@
         <mark key="^" line="20" column="15" />
         <mark key="." line="20" column="15" />
       </file>
-      <file name="D:/code/mchuan/SMS4/report-rescuer/src/main/java/com/mchuan/report/rescuer/rest/S3RouteController.java" timestamp="1543635009637" />
+      <file name="D:/code/mchuan/SMS4/report-rescuer/src/main/java/com/mchuan/report/rescuer/rest/S3RouteController.java" timestamp="1543670361348" />
       <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/model/BaseXmlRequest.java" timestamp="1543630590227" />
       <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/model/CassRouteSubmit.java" timestamp="1543669211666">
         <mark key="[" line="19" column="14" />
@@ -101,21 +101,23 @@
         <mark key="^" line="23" column="17" />
         <mark key="." line="23" column="17" />
       </file>
+      <file name="D:/code/mchuan/SMS4/sms4-sentbuf/src/main/java/com/mchuan/sms4/api/User4Controller.java" timestamp="1543670458549" />
       <file name="D:/code/mchuan/SMS4/sms4-transmitter/src/main/java/com/mchuan/transmitter/cmpp/CMPPSubmitLongMessageHandler.java" timestamp="1543471391417">
         <mark key="[" line="14" column="13" />
       </file>
       <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/model/XmlSubmitResp.java" timestamp="1543630480196" />
-      <file name="D:/code/mchuan/SMS4/mc_ngx/resty_modules/lua/users.lua" timestamp="1543669343437">
-        <mark key="[" line="36" column="20" />
-        <mark key="]" line="36" column="17" />
-        <mark key="." line="36" column="17" />
+      <file name="D:/code/mchuan/SMS4/mc_ngx/resty_modules/lua/users.lua" timestamp="1543670975155">
+        <mark key="[" line="12" column="38" />
+        <mark key="]" line="12" column="39" />
+        <mark key="." line="12" column="39" />
         <mark key="^" line="36" column="17" />
       </file>
       <file name="D:/code/mchuan/SMS4/sms4-service/src/test/java/com/mchuan/sms4/service/RegionServiceTest.java" timestamp="1543586339198" />
-      <file name="D:/code/mchuan/SMS4/mc_ngx/conf/sites/8101-and-9007.conf" timestamp="1543635421828">
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="4" column="5" />
-        <mark key="." line="4" column="5" />
+      <file name="D:/code/mchuan/SMS4/mc_ngx/conf/sites/8101-and-9007.conf" timestamp="1543671178292">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="23" />
+        <mark key="." line="3" column="23" />
+        <mark key="^" line="38" column="42" />
       </file>
       <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/service/SmsService.java" timestamp="1543632466618">
         <mark key="[" line="105" column="8" />
@@ -133,13 +135,13 @@
       </file>
       <file name="D:/code/mchuan/SMS4/sms4-rest/src/main/java/com/mchuan/sms4/api/XmlApi.java" timestamp="1543630017001" />
       <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/service/User4Service.java" timestamp="1543635139514" />
-      <file name="D:/code/mchuan/SMS4/mc_ngx/resty_modules/lua/apiswitch.lua" timestamp="1543669276713">
+      <file name="D:/code/mchuan/SMS4/mc_ngx/resty_modules/lua/apiswitch.lua" timestamp="1543670756563">
         <mark key="[" line="77" column="28" />
         <mark key="]" line="77" column="28" />
         <mark key="." line="77" column="28" />
         <mark key="^" line="74" column="7" />
       </file>
-      <file name="/fragment.java" timestamp="1543634811945">
+      <file name="/fragment.java" timestamp="1543670405745">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/code/mchuan/SMS4/sms4-transmitter/src/main/java/com/mchuan/transmitter/service/CmppBusinessHandler.java" timestamp="1543544693936">
@@ -222,16 +224,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>userid</text>
+        <text>routers</text>
       </register>
       <register name="-" type="4">
-        <text>userid</text>
+        <text>routers</text>
       </register>
       <register name="/" type="4">
         <text>enab</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhbCB4bWx1YSA9IHJlcXVpcmUoJ3htbHVhJykKICAgICAgICBsb2NhbCBkb2N1bWVudCA9IHhtbHVhLlhNTC5wYXJzZShib2R5KQogICAgICAgIGxvY2FsIHJvb3QgPSBkb2N1bWVudDpyb290KCkKICAgICAgICBsb2NhbCB1c2VyaWQgPSByb290LnVzZXJpZAogICAgICAgIGlmIHM0X3VzZXJzW3VzZXJpZF0gdGhlbgogICAgICAgICAgICBuZ3gudmFyLnRhcmdldCA9ICdzODg0OCcKICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgIGxvY2F0aW9uID0gL2luZm8gewogICAgICAgIGRlZmF1bHRfdHlwZSBhcHBsaWNhdGlvbi9qc29uOwogICAgICAgIGNvbnRlbnRfYnlfbHVhX2Jsb2NrIHsKICAgICAgICAgIGxvY2FsIHIgPSByZXF1aXJlKCJyb3V0ZXJzIikKICAgICAgICAgIGxvY2FsIGNqc29uID0gcmVxdWlyZSgnY2pzb24nKQogICAgICAgICAgbmd4LnNheShjanNvbi5lbmNvZGUoci5zbXM0X3JvdXRlcykpCiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
