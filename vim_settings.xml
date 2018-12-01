@@ -3,6 +3,22 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$MAVEN_REPOSITORY$/org/apache/rocketmq/rocketmq-client/4.3.2/rocketmq-client-4.3.2-sources.jar!/org/apache/rocketmq/client/impl/producer/DefaultMQProducerImpl.java" timestamp="1543683108940" />
+      <file name="D:/code/lab/base/mc-http/pom.xml" timestamp="1543683373434">
+        <mark key="^" line="24" column="25" />
+      </file>
+      <file name="D:/code/lab/base/mc-mq/src/main/java/com/mchuan/mq/producer/MCTransactionMQProducer.java" timestamp="1543683728989">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="55" column="16" />
+      </file>
+      <file name="D:/code/lab/base/mc-mq/pom.xml" timestamp="1543683582140">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="17" />
+        <mark key="^" line="12" column="17" />
+        <mark key="." line="12" column="17" />
+      </file>
       <file name="D:/code/mchuan/sms3_9002/WebRoot/WEB-INF/classes/com/ccell/sms3/api/SendAPI.java" timestamp="1543682382437" />
       <file name="D:/code/mchuan/SMSGate/src/main/java/com/zx/sms/connect/manager/EndpointManager.java" timestamp="1543466309591">
         <mark key="[" line="48" column="63" />
@@ -15,19 +31,37 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlyZXR1cm4gY29ubi5vcGVuKCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlyZXR1cm4gY29ubi5vcGVuKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJY29ubi5vcGVuKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">dGhyb3dzIE1RQ2xpZW50RXhjZXB0aW9uLCBSZW1vdGluZ0V4Y2VwdGlvbiwgSW50ZXJydXB0ZWRFeGNlcHRpb24g</text>
       </register>
     </registers>
     <search>
@@ -82,6 +116,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
