@@ -4,8 +4,13 @@
     <globalmarks />
     <filemarks>
       <file name="D:/code/mchuan/SMS4/mc_ngx/resty_modules/lua/router.lua" timestamp="1543635493050" />
+      <file name="D:/code/mchuan/SMS4/sms4-rest/src/main/java/com/mchuan/sms4/api/SmsUrl.java" timestamp="1543669112838">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="D:/code/mchuan/SMS4/mc_ngx/resty_modules/lua/routers.lua" timestamp="1543635481366" />
-      <file name="D:/code/mchuan/SMS4/sms4-rest/src/main/java/com/mchuan/sms4/api/User4Controller.java" timestamp="1543635264425">
+      <file name="D:/code/mchuan/SMS4/sms4-rest/src/main/java/com/mchuan/sms4/api/User4Controller.java" timestamp="1543669103154">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="26" column="37" />
         <mark key="^" line="26" column="37" />
@@ -68,7 +73,7 @@
       </file>
       <file name="D:/code/mchuan/SMS4/report-rescuer/src/main/java/com/mchuan/report/rescuer/rest/S3RouteController.java" timestamp="1543635009637" />
       <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/model/BaseXmlRequest.java" timestamp="1543630590227" />
-      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/model/CassRouteSubmit.java" timestamp="1543631634737">
+      <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/model/CassRouteSubmit.java" timestamp="1543669211666">
         <mark key="[" line="19" column="14" />
         <mark key="]" line="19" column="19" />
         <mark key="." line="19" column="19" />
@@ -100,7 +105,7 @@
         <mark key="[" line="14" column="13" />
       </file>
       <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/model/XmlSubmitResp.java" timestamp="1543630480196" />
-      <file name="D:/code/mchuan/SMS4/mc_ngx/resty_modules/lua/users.lua" timestamp="1543635657311">
+      <file name="D:/code/mchuan/SMS4/mc_ngx/resty_modules/lua/users.lua" timestamp="1543669343437">
         <mark key="[" line="36" column="20" />
         <mark key="]" line="36" column="17" />
         <mark key="." line="36" column="17" />
@@ -128,11 +133,11 @@
       </file>
       <file name="D:/code/mchuan/SMS4/sms4-rest/src/main/java/com/mchuan/sms4/api/XmlApi.java" timestamp="1543630017001" />
       <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/service/User4Service.java" timestamp="1543635139514" />
-      <file name="D:/code/mchuan/SMS4/mc_ngx/resty_modules/lua/apiswitch.lua" timestamp="1543635570050">
-        <mark key="[" line="36" column="23" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="D:/code/mchuan/SMS4/mc_ngx/resty_modules/lua/apiswitch.lua" timestamp="1543669276713">
+        <mark key="[" line="77" column="28" />
+        <mark key="]" line="77" column="28" />
+        <mark key="." line="77" column="28" />
+        <mark key="^" line="74" column="7" />
       </file>
       <file name="/fragment.java" timestamp="1543634811945">
         <mark key="[" line="0" column="0" />
@@ -216,44 +221,44 @@
       <jump line="38" column="0" filename="D:/code/mchuan/SMS4/sms4-transmitter/src/main/java/com/mchuan/transmitter/service/TransmitterService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBNLnNtczRfdXNlcnNbJycgLi4gdXNlcl0gPSB0cnVlCg==</text>
+      <register name="&quot;" type="4">
+        <text>userid</text>
       </register>
       <register name="-" type="4">
-        <text>route</text>
+        <text>userid</text>
       </register>
       <register name="/" type="4">
         <text>enab</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBNLnNtczRfdXNlcnNbJycgLi4gdXNlcl0gPSB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2NhbCB4bWx1YSA9IHJlcXVpcmUoJ3htbHVhJykKICAgICAgICBsb2NhbCBkb2N1bWVudCA9IHhtbHVhLlhNTC5wYXJzZShib2R5KQogICAgICAgIGxvY2FsIHJvb3QgPSBkb2N1bWVudDpyb290KCkKICAgICAgICBsb2NhbCB1c2VyaWQgPSByb290LnVzZXJpZAogICAgICAgIGlmIHM0X3VzZXJzW3VzZXJpZF0gdGhlbgogICAgICAgICAgICBuZ3gudmFyLnRhcmdldCA9ICdzODg0OCcKICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgZW5kCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC0tIDQuMNPDu6csIM/I0LTLwCy688ba1NnTxbuvCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvY2FsIHJlc3R5X2VudiA9IHJlcXVpcmUoJ3Jlc3R5LmVudicpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHJvdXRlX3VybCA9IHJlc3R5X2Vudi5nZXQoJ1JPVVRFX1FVRVJZJykK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTZXQ8SW50ZWdlcj4gcm91dGVzID0gc21zM1JvdXRlU2VydmljZS5nZXRBdmFpbGFibGVzKCkKICAgICAgICAgICAgICAgIC5zdHJlYW0oKQogICAgICAgICAgICAgICAgLm1hcChTbXMzUm91dGU6OmdldElkKQogICAgICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b1NldCgpKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHM0X3VzZXJzWycyMDAzMzQnXSA9IHRydWUKICAgIHM0X3VzZXJzWycyMDI4MzgnXSA9IHRydWUKICAgIHM0X3VzZXJzWycyMDI0NTYnXSA9IHRydWUKICAgIHM0X3VzZXJzWycyMDI1NDInXSA9IHRydWUKICAgIGZvciBpLCB2IGluIGlwYWlycyh1c2VycykgZG8KICAgICAgICBzNF91c2Vyc1t2IC4uICcnXSA9IHRydWUKICAgIGVuZAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC0tIDQuMNPDu6csIM/I0LTLwCy688ba1NnTxbuvCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGxvY2FsIHJlc3R5X2VudiA9IHJlcXVpcmUoJ3Jlc3R5LmVudicpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHJvdXRlX3VybCA9IHJlc3R5X2Vudi5nZXQoJ1JPVVRFX1FVRVJZJykK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTZXQ8SW50ZWdlcj4gcm91dGVzID0gc21zM1JvdXRlU2VydmljZS5nZXRBdmFpbGFibGVzKCkKICAgICAgICAgICAgICAgIC5zdHJlYW0oKQogICAgICAgICAgICAgICAgLm1hcChTbXMzUm91dGU6OmdldElkKQogICAgICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b1NldCgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBQb3N0TWFwcGluZygiL3MzL3JvdXRlL2dldEFsbCIpCiAgICBwdWJsaWMgQXBpUmVzcG9uc2U8TWFwPEludGVnZXIsIFNtczNSb3V0ZT4+IGdldEFsbCgpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIHJldHVybiBBcGlSZXNwb25zZS5zdWNjZXNzKHNtczNSb3V0ZVNlcnZpY2UucXVlcnlBbGwoKSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
     </registers>
     <search>
