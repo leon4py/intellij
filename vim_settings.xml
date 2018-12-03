@@ -9,7 +9,12 @@
         <mark key="^" line="45" column="47" />
         <mark key="." line="45" column="47" />
       </file>
-      <file name="D:/code/mchuan/SMS4/sms4-gateway/src/main/java/com/mchuan/gateway/cmpp/CmppReportHandler.java" timestamp="1543844412660" />
+      <file name="D:/code/mchuan/SMS4/sms4-gateway/src/main/java/com/mchuan/gateway/cmpp/CmppReportHandler.java" timestamp="1543850048549">
+        <mark key="[" line="69" column="37" />
+        <mark key="]" line="69" column="37" />
+        <mark key="^" line="69" column="35" />
+        <mark key="." line="69" column="37" />
+      </file>
       <file name="D:/code/mchuan/SMS4/sms4-transmitter/src/main/java/com/mchuan/transmitter/service/MTPoolPuller.java" timestamp="1543814157354">
         <mark key="[" line="65" column="30" />
         <mark key="]" line="65" column="35" />
@@ -31,11 +36,11 @@
       <file name="$MAVEN_REPOSITORY$/com/zx/sms/cmpp-core/2.1.3/cmpp-core-2.1.3-sources.jar!/com/zx/sms/codec/cmpp/msg/DefaultMessage.java" timestamp="1543830403741" />
       <file name="/PushService.java" timestamp="1543742500516" />
       <file name="D:/code/mchuan/sms3_9002/WebRoot/WEB-INF/classes/com/ccell/sms3/api/SendAPI.java" timestamp="1543736743863" />
-      <file name="D:/code/mchuan/SMS4/sms4-gateway/src/main/resources/application.properties" timestamp="1543847419937">
+      <file name="D:/code/mchuan/SMS4/sms4-gateway/src/main/resources/application.properties" timestamp="1543849640272">
         <mark key="[" line="1" column="26" />
-        <mark key="]" line="1" column="3" />
-        <mark key="." line="1" column="3" />
-        <mark key="^" line="1" column="3" />
+        <mark key="]" line="11" column="35" />
+        <mark key="." line="11" column="35" />
+        <mark key="^" line="11" column="35" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/mchuan/apisdk/1.2.0/apisdk-1.2.0-sources.jar!/com/mchuan/apisdk/kit/JsonKit.java" timestamp="1543738222548" />
       <file name="$MAVEN_REPOSITORY$/com/zx/sms/cmpp-core/2.1.3/cmpp-core-2.1.3-sources.jar!/com/zx/sms/session/cmpp/SessionLoginManager.java" timestamp="1543823000031" />
@@ -52,7 +57,7 @@
         <mark key="^" line="95" column="62" />
         <mark key="." line="112" column="0" />
       </file>
-      <file name="D:/code/mchuan/SMS4/sms4-gateway/src/main/java/com/mchuan/gateway/cmpp/CmppSubmitHandler.java" timestamp="1543847838086">
+      <file name="D:/code/mchuan/SMS4/sms4-gateway/src/main/java/com/mchuan/gateway/cmpp/CmppSubmitHandler.java" timestamp="1543849665213">
         <mark key="[" line="128" column="0" />
         <mark key="]" line="128" column="108" />
         <mark key="." line="128" column="0" />
@@ -60,9 +65,14 @@
       </file>
       <file name="D:/code/mchuan/SMS4/sms3-service/src/main/java/com/mchuan/s3service/constants/ApiCode.java" timestamp="1543821605462" />
       <file name="D:/code/mchuan/SMS4/sms4-transmitter/src/main/resources/application.properties" timestamp="1543810410884" />
+      <file name="D:/code/mchuan/SMS4/sms4-gateway/src/main/java/com/mchuan/gateway/cmpp/CMPPMessageReceiveHandler.java" timestamp="1543849830648">
+        <mark key="[" line="73" column="76" />
+        <mark key="]" line="73" column="76" />
+        <mark key="." line="73" column="76" />
+      </file>
       <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/model/SmsSubmitExt.java" timestamp="1543819905685" />
       <file name="D:/code/mchuan/SMS4/report-service/src/main/java/com/mchuan/report/mq/SmsReportConsumer.java" timestamp="1543815081382" />
-      <file name="D:/code/mchuan/SMS4/sms4-sentbuf/src/main/java/com/mchuan/sms4/sentbuf/SmsSubmitConsumer.java" timestamp="1543819529698" />
+      <file name="D:/code/mchuan/SMS4/sms4-sentbuf/src/main/java/com/mchuan/sms4/sentbuf/SmsSubmitConsumer.java" timestamp="1543849682660" />
       <file name="$MAVEN_REPOSITORY$/com/zx/sms/cmpp-core/2.1.3/cmpp-core-2.1.3-sources.jar!/com/zx/sms/handler/MessageLogHandler.java" timestamp="1543810635332" />
       <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/model/SmsSubmit.java" timestamp="1543819533803">
         <mark key="[" line="22" column="24" />
@@ -77,7 +87,7 @@
         <mark key="." line="32" column="6" />
       </file>
       <file name="D:/program/developer/Java/jdk1.8.0_172/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1543820946484" />
-      <file name="D:/code/mchuan/SMS4/sms4-gateway/src/main/java/com/mchuan/gateway/rest/OpsController.java" timestamp="1543843844368" />
+      <file name="D:/code/mchuan/SMS4/sms4-gateway/src/main/java/com/mchuan/gateway/rest/OpsController.java" timestamp="1543849620548" />
     </filemarks>
     <jumps>
       <jump line="30" column="0" filename="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/service/SmsService.java" />
@@ -151,11 +161,11 @@
       <jump line="38" column="0" filename="D:/code/mchuan/SMS4/sms4-transmitter/src/main/java/com/mchuan/transmitter/service/TransmitterService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oIjMuMC0+Y21wcCBzdWJtaXQsIHVzZXJJZDp7fSwgcmVxdWVzdDp7fSwgcG9vbDp7fSIsIHVzZXJJZCwgcmVxdWVzdEJvZHksIHBvb2wpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>consumer</text>
       </register>
       <register name="-" type="4">
-        <text>000</text>
+        <text>consumer</text>
       </register>
       <register name="/" type="4">
         <text>enab</text>
