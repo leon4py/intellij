@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/code/mchuan/SMSGate/src/main/java/com/zx/sms/session/AbstractSessionLoginManager.java" timestamp="1543740932895" />
       <file name="D:/code/lab/base/mc-http/pom.xml" timestamp="1543683373434">
         <mark key="^" line="24" column="25" />
       </file>
@@ -40,18 +39,25 @@
         <mark key="." line="109" column="26" />
         <mark key="^" line="109" column="19" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/mchuan/mc-mq/1.4.0/mc-mq-1.4.0-sources.jar!/com/mchuan/mq/consumer/RocketConsumerConfiguration.java" timestamp="1543853881969" />
       <file name="D:/code/lab/base/mc-mq/pom.xml" timestamp="1543683582140">
         <mark key="[" line="12" column="16" />
         <mark key="]" line="12" column="17" />
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/mchuan/mc-mq/1.4.0/mc-mq-1.4.0-sources.jar!/com/mchuan/mq/consumer/ConsumerCallback.java" timestamp="1543853864302" />
+      <file name="D:/code/mchuan/SMS4/sms4-gateway/src/main/java/com/mchuan/gateway/cmpp/CmppReportHandler.java" timestamp="1543854077486">
+        <mark key="[" line="128" column="31" />
+        <mark key="]" line="128" column="31" />
+        <mark key="^" line="125" column="40" />
+        <mark key="." line="128" column="31" />
+      </file>
       <file name="D:/code/mchuan/SMSGate/src/main/java/com/zx/sms/handler/MessageLogHandler.java" timestamp="1543740906297">
         <mark key="[" line="34" column="82" />
         <mark key="]" line="34" column="82" />
         <mark key="." line="34" column="82" />
       </file>
-      <file name="D:/code/mchuan/sms3_zlbuf/src/main/java/com/ccell/sms3/zlbuf/BufUtils.java" timestamp="1543742600650" />
       <file name="D:/code/mchuan/SMSGate/src/main/java/com/zx/sms/connect/manager/EndpointManager.java" timestamp="1543740656861">
         <mark key="[" line="48" column="63" />
         <mark key="]" line="51" column="0" />
@@ -61,11 +67,14 @@
     </filemarks>
     <jumps />
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3VtZXIuc3Vic2NyaWJlKENvbnN0YW50cy5UT1BJQ19VU0VSX1JFUE9SVCwgU3RyaW5nVXRpbHMuam9pbih1c2VySWRzLCAiIHx8ICIpKTsK</text>
+      </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>SNAPSHOT</text>
+        <text>Constants.TOPIC_USER_REPORT,</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -92,7 +101,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>SNAPSHOT</text>
+        <text>Constants.TOPIC_USER_REPORT,</text>
       </register>
     </registers>
     <search>
@@ -150,6 +159,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
