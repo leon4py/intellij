@@ -67,7 +67,7 @@
         <mark key="^" line="95" column="62" />
         <mark key="." line="112" column="0" />
       </file>
-      <file name="D:/code/mchuan/SMS4/sms4-gateway/src/main/java/com/mchuan/gateway/cmpp/CmppSubmitHandler.java" timestamp="1543895063849">
+      <file name="D:/code/mchuan/SMS4/sms4-gateway/src/main/java/com/mchuan/gateway/cmpp/CmppSubmitHandler.java" timestamp="1543897520783">
         <mark key="[" line="128" column="0" />
         <mark key="]" line="128" column="108" />
         <mark key="." line="128" column="0" />
@@ -82,7 +82,11 @@
       </file>
       <file name="D:/code/mchuan/SMS4/sms4-service/src/main/java/com/mchuan/sms4/model/SmsSubmitExt.java" timestamp="1543819905685" />
       <file name="D:/code/mchuan/SMS4/report-service/src/main/java/com/mchuan/report/mq/SmsReportConsumer.java" timestamp="1543815081382" />
-      <file name="D:/code/mchuan/SMS4/sms4-sentbuf/src/main/java/com/mchuan/sms4/sentbuf/SmsSubmitConsumer.java" timestamp="1543849682660" />
+      <file name="D:/code/mchuan/SMS4/sms4-sentbuf/src/main/java/com/mchuan/sms4/sentbuf/SmsSubmitConsumer.java" timestamp="1543897746645">
+        <mark key="[" line="201" column="0" />
+        <mark key="]" line="205" column="21" />
+        <mark key="." line="205" column="21" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/zx/sms/cmpp-core/2.1.3/cmpp-core-2.1.3-sources.jar!/com/zx/sms/handler/MessageLogHandler.java" timestamp="1543810635332" />
       <file name="D:/code/mchuan/SMS4/sms3-service/pom.xml" timestamp="1543683740089">
         <mark key="[" line="18" column="24" />
@@ -192,7 +196,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgIsa9zKi62sP7taXJ87rLIjoKICAgICAgICAgICAgICAgICAgICBpZiAoa2V5UGhvbmVTZXJ2aWNlLmNvbnRhaW5zQ2hlY2socGhvbmUpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci53YXJuKCLU2tStwLS1xM+1zbPA78PmLCDV4sDv06a4w734yfO6y7PYIik7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -204,31 +208,31 @@
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtzbXMuc3VibWl0LnVybH0iKQogICAgcHJpdmF0ZSBTdHJpbmcgc21zU3VibWl0VXJsOwo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgIsa9zKi62sP7taXJ87rLIjoKICAgICAgICAgICAgICAgICAgICBpZiAoa2V5UGhvbmVTZXJ2aWNlLmNvbnRhaW5zQ2hlY2socGhvbmUpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci53YXJuKCLU2tStwLS1xM+1zbPA78PmLCDV4sDv06a4w734yfO6y7PYIik7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICBjYXNlICLGvcyoutrD+7WlyfO6yyI6CiAgICAgICAgICAgICAgICAgICAgaWYgKGtleVBob25lU2VydmljZS5jb250YWluc0NoZWNrKHBob25lKSkgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dnZXIud2Fybigi1NrUrcC0tcTPtc2zwO/D5iwg1eLA79OmuMO9+Mnzusuz2CIpOwogICAgICAgICAgICAgICAgICAgIH0=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">IHRyeSB7CiAgICAgICAgICAgIGNvbnN1bWVyLnVuc3Vic2NyaWJlKENvbnN0YW50cy5UT1BJQ19VU0VSX1JFUE9SVCk7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgbG9nLndhcm4oIsihz/u2qdTE0uyzoyIsIGUpOwogICAgICAgIH0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKE1lc3NhZ2VRdWV1ZSBtcSA6IG1xcykgewogICAgICAgICAgICBsb25nIG9mZnNldCA9IGNvbnN1bWVyLmZldGNoQ29uc3VtZU9mZnNldChtcSwgdHJ1ZSk7CiAgICAgICAgICAgIFB1bGxSZXN1bHQgcHVsbFJlc3VsdCA9IGNvbnN1bWVyLnB1bGxCbG9ja0lmTm90Rm91bmQobXEsICJpbmR1c3RyeSIsIG9mZnNldCwgMSk7CiAgICAgICAgICAgIGlmIChwdWxsUmVzdWx0LmdldFB1bGxTdGF0dXMoKSA9PSBQdWxsU3RhdHVzLkZPVU5EKSB7CiAgICAgICAgICAgICAgICBNZXNzYWdlRXh0IG1lc3NhZ2VFeHQgPSBwdWxsUmVzdWx0LmdldE1zZ0ZvdW5kTGlzdCgpLmdldCgwKTsKICAgICAgICAgICAgICAgIGNvbnN1bWVyLnVwZGF0ZUNvbnN1bWVPZmZzZXQobXEsIHB1bGxSZXN1bHQuZ2V0TmV4dEJlZ2luT2Zmc2V0KCkpOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">IHRyeSB7CiAgICAgICAgICAgIGNvbnN1bWVyLnVuc3Vic2NyaWJlKENvbnN0YW50cy5UT1BJQ19VU0VSX1JFUE9SVCk7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgbG9nLndhcm4oIsihz/u2qdTE0uyzoyIsIGUpOwogICAgICAgIH0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1bGxSZXN1bHQuZ2V0T2YK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKE1lc3NhZ2VRdWV1ZSBtcSA6IG1xcykgewogICAgICAgICAgICBsb25nIG9mZnNldCA9IGNvbnN1bWVyLmZldGNoQ29uc3VtZU9mZnNldChtcSwgdHJ1ZSk7CiAgICAgICAgICAgIFB1bGxSZXN1bHQgcHVsbFJlc3VsdCA9IGNvbnN1bWVyLnB1bGxCbG9ja0lmTm90Rm91bmQobXEsICJpbmR1c3RyeSIsIG9mZnNldCwgMSk7CiAgICAgICAgICAgIGlmIChwdWxsUmVzdWx0LmdldFB1bGxTdGF0dXMoKSA9PSBQdWxsU3RhdHVzLkZPVU5EKSB7CiAgICAgICAgICAgICAgICBNZXNzYWdlRXh0IG1lc3NhZ2VFeHQgPSBwdWxsUmVzdWx0LmdldE1zZ0ZvdW5kTGlzdCgpLmdldCgwKTsKICAgICAgICAgICAgICAgIGNvbnN1bWVyLnVwZGF0ZUNvbnN1bWVPZmZzZXQobXEsIHB1bGxSZXN1bHQuZ2V0TmV4dEJlZ2luT2Zmc2V0KCkpOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdW1lci5wdWxsQmxvY2tJZk5vdEZvdW5kKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1bGxSZXN1bHQuZ2V0T2YK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdW1lci5mZXRjaENvbnN1bWVPZmZzZXQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
